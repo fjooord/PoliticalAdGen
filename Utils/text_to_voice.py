@@ -14,12 +14,7 @@ This function takes in a text string and a voice id and creates a voiceover for 
 
 The voice is currently set to only be the Adam voice, but this will be changable in the future
 """
-def create_voiceover(text, filepath, voice = 'Adam', max_retries = 5):
-    
-    # Set the voice id from the user selected voice
-    # This will be changable at some point, but for now lets keep it this way
-    if voice == 'Adam':
-        voice_id = 'pNInz6obpgDQGcFmaJgB'
+def create_voiceover(text, filepath, voice_id = 'I7HuGicNVaGqWVmMYOw6', max_retries = 5):
         
     url = 'https://api.elevenlabs.io/v1/text-to-speech/' + voice_id
     
@@ -37,8 +32,8 @@ def create_voiceover(text, filepath, voice = 'Adam', max_retries = 5):
     data = {
         'text': text,
         'voice_settings': {
-            'stability': 0.6,
-            'similarity_boost': 0.85
+            'stability': 0.2,
+            'similarity_boost': 1.0
         }
     }
     

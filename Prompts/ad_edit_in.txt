@@ -1,0 +1,5 @@
+Please edit the following 30 second political ad to be improved based on the feedback:
+
+ad = <<AD>>
+
+feedback = <<FEEDBACK>>

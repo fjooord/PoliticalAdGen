@@ -14,7 +14,7 @@ Please make the dialogue:
 
 When making the dialogue please consider if pauses or emphasis on any word would make the dialogue sound better.
     - To add emphasis to, print the words in all capital letters
-    - To add a pause, use a " - " character in between words
+    - To add a pause, use " - " between words
 
 Please make the total length of all the scene dialogues 75 words or less.
 
