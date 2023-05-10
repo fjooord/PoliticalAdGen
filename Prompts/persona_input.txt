@@ -1,0 +1,7 @@
+Please create 3 personas based on the following inputs:
+
+talking points = <<TALKING_POINTS>>
+
+constituency = <<CONSTITUENCY>>
+
+target audience = <<TARGET_AUDIENCE>>

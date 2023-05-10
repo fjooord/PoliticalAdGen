@@ -1,0 +1,11 @@
+Please create a 30 second political ad where the talking points are restructured to better resonate with the issues the target audience face with the following parameters:
+
+candidate = <<CANDIDATE>>
+
+position = <<POSITION>>
+
+talking points = <<TALKING_POINTS>>
+
+constituency = <<CONSTITUENCY>>
+
+target audience = <<TARGET_AUDIENCE>>

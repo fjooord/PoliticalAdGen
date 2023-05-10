@@ -1,0 +1,3 @@
+Please review the following ad:
+
+ad = <<AD>>

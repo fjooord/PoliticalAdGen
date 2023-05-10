@@ -144,53 +144,7 @@ def chatgpt_convo(user_input, conversation, temperature=0.2, frequency_penalty=0
     # Return the chatbot's response
     return chat_response, conversation
 
-
-def short_book_gen(params):
-    template_in = open_file('Book_Types/short_book_prompts/short_template.txt')
-    # Replace placeholders with values from the params dictionary
-    template_in = template_in.replace("<<AGE>>", str(params["age"]))
-    template_in = template_in.replace("<<SETTING>>", params["setting"])
-    template_in = template_in.replace("<<THEME>>", params["theme"])
-    template_in = template_in.replace("<<GENDER>>", params["gender"])
-    template_in = template_in.replace("<<CHARACTER>>", params["character"])
-    template_in = template_in.replace("<<CHAR_NAME>>", params["character_name"])
-        
-
-    # Initialize an empty list to store the conversation
-    conversation = []
-    print('----- Starting Template', file=sys.stderr)
-    template, conversation = chatgpt_convo(template_in,conversation) # Call the chatgpt_convo function with user input
-    print('----- Starting Outline', file=sys.stderr)
-    outline, conversation = chatgpt_convo('From the template in the previous response, make an outline for a childrens book.',conversation)
-
-    # Generate story form template
-    story_in = open_file('Book_Types/short_book_prompts/short_story.txt')
-    story_in = story_in.replace('<<LENGTH>>', str(params['book_length']))
-    story_in = story_in.replace('<<AGE>>', str(params['age']))
-    story_in = story_in.replace('<<GENDER>>', params['gender'])
-
-    print('----- Starting Story Content', file=sys.stderr)
-    story, conversation = chatgpt_convo(story_in,conversation)
-    pattern = r"Page \d+:"
-
-    # Replace the matched pattern with an empty string
-    story = re.sub(pattern, "", story)
-
-    # Generate image prompts
-    image_prompt_in = open_file('Book_Types/short_book_prompts/short_image_prompts.txt')
-    print('----- Starting Image Prompts', file=sys.stderr)
-    image_prompts, conversation = chatgpt_convo(image_prompt_in,conversation)
-    # Replace the matched pattern with an empty string
-    image_prompts = re.sub(pattern, "", image_prompts)
-
-    # Get the content and prompt arrays
-    content = story.split('||')
-    prompts = image_prompts.split('||')
-
-    return content, prompts
-
-
-def chat_gpt(prompt, engine='gpt-3.5-turbo', temp=0.75, top_p=1.0, tokens=3000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf'], role=None):
+def chat_gpt(prompt, engine='gpt-4', temp=0.75, top_p=1.0, tokens=3000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf'], role=None):
     max_retry = 5
     retry = 0
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -203,8 +157,8 @@ def chat_gpt(prompt, engine='gpt-3.5-turbo', temp=0.75, top_p=1.0, tokens=3000, 
             completion = openai.ChatCompletion.create(
               model=engine,
               messages=[
-                {"role": "system", "content": role,
-                 "role": "user", "content": prompt}
+                {"role": "system", "content": role},
+                {"role": "user", "content": prompt}
               ],
               temperature=temp,
               top_p=top_p,
@@ -237,7 +191,7 @@ def generalized_gpt_prompt(path, tag_values, index = -1, role=None):
     Note: The post processing may vary for each call
     """
     prompt = open_file(path)
-    
+  
     for tag, value in tag_values.items():
         try:
             prompt = prompt.replace(tag, value)
@@ -248,5 +202,5 @@ def generalized_gpt_prompt(path, tag_values, index = -1, role=None):
                 except:
                     continue
 
-    return chat_gpt(prompt, role=role).strip()
+    return chat_gpt(prompt, temp=0.7, role=role)
 

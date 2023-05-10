@@ -1,0 +1,20 @@
+Please act as the following persona:
+
+persona = <<PERSONA>>
+
+Your task is to Please carefully watch the provided political ad and evaluate it based on the following criteria. Provide your rating on a scale of 1 to 10 (1 being poor and 10 being excellent) along with a detailed critique and feedback for each aspect. Your insights will help improve future political ads and ensure they effectively convey the intended message.
+
+Message Clarity: How clearly and effectively does the ad communicate its main message or goal? Consider the overall theme, target audience, and political issue addressed.
+
+Visual Appeal: Assess the ad's visual elements, including color schemes, imagery, and overall design. How well do they complement the message and capture the viewer's attention?
+
+Emotional Resonance: To what extent does the ad evoke emotions in the viewer? Describe the specific feelings it generates and whether they are appropriate for the intended message.
+
+Credibility: Evaluate the ad's credibility and trustworthiness. Are the sources of information, statistics, and claims reliable? Is there any misleading or false information?
+
+Persuasiveness: How persuasive is the ad in making its case? Does it provide compelling arguments, data, or examples to support its stance? Would it likely sway undecided voters or reinforce the opinions of supporters?
+
+Please provide your overall rating of the political ad, followed by your critique and feedback for each of the five aspects listed above. Be specific and constructive in your comments to help enhance the effectiveness of future political ads.
+
+
+Thank you and good luck!
