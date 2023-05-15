@@ -1,107 +1,107 @@
 [
   {
-    "Name": "John Whitefeather",
+    "Name": "John Blackfeather",
     "Age": 24,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 30000,
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 32000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "John is a young man who enjoys outdoor activities and spending time with his family. He is passionate about preserving his culture and traditions.",
+    "Description": "John is a young man living in Montana who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and supporting his community.",
     "Top Priorities": {
-      "1": "Cultural Preservation",
-      "2": "Environmental Conservation",
-      "3": "Affordable Housing"
+      "1": "Preserving cultural heritage",
+      "2": "Improving job opportunities",
+      "3": "Environmental protection"
     },
-    "Pain Points": {
-      "1": "Limited Job Opportunities",
-      "2": "Access to Quality Education",
-      "3": "Lack of Affordable Healthcare"
+    "Pain points": {
+      "1": "Limited job opportunities",
+      "2": "Lack of representation in politics",
+      "3": "Difficulty accessing affordable healthcare"
     }
   },
   {
     "Name": "Sarah Runningbear",
     "Age": 35,
     "Gender": "Female",
-    "Nationality": "American Indian",
+    "Ethnicity": "American Indian and Alaska Native",
     "Income": 45000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Administrative Assistant",
-    "Description": "Sarah is a dedicated mother of two who is actively involved in her community. She is an advocate for education and healthcare reform.",
+    "Description": "Sarah is a married woman living in Montana with her husband and two children. She is active in her children's education and is an advocate for better educational opportunities for her community.",
     "Top Priorities": {
-      "1": "Education Reform",
-      "2": "Healthcare Reform",
-      "3": "Economic Development"
+      "1": "Improving education",
+      "2": "Supporting families",
+      "3": "Community development"
     },
-    "Pain Points": {
-      "1": "Lack of Access to Quality Education",
-      "2": "High Healthcare Costs",
-      "3": "Limited Childcare Options"
-    }
-  },
-  {
-    "Name": "Michael Thunderbird",
-    "Age": 48,
-    "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 40000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Construction Worker",
-    "Description": "Michael is a hardworking individual who values self-sufficiency and community involvement. He is concerned about the environment and the future of his people.",
-    "Top Priorities": {
-      "1": "Environmental Protection",
-      "2": "Job Creation",
-      "3": "Community Development"
-    },
-    "Pain Points": {
-      "1": "Lack of Job Security",
-      "2": "Environmental Degradation",
-      "3": "Limited Access to Resources"
-    }
-  },
-  {
-    "Name": "Elizabeth Blackhawk",
-    "Age": 60,
-    "Gender": "Female",
-    "Nationality": "American Indian",
-    "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Elizabeth is a retired grandmother who is passionate about preserving her culture and passing it down to future generations. She is an active member of her tribe.",
-    "Top Priorities": {
-      "1": "Cultural Preservation",
-      "2": "Eldercare",
-      "3": "Youth Programs"
-    },
-    "Pain Points": {
-      "1": "Limited Access to Healthcare",
-      "2": "Lack of Cultural Programs",
-      "3": "Limited Financial Resources"
+    "Pain points": {
+      "1": "Limited educational resources",
+      "2": "Lack of affordable childcare",
+      "3": "Difficulty accessing mental health services"
     }
   },
   {
     "Name": "David Redcloud",
-    "Age": 29,
+    "Age": 52,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 42000,
-    "Marital Status": "Single",
-    "Education Level": "Associate's Degree",
-    "Occupation": "Graphic Designer",
-    "Description": "David is a creative individual who uses his skills to promote awareness of his culture and heritage. He is passionate about social justice and equality.",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "David is a divorced father of three who lives in Montana. He has a strong work ethic and is dedicated to providing for his family. He is concerned about the future of his community and the environment.",
     "Top Priorities": {
-      "1": "Social Justice",
-      "2": "Cultural Awareness",
-      "3": "Economic Opportunity"
+      "1": "Economic stability",
+      "2": "Environmental protection",
+      "3": "Access to quality healthcare"
     },
-    "Pain Points": {
-      "1": "Lack of Representation",
-      "2": "Limited Networking Opportunities",
-      "3": "Access to Technology"
+    "Pain points": {
+      "1": "Financial insecurity",
+      "2": "Lack of affordable housing",
+      "3": "Concerns about environmental degradation"
+    }
+  },
+  {
+    "Name": "Emily Whitehorse",
+    "Age": 29,
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 41000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Social Worker",
+    "Description": "Emily is a single woman living in Montana who is passionate about helping others. She works as a social worker and is dedicated to improving the lives of those in her community.",
+    "Top Priorities": {
+      "1": "Mental health support",
+      "2": "Community development",
+      "3": "Addressing substance abuse"
+    },
+    "Pain points": {
+      "1": "Limited mental health resources",
+      "2": "High rates of substance abuse",
+      "3": "Lack of support for vulnerable populations"
+    }
+  },
+  {
+    "Name": "Michael Thunderbird",
+    "Age": 43,
+    "Gender": "Male",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 38000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Michael is a married man living in Montana with his wife and four children. He works as a truck driver and is concerned about the safety and well-being of his family and community.",
+    "Top Priorities": {
+      "1": "Public safety",
+      "2": "Economic stability",
+      "3": "Access to quality education"
+    },
+    "Pain points": {
+      "1": "Concerns about crime",
+      "2": "Limited job opportunities",
+      "3": "Lack of affordable healthcare"
     }
   }
 ]

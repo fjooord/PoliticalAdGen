@@ -3,65 +3,105 @@
     "Name": "Carlos Ramirez",
     "Age": 24,
     "Gender": "Male",
-    "Nationality": "Mexican-American",
+    "Ethnicity": "Hispanic or Latino",
     "Income": 32000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Carlos is a young, hardworking individual who is passionate about his job and enjoys spending time with his friends and family. He is interested in local politics and is eager to make a difference in his community.",
-    "Top Priorities": ["Affordable housing", "Job security", "Community development"],
-    "Pain points": ["Lack of affordable housing options", "Limited job opportunities", "Lack of representation in local government"]
+    "Description": "Carlos is a young man living in Montana who enjoys outdoor activities and spending time with friends. He is politically engaged and interested in local issues.",
+    "Top Priorities": {
+      "Affordable Housing": 1,
+      "Job Opportunities": 2,
+      "Environment": 3
+    },
+    "Pain points": {
+      "Lack of Affordable Housing": 1,
+      "Limited Job Opportunities": 2,
+      "Environmental Concerns": 3
+    }
   },
   {
     "Name": "Isabella Gonzales",
     "Age": 35,
     "Gender": "Female",
-    "Nationality": "Cuban-American",
+    "Ethnicity": "Hispanic or Latino",
     "Income": 45000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "Some college",
     "Occupation": "Administrative Assistant",
-    "Description": "Isabella is a dedicated mother of two who is actively involved in her children's education and extracurricular activities. She is concerned about the future of her community and wants to ensure that her children have access to quality education and opportunities.",
-    "Top Priorities": ["Education", "Healthcare", "Public safety"],
-    "Pain points": ["Underfunded schools", "Rising healthcare costs", "Crime rates"]
+    "Description": "Isabella is a married woman with two children who is concerned about the quality of education and healthcare in her community.",
+    "Top Priorities": {
+      "Education": 1,
+      "Healthcare": 2,
+      "Public Safety": 3
+    },
+    "Pain points": {
+      "Education Funding": 1,
+      "Access to Healthcare": 2,
+      "Crime Rates": 3
+    }
   },
   {
     "Name": "Miguel Torres",
     "Age": 52,
     "Gender": "Male",
-    "Nationality": "Puerto Rican",
-    "Income": 40000,
+    "Ethnicity": "Hispanic or Latino",
+    "Income": 48000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Construction Worker",
-    "Description": "Miguel is a hardworking individual who has been in the construction industry for over 20 years. He is concerned about the economic stability of his community and wants to ensure that there are ample job opportunities for future generations.",
-    "Top Priorities": ["Economic growth", "Infrastructure", "Job opportunities"],
-    "Pain points": ["Stagnant wages", "Aging infrastructure", "Limited job opportunities"]
+    "Education Level": "High school graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Miguel is a divorced father of three who is concerned about the economy and job security.",
+    "Top Priorities": {
+      "Economy": 1,
+      "Job Security": 2,
+      "Retirement": 3
+    },
+    "Pain points": {
+      "Economic Stability": 1,
+      "Job Loss": 2,
+      "Retirement Savings": 3
+    }
   },
   {
-    "Name": "Sofia Martinez",
-    "Age": 19,
+    "Name": "Maria Rodriguez",
+    "Age": 67,
     "Gender": "Female",
-    "Nationality": "Dominican-American",
-    "Income": 22000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Fast Food Worker",
-    "Description": "Sofia is a recent high school graduate who is currently working part-time while attending community college. She is passionate about social justice issues and wants to make a positive impact on her community.",
-    "Top Priorities": ["Social justice", "Affordable education", "Environmental protection"],
-    "Pain points": ["Student loan debt", "Income inequality", "Climate change"]
+    "Ethnicity": "Hispanic or Latino",
+    "Income": 21000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Maria is a retired widow who is concerned about social security and healthcare.",
+    "Top Priorities": {
+      "Social Security": 1,
+      "Healthcare": 2,
+      "Community": 3
+    },
+    "Pain points": {
+      "Social Security Benefits": 1,
+      "Healthcare Costs": 2,
+      "Community Resources": 3
+    }
   },
   {
-    "Name": "Juan Rodriguez",
-    "Age": 65,
-    "Gender": "Male",
-    "Nationality": "Colombian-American",
-    "Income": 30000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Juan is a retired factory worker who enjoys spending time with his grandchildren and volunteering at his local community center. He is concerned about the well-being of senior citizens in his community and wants to ensure that they have access to necessary resources and support.",
-    "Top Priorities": ["Senior care", "Social security", "Healthcare"],
-    "Pain points": ["Rising healthcare costs", "Limited senior care options", "Social security concerns"]
+    "Name": "Juanita Sanchez",
+    "Age": 41,
+    "Gender": "Female",
+    "Ethnicity": "Hispanic or Latino",
+    "Income": 38000,
+    "Marital Status": "Single",
+    "Education Level": "Associate degree",
+    "Occupation": "Dental Assistant",
+    "Description": "Juanita is a single mother of one who is concerned about the environment and education.",
+    "Top Priorities": {
+      "Environment": 1,
+      "Education": 2,
+      "Work-Life Balance": 3
+    },
+    "Pain points": {
+      "Environmental Issues": 1,
+      "Education Quality": 2,
+      "Balancing Work and Family": 3
+    }
   }
 ]

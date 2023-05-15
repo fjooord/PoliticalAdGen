@@ -1,67 +1,67 @@
 [
-{
-    "Name": "Darius Johnson",
-    "Age": 28,
-    "Gender": "Male",
-    "Nationality": "African American",
-    "Income": 35000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Darius is a young man who enjoys outdoor activities and spending time with friends. He is passionate about social justice and environmental issues.",
-    "Top Priorities": ["Affordable housing", "Racial equality", "Climate change"],
-    "Pain points": ["Lack of affordable housing", "Discrimination", "Environmental pollution"]
-},
-{
-    "Name": "Tasha Williams",
-    "Age": 45,
+  {
+    "Name": "Aisha Brown",
+    "Age": 24,
     "Gender": "Female",
-    "Nationality": "African American",
-    "Income": 48000,
-    "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Tasha is a married mother of two who is active in her community and volunteers at her children's school. She is concerned about the quality of education and healthcare in her area.",
-    "Top Priorities": ["Education", "Healthcare", "Economic opportunity"],
-    "Pain points": ["Underfunded schools", "High healthcare costs", "Limited job opportunities"]
-},
-{
-    "Name": "Malik Thompson",
-    "Age": 22,
+    "Ethnicity": "Black or African American",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Aisha is a young woman who recently moved to Montana for a fresh start. She enjoys hiking and exploring the outdoors.",
+    "Top Priorities": ["Affordable housing", "Access to quality healthcare", "Environmental conservation"],
+    "Pain points": ["Limited job opportunities", "Lack of diversity in her community", "Student loan debt"]
+  },
+  {
+    "Name": "Darius Johnson",
+    "Age": 35,
     "Gender": "Male",
-    "Nationality": "African American",
+    "Ethnicity": "Black or African American",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Warehouse Supervisor",
+    "Description": "Darius is a family man who values hard work and providing for his family. He is active in his local community and volunteers at a youth center.",
+    "Top Priorities": ["Job security", "Quality education for his children", "Community safety"],
+    "Pain points": ["Racial discrimination", "Limited access to affordable childcare", "Concerns about job automation"]
+  },
+  {
+    "Name": "Tasha Williams",
+    "Age": 42,
+    "Gender": "Female",
+    "Ethnicity": "Black or African American",
+    "Income": 38000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Administrative Assistant",
+    "Description": "Tasha is a single mother of two who is passionate about education and community involvement. She is an active member of her church.",
+    "Top Priorities": ["Affordable healthcare", "Equal opportunities for her children", "Support for single parents"],
+    "Pain points": ["Wage gap", "Lack of affordable housing", "Limited resources for her children's education"]
+  },
+  {
+    "Name": "Malik Thompson",
+    "Age": 19,
+    "Gender": "Male",
+    "Ethnicity": "Black or African American",
     "Income": 21000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Fast Food Worker",
-    "Description": "Malik is a young adult who is struggling to make ends meet while working in the fast food industry. He is interested in pursuing higher education but is concerned about the cost.",
-    "Top Priorities": ["Affordable education", "Living wage", "Job training programs"],
-    "Pain points": ["Low wages", "Student loan debt", "Lack of job training opportunities"]
-},
-{
+    "Description": "Malik is a recent high school graduate who is saving money to attend community college. He is interested in pursuing a career in technology.",
+    "Top Priorities": ["Affordable education", "Job opportunities in the tech industry", "Racial equality"],
+    "Pain points": ["Low wages", "Limited access to technology resources", "Lack of mentorship opportunities"]
+  },
+  {
     "Name": "Yvonne Jackson",
-    "Age": 65,
+    "Age": 60,
     "Gender": "Female",
-    "Nationality": "African American",
-    "Income": 30000,
+    "Ethnicity": "Black or African American",
+    "Income": 50000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Yvonne is a retired widow who enjoys spending time with her grandchildren and attending church. She is concerned about the future of Social Security and Medicare.",
-    "Top Priorities": ["Social Security", "Medicare", "Community safety"],
-    "Pain points": ["Uncertain future of Social Security", "Rising healthcare costs", "Crime in the community"]
-},
-{
-    "Name": "Andre Mitchell",
-    "Age": 38,
-    "Gender": "Male",
-    "Nationality": "African American",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "Associate's Degree",
-    "Occupation": "Automotive Technician",
-    "Description": "Andre is a divorced father of one who enjoys working on cars and attending local sports events. He is concerned about the economy and job security.",
-    "Top Priorities": ["Economic growth", "Job security", "Childcare support"],
-    "Pain points": ["Economic uncertainty", "Job insecurity", "High childcare costs"]
-}
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Yvonne is a retired nurse who enjoys spending time with her grandchildren and volunteering at her local senior center.",
+    "Top Priorities": ["Social Security", "Affordable healthcare for seniors", "Community programs for seniors"],
+    "Pain points": ["Rising cost of living", "Limited access to quality healthcare", "Concerns about retirement savings"]
+  }
 ]

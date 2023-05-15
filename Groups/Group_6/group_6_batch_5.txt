@@ -1,67 +1,107 @@
 [
   {
-    "Name": "Lucas Blackfeather",
+    "Name": "Dakota Blackbird",
     "Age": 24,
-    "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 32000,
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 35000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Lucas is a young man living in Montana who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and the environment.",
-    "Top Priorities": ["Cultural Preservation", "Environmental Protection", "Affordable Education"],
-    "Pain Points": ["Limited Job Opportunities", "Access to Higher Education", "Racial Discrimination"]
+    "Description": "Dakota is a young woman who enjoys spending time outdoors and is passionate about preserving her cultural heritage. She is active in her community and participates in local events.",
+    "Top Priorities": [
+      "Cultural preservation",
+      "Environmental conservation",
+      "Affordable housing"
+    ],
+    "Pain points": [
+      "Limited job opportunities",
+      "Lack of affordable housing",
+      "Underrepresentation in politics"
+    ]
   },
   {
-    "Name": "Ava Littlebird",
-    "Age": 35,
-    "Gender": "Female",
-    "Nationality": "American Indian",
+    "Name": "Michael TwoFeathers",
+    "Age": 42,
+    "Gender": "Male",
+    "Ethnicity": "American Indian and Alaska Native",
     "Income": 45000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Ava is a married woman living in Montana with her husband and two children. She is active in her community and volunteers at her children's school.",
-    "Top Priorities": ["Quality Education", "Healthcare Access", "Community Involvement"],
-    "Pain Points": ["Childcare Costs", "Limited Access to Healthcare", "Lack of Representation in Politics"]
-  },
-  {
-    "Name": "Elijah Redcloud",
-    "Age": 52,
-    "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 48000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Construction Worker",
-    "Description": "Elijah is a divorced father of three who enjoys fishing and spending time with his children. He is concerned about the economy and job security.",
-    "Top Priorities": ["Economic Stability", "Job Security", "Retirement Planning"],
-    "Pain Points": ["Financial Struggles", "Limited Job Opportunities", "Lack of Affordable Housing"]
+    "Description": "Michael is a hardworking family man who values education and is dedicated to providing for his family. He is concerned about the future of his community and wants to see more opportunities for growth.",
+    "Top Priorities": [
+      "Education",
+      "Job creation",
+      "Healthcare"
+    ],
+    "Pain points": [
+      "Limited access to quality healthcare",
+      "Lack of educational resources",
+      "Inadequate infrastructure"
+    ]
   },
   {
-    "Name": "Sophia Whitehorse",
-    "Age": 29,
+    "Name": "Evelyn LittleBear",
+    "Age": 65,
     "Gender": "Female",
-    "Nationality": "American Indian",
-    "Income": 42000,
-    "Marital Status": "Single",
-    "Education Level": "Bachelor's Degree",
-    "Occupation": "Social Worker",
-    "Description": "Sophia is a dedicated social worker who is passionate about helping her community. She is an advocate for mental health and addiction support services.",
-    "Top Priorities": ["Mental Health Support", "Addiction Services", "Community Development"],
-    "Pain Points": ["Limited Resources", "High Stress Job", "Lack of Support for Social Programs"]
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired grandmother who is active in her community and enjoys spending time with her grandchildren. She is concerned about the preservation of her culture and the environment.",
+    "Top Priorities": [
+      "Cultural preservation",
+      "Environmental conservation",
+      "Social Security"
+    ],
+    "Pain points": [
+      "Limited access to healthcare",
+      "Lack of public transportation",
+      "Concerns about Social Security benefits"
+    ]
   },
   {
-    "Name": "Isaac Twohawks",
-    "Age": 67,
+    "Name": "Joseph RedCloud",
+    "Age": 32,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 23000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Isaac is a retired widower who enjoys spending time with his grandchildren and attending cultural events. He is concerned about the future of his community and the environment.",
-    "Top Priorities": ["Environmental Protection", "Cultural Preservation", "Social Security"],
-    "Pain Points": ["Limited Income", "Healthcare Costs", "Lack of Community Support"]
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Automotive Technician",
+    "Description": "Joseph is a skilled worker who enjoys fixing cars and spending time with his two children. He is passionate about improving the quality of life for his community and advocating for better resources.",
+    "Top Priorities": [
+      "Education",
+      "Job creation",
+      "Childcare"
+    ],
+    "Pain points": [
+      "Limited access to quality childcare",
+      "Lack of job opportunities",
+      "Inadequate public services"
+    ]
+  },
+  {
+    "Name": "Sarah WhiteEagle",
+    "Age": 51,
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Sarah is a dedicated teacher who is passionate about educating the next generation and preserving her culture. She is active in her community and volunteers at local events.",
+    "Top Priorities": [
+      "Education",
+      "Cultural preservation",
+      "Community development"
+    ],
+    "Pain points": [
+      "Limited funding for education",
+      "Lack of cultural resources",
+      "Inadequate community support"
+    ]
   }
 ]
