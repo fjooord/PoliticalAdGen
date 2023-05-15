@@ -1,67 +1,107 @@
 [
   {
-    "Name": "Jordan Smith",
-    "Age": 28,
-    "Gender": "Female",
-    "Ethnicity": "Two or More Races",
-    "Income": 32000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retail Salesperson",
-    "Description": "Jordan is a young woman living in Montana, working in retail sales. She is passionate about environmental issues and enjoys outdoor activities.",
-    "Top Priorities": ["Affordable housing", "Environmental protection"],
-    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare"]
-  },
-  {
-    "Name": "Alex Johnson",
-    "Age": 45,
-    "Gender": "Male",
-    "Ethnicity": "Two or More Races",
-    "Income": 48000,
-    "Marital Status": "Married",
-    "Education Level": "Some college",
-    "Occupation": "Truck Driver",
-    "Description": "Alex is a married truck driver living in Montana. He is concerned about the economy and job security.",
-    "Top Priorities": ["Economic growth", "Job security"],
-    "Pain points": ["Rising cost of living", "Lack of job benefits"]
-  },
-  {
-    "Name": "Taylor Williams",
-    "Age": 22,
+    "Name": "Avery Johnson",
+    "Age": 24,
     "Gender": "Non-binary",
-    "Ethnicity": "Two or More Races",
-    "Income": 25000,
+    "Nationality": "American",
+    "Income": 30000,
     "Marital Status": "Single",
     "Education Level": "High school graduate",
-    "Occupation": "Barista",
-    "Description": "Taylor is a non-binary individual working as a barista in Montana. They are passionate about LGBTQ+ rights and mental health awareness.",
-    "Top Priorities": ["LGBTQ+ rights", "Mental health support"],
-    "Pain points": ["Lack of inclusive policies", "Limited access to mental health resources"]
+    "Occupation": "Retail Sales Associate",
+    "Description": "Avery is a young adult who identifies as non-binary and is of mixed race. They live in Montana and work in retail sales. They are politically engaged and interested in social issues.",
+    "Top Priorities": {
+      "1": "Affordable housing",
+      "2": "LGBTQ+ rights",
+      "3": "Environmental protection"
+    },
+    "Pain points": {
+      "1": "Lack of affordable housing options",
+      "2": "Discrimination based on gender identity",
+      "3": "Climate change and its impact on Montana's natural resources"
+    }
   },
   {
-    "Name": "Morgan Brown",
-    "Age": 35,
+    "Name": "Jordan Smith",
+    "Age": 32,
     "Gender": "Female",
-    "Ethnicity": "Two or More Races",
-    "Income": 40000,
-    "Marital Status": "Divorced",
-    "Education Level": "Associate degree",
-    "Occupation": "Administrative Assistant",
-    "Description": "Morgan is a divorced mother of two, working as an administrative assistant in Montana. She is concerned about education and childcare.",
-    "Top Priorities": ["Quality education", "Affordable childcare"],
-    "Pain points": ["Limited educational resources", "High childcare costs"]
-  },
-  {
-    "Name": "Casey Davis",
-    "Age": 52,
-    "Gender": "Male",
-    "Ethnicity": "Two or More Races",
+    "Nationality": "American",
     "Income": 45000,
     "Marital Status": "Married",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Graphic Designer",
-    "Description": "Casey is a married graphic designer living in Montana. He is passionate about supporting local businesses and community development.",
-    "Top Priorities": ["Support for local businesses", "Community development"],
-    "Pain points": ["Lack of business opportunities", "Limited community resources"]
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Jordan is a married woman of mixed race living in Montana. She works as an administrative assistant and has some college education. She is concerned about the economy and healthcare.",
+    "Top Priorities": {
+      "1": "Economic growth",
+      "2": "Healthcare reform",
+      "3": "Education funding"
+    },
+    "Pain points": {
+      "1": "Stagnant wages and job opportunities",
+      "2": "High healthcare costs",
+      "3": "Limited access to quality education"
+    }
+  },
+  {
+    "Name": "Tyler Martinez",
+    "Age": 41,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 38000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Tyler is a divorced man of mixed race living in Montana. He works as a truck driver and has a high school diploma. He is concerned about infrastructure and public safety.",
+    "Top Priorities": {
+      "1": "Infrastructure improvement",
+      "2": "Public safety",
+      "3": "Veterans' support"
+    },
+    "Pain points": {
+      "1": "Poor road conditions and lack of public transportation",
+      "2": "Crime rates and police-community relations",
+      "3": "Limited support for veterans"
+    }
+  },
+  {
+    "Name": "Morgan Lee",
+    "Age": 56,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 49000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Morgan is a widowed woman of mixed race living in Montana. She works as a registered nurse and has an associate degree. She is concerned about healthcare and social security.",
+    "Top Priorities": {
+      "1": "Healthcare access",
+      "2": "Social security",
+      "3": "Mental health support"
+    },
+    "Pain points": {
+      "1": "Limited healthcare options in rural areas",
+      "2": "Uncertainty about social security benefits",
+      "3": "Lack of mental health resources"
+    }
+  },
+  {
+    "Name": "Alex Brown",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 21000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Alex is a retired man of mixed race living in Montana. He is married and has a high school diploma. He is concerned about social security and the environment.",
+    "Top Priorities": {
+      "1": "Social security benefits",
+      "2": "Environmental conservation",
+      "3": "Senior services"
+    },
+    "Pain points": {
+      "1": "Concerns about social security funding",
+      "2": "Loss of natural habitats and wildlife",
+      "3": "Limited services for seniors in rural areas"
+    }
   }
 ]

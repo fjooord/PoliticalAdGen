@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Carlos Martinez",
-    "Age": 24,
+    "Name": "Carlos Ramirez",
+    "Age": 25,
     "Gender": "Male",
-    "Ethnicity": "Hispanic or Latino",
+    "Nationality": "Hispanic or Latino",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High school graduate",
+    "Education Level": "High School Graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Carlos is a young man living in Montana who recently started working in retail after graduating from high school. He enjoys spending time with friends and exploring the outdoors.",
-    "Top Priorities": {
-      "Affordable housing": "Carlos is looking for affordable housing options in his area.",
-      "Job security": "He wants to ensure that he can maintain his current job or find a better one."
-    },
-    "Pain points": {
-      "Student loans": "Carlos has some student loan debt from attending a trade school.",
-      "Limited job opportunities": "He is concerned about the limited job opportunities in his area."
-    }
+    "Description": "Carlos is a young man living in Montana, working in retail. He is passionate about environmental issues and enjoys outdoor activities.",
+    "Top Priorities": ["Affordable Housing", "Environmental Protection", "Job Opportunities"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing", "Concerns about Climate Change"]
   },
   {
-    "Name": "Maria Rodriguez",
-    "Age": 35,
+    "Name": "Maria Gonzales",
+    "Age": 40,
     "Gender": "Female",
-    "Ethnicity": "Hispanic or Latino",
+    "Nationality": "Hispanic or Latino",
     "Income": 45000,
     "Marital Status": "Married",
-    "Education Level": "Some college",
+    "Education Level": "Some College",
     "Occupation": "Administrative Assistant",
-    "Description": "Maria is a married woman living in Montana with her husband and two children. She works as an administrative assistant and is pursuing a college degree part-time.",
-    "Top Priorities": {
-      "Education": "Maria wants to complete her college degree and provide a good education for her children.",
-      "Healthcare": "She is concerned about the cost and quality of healthcare for her family."
-    },
-    "Pain points": {
-      "Balancing work and family": "Maria struggles to balance her work, education, and family responsibilities.",
-      "Childcare costs": "She is concerned about the high cost of childcare."
-    }
+    "Description": "Maria is a married woman with two children, living in Montana. She is concerned about the quality of education and healthcare in her community.",
+    "Top Priorities": ["Education", "Healthcare", "Childcare"],
+    "Pain Points": ["Underfunded Schools", "High Healthcare Costs", "Limited Childcare Options"]
   },
   {
-    "Name": "Jose Gonzalez",
-    "Age": 55,
-    "Gender": "Male",
-    "Ethnicity": "Hispanic or Latino",
-    "Income": 40000,
+    "Name": "Juanita Morales",
+    "Age": 60,
+    "Gender": "Female",
+    "Nationality": "Hispanic or Latino",
+    "Income": 35000,
     "Marital Status": "Divorced",
-    "Education Level": "High school graduate",
-    "Occupation": "Construction Worker",
-    "Description": "Jose is a divorced man living in Montana who works in construction. He has three grown children and enjoys fishing and hiking in his free time.",
-    "Top Priorities": {
-      "Retirement": "Jose wants to save enough money to retire comfortably.",
-      "Social Security": "He is concerned about the future of Social Security."
-    },
-    "Pain points": {
-      "Physical health": "Jose has some health issues related to his physically demanding job.",
-      "Limited job opportunities": "He is concerned about the limited job opportunities in his area."
-    }
+    "Education Level": "High School Graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Juanita is a divorced woman living in Montana, working in customer service. She is concerned about her retirement and social security benefits.",
+    "Top Priorities": ["Retirement Security", "Social Security", "Healthcare"],
+    "Pain Points": ["Uncertain Retirement Savings", "Concerns about Social Security Benefits", "High Healthcare Costs"]
+  },
+  {
+    "Name": "Miguel Sanchez",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "Hispanic or Latino",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Associate Degree",
+    "Occupation": "IT Technician",
+    "Description": "Miguel is a single man living in Montana, working in the IT field. He is passionate about technology and innovation.",
+    "Top Priorities": ["Technology and Innovation", "Job Opportunities", "Affordable Housing"],
+    "Pain Points": ["Limited Job Opportunities in Tech", "Lack of Affordable Housing", "Concerns about Privacy and Data Security"]
   },
   {
     "Name": "Isabella Torres",
-    "Age": 19,
+    "Age": 18,
     "Gender": "Female",
-    "Ethnicity": "Hispanic or Latino",
-    "Income": 22000,
+    "Nationality": "Hispanic or Latino",
+    "Income": 20000,
     "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Fast Food Worker",
-    "Description": "Isabella is a recent high school graduate living in Montana who works at a fast food restaurant. She is considering attending college or trade school but is unsure of her future plans.",
-    "Top Priorities": {
-      "Higher education": "Isabella is considering attending college or trade school.",
-      "Job opportunities": "She wants to find a job with better pay and benefits."
-    },
-    "Pain points": {
-      "Student loans": "Isabella is concerned about taking on student loan debt.",
-      "Low wages": "She is frustrated with her low-paying job."
-    }
-  },
-  {
-    "Name": "Miguel Hernandez",
-    "Age": 42,
-    "Gender": "Male",
-    "Ethnicity": "Hispanic or Latino",
-    "Income": 35000,
-    "Marital Status": "Married",
-    "Education Level": "High school graduate",
-    "Occupation": "Truck Driver",
-    "Description": "Miguel is a married man living in Montana with his wife and three children. He works as a truck driver and enjoys spending time with his family when he is not on the road.",
-    "Top Priorities": {
-      "Family": "Miguel wants to provide a stable and secure life for his family.",
-      "Job security": "He wants to ensure that he can maintain his current job or find a better one."
-    },
-    "Pain points": {
-      "Time away from family": "Miguel struggles with being away from his family for long periods due to his job.",
-      "Healthcare costs": "He is concerned about the cost and quality of healthcare for his family."
-    }
+    "Education Level": "High School Graduate",
+    "Occupation": "Student",
+    "Description": "Isabella is a recent high school graduate living in Montana, planning to attend college. She is concerned about the cost of higher education and student loans.",
+    "Top Priorities": ["Affordable Education", "Job Opportunities", "Climate Change"],
+    "Pain Points": ["High College Tuition", "Limited Job Opportunities", "Concerns about Climate Change"]
   }
 ]

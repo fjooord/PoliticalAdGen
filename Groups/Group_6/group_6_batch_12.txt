@@ -1,97 +1,67 @@
 [
   {
     "Name": "Dakota Blackbird",
-    "Age": 27,
+    "Age": 24,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 32000,
+    "Nationality": "American Indian",
+    "Income": 28000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Dakota is a young woman who enjoys spending time outdoors and participating in her community's cultural events. She is passionate about preserving her heritage and the environment.",
-    "Top Priorities": {
-      "Environmental Protection": "Dakota is concerned about the impact of climate change on her community and the planet.",
-      "Cultural Preservation": "Dakota wants to ensure that her culture and traditions are preserved for future generations."
-    },
-    "Pain Points": {
-      "Limited Job Opportunities": "Dakota struggles to find stable, well-paying employment in her area.",
-      "Lack of Representation": "Dakota feels that her community's needs and concerns are often overlooked by politicians."
-    }
+    "Description": "Dakota is a young woman who lives in Montana and works at a local retail store. She enjoys spending time with her friends and family, and is passionate about preserving her cultural heritage.",
+    "Top Priorities": ["Cultural Preservation", "Affordable Housing", "Environmental Protection"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing", "Racial Discrimination"]
   },
   {
-    "Name": "Elijah TwoFeathers",
-    "Age": 45,
+    "Name": "Michael TwoFeathers",
+    "Age": 42,
     "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 48000,
+    "Nationality": "American Indian",
+    "Income": 45000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Construction Worker",
-    "Description": "Elijah is a hardworking father of three who values family and community. He is an advocate for better education and healthcare for his people.",
-    "Top Priorities": {
-      "Education": "Elijah wants to see improvements in the quality of education available to his children and community.",
-      "Healthcare": "Elijah is concerned about the lack of accessible and affordable healthcare services in his area."
-    },
-    "Pain Points": {
-      "Job Security": "Elijah worries about the stability of his job and providing for his family.",
-      "Racial Discrimination": "Elijah has experienced racial discrimination and wants to see more done to address this issue."
-    }
+    "Description": "Michael is a hardworking father of two who lives in Montana with his wife. He is concerned about the future of his children and the quality of education they receive.",
+    "Top Priorities": ["Education", "Job Security", "Healthcare"],
+    "Pain Points": ["Limited Access to Quality Education", "Job Instability", "High Healthcare Costs"]
   },
   {
-    "Name": "Aiyana Whitehorse",
-    "Age": 62,
+    "Name": "Aiyana LittleBear",
+    "Age": 31,
+    "Gender": "Non-Binary",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Aiyana is a non-binary individual who lives in Montana and works in customer service. They are passionate about LGBTQ+ rights and environmental issues.",
+    "Top Priorities": ["LGBTQ+ Rights", "Environmental Protection", "Mental Health"],
+    "Pain Points": ["Lack of LGBTQ+ Support", "Limited Mental Health Resources", "Environmental Degradation"]
+  },
+  {
+    "Name": "Evelyn RedCloud",
+    "Age": 67,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 41000,
+    "Nationality": "American Indian",
+    "Income": 21000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Aiyana is a retired grandmother who is active in her community and enjoys spending time with her grandchildren. She is passionate about preserving her culture and advocating for the rights of her people.",
-    "Top Priorities": {
-      "Elder Care": "Aiyana wants to ensure that elders in her community receive the care and support they need.",
-      "Tribal Sovereignty": "Aiyana believes in the importance of maintaining tribal sovereignty and self-determination."
-    },
-    "Pain Points": {
-      "Financial Security": "Aiyana worries about her financial stability in retirement.",
-      "Access to Healthcare": "Aiyana struggles to access quality healthcare services in her area."
-    }
+    "Description": "Evelyn is a retired widow who lives in Montana. She is concerned about the well-being of her community and the preservation of her cultural heritage.",
+    "Top Priorities": ["Cultural Preservation", "Healthcare", "Social Security"],
+    "Pain Points": ["Limited Access to Healthcare", "Social Isolation", "Financial Insecurity"]
   },
   {
-    "Name": "Kai Littlebear",
-    "Age": 19,
-    "Gender": "Non-Binary",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 22000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Fast Food Worker",
-    "Description": "Kai is a recent high school graduate who is passionate about social justice and LGBTQ+ rights. They are involved in local activism and hope to attend college in the future.",
-    "Top Priorities": {
-      "LGBTQ+ Rights": "Kai wants to see more done to protect the rights and well-being of LGBTQ+ individuals.",
-      "Affordable Education": "Kai hopes to attend college and is concerned about the rising costs of higher education."
-    },
-    "Pain Points": {
-      "Financial Struggles": "Kai struggles to make ends meet with their current job.",
-      "Lack of Acceptance": "Kai has faced discrimination and a lack of understanding from some members of their community."
-    }
-  },
-  {
-    "Name": "Leilani Redcloud",
-    "Age": 38,
-    "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 45000,
-    "Marital Status": "Divorced",
+    "Name": "Joseph WhiteEagle",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 40000,
+    "Marital Status": "Married",
     "Education Level": "Associate Degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Leilani is a dedicated nurse who works at a local hospital. She is a single mother of two and is passionate about improving healthcare services in her community.",
-    "Top Priorities": {
-      "Healthcare Access": "Leilani wants to see improvements in the availability and quality of healthcare services in her area.",
-      "Childcare Support": "Leilani struggles to find affordable and reliable childcare for her children."
-    },
-    "Pain Points": {
-      "Work-Life Balance": "Leilani finds it difficult to balance her demanding job with her responsibilities as a single parent.",
-      "Limited Resources": "Leilani feels that her community is often overlooked when it comes to funding and resources for healthcare."
-    }
+    "Occupation": "Automotive Mechanic",
+    "Description": "Joseph is a skilled mechanic who lives in Montana with his wife. He is concerned about the economy and the availability of good-paying jobs for his community.",
+    "Top Priorities": ["Economic Growth", "Job Opportunities", "Infrastructure"],
+    "Pain Points": ["Limited Job Opportunities", "Economic Inequality", "Aging Infrastructure"]
   }
 ]

@@ -1,67 +1,107 @@
 [
   {
-    "Name": "Elijah Blackbird",
-    "Age": 27,
-    "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 32000,
+    "Name": "Dakota Blackbird",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American Indian and Alaska Native",
+    "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Elijah is a young man who enjoys outdoor activities and is passionate about preserving the environment. He is active in his community and participates in local events.",
-    "Top Priorities": ["Environmental Conservation", "Affordable Healthcare", "Job Security"],
-    "Pain Points": ["Limited Job Opportunities", "Rising Cost of Living", "Lack of Affordable Housing"]
+    "Description": "Dakota is a young woman who enjoys spending time outdoors and participating in cultural events. She is passionate about preserving her heritage and advocating for the rights of indigenous people.",
+    "Top Priorities": [
+      "Preserving cultural heritage",
+      "Environmental protection",
+      "Affordable housing"
+    ],
+    "Pain points": [
+      "Limited job opportunities",
+      "Lack of representation in politics",
+      "Inadequate access to healthcare"
+    ]
   },
   {
-    "Name": "Aiyana TwoFeathers",
+    "Name": "Michael TwoFeathers",
     "Age": 45,
+    "Gender": "Male",
+    "Nationality": "American Indian and Alaska Native",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Construction Worker",
+    "Description": "Michael is a hardworking family man who values community involvement and supporting local businesses. He is concerned about the economic stability of his community and the well-being of future generations.",
+    "Top Priorities": [
+      "Economic development",
+      "Education",
+      "Infrastructure improvements"
+    ],
+    "Pain points": [
+      "Job insecurity",
+      "Rising cost of living",
+      "Limited access to quality education"
+    ]
+  },
+  {
+    "Name": "Evelyn RedCloud",
+    "Age": 62,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian and Alaska Native",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired elder who enjoys spending time with her grandchildren and volunteering at the local community center. She is concerned about the preservation of her culture and the environment.",
+    "Top Priorities": [
+      "Healthcare",
+      "Social Security",
+      "Environmental conservation"
+    ],
+    "Pain points": [
+      "Limited access to healthcare",
+      "Concerns about Social Security benefits",
+      "Loss of cultural traditions"
+    ]
+  },
+  {
+    "Name": "Samuel WhiteEagle",
+    "Age": 33,
+    "Gender": "Male",
+    "Nationality": "American Indian and Alaska Native",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Samuel is a creative individual who enjoys using his skills to promote local businesses and events. He is passionate about social justice and equality for all people.",
+    "Top Priorities": [
+      "Social justice",
+      "Economic equality",
+      "Access to technology"
+    ],
+    "Pain points": [
+      "Lack of affordable housing",
+      "Limited access to high-speed internet",
+      "Discrimination"
+    ]
+  },
+  {
+    "Name": "Grace RunningWolf",
+    "Age": 52,
+    "Gender": "Female",
+    "Nationality": "American Indian and Alaska Native",
     "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Aiyana is a mother of two who is dedicated to her family and community. She is an advocate for education and works to ensure her children have access to quality education.",
-    "Top Priorities": ["Education", "Childcare", "Community Development"],
-    "Pain Points": ["Lack of Educational Resources", "High Childcare Costs", "Limited Community Programs"]
-  },
-  {
-    "Name": "Kai LittleBear",
-    "Age": 62,
-    "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 41000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Carpenter",
-    "Description": "Kai is a skilled craftsman who takes pride in his work. He is concerned about the future of his community and the impact of climate change on the environment.",
-    "Top Priorities": ["Climate Change", "Retirement Security", "Healthcare"],
-    "Pain Points": ["Limited Retirement Savings", "Rising Healthcare Costs", "Environmental Degradation"]
-  },
-  {
-    "Name": "Leilani WhiteWolf",
-    "Age": 38,
-    "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 45000,
-    "Marital Status": "Single",
-    "Education Level": "Associate Degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Leilani is a dedicated healthcare professional who is passionate about providing quality care to her patients. She is an advocate for mental health awareness and support.",
-    "Top Priorities": ["Mental Health", "Healthcare Accessibility", "Work-Life Balance"],
-    "Pain Points": ["Mental Health Stigma", "Long Work Hours", "Limited Access to Healthcare Services"]
-  },
-  {
-    "Name": "Talon RedCloud",
-    "Age": 52,
-    "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 35000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Truck Driver",
-    "Description": "Talon is a hardworking individual who values family and tradition. He is concerned about the impact of government policies on his community and the economy.",
-    "Top Priorities": ["Economic Stability", "Government Accountability", "Preserving Traditions"],
-    "Pain Points": ["Economic Inequality", "Lack of Government Transparency", "Loss of Cultural Heritage"]
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Grace is a dedicated educator who strives to create a positive learning environment for her students. She is an advocate for education reform and increased funding for schools.",
+    "Top Priorities": [
+      "Education reform",
+      "Teacher salaries",
+      "Mental health support for students"
+    ],
+    "Pain points": [
+      "Insufficient funding for schools",
+      "High student-to-teacher ratios",
+      "Lack of resources for special needs students"
+    ]
   }
 ]

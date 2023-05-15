@@ -1,107 +1,107 @@
 [
   {
-    "Name": "Elijah Blackbird",
-    "Age": 24,
+    "Name": "Michael Runningbear",
+    "Age": 27,
     "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian",
     "Income": 32000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Elijah is a young man who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and the environment.",
+    "Description": "Michael is a young man living in Montana who enjoys spending time outdoors and participating in cultural events.",
     "Top Priorities": [
-      "Environmental conservation",
+      "Affordable housing",
       "Cultural preservation",
-      "Affordable housing"
+      "Environmental protection"
     ],
-    "Pain Points": [
+    "Pain points": [
       "Limited job opportunities",
-      "Lack of affordable housing",
+      "Lack of affordable healthcare",
       "Underrepresentation in politics"
     ]
   },
   {
-    "Name": "Aiyana Two Bears",
+    "Name": "Samantha Littlebird",
     "Age": 35,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian",
     "Income": 45000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Administrative Assistant",
-    "Description": "Aiyana is a mother of two who is dedicated to her family and community. She is an active volunteer and advocates for better educational opportunities for her children.",
+    "Description": "Samantha is a married woman living in Montana who is passionate about community involvement and education.",
     "Top Priorities": [
-      "Education",
-      "Healthcare",
-      "Community development"
+      "Education funding",
+      "Community development",
+      "Healthcare access"
     ],
-    "Pain Points": [
+    "Pain points": [
       "Limited access to quality education",
-      "High healthcare costs",
-      "Lack of community resources"
+      "Lack of affordable childcare",
+      "Racial discrimination"
     ]
   },
   {
-    "Name": "Kai Red Cloud",
-    "Age": 42,
-    "Gender": "Non-binary",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 38000,
+    "Name": "Joseph Blackfeather",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
-    "Occupation": "Carpenter",
-    "Description": "Kai is a skilled carpenter who is passionate about creating sustainable housing solutions for their community. They are also an advocate for LGBTQ+ rights and representation.",
+    "Occupation": "Construction Worker",
+    "Description": "Joseph is a divorced father of two living in Montana who values hard work and providing for his family.",
     "Top Priorities": [
-      "Sustainable housing",
-      "LGBTQ+ rights",
-      "Economic development"
+      "Job security",
+      "Retirement planning",
+      "Infrastructure improvements"
     ],
-    "Pain Points": [
-      "Discrimination",
-      "Lack of affordable housing",
-      "Limited job opportunities"
+    "Pain points": [
+      "Physical health concerns",
+      "Limited access to mental health services",
+      "Lack of affordable housing"
     ]
   },
   {
-    "Name": "Leilani Whitehorse",
-    "Age": 55,
+    "Name": "Rebecca Redcloud",
+    "Age": 60,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian",
     "Income": 41000,
     "Marital Status": "Widowed",
-    "Education Level": "Associate Degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Leilani is a dedicated nurse who has spent her career providing healthcare to her community. She is passionate about improving access to healthcare and mental health resources.",
+    "Education Level": "High School Graduate",
+    "Occupation": "Nurse",
+    "Description": "Rebecca is a widowed woman living in Montana who is dedicated to helping others and advocating for healthcare access.",
     "Top Priorities": [
-      "Healthcare access",
-      "Mental health resources",
-      "Eldercare"
+      "Healthcare reform",
+      "Elder care",
+      "Social Security"
     ],
-    "Pain Points": [
-      "Limited access to healthcare",
-      "High healthcare costs",
-      "Lack of mental health resources"
+    "Pain points": [
+      "Limited access to quality healthcare",
+      "Financial insecurity",
+      "Lack of support for seniors"
     ]
   },
   {
-    "Name": "Talon Silverhawk",
-    "Age": 65,
+    "Name": "Daniel Whitehorse",
+    "Age": 42,
     "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 48000,
+    "Nationality": "American Indian",
+    "Income": 38000,
     "Marital Status": "Married",
     "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Talon is a retired veteran who is active in his community and enjoys mentoring young people. He is passionate about veterans' rights and preserving his culture.",
+    "Occupation": "Truck Driver",
+    "Description": "Daniel is a married father of three living in Montana who is focused on providing for his family and maintaining a work-life balance.",
     "Top Priorities": [
-      "Veterans' rights",
-      "Cultural preservation",
-      "Youth mentorship"
+      "Economic stability",
+      "Family support",
+      "Transportation infrastructure"
     ],
-    "Pain Points": [
-      "Limited resources for veterans",
-      "Loss of cultural heritage",
-      "Lack of youth programs"
+    "Pain points": [
+      "Long hours away from home",
+      "Lack of affordable healthcare",
+      "Limited access to quality education for his children"
     ]
   }
 ]

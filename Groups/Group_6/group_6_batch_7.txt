@@ -1,107 +1,67 @@
 [
   {
-    "Name": "Dakota Blackbird",
-    "Age": 24,
-    "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 32000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Dakota is a young woman living in Montana who enjoys spending time outdoors and participating in cultural events. She is passionate about preserving her heritage and the environment.",
-    "Top Priorities": [
-      "Environmental conservation",
-      "Cultural preservation",
-      "Affordable housing"
-    ],
-    "Pain points": [
-      "Limited job opportunities",
-      "Lack of affordable housing",
-      "Underrepresentation in politics"
-    ]
-  },
-  {
-    "Name": "Michael TwoFeathers",
-    "Age": 42,
+    "Name": "Lucas Blackfeather",
+    "Age": 27,
     "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 45000,
-    "Marital Status": "Married",
-    "Education Level": "Some college",
-    "Occupation": "Construction Worker",
-    "Description": "Michael is a hardworking family man who values education and community involvement. He is an active member of his local tribal council and is dedicated to improving the lives of those in his community.",
-    "Top Priorities": [
-      "Education",
-      "Community development",
-      "Healthcare"
-    ],
-    "Pain points": [
-      "Access to quality healthcare",
-      "Limited resources for education",
-      "Lack of representation in local government"
-    ]
-  },
-  {
-    "Name": "Evelyn RedCloud",
-    "Age": 60,
-    "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired grandmother who enjoys spending time with her family and volunteering at her local community center. She is concerned about the future of her grandchildren and the preservation of her culture.",
-    "Top Priorities": [
-      "Cultural preservation",
-      "Social security",
-      "Healthcare"
-    ],
-    "Pain points": [
-      "Limited access to healthcare",
-      "Concerns about social security benefits",
-      "Lack of cultural resources"
-    ]
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Lucas is a young man living in Montana who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and the environment.",
+    "Top Priorities": ["Cultural Preservation", "Environmental Conservation"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing"]
   },
   {
-    "Name": "Joseph RunningWolf",
-    "Age": 35,
+    "Name": "Aiyana TwoBears",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Aiyana is a married woman with two children who values education and community involvement. She is active in her local school district and volunteers at various community events.",
+    "Top Priorities": ["Education", "Community Involvement"],
+    "Pain Points": ["Limited Educational Resources", "Lack of Childcare Options"]
+  },
+  {
+    "Name": "Elijah RunningWolf",
+    "Age": 62,
     "Gender": "Male",
-    "Ethnicity": "American Indian and Alaska Native",
+    "Nationality": "American Indian",
     "Income": 48000,
     "Marital Status": "Divorced",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Elementary School Teacher",
-    "Description": "Joseph is a dedicated teacher who is passionate about providing quality education to his students. He is an advocate for incorporating cultural teachings into the curriculum and is active in his local community.",
-    "Top Priorities": [
-      "Education",
-      "Cultural preservation",
-      "Community development"
-    ],
-    "Pain points": [
-      "Lack of funding for education",
-      "Limited cultural resources",
-      "Difficulty in finding affordable housing"
-    ]
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Elijah is a divorced father of three adult children who enjoys fishing and woodworking. He is concerned about the future of his community and the availability of resources for the next generation.",
+    "Top Priorities": ["Economic Development", "Healthcare Access"],
+    "Pain Points": ["Aging Infrastructure", "Limited Healthcare Options"]
   },
   {
-    "Name": "Sarah WhiteEagle",
-    "Age": 52,
+    "Name": "Leilani WhiteEagle",
+    "Age": 34,
     "Gender": "Female",
-    "Ethnicity": "American Indian and Alaska Native",
-    "Income": 40000,
+    "Nationality": "American Indian",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waitress",
+    "Description": "Leilani is a single mother of a young child who is passionate about art and music. She struggles to make ends meet and is looking for ways to improve her financial situation.",
+    "Top Priorities": ["Financial Stability", "Arts and Culture"],
+    "Pain Points": ["Low Wages", "Lack of Affordable Childcare"]
+  },
+  {
+    "Name": "Nathan RedCloud",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 39000,
     "Marital Status": "Married",
-    "Education Level": "Associate's degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Sarah is a compassionate healthcare professional who is dedicated to providing quality care to her patients. She is an advocate for improving healthcare access in her community and is active in local politics.",
-    "Top Priorities": [
-      "Healthcare",
-      "Education",
-      "Community development"
-    ],
-    "Pain points": [
-      "Limited access to healthcare",
-      "Lack of funding for education",
-      "Underrepresentation in politics"
-    ]
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Nathan is a married man with a teenage son who enjoys hunting and spending time with his family. He is concerned about the impact of climate change on his community and the environment.",
+    "Top Priorities": ["Climate Change", "Family Values"],
+    "Pain Points": ["Rising Cost of Living", "Limited Access to Higher Education"]
   }
 ]

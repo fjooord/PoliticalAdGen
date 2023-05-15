@@ -1,92 +1,67 @@
 [
   {
-    "Name": "Mila Johnson",
+    "Name": "Aiden Smith",
     "Age": 23,
-    "Gender": "Female",
-    "Ethnicity": "Two or More Races",
-    "Income": 32000,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 30000,
     "Marital Status": "Single",
     "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Mila is a young adult living in Montana who enjoys outdoor activities and spending time with her friends.",
-    "Top Priorities": {
-      "Education": "High school graduate or higher (94.4%)",
-      "Income": "$20,000 - $50,000"
-    },
-    "Pain points": {
-      "Limited job opportunities": "Mila struggles to find a higher-paying job with her current education level."
-    }
+    "Description": "Aiden is a young, ambitious individual who is passionate about environmental issues and social justice. He enjoys spending time outdoors and is an active member of his community.",
+    "Top Priorities": ["Environmental protection", "Social justice"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing"]
   },
   {
-    "Name": "Elijah Thompson",
-    "Age": 45,
-    "Gender": "Male",
-    "Ethnicity": "Two or More Races",
-    "Income": 48000,
-    "Marital Status": "Divorced",
-    "Education Level": "Some college",
-    "Occupation": "Construction Worker",
-    "Description": "Elijah is a hardworking individual who values family and community involvement.",
-    "Top Priorities": {
-      "Education": "High school graduate or higher (94.4%)",
-      "Income": "$20,000 - $50,000"
-    },
-    "Pain points": {
-      "Financial stability": "Elijah worries about providing for his children and saving for their college education."
-    }
-  },
-  {
-    "Name": "Sophia Martinez",
-    "Age": 30,
+    "Name": "Mia Johnson",
+    "Age": 35,
     "Gender": "Female",
-    "Ethnicity": "Two or More Races",
-    "Income": 35000,
-    "Marital Status": "Married",
-    "Education Level": "Associate degree",
-    "Occupation": "Administrative Assistant",
-    "Description": "Sophia is a dedicated wife and mother who enjoys volunteering at her children's school.",
-    "Top Priorities": {
-      "Education": "High school graduate or higher (94.4%)",
-      "Income": "$20,000 - $50,000"
-    },
-    "Pain points": {
-      "Work-life balance": "Sophia struggles to balance her job, family life, and personal interests."
-    }
-  },
-  {
-    "Name": "Aiden Lee",
-    "Age": 19,
-    "Gender": "Male",
-    "Ethnicity": "Two or More Races",
-    "Income": 21000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Fast Food Worker",
-    "Description": "Aiden is a recent high school graduate who is saving money to attend college.",
-    "Top Priorities": {
-      "Education": "High school graduate or higher (94.4%)",
-      "Income": "$20,000 - $50,000"
-    },
-    "Pain points": {
-      "College affordability": "Aiden is concerned about the cost of college and accumulating student loan debt."
-    }
-  },
-  {
-    "Name": "Olivia Smith",
-    "Age": 28,
-    "Gender": "Female",
-    "Ethnicity": "Two or More Races",
+    "Nationality": "American",
     "Income": 45000,
-    "Marital Status": "Single",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Graphic Designer",
-    "Description": "Olivia is a creative professional who enjoys hiking and exploring Montana's natural beauty.",
-    "Top Priorities": {
-      "Education": "High school graduate or higher (94.4%)",
-      "Income": "$20,000 - $50,000"
-    },
-    "Pain points": {
-      "Career growth": "Olivia is looking for opportunities to advance in her career and increase her income."
-    }
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Mia is a dedicated mother of two who is focused on providing a stable and nurturing environment for her family. She is concerned about the quality of education in her community and the impact of economic inequality.",
+    "Top Priorities": ["Education", "Economic inequality"],
+    "Pain points": ["Rising cost of living", "Lack of access to quality education"]
+  },
+  {
+    "Name": "Lucas Martinez",
+    "Age": 29,
+    "Gender": "Non-binary",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "In a relationship",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Lucas is a creative and empathetic individual who is passionate about mental health awareness and LGBTQ+ rights. They enjoy volunteering and participating in local art events.",
+    "Top Priorities": ["Mental health awareness", "LGBTQ+ rights"],
+    "Pain points": ["Lack of mental health resources", "Discrimination"]
+  },
+  {
+    "Name": "Emma Brown",
+    "Age": 42,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Medical Assistant",
+    "Description": "Emma is a hardworking and compassionate healthcare professional who is dedicated to helping others. She is concerned about the state of healthcare in the United States and the impact of climate change on future generations.",
+    "Top Priorities": ["Healthcare reform", "Climate change"],
+    "Pain points": ["High healthcare costs", "Lack of political action on climate change"]
+  },
+  {
+    "Name": "Elijah Davis",
+    "Age": 54,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 50000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Elijah is a hardworking and resilient individual who values community and family. He is concerned about the state of the economy and the impact of globalization on local industries.",
+    "Top Priorities": ["Economic growth", "Support for local industries"],
+    "Pain points": ["Job insecurity", "Global competition"]
   }
 ]
