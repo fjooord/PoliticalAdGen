@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Daniel Runningbear",
-    "Age": 27,
-    "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 32000,
+    "Name": "Dakota Blackbird",
+    "Age": 24,
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Daniel is a young man living in Montana who enjoys spending time outdoors and participating in cultural events.",
-    "Top Priorities": [
-      "Preserving cultural heritage",
-      "Environmental conservation"
-    ],
-    "Pain points": [
-      "Limited job opportunities",
-      "Lack of affordable housing"
-    ]
+    "Description": "Dakota is a young woman who enjoys spending time outdoors and participating in cultural events. She is passionate about preserving her heritage and the environment.",
+    "Top Priorities": ["Cultural preservation", "Environmental conservation", "Affordable housing"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Inadequate representation in politics"]
   },
   {
-    "Name": "Samantha Littlebird",
-    "Age": 45,
-    "Gender": "Female",
-    "Nationality": "American Indian",
-    "Income": 48000,
-    "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Samantha is a married mother of two who works full-time and is active in her community.",
-    "Top Priorities": [
-      "Education for her children",
-      "Healthcare access"
-    ],
-    "Pain points": [
-      "Balancing work and family life",
-      "Limited access to quality healthcare"
-    ]
-  },
-  {
-    "Name": "Michael Redcloud",
-    "Age": 60,
+    "Name": "Michael TwoFeathers",
+    "Age": 42,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 42000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
     "Occupation": "Construction Worker",
-    "Description": "Michael is a divorced father of three adult children who enjoys fishing and woodworking in his free time.",
-    "Top Priorities": [
-      "Retirement planning",
-      "Access to affordable healthcare"
-    ],
-    "Pain points": [
-      "Physical strain from work",
-      "Limited social connections"
-    ]
+    "Description": "Michael is a hardworking family man who values tradition and community. He is concerned about the future of his children and wants to see more opportunities for them.",
+    "Top Priorities": ["Education", "Job opportunities", "Healthcare"],
+    "Pain points": ["Limited educational resources", "Lack of job security", "Rising healthcare costs"]
   },
   {
-    "Name": "Rebecca Whitefeather",
-    "Age": 35,
+    "Name": "Evelyn RedCloud",
+    "Age": 60,
     "Gender": "Female",
-    "Nationality": "American Indian",
-    "Income": 38000,
-    "Marital Status": "Single",
-    "Education Level": "Associate's Degree",
-    "Occupation": "Dental Assistant",
-    "Description": "Rebecca is a single woman who enjoys hiking and volunteering at her local animal shelter.",
-    "Top Priorities": [
-      "Career advancement",
-      "Finding a life partner"
-    ],
-    "Pain points": [
-      "Limited dating options",
-      "Student loan debt"
-    ]
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Community Health Worker",
+    "Description": "Evelyn is a dedicated community worker who has spent her life advocating for better healthcare and social services for her people. She is a respected elder and a source of wisdom for her community.",
+    "Top Priorities": ["Healthcare", "Social services", "Eldercare"],
+    "Pain points": ["Inadequate healthcare facilities", "Limited social services", "Lack of support for elders"]
   },
   {
-    "Name": "Thomas Blackhorse",
-    "Age": 52,
+    "Name": "Joseph Whitehorse",
+    "Age": 33,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 46000,
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Joseph is a creative individual who uses his skills to promote his culture and heritage. He is passionate about art and design and wants to see more opportunities for young people in his community.",
+    "Top Priorities": ["Arts and culture", "Youth programs", "Economic development"],
+    "Pain points": ["Limited cultural programs", "Lack of youth engagement", "Economic stagnation"]
+  },
+  {
+    "Name": "Grace RunningBear",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 22000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Truck Driver",
-    "Description": "Thomas is a married father of four who enjoys spending time with his family and attending local sports events.",
-    "Top Priorities": [
-      "Financial stability",
-      "Supporting his children's education"
-    ],
-    "Pain points": [
-      "Long hours away from home",
-      "Rising cost of living"
-    ]
+    "Education Level": "High school graduate",
+    "Occupation": "Homemaker",
+    "Description": "Grace is a devoted mother and wife who is active in her community. She volunteers at the local school and is concerned about the quality of education and resources available to her children.",
+    "Top Priorities": ["Education", "Community involvement", "Family support"],
+    "Pain points": ["Underfunded schools", "Lack of community programs", "Limited family resources"]
   }
 ]

@@ -1,67 +1,67 @@
 [
-{
-    "Name": "Aiden Johnson",
-    "Age": 23,
-    "Gender": "Male",
-    "Nationality": "American",
+  {
+    "Name": "Avery Smith",
+    "Age": 24,
+    "Gender": "Female",
+    "Ethnicity": "Two or More Races",
     "Income": 32000,
     "Marital Status": "Single",
-    "Education Level": "High school graduate",
+    "Education Level": "High School Graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Aiden is a young, mixed-race individual living in Montana. He enjoys outdoor activities and is passionate about environmental issues.",
-    "Top Priorities": ["Affordable housing", "Environmental protection", "Job security"],
-    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Concerns about climate change"]
-},
-{
-    "Name": "Maya Thompson",
+    "Description": "Avery is a young, energetic individual who enjoys outdoor activities and is passionate about environmental issues. She is politically active and regularly attends local community events.",
+    "Top Priorities": ["Environmental protection", "Affordable housing", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Lack of affordable healthcare", "Income inequality"]
+  },
+  {
+    "Name": "Jordan Taylor",
     "Age": 35,
-    "Gender": "Female",
-    "Nationality": "American",
+    "Gender": "Non-binary",
+    "Ethnicity": "Two or More Races",
     "Income": 45000,
     "Marital Status": "Married",
-    "Education Level": "Some college",
-    "Occupation": "Administrative Assistant",
-    "Description": "Maya is a married, mixed-race woman living in Montana. She is a mother of two and is concerned about the quality of education and healthcare in her community.",
-    "Top Priorities": ["Education", "Healthcare", "Childcare support"],
-    "Pain points": ["Rising healthcare costs", "Limited educational resources", "Lack of affordable childcare"]
-},
-{
-    "Name": "Elijah Martinez",
-    "Age": 42,
-    "Gender": "Non-binary",
-    "Nationality": "American",
-    "Income": 38000,
-    "Marital Status": "Divorced",
-    "Education Level": "High school graduate",
-    "Occupation": "Delivery Driver",
-    "Description": "Elijah is a divorced, mixed-race individual living in Montana. They are passionate about social justice and LGBTQ+ rights.",
-    "Top Priorities": ["LGBTQ+ rights", "Social justice", "Economic equality"],
-    "Pain points": ["Discrimination", "Income inequality", "Lack of legal protections for LGBTQ+ individuals"]
-},
-{
-    "Name": "Olivia Smith",
-    "Age": 28,
-    "Gender": "Female",
-    "Nationality": "American",
-    "Income": 22000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Barista",
-    "Description": "Olivia is a single, mixed-race woman living in Montana. She is passionate about the arts and is working towards becoming a professional photographer.",
-    "Top Priorities": ["Arts funding", "Affordable education", "Mental health support"],
-    "Pain points": ["Lack of funding for the arts", "High student loan debt", "Limited mental health resources"]
-},
-{
-    "Name": "Lucas Brown",
-    "Age": 55,
+    "Education Level": "Some College",
+    "Occupation": "Graphic Designer",
+    "Description": "Jordan is a creative professional who values diversity and inclusion. They are involved in local art and cultural events and are interested in social justice issues.",
+    "Top Priorities": ["LGBTQ+ rights", "Arts funding", "Education reform"],
+    "Pain points": ["Lack of representation in politics", "Rising cost of living", "Discrimination"]
+  },
+  {
+    "Name": "Casey Johnson",
+    "Age": 52,
     "Gender": "Male",
-    "Nationality": "American",
+    "Ethnicity": "Two or More Races",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Casey is a hardworking individual who values family and community. He is concerned about the economy and job security, and he wants to see improvements in infrastructure and public services.",
+    "Top Priorities": ["Economic growth", "Infrastructure improvements", "Public safety"],
+    "Pain points": ["Job insecurity", "High taxes", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Morgan Lee",
+    "Age": 29,
+    "Gender": "Female",
+    "Ethnicity": "Two or More Races",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Social Worker",
+    "Description": "Morgan is a compassionate and dedicated professional who works with vulnerable populations. She is passionate about social justice and advocates for policies that promote equality and support for those in need.",
+    "Top Priorities": ["Mental health services", "Social safety net programs", "Affordable healthcare"],
+    "Pain points": ["Low wages", "Lack of affordable childcare", "Inadequate mental health resources"]
+  },
+  {
+    "Name": "Alex Martinez",
+    "Age": 43,
+    "Gender": "Male",
+    "Ethnicity": "Two or More Races",
     "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "Associate degree",
+    "Education Level": "Associate's Degree",
     "Occupation": "Electrician",
-    "Description": "Lucas is a married, mixed-race man living in Montana. He is concerned about the economy and the future of his children.",
-    "Top Priorities": ["Economic growth", "Job creation", "Retirement security"],
-    "Pain points": ["Economic uncertainty", "Concerns about job stability", "Worries about retirement savings"]
-}
+    "Description": "Alex is a skilled tradesman who values hard work and self-reliance. He is concerned about the future of his industry and wants to see policies that support small businesses and job growth.",
+    "Top Priorities": ["Small business support", "Job training programs", "Energy independence"],
+    "Pain points": ["Regulations affecting his industry", "Rising cost of living", "Lack of job security"]
+  }
 ]

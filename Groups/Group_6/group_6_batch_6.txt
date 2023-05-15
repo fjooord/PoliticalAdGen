@@ -1,67 +1,107 @@
 [
   {
-    "Name": "Evelyn Blackbird",
-    "Age": 24,
-    "Gender": "Female",
-    "Nationality": "American Indian",
+    "Name": "Michael Runningbear",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "American Indian and Alaska Native",
     "Income": 32000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retail Sales Associate",
-    "Description": "Evelyn is a young woman who enjoys outdoor activities and spending time with her family. She is passionate about preserving her cultural heritage and is involved in community events.",
-    "Top Priorities": ["Cultural preservation", "Environmental protection", "Affordable housing"],
-    "Pain Points": ["Limited job opportunities", "Lack of affordable housing", "Underrepresentation in politics"]
+    "Description": "Michael is a young man who enjoys spending time outdoors and participating in cultural activities. He is passionate about preserving his heritage and the environment.",
+    "Top Priorities": {
+      "Preserving cultural heritage": 1,
+      "Environmental protection": 2,
+      "Affordable housing": 3
+    },
+    "Pain points": {
+      "Limited job opportunities": 1,
+      "Lack of representation in politics": 2,
+      "Access to quality education": 3
+    }
   },
   {
-    "Name": "Joseph Redcloud",
+    "Name": "Sarah Blackfeather",
     "Age": 45,
-    "Gender": "Male",
-    "Nationality": "American Indian",
+    "Gender": "Female",
+    "Ethnicity": "American Indian and Alaska Native",
     "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Construction Worker",
-    "Description": "Joseph is a hardworking father of three who values education and providing for his family. He is concerned about the future of his children and the availability of resources for their success.",
-    "Top Priorities": ["Education", "Job security", "Healthcare"],
-    "Pain Points": ["Limited access to quality education", "Job instability", "Rising healthcare costs"]
-  },
-  {
-    "Name": "Samantha Whitehorse",
-    "Age": 35,
-    "Gender": "Female",
-    "Nationality": "American Indian",
-    "Income": 41000,
-    "Marital Status": "Divorced",
-    "Education Level": "Associate Degree",
+    "Education Level": "Some college",
     "Occupation": "Administrative Assistant",
-    "Description": "Samantha is a single mother who is focused on providing a stable environment for her two children. She is an advocate for mental health awareness and support within her community.",
-    "Top Priorities": ["Mental health support", "Childcare", "Women's rights"],
-    "Pain Points": ["Limited mental health resources", "High childcare costs", "Gender inequality"]
+    "Description": "Sarah is a dedicated mother of two who is active in her community and works to promote education and cultural awareness.",
+    "Top Priorities": {
+      "Education": 1,
+      "Cultural preservation": 2,
+      "Healthcare": 3
+    },
+    "Pain points": {
+      "Access to quality healthcare": 1,
+      "Racial discrimination": 2,
+      "Lack of support for cultural programs": 3
+    }
   },
   {
-    "Name": "Michael Thunderbird",
-    "Age": 60,
+    "Name": "David Redcloud",
+    "Age": 61,
     "Gender": "Male",
-    "Nationality": "American Indian",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Truck Driver",
-    "Description": "Michael is a dedicated grandfather who enjoys spending time with his grandchildren and teaching them about their cultural heritage. He is concerned about the environment and the impact of climate change on future generations.",
-    "Top Priorities": ["Environmental conservation", "Social security", "Gun control"],
-    "Pain Points": ["Climate change", "Social security uncertainty", "Gun violence"]
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction Worker",
+    "Description": "David is a hardworking individual who values tradition and family. He is concerned about the future of his community and the impact of government policies.",
+    "Top Priorities": {
+      "Economic development": 1,
+      "Preserving traditions": 2,
+      "Social services": 3
+    },
+    "Pain points": {
+      "Lack of job security": 1,
+      "Government policies affecting community": 2,
+      "Limited access to social services": 3
+    }
   },
   {
-    "Name": "Laura Runningwolf",
-    "Age": 52,
+    "Name": "Emily Whitehorse",
+    "Age": 36,
     "Gender": "Female",
-    "Nationality": "American Indian",
+    "Ethnicity": "American Indian and Alaska Native",
     "Income": 38000,
-    "Marital Status": "Married",
-    "Education Level": "Bachelor's Degree",
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
     "Occupation": "Social Worker",
-    "Description": "Laura is a compassionate and dedicated social worker who is committed to helping her community. She is an advocate for substance abuse prevention and support for families affected by addiction.",
-    "Top Priorities": ["Substance abuse prevention", "Family support services", "Community development"],
-    "Pain Points": ["Limited addiction treatment options", "Lack of support for families", "Underfunded community programs"]
+    "Description": "Emily is a compassionate and dedicated social worker who focuses on helping families in her community. She is an advocate for mental health and addiction services.",
+    "Top Priorities": {
+      "Mental health": 1,
+      "Addiction services": 2,
+      "Child welfare": 3
+    },
+    "Pain points": {
+      "Limited resources for mental health": 1,
+      "Lack of addiction treatment options": 2,
+      "High rates of child poverty": 3
+    }
+  },
+  {
+    "Name": "John Talltree",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "American Indian and Alaska Native",
+    "Income": 46000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Electrician",
+    "Description": "John is a skilled tradesman who takes pride in his work and is involved in local politics. He is concerned about the impact of climate change on his community.",
+    "Top Priorities": {
+      "Climate change": 1,
+      "Economic growth": 2,
+      "Infrastructure": 3
+    },
+    "Pain points": {
+      "Impact of climate change on community": 1,
+      "Lack of political representation": 2,
+      "Aging infrastructure": 3
+    }
   }
 ]
