@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 41,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "John is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Lack of affordable housing", "Rising cost of living", "Limited access to quality healthcare"]
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 29,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Retail manager",
+    "Description": "Michael is a dedicated family man who is focused on providing a stable life for his wife and two children.",
+    "Top Priorities": ["Education funding", "Job opportunities", "Public safety"],
+    "Pain points": ["High childcare costs", "Limited job growth", "Rising crime rates"]
+  },
+  {
+    "Name": "David Brown",
+    "Age": 55,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "David is a long-haul truck driver who values personal freedom and is concerned about the future of his industry.",
+    "Top Priorities": ["Infrastructure investment", "Retirement security", "Transportation safety"],
+    "Pain points": ["Job displacement due to automation", "Lack of retirement savings", "Deteriorating road conditions"]
+  },
+  {
+    "Name": "Brian Wilson",
+    "Age": 23,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "Some college",
+    "Occupation": "Barista",
+    "Description": "Brian is a college student who is passionate about social justice and environmental issues.",
+    "Top Priorities": ["Climate change", "Student loan forgiveness", "Income inequality"],
+    "Pain points": ["High student loan debt", "Limited job prospects", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "James Taylor",
+    "Age": 38,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Accountant",
+    "Description": "James is a detail-oriented professional who is focused on financial stability and community engagement.",
+    "Top Priorities": ["Economic growth", "Tax reform", "Support for local businesses"],
+    "Pain points": ["High tax burden", "Limited access to affordable housing", "Lack of community resources"]
+  }
+]

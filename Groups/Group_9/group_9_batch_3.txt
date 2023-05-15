@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Aiden Smith",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Aiden is a friendly and outgoing individual who enjoys outdoor activities and spending time with friends.",
+    "Top Priorities": ["Affordable housing", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Brianna Johnson",
+    "Age": 34,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Brianna is a hardworking and organized person who values family time and community involvement.",
+    "Top Priorities": ["Education", "Healthcare"],
+    "Pain points": ["Rising cost of living", "Limited access to quality education"]
+  },
+  {
+    "Name": "Cameron Martinez",
+    "Age": 22,
+    "Gender": "Non-binary",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Cameron is a creative and open-minded individual who enjoys art, music, and social activism.",
+    "Top Priorities": ["LGBTQ+ rights", "Environmental protection"],
+    "Pain points": ["Low wages", "Lack of affordable mental health resources"]
+  },
+  {
+    "Name": "Danielle Brown",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Danielle is a compassionate and dedicated healthcare professional who enjoys helping others and staying active.",
+    "Top Priorities": ["Healthcare reform", "Work-life balance"],
+    "Pain points": ["High stress at work", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Elijah Garcia",
+    "Age": 19,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Elijah is a motivated and ambitious young adult who is saving money to attend college and pursue a career in engineering.",
+    "Top Priorities": ["Higher education", "Economic opportunity"],
+    "Pain points": ["Student loan debt", "Lack of job opportunities"]
+  }
+]

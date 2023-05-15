@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Laura Smith",
+    "Age": 28,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a young woman living in Montana who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": {
+      "Affordable Healthcare": 4,
+      "Environmental Protection": 3,
+      "Job Security": 2
+    },
+    "Pain Points": {
+      "Student Loan Debt": 3,
+      "Lack of Affordable Housing": 2,
+      "Limited Job Opportunities": 1
+    }
+  },
+  {
+    "Name": "Samantha Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Samantha is a single mother of two teenagers who is focused on providing a stable life for her family.",
+    "Top Priorities": {
+      "Education": 4,
+      "Job Security": 3,
+      "Affordable Healthcare": 2
+    },
+    "Pain Points": {
+      "Childcare Expenses": 3,
+      "Lack of Financial Stability": 2,
+      "Limited Job Opportunities": 1
+    }
+  },
+  {
+    "Name": "Rebecca Martinez",
+    "Age": 34,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 38000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Rebecca is a dedicated teacher who is passionate about education and making a difference in her community.",
+    "Top Priorities": {
+      "Education": 4,
+      "Environmental Protection": 3,
+      "Affordable Healthcare": 2
+    },
+    "Pain Points": {
+      "Low Teacher Salaries": 3,
+      "Lack of School Funding": 2,
+      "Limited Job Opportunities": 1
+    }
+  },
+  {
+    "Name": "Emily Thompson",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a recent high school graduate who is saving money to attend college and pursue a career in healthcare.",
+    "Top Priorities": {
+      "Affordable Education": 4,
+      "Job Security": 3,
+      "Affordable Healthcare": 2
+    },
+    "Pain Points": {
+      "Student Loan Debt": 3,
+      "Lack of Affordable Housing": 2,
+      "Limited Job Opportunities": 1
+    }
+  },
+  {
+    "Name": "Jennifer Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Jennifer is a compassionate healthcare professional who is dedicated to providing quality care to her patients.",
+    "Top Priorities": {
+      "Affordable Healthcare": 4,
+      "Job Security": 3,
+      "Retirement Security": 2
+    },
+    "Pain Points": {
+      "Rising Healthcare Costs": 3,
+      "Lack of Financial Stability": 2,
+      "Limited Job Opportunities": 1
+    }
+  }
+]

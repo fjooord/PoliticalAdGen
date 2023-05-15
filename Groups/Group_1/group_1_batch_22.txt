@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Laura Johnson",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a hardworking single mother of two who lives in a small town in Montana. She enjoys spending time outdoors with her children.",
+    "Top Priorities": ["Financial Stability", "Education for her children", "Healthcare"],
+    "Pain Points": ["Limited job opportunities", "Affordable childcare", "Access to quality healthcare"]
+  },
+  {
+    "Name": "Emily Thompson",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Emily is a dedicated teacher who recently got married. She is passionate about education and enjoys hiking in her free time.",
+    "Top Priorities": ["Education funding", "Environmental conservation", "Work-life balance"],
+    "Pain Points": ["Student loan debt", "Limited resources for her classroom", "Housing affordability"]
+  },
+  {
+    "Name": "Sarah Wilson",
+    "Age": 52,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Sarah is a compassionate nurse who has been working in a rural hospital for over 20 years. She is an active member of her community.",
+    "Top Priorities": ["Healthcare access", "Retirement planning", "Community engagement"],
+    "Pain Points": ["Rising healthcare costs", "Limited retirement savings", "Lack of public transportation"]
+  },
+  {
+    "Name": "Hannah Brown",
+    "Age": 18,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Hannah is a recent high school graduate who is working part-time while deciding on her future plans. She is interested in pursuing higher education.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Mental health support"],
+    "Pain Points": ["Low wages", "Uncertainty about the future", "Limited access to mental health resources"]
+  },
+  {
+    "Name": "Olivia Smith",
+    "Age": 41,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Olivia is a dedicated employee who has been working for a local business for over 10 years. She is married with two teenage children.",
+    "Top Priorities": ["Job security", "Family well-being", "Community safety"],
+    "Pain Points": ["Limited career advancement", "Rising cost of living", "Concerns about crime in the community"]
+  }
+]

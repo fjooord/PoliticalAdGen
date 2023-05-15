@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Jasmine Nguyen",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "Vietnamese-American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Jasmine is a young woman who recently moved to Montana from California. She enjoys hiking and exploring the outdoors.",
+    "Top Priorities": ["Affordable housing", "Environmental protection"],
+    "Pain points": ["Low wages", "Limited job opportunities"]
+  },
+  {
+    "Name": "David Kim",
+    "Age": 35,
+    "Gender": "Male",
+    "Nationality": "Korean-American",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Graphic Designer",
+    "Description": "David is a graphic designer who works remotely for a company based in another state. He is married and has a young child.",
+    "Top Priorities": ["Childcare", "Healthcare"],
+    "Pain points": ["High healthcare costs", "Lack of affordable childcare options"]
+  },
+  {
+    "Name": "Lily Chen",
+    "Age": 19,
+    "Gender": "Female",
+    "Nationality": "Chinese-American",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Student",
+    "Description": "Lily is a college student studying at a local community college. She works part-time at a local restaurant to help pay for her tuition.",
+    "Top Priorities": ["Education", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Limited job opportunities in her field"]
+  },
+  {
+    "Name": "Michael Patel",
+    "Age": 42,
+    "Gender": "Male",
+    "Nationality": "Indian-American",
+    "Income": 50000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "IT Specialist",
+    "Description": "Michael is an IT specialist who works for a local company. He enjoys spending time with his two children and volunteering at their school.",
+    "Top Priorities": ["Education", "Public safety"],
+    "Pain points": ["High cost of living", "Limited resources for single parents"]
+  },
+  {
+    "Name": "Samantha Lee",
+    "Age": 29,
+    "Gender": "Female",
+    "Nationality": "Filipino-American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Samantha is a registered nurse who works at a local hospital. She is married and enjoys spending time with her husband and their pets.",
+    "Top Priorities": ["Healthcare", "Animal welfare"],
+    "Pain points": ["Long work hours", "Lack of affordable healthcare options"]
+  }
+]

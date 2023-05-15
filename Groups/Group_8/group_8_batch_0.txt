@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Kaleo Johnson",
+    "Age": 24,
+    "Gender": "Male",
+    "Nationality": "Native Hawaiian and Other Pacific Islander",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Kaleo is a young, ambitious retail sales associate who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Affordable housing", "Environmental conservation", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Limited access to higher education"]
+  },
+  {
+    "Name": "Leilani Thompson",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "Native Hawaiian and Other Pacific Islander",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Leilani is a dedicated administrative assistant who values family time and community involvement.",
+    "Top Priorities": ["Education for children", "Healthcare access", "Community development"],
+    "Pain points": ["Limited access to quality education", "Rising healthcare costs", "Lack of community resources"]
+  },
+  {
+    "Name": "Keanu Mitchell",
+    "Age": 42,
+    "Gender": "Male",
+    "Nationality": "Native Hawaiian and Other Pacific Islander",
+    "Income": 38000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Keanu is a hardworking truck driver who enjoys fishing and spending time with his two children.",
+    "Top Priorities": ["Transportation infrastructure", "Child support", "Job security"],
+    "Pain points": ["Limited job opportunities", "High cost of living", "Difficulty navigating child support system"]
+  },
+  {
+    "Name": "Nohea Wilson",
+    "Age": 29,
+    "Gender": "Female",
+    "Nationality": "Native Hawaiian and Other Pacific Islander",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waitress",
+    "Description": "Nohea is a friendly waitress who enjoys hiking and volunteering at her local animal shelter.",
+    "Top Priorities": ["Animal welfare", "Minimum wage increase", "Affordable housing"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Makoa Adams",
+    "Age": 53,
+    "Gender": "Male",
+    "Nationality": "Native Hawaiian and Other Pacific Islander",
+    "Income": 49000,
+    "Marital Status": "Married",
+    "Education Level": "Trade School",
+    "Occupation": "Electrician",
+    "Description": "Makoa is a skilled electrician who enjoys spending time with his family and working on home improvement projects.",
+    "Top Priorities": ["Job security", "Retirement planning", "Healthcare access"],
+    "Pain points": ["Rising healthcare costs", "Uncertainty about retirement", "Limited job opportunities"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Doris Thompson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Doris is a retired school teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
+    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
+  },
+  {
+    "Name": "Evelyn Martin",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local community center.",
+    "Top Priorities": ["Healthcare", "Economy", "Education"],
+    "Pain Points": ["Limited access to affordable healthcare", "Income inequality", "Lack of funding for public schools"]
+  },
+  {
+    "Name": "Helen Wilson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Homemaker",
+    "Description": "Helen is a homemaker who enjoys spending time with her family and attending church.",
+    "Top Priorities": ["Family Values", "Healthcare", "Economy"],
+    "Pain Points": ["Decline of traditional family values", "Rising healthcare costs", "Economic uncertainty"]
+  },
+  {
+    "Name": "Margaret Davis",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Margaret is a retired factory worker who enjoys reading and participating in her local book club.",
+    "Top Priorities": ["Economy", "Social Security", "Healthcare"],
+    "Pain Points": ["Job loss due to automation", "Concerns about Social Security benefits", "Limited access to affordable healthcare"]
+  },
+  {
+    "Name": "Ruth Clark",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 20000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Ruth is a retired retail worker who enjoys crafting and spending time with her friends.",
+    "Top Priorities": ["Healthcare", "Economy", "Social Security"],
+    "Pain Points": ["Rising healthcare costs", "Income inequality", "Concerns about Social Security benefits"]
+  }
+]

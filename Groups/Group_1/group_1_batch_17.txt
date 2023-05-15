@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Dorothy Johnson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Dorothy is a retired nurse who lives in a small town in Montana. She enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Local Community"],
+    "Pain Points": ["Rising Healthcare Costs", "Limited Access to Services"]
+  },
+  {
+    "Name": "Margaret Smith",
+    "Age": 69,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Teacher",
+    "Description": "Margaret is a widowed retired teacher who enjoys reading and volunteering at her local library.",
+    "Top Priorities": ["Education", "Social Security", "Environment"],
+    "Pain Points": ["Limited Educational Resources", "Climate Change"]
+  },
+  {
+    "Name": "Barbara Wilson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Barbara is a married retired administrative assistant who enjoys traveling with her husband and spending time with her family.",
+    "Top Priorities": ["Economy", "Social Security", "Travel"],
+    "Pain Points": ["Economic Stability", "Travel Restrictions"]
+  },
+  {
+    "Name": "Elizabeth Brown",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Elizabeth is a single retired factory worker who enjoys crafting and attending local community events.",
+    "Top Priorities": ["Economy", "Social Security", "Local Community"],
+    "Pain Points": ["Economic Stability", "Limited Access to Services"]
+  },
+  {
+    "Name": "Susan Miller",
+    "Age": 65,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 20000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Susan is a separated retired retail worker who enjoys spending time with her friends and attending local community events.",
+    "Top Priorities": ["Healthcare", "Social Security", "Local Community"],
+    "Pain Points": ["Rising Healthcare Costs", "Limited Access to Services"]
+  }
+]

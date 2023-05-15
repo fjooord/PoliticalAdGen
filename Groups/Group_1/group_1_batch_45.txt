@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Sarah Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Sarah is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Rising healthcare costs"]
+  },
+  {
+    "Name": "Emily Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Emily is a married woman living in Montana with her husband and two children. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education", "Community safety", "Economic growth"],
+    "Pain points": ["Limited educational resources", "Lack of public transportation", "Increasing crime rates"]
+  },
+  {
+    "Name": "Laura Wilson",
+    "Age": 56,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Laura is a divorced woman living in Montana. She is a dedicated nurse and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Social services"],
+    "Pain points": ["Rising healthcare costs", "Lack of affordable childcare", "Limited social services"]
+  },
+  {
+    "Name": "Hannah Davis",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Hannah is a recent college graduate living in Montana. She is passionate about art and design and is looking to start her own business.",
+    "Top Priorities": ["Entrepreneurship", "Affordable housing", "Job opportunities"],
+    "Pain points": ["Lack of startup funding", "Limited job opportunities", "High student loan debt"]
+  },
+  {
+    "Name": "Olivia Taylor",
+    "Age": 39,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Office Manager",
+    "Description": "Olivia is a married woman living in Montana with her husband and three children. She is involved in her children's extracurricular activities and enjoys spending time with her family.",
+    "Top Priorities": ["Family values", "Education", "Work-life balance"],
+    "Pain points": ["Limited family-friendly activities", "Lack of affordable childcare", "Stressful work environment"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Doris Thompson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Doris is a retired school teacher who enjoys gardening and volunteering at her local church.",
+    "Top Priorities": ["Healthcare", "Social Security", "Community"],
+    "Pain points": ["Rising healthcare costs", "Worries about Social Security benefits", "Lack of community engagement"]
+  },
+  {
+    "Name": "Evelyn Johnson",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired administrative assistant who enjoys spending time with her grandchildren and playing bridge.",
+    "Top Priorities": ["Healthcare", "Economy", "Education"],
+    "Pain points": ["Limited access to healthcare", "Concerns about the economy", "Quality of education for her grandchildren"]
+  },
+  {
+    "Name": "Marilyn Peterson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Marilyn is a retired nurse who enjoys reading, traveling, and spending time with her family.",
+    "Top Priorities": ["Healthcare", "Environment", "Social Security"],
+    "Pain points": ["Rising healthcare costs", "Climate change", "Worries about Social Security benefits"]
+  },
+  {
+    "Name": "Gloria Martin",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Gloria is a retired factory worker who enjoys knitting, watching TV, and spending time with her friends.",
+    "Top Priorities": ["Economy", "Social Security", "Community"],
+    "Pain points": ["Concerns about the economy", "Worries about Social Security benefits", "Lack of community engagement"]
+  },
+  {
+    "Name": "Helen Wilson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Helen is a retired retail worker who enjoys cooking, gardening, and spending time with her husband.",
+    "Top Priorities": ["Healthcare", "Economy", "Environment"],
+    "Pain points": ["Limited access to healthcare", "Concerns about the economy", "Climate change"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 39,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "John is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job Security", "Affordable Healthcare", "Outdoor Recreation"],
+    "Pain Points": ["Rising Cost of Living", "Limited Job Opportunities"]
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 28,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Automotive Technician",
+    "Description": "Michael is a skilled automotive technician who is married and has a young child. He is focused on providing for his family.",
+    "Top Priorities": ["Family", "Job Security", "Affordable Housing"],
+    "Pain Points": ["Rising Healthcare Costs", "Childcare Expenses"]
+  },
+  {
+    "Name": "David Williams",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "David is a long-haul truck driver who has been divorced for several years. He enjoys traveling and exploring new places.",
+    "Top Priorities": ["Retirement Savings", "Travel Opportunities", "Job Security"],
+    "Pain Points": ["Loneliness", "Rising Cost of Living"]
+  },
+  {
+    "Name": "Brian Miller",
+    "Age": 23,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "Some College",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Brian is a young retail sales associate who is working his way through college. He enjoys socializing and staying active.",
+    "Top Priorities": ["Education", "Career Advancement", "Social Life"],
+    "Pain Points": ["Student Loan Debt", "Limited Job Opportunities"]
+  },
+  {
+    "Name": "Kevin Brown",
+    "Age": 47,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Office Manager",
+    "Description": "Kevin is an office manager with a bachelor's degree. He is married and has two teenage children. He values stability and security.",
+    "Top Priorities": ["Family", "Financial Security", "Community Involvement"],
+    "Pain Points": ["Rising Cost of Living", "College Expenses for Children"]
+  }
+]

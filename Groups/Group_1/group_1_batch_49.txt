@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Amy Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Amy is a hardworking single woman living in Montana. She enjoys outdoor activities and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable Healthcare", "Environmental Protection", "Job Security"],
+    "Pain Points": ["Limited Job Opportunities", "High Healthcare Costs", "Lack of Public Transportation"]
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a married mother of two living in Montana. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education", "Community Safety", "Economic Growth"],
+    "Pain Points": ["Underfunded Schools", "Limited Childcare Options", "Rising Cost of Living"]
+  },
+  {
+    "Name": "Samantha Brown",
+    "Age": 25,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waitress",
+    "Description": "Samantha is a young woman living in Montana who is trying to save money to attend college. She is passionate about social justice and equality.",
+    "Top Priorities": ["Affordable Education", "Minimum Wage Increase", "LGBTQ+ Rights"],
+    "Pain Points": ["Student Loan Debt", "Low Wages", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "Jennifer Wilson",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate Degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Jennifer is a divorced woman living in Montana who has dedicated her life to helping others. She is concerned about the future of healthcare in the United States.",
+    "Top Priorities": ["Healthcare Reform", "Retirement Security", "Mental Health Services"],
+    "Pain Points": ["Rising Healthcare Costs", "Limited Mental Health Resources", "Uncertain Retirement Future"]
+  },
+  {
+    "Name": "Rebecca Martin",
+    "Age": 40,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Stay-at-Home Mom",
+    "Description": "Rebecca is a married mother of three living in Montana. She is focused on providing a stable and loving home for her family.",
+    "Top Priorities": ["Family Values", "Childcare Support", "Community Development"],
+    "Pain Points": ["Lack of Affordable Childcare", "Limited Family Resources", "Declining Community Programs"]
+  }
+]

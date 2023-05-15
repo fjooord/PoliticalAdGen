@@ -144,7 +144,7 @@ def chatgpt_convo(user_input, conversation, temperature=0.2, frequency_penalty=0
     # Return the chatbot's response
     return chat_response, conversation
 
-def chat_gpt(prompt, engine='gpt-4', temp=0.75, top_p=1.0, tokens=3000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf'], role=None):
+def chat_gpt(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf'], role=None):
     max_retry = 5
     retry = 0
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -177,7 +177,7 @@ def chat_gpt(prompt, engine='gpt-4', temp=0.75, top_p=1.0, tokens=3000, freq_pen
             sleep(1)
 
 
-def generalized_gpt_prompt(path, tag_values, index = -1, role=None):
+def generalized_gpt_prompt(path, tag_values, engine = 'gpt-4', index = -1, role=None):
     """
     This function takes in the path to the original prompt file
     and the current tags with their corresponding values
@@ -193,6 +193,7 @@ def generalized_gpt_prompt(path, tag_values, index = -1, role=None):
     prompt = open_file(path)
   
     for tag, value in tag_values.items():
+        
         try:
             prompt = prompt.replace(tag, value)
         except:
@@ -201,6 +202,6 @@ def generalized_gpt_prompt(path, tag_values, index = -1, role=None):
                     prompt = prompt.replace(tag, value[index])
                 except:
                     continue
-
-    return chat_gpt(prompt, temp=0.7, role=role)
+    
+    return chat_gpt(prompt, engine=engine, role=role)
 

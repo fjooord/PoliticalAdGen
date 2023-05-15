@@ -1,0 +1,67 @@
+[
+{
+    "Name": "Doris Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Doris is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
+    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
+},
+{
+    "Name": "Eleanor Martin",
+    "Age": 71,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some College",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Eleanor is a retired administrative assistant who enjoys reading, knitting, and attending local cultural events. She is a member of a book club and a knitting group.",
+    "Top Priorities": ["Education", "Economy", "Healthcare"],
+    "Pain Points": ["Affordability of higher education", "Job opportunities for younger generations", "Access to affordable healthcare"]
+},
+{
+    "Name": "Marilyn Johnson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Marilyn is a retired retail worker who enjoys spending time with her family, traveling, and playing cards with friends. She is active in her church and volunteers at a local food bank.",
+    "Top Priorities": ["Social Security", "Healthcare", "Immigration"],
+    "Pain Points": ["Concerns about Social Security benefits", "Rising healthcare costs", "Border security"]
+},
+{
+    "Name": "Carolyn Wilson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Carolyn is a retired factory worker who enjoys painting, hiking, and spending time with her pets. She is a member of a local art group and participates in community clean-up events.",
+    "Top Priorities": ["Environment", "Economy", "Healthcare"],
+    "Pain Points": ["Climate change", "Economic inequality", "Access to affordable healthcare"]
+},
+{
+    "Name": "Shirley Davis",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 20000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Teacher",
+    "Description": "Shirley is a retired teacher who enjoys writing, attending community events, and volunteering at her local library. She is a member of a writing group and a gardening club.",
+    "Top Priorities": ["Education", "Social Security", "Healthcare"],
+    "Pain Points": ["Affordability of higher education", "Concerns about Social Security benefits", "Rising healthcare costs"]
+}
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Dorothy Thompson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain points": {
+      "Rising Cost of Living": "Struggling to maintain her lifestyle on a fixed income",
+      "Isolation": "Feeling isolated from friends and family due to the pandemic"
+    }
+  },
+  {
+    "Name": "Evelyn Martin",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Evelyn is a widowed retiree who enjoys reading, knitting, and attending church events. She is concerned about the future of her community and the country.",
+    "Top Priorities": {
+      "Economy": "Creating jobs and supporting local businesses",
+      "Environment": "Protecting Montana's natural resources and wildlife"
+    },
+    "Pain points": {
+      "Healthcare": "Managing her chronic health conditions on a limited budget",
+      "Loneliness": "Coping with the loss of her spouse and finding new social connections"
+    }
+  },
+  {
+    "Name": "Gloria Johnson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired Teacher",
+    "Description": "Gloria is a retired teacher who enjoys hiking and birdwatching. She is passionate about education and the environment and is an active member of her local Audubon Society chapter.",
+    "Top Priorities": {
+      "Education": "Improving public education and supporting teachers",
+      "Climate Change": "Addressing climate change and promoting clean energy"
+    },
+    "Pain points": {
+      "Retirement Security": "Ensuring she and her husband have enough savings for a comfortable retirement",
+      "Access to Nature": "Preserving public lands and access to outdoor recreation"
+    }
+  },
+  {
+    "Name": "Helen Wilson",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Helen is a retired factory worker who enjoys painting and spending time with her dog. She is concerned about the economy and the well-being of her fellow retirees.",
+    "Top Priorities": {
+      "Economy": "Supporting manufacturing jobs and fair trade policies",
+      "Social Services": "Ensuring access to social services for seniors and low-income individuals"
+    },
+    "Pain points": {
+      "Affordable Housing": "Finding affordable housing in her community",
+      "Transportation": "Limited access to public transportation and mobility options"
+    }
+  },
+  {
+    "Name": "Irene Davis",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Irene is a retired retail worker who enjoys cooking and spending time with her family. She is concerned about healthcare and the cost of living for seniors.",
+    "Top Priorities": {
+      "Healthcare": "Expanding Medicare and lowering prescription drug costs",
+      "Affordable Housing": "Increasing affordable housing options for seniors"
+    },
+    "Pain points": {
+      "Financial Security": "Managing her finances on a limited income",
+      "Access to Healthcare": "Navigating the healthcare system and finding affordable care"
+    }
+  }
+]

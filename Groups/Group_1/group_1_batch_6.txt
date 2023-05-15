@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Doris Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Doris is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and attends church regularly.",
+    "Top Priorities": ["Healthcare", "Social Security", "Family"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of affordable housing for her children"]
+  },
+  {
+    "Name": "Evelyn Martin",
+    "Age": 69,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Secretary",
+    "Description": "Evelyn is a widowed retiree who enjoys reading and volunteering at her local library. She is concerned about the environment and the future for her grandchildren.",
+    "Top Priorities": ["Environment", "Education", "Healthcare"],
+    "Pain points": ["Climate change", "Lack of funding for public education", "Rising prescription drug costs"]
+  },
+  {
+    "Name": "Marilyn Hughes",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Marilyn is a retired retail worker who enjoys crafting and spending time with her husband. She is concerned about the economy and the financial stability of her family.",
+    "Top Priorities": ["Economy", "Taxes", "Social Security"],
+    "Pain points": ["Rising cost of living", "Concerns about tax increases", "Uncertainty about Social Security benefits"]
+  },
+  {
+    "Name": "Gloria Simmons",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Gloria is a retired factory worker who enjoys traveling and spending time with her friends. She is concerned about the state of the country and the political climate.",
+    "Top Priorities": ["National Security", "Immigration", "Healthcare"],
+    "Pain points": ["Concerns about terrorism", "Illegal immigration", "Rising healthcare costs"]
+  },
+  {
+    "Name": "Helen Sanders",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Teacher",
+    "Description": "Helen is a retired teacher who enjoys spending time with her family and volunteering at her local food bank. She is passionate about social justice and helping those in need.",
+    "Top Priorities": ["Social Justice", "Education", "Healthcare"],
+    "Pain points": ["Income inequality", "Lack of funding for public education", "Limited access to affordable healthcare"]
+  }
+]

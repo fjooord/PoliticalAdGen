@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Harold Thompson",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Harold is a retired mechanic who enjoys spending time with his grandchildren and fishing in his spare time.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
+  },
+  {
+    "Name": "Walter Jenkins",
+    "Age": 69,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Walter is a retired farmer who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": ["Agriculture", "Religious Freedom", "Rural Development"],
+    "Pain points": ["Declining rural communities", "Loss of family farms", "Threats to religious freedom"]
+  },
+  {
+    "Name": "Franklin Davis",
+    "Age": 66,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Franklin is a retired postal worker who enjoys traveling with his wife and playing golf.",
+    "Top Priorities": ["Pensions", "Infrastructure", "Public Services"],
+    "Pain points": ["Uncertainty about pension benefits", "Deteriorating infrastructure", "Declining public services"]
+  },
+  {
+    "Name": "Clarence Wilson",
+    "Age": 68,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Clarence is a retired factory worker who enjoys reading and spending time with his friends at the local senior center.",
+    "Top Priorities": ["Economy", "Social Security", "Healthcare"],
+    "Pain points": ["Limited job opportunities for seniors", "Concerns about Social Security benefits", "Rising healthcare costs"]
+  },
+  {
+    "Name": "Arthur Simmons",
+    "Age": 70,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Arthur is a retired truck driver who enjoys watching sports and spending time with his dog.",
+    "Top Priorities": ["Transportation", "Veterans Affairs", "Social Security"],
+    "Pain points": ["Lack of public transportation options", "Lack of support for veterans", "Concerns about Social Security benefits"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Dakota Blackbird",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 28000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Dakota is a young woman who lives in Montana and works at a local retail store. She enjoys spending time with her friends and family, and is passionate about preserving her cultural heritage.",
+    "Top Priorities": ["Cultural Preservation", "Affordable Housing", "Environmental Protection"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing", "Racial Discrimination"]
+  },
+  {
+    "Name": "Michael TwoFeathers",
+    "Age": 42,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Construction Worker",
+    "Description": "Michael is a hardworking father of two who lives in Montana with his wife. He is concerned about the future of his children and the quality of education they receive.",
+    "Top Priorities": ["Education", "Job Security", "Healthcare"],
+    "Pain Points": ["Limited Access to Quality Education", "Job Instability", "High Healthcare Costs"]
+  },
+  {
+    "Name": "Aiyana LittleBear",
+    "Age": 31,
+    "Gender": "Non-Binary",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Aiyana is a non-binary individual who lives in Montana and works in customer service. They are passionate about LGBTQ+ rights and environmental issues.",
+    "Top Priorities": ["LGBTQ+ Rights", "Environmental Protection", "Mental Health"],
+    "Pain Points": ["Lack of LGBTQ+ Support", "Limited Mental Health Resources", "Environmental Degradation"]
+  },
+  {
+    "Name": "Evelyn RedCloud",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 21000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired widow who lives in Montana. She is concerned about the well-being of her community and the preservation of her cultural heritage.",
+    "Top Priorities": ["Cultural Preservation", "Healthcare", "Social Security"],
+    "Pain Points": ["Limited Access to Healthcare", "Social Isolation", "Financial Insecurity"]
+  },
+  {
+    "Name": "Joseph WhiteEagle",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Automotive Mechanic",
+    "Description": "Joseph is a skilled mechanic who lives in Montana with his wife. He is concerned about the economy and the availability of good-paying jobs for his community.",
+    "Top Priorities": ["Economic Growth", "Job Opportunities", "Infrastructure"],
+    "Pain Points": ["Limited Job Opportunities", "Economic Inequality", "Aging Infrastructure"]
+  }
+]

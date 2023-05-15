@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Carlos Ramirez",
+    "Age": 28,
+    "Gender": "Male",
+    "Nationality": "Mexican-American",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Carlos is a hardworking individual who enjoys spending time with his friends and family. He is passionate about his community and is involved in local events.",
+    "Top Priorities": ["Affordable housing", "Job security", "Community involvement"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of representation in local government"]
+  },
+  {
+    "Name": "Isabella Torres",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "Puerto Rican",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Isabella is a dedicated mother of two who values education and hard work. She is active in her children's school and volunteers at local events.",
+    "Top Priorities": ["Education", "Family", "Work-life balance"],
+    "Pain points": ["Limited access to quality education", "Lack of affordable childcare", "Difficulty balancing work and family life"]
+  },
+  {
+    "Name": "Miguel Sanchez",
+    "Age": 62,
+    "Gender": "Male",
+    "Nationality": "Cuban-American",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Miguel is a hardworking truck driver who enjoys spending time outdoors. He is concerned about the environment and the future of his community.",
+    "Top Priorities": ["Environmental conservation", "Retirement security", "Healthcare"],
+    "Pain points": ["Limited access to healthcare", "Uncertainty about retirement", "Environmental degradation"]
+  },
+  {
+    "Name": "Sofia Gonzales",
+    "Age": 19,
+    "Gender": "Female",
+    "Nationality": "Dominican-American",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Sofia is a recent high school graduate who is working to save money for college. She is passionate about social justice and is involved in local activism.",
+    "Top Priorities": ["Higher education", "Social justice", "Economic opportunity"],
+    "Pain points": ["Limited access to higher education", "Low wages", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Juan Martinez",
+    "Age": 37,
+    "Gender": "Male",
+    "Nationality": "Colombian-American",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Electrician",
+    "Description": "Juan is a skilled electrician who is dedicated to his family and his work. He is concerned about the economy and the future of his children.",
+    "Top Priorities": ["Economic growth", "Job security", "Family"],
+    "Pain points": ["Economic uncertainty", "Limited job opportunities", "Rising cost of living"]
+  }
+]

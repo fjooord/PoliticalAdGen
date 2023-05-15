@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Lucas Blackfeather",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Lucas is a young man living in Montana who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and the environment.",
+    "Top Priorities": ["Cultural Preservation", "Environmental Conservation"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "Aiyana TwoBears",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Aiyana is a married woman with two children who values education and community involvement. She is active in her local school district and volunteers at various community events.",
+    "Top Priorities": ["Education", "Community Involvement"],
+    "Pain Points": ["Limited Educational Resources", "Lack of Childcare Options"]
+  },
+  {
+    "Name": "Elijah RunningWolf",
+    "Age": 62,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Elijah is a divorced father of three adult children who enjoys fishing and woodworking. He is concerned about the future of his community and the availability of resources for the next generation.",
+    "Top Priorities": ["Economic Development", "Healthcare Access"],
+    "Pain Points": ["Aging Infrastructure", "Limited Healthcare Options"]
+  },
+  {
+    "Name": "Leilani WhiteEagle",
+    "Age": 34,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waitress",
+    "Description": "Leilani is a single mother of a young child who is passionate about art and music. She struggles to make ends meet and is looking for ways to improve her financial situation.",
+    "Top Priorities": ["Financial Stability", "Arts and Culture"],
+    "Pain Points": ["Low Wages", "Lack of Affordable Childcare"]
+  },
+  {
+    "Name": "Nathan RedCloud",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 39000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Nathan is a married man with a teenage son who enjoys hunting and spending time with his family. He is concerned about the impact of climate change on his community and the environment.",
+    "Top Priorities": ["Climate Change", "Family Values"],
+    "Pain Points": ["Rising Cost of Living", "Limited Access to Higher Education"]
+  }
+]

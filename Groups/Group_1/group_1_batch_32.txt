@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Laura Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a young woman living in Montana who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "High cost of living"]
+  },
+  {
+    "Name": "Samantha Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Samantha is a married woman with two children who values family time and community involvement.",
+    "Top Priorities": ["Quality education", "Safe communities", "Economic stability"],
+    "Pain points": ["Rising cost of education", "Lack of affordable housing", "Limited access to quality healthcare"]
+  },
+  {
+    "Name": "Amy Wilson",
+    "Age": 36,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Amy is a dedicated nurse who is passionate about helping others and advocating for better healthcare.",
+    "Top Priorities": ["Affordable healthcare", "Mental health awareness", "Work-life balance"],
+    "Pain points": ["Long work hours", "Emotional stress from work", "Lack of support for mental health"]
+  },
+  {
+    "Name": "Rebecca Martin",
+    "Age": 52,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Rebecca is a widowed woman who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Social Security", "Affordable housing", "Community engagement"],
+    "Pain points": ["Financial insecurity", "Limited access to public transportation", "Lack of social support"]
+  },
+  {
+    "Name": "Emily Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Marketing Coordinator",
+    "Description": "Emily is a recent college graduate who is passionate about social justice and environmental issues.",
+    "Top Priorities": ["Climate change", "Equal pay", "Affordable education"],
+    "Pain points": ["Student loan debt", "Gender pay gap", "Limited job opportunities in her field"]
+  }
+]

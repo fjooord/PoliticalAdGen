@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "John is a hardworking construction worker who lives in Montana. He enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Michael is a retail salesperson living in Montana. He is passionate about supporting local businesses and enjoys hiking in his free time.",
+    "Top Priorities": ["Economic growth", "Education reform", "Support for small businesses"],
+    "Pain points": ["Job insecurity", "Lack of affordable education", "Limited opportunities for career advancement"]
+  },
+  {
+    "Name": "David Williams",
+    "Age": 25,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "David is a young waiter living in Montana. He is interested in pursuing higher education and enjoys playing sports with his friends.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Infrastructure improvements"],
+    "Pain points": ["Student loan debt", "Lack of job opportunities", "Limited public transportation options"]
+  },
+  {
+    "Name": "James Brown",
+    "Age": 55,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "James is an experienced electrician living in Montana. He is married and has two children. He enjoys fishing and spending time with his family.",
+    "Top Priorities": ["Retirement security", "Quality education for his children", "Access to healthcare"],
+    "Pain points": ["Rising healthcare costs", "Uncertain retirement future", "Lack of quality public schools"]
+  },
+  {
+    "Name": "Robert Garcia",
+    "Age": 40,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Robert is a truck driver living in Montana. He is married and has one child. He enjoys spending time with his family and exploring the outdoors.",
+    "Top Priorities": ["Job security", "Affordable housing", "Quality education for his child"],
+    "Pain points": ["Long hours away from home", "Rising cost of living", "Limited access to quality childcare"]
+  }
+]

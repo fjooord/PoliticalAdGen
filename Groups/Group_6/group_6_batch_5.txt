@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Lucas Blackfeather",
+    "Age": 24,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Lucas is a young man living in Montana who enjoys spending time outdoors and participating in cultural events. He is passionate about preserving his heritage and the environment.",
+    "Top Priorities": ["Cultural Preservation", "Environmental Protection", "Affordable Education"],
+    "Pain Points": ["Limited Job Opportunities", "Access to Higher Education", "Racial Discrimination"]
+  },
+  {
+    "Name": "Ava Littlebird",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Ava is a married woman living in Montana with her husband and two children. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Quality Education", "Healthcare Access", "Community Involvement"],
+    "Pain Points": ["Childcare Costs", "Limited Access to Healthcare", "Lack of Representation in Politics"]
+  },
+  {
+    "Name": "Elijah Redcloud",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Elijah is a divorced father of three who enjoys fishing and spending time with his children. He is concerned about the economy and job security.",
+    "Top Priorities": ["Economic Stability", "Job Security", "Retirement Planning"],
+    "Pain Points": ["Financial Struggles", "Limited Job Opportunities", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "Sophia Whitehorse",
+    "Age": 29,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Social Worker",
+    "Description": "Sophia is a dedicated social worker who is passionate about helping her community. She is an advocate for mental health and addiction support services.",
+    "Top Priorities": ["Mental Health Support", "Addiction Services", "Community Development"],
+    "Pain Points": ["Limited Resources", "High Stress Job", "Lack of Support for Social Programs"]
+  },
+  {
+    "Name": "Isaac Twohawks",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Isaac is a retired widower who enjoys spending time with his grandchildren and attending cultural events. He is concerned about the future of his community and the environment.",
+    "Top Priorities": ["Environmental Protection", "Cultural Preservation", "Social Security"],
+    "Pain Points": ["Limited Income", "Healthcare Costs", "Lack of Community Support"]
+  }
+]

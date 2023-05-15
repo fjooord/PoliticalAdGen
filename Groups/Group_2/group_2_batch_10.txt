@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Dorothy Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at a senior center.",
+    "Top Priorities": ["Healthcare", "Social Security", "Community Involvement"],
+    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits"]
+  },
+  {
+    "Name": "Evelyn Martin",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Secretary",
+    "Description": "Evelyn is a widowed retired secretary who enjoys reading and playing bridge with her friends. She is concerned about the future of her small town and the local economy.",
+    "Top Priorities": ["Economic Growth", "Education", "Public Safety"],
+    "Pain Points": ["Declining local businesses", "Limited opportunities for young people"]
+  },
+  {
+    "Name": "Helen Johnson",
+    "Age": 65,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired Teacher",
+    "Description": "Helen is a retired teacher who is passionate about education and the environment. She spends her free time hiking and birdwatching in the beautiful Montana wilderness.",
+    "Top Priorities": ["Education", "Environment", "Healthcare"],
+    "Pain Points": ["Funding for public schools", "Environmental conservation"]
+  },
+  {
+    "Name": "Margaret Davis",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Margaret is a retired retail worker who enjoys crafting and spending time with her pets. She is concerned about the rising cost of living and the availability of affordable housing.",
+    "Top Priorities": ["Affordable Housing", "Cost of Living", "Animal Welfare"],
+    "Pain Points": ["Rising rent prices", "Limited affordable housing options"]
+  },
+  {
+    "Name": "Ruth Wilson",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Ruth is a retired factory worker who enjoys cooking and spending time with her family. She is concerned about the quality of healthcare and the rising cost of prescription medications.",
+    "Top Priorities": ["Healthcare", "Social Security", "Family Values"],
+    "Pain Points": ["Access to quality healthcare", "High prescription drug costs"]
+  }
+]

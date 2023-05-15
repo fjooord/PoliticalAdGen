@@ -1,0 +1,67 @@
+[
+{
+    "Name": "Carlos Rodriguez",
+    "Age": 24,
+    "Gender": "Male",
+    "Nationality": "Hispanic or Latino",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Carlos is a young man who recently moved to Montana for better job opportunities. He enjoys spending time with friends and exploring the outdoors.",
+    "Top Priorities": ["Job Security", "Affordable Housing", "Environmental Conservation"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing", "Language Barrier"]
+},
+{
+    "Name": "Maria Gonzales",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "Hispanic or Latino",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Maria is a married mother of two who values family and education. She is involved in her children's school activities and is an advocate for better educational resources.",
+    "Top Priorities": ["Education", "Healthcare", "Family Support"],
+    "Pain Points": ["Underfunded Schools", "Expensive Healthcare", "Lack of Childcare Options"]
+},
+{
+    "Name": "Juanita Morales",
+    "Age": 62,
+    "Gender": "Female",
+    "Nationality": "Hispanic or Latino",
+    "Income": 22000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Juanita is a retired widow who enjoys gardening and spending time with her grandchildren. She is concerned about the future of Social Security and healthcare.",
+    "Top Priorities": ["Social Security", "Healthcare", "Community Safety"],
+    "Pain Points": ["Inadequate Retirement Savings", "Rising Healthcare Costs", "Crime Rates"]
+},
+{
+    "Name": "Miguel Torres",
+    "Age": 40,
+    "Gender": "Male",
+    "Nationality": "Hispanic or Latino",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate Degree",
+    "Occupation": "Electrician",
+    "Description": "Miguel is a skilled tradesman who values hard work and self-reliance. He is passionate about supporting local businesses and improving infrastructure.",
+    "Top Priorities": ["Economic Growth", "Infrastructure", "Small Business Support"],
+    "Pain Points": ["Lack of Job Growth", "Deteriorating Infrastructure", "High Taxes"]
+},
+{
+    "Name": "Isabella Ramirez",
+    "Age": 19,
+    "Gender": "Female",
+    "Nationality": "Hispanic or Latino",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Student",
+    "Description": "Isabella is a recent high school graduate who is currently attending community college. She is passionate about social justice and climate change.",
+    "Top Priorities": ["Climate Change", "Social Justice", "Affordable Education"],
+    "Pain Points": ["Student Loan Debt", "Lack of Political Representation", "Climate Change Impacts"]
+}
+]

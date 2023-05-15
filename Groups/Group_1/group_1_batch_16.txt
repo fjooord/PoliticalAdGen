@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Amanda Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Amanda is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Bethany Miller",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Bethany is a divorced mother of two teenagers. She is concerned about the quality of education and opportunities available for her children.",
+    "Top Priorities": ["Education reform", "Economic growth", "Childcare support"],
+    "Pain points": ["Struggling to balance work and family", "Concerns about children's future", "Limited resources for single parents"]
+  },
+  {
+    "Name": "Catherine Smith",
+    "Age": 27,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 22000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Catherine is a young married woman working as a waitress. She is interested in pursuing higher education but is concerned about the cost.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Housing affordability"],
+    "Pain points": ["Low income", "Student loan debt", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Diana Brown",
+    "Age": 60,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Diana is a widowed nurse nearing retirement. She is concerned about the future of social security and healthcare.",
+    "Top Priorities": ["Social security", "Medicare", "Retirement planning"],
+    "Pain points": ["Uncertainty about retirement", "Rising healthcare costs", "Concerns about social security benefits"]
+  },
+  {
+    "Name": "Elizabeth Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Elizabeth is a married elementary school teacher who is passionate about education reform and community involvement.",
+    "Top Priorities": ["Education funding", "Community development", "Public safety"],
+    "Pain points": ["Low teacher salary", "Lack of resources for schools", "Concerns about community safety"]
+  }
+]

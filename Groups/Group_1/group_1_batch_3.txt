@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Dorothy Johnson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Dorothy is a retired school teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain points": {
+      "Cost of Living": "Struggling with the rising cost of living on a fixed income",
+      "Isolation": "Feeling isolated in her rural community"
+    }
+  },
+  {
+    "Name": "Evelyn Smith",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired nurse who volunteers at her local community center.",
+    "Top Priorities": {
+      "Healthcare": "Improving healthcare services in rural areas",
+      "Community": "Supporting community programs and services for seniors"
+    },
+    "Pain points": {
+      "Transportation": "Limited access to public transportation",
+      "Access to Services": "Difficulty accessing healthcare and other services in her rural community"
+    }
+  },
+  {
+    "Name": "Marilyn Brown",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Marilyn is a retired administrative assistant who enjoys painting and traveling with her husband.",
+    "Top Priorities": {
+      "Economy": "Creating jobs and economic opportunities in rural areas",
+      "Environment": "Protecting Montana's natural resources and environment"
+    },
+    "Pain points": {
+      "Limited Opportunities": "Concerned about limited job opportunities for her children and grandchildren",
+      "Climate Change": "Worried about the impact of climate change on her community"
+    }
+  },
+  {
+    "Name": "Alice Davis",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Alice is a retired librarian who enjoys reading and participating in her local book club.",
+    "Top Priorities": {
+      "Education": "Supporting quality education for all children",
+      "Social Issues": "Promoting equality and social justice"
+    },
+    "Pain points": {
+      "Education Funding": "Concerned about the lack of funding for public schools",
+      "Social Inequality": "Worried about the growing divide between rich and poor"
+    }
+  },
+  {
+    "Name": "Carol Wilson",
+    "Age": 69,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Carol is a retired factory worker who enjoys spending time with her friends and family.",
+    "Top Priorities": {
+      "Economy": "Supporting policies that promote economic growth and job creation",
+      "Healthcare": "Ensuring access to affordable healthcare for all"
+    },
+    "Pain points": {
+      "Financial Security": "Worried about her financial security in retirement",
+      "Healthcare Costs": "Struggling with the high cost of prescription medications"
+    }
+  }
+]

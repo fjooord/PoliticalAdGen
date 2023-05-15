@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "John is a hardworking construction worker living in Montana. He enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": {
+      "Employment": "Stable job with good benefits",
+      "Education": "Continuing education opportunities"
+    },
+    "Pain points": {
+      "Income": "Struggling to save for the future",
+      "Healthcare": "Limited access to affordable healthcare"
+    }
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retail Manager",
+    "Description": "Michael is a retail manager in Montana, married with two children. He enjoys spending time with his family and watching sports.",
+    "Top Priorities": {
+      "Education": "Quality education for his children",
+      "Economy": "Supporting local businesses"
+    },
+    "Pain points": {
+      "Income": "Managing household expenses",
+      "Retirement": "Saving for retirement"
+    }
+  },
+  {
+    "Name": "David Williams",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waiter",
+    "Description": "David is a young waiter living in Montana. He enjoys hiking and exploring the outdoors.",
+    "Top Priorities": {
+      "Employment": "Finding a higher-paying job",
+      "Environment": "Protecting Montana's natural resources"
+    },
+    "Pain points": {
+      "Income": "Paying off student loans",
+      "Housing": "Finding affordable housing"
+    }
+  },
+  {
+    "Name": "Daniel Brown",
+    "Age": 55,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 43000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate Degree",
+    "Occupation": "Truck Driver",
+    "Description": "Daniel is a truck driver in Montana who enjoys fishing and camping in his free time.",
+    "Top Priorities": {
+      "Transportation": "Improving road infrastructure",
+      "Healthcare": "Access to affordable healthcare"
+    },
+    "Pain points": {
+      "Income": "Managing expenses after divorce",
+      "Retirement": "Planning for retirement"
+    }
+  },
+  {
+    "Name": "James Miller",
+    "Age": 23,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Warehouse Worker",
+    "Description": "James is a warehouse worker in Montana who enjoys playing video games and watching movies.",
+    "Top Priorities": {
+      "Employment": "Job security and benefits",
+      "Education": "Pursuing higher education"
+    },
+    "Pain points": {
+      "Income": "Saving for a car",
+      "Housing": "Living with roommates to afford rent"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 46,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "John is a hardworking construction worker living in Montana. He enjoys the outdoors and values his independence.",
+    "Top Priorities": {
+      "Employment": "Stable job with good working conditions",
+      "Healthcare": "Affordable and accessible healthcare"
+    },
+    "Pain points": {
+      "Economy": "Concerned about job security and wage stagnation",
+      "Environment": "Worried about the impact of climate change on his outdoor hobbies"
+    }
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 29,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Michael is a retail manager in Montana who is married with a young child. He is focused on providing for his family and ensuring their well-being.",
+    "Top Priorities": {
+      "Education": "Quality education for his child",
+      "Economy": "Job stability and opportunities for growth"
+    },
+    "Pain points": {
+      "Healthcare": "Struggles with the high cost of healthcare for his family",
+      "Housing": "Worried about the affordability of housing in his area"
+    }
+  },
+  {
+    "Name": "David Williams",
+    "Age": 53,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Mechanic",
+    "Description": "David is a skilled mechanic in Montana who is divorced and has two grown children. He is passionate about his work and enjoys helping others.",
+    "Top Priorities": {
+      "Retirement": "Saving for a comfortable retirement",
+      "Healthcare": "Access to quality healthcare as he ages"
+    },
+    "Pain points": {
+      "Economy": "Concerned about the future of his industry",
+      "Social Security": "Worried about the stability of social security benefits"
+    }
+  },
+  {
+    "Name": "Brian Taylor",
+    "Age": 34,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Warehouse worker",
+    "Description": "Brian is a warehouse worker in Montana who enjoys spending time with friends and family. He is focused on improving his financial situation.",
+    "Top Priorities": {
+      "Economy": "Better job opportunities and higher wages",
+      "Housing": "Affordable housing options"
+    },
+    "Pain points": {
+      "Financial Security": "Struggles with debt and living paycheck to paycheck",
+      "Healthcare": "Limited access to affordable healthcare"
+    }
+  },
+  {
+    "Name": "Kevin Brown",
+    "Age": 22,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Restaurant server",
+    "Description": "Kevin is a young restaurant server in Montana who is saving up for college. He is passionate about the environment and social issues.",
+    "Top Priorities": {
+      "Education": "Affordable higher education options",
+      "Environment": "Policies to protect the environment and address climate change"
+    },
+    "Pain points": {
+      "Student Loans": "Concerned about the burden of student loan debt",
+      "Job Security": "Worried about the stability of his job in the service industry"
+    }
+  }
+]

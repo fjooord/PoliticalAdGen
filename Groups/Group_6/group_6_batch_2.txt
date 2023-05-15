@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Jacob Running Bear",
+    "Age": 24,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Jacob is a young adult living in Montana. He is passionate about preserving his culture and the environment.",
+    "Top Priorities": ["Cultural Preservation", "Environmental Conservation"],
+    "Pain Points": ["Limited Job Opportunities", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "Aiyana Black Elk",
+    "Age": 36,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Aiyana is a married woman who values family and community. She is involved in local events and organizations.",
+    "Top Priorities": ["Family", "Community Involvement"],
+    "Pain Points": ["Lack of Childcare Options", "Limited Access to Healthcare"]
+  },
+  {
+    "Name": "Elijah Two Feathers",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Elijah is a hardworking individual who enjoys spending time outdoors. He is concerned about the future of his community.",
+    "Top Priorities": ["Economic Stability", "Access to Education"],
+    "Pain Points": ["Job Security", "Lack of Infrastructure"]
+  },
+  {
+    "Name": "Leilani White Horse",
+    "Age": 19,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Leilani is a recent high school graduate who is exploring her options for the future. She is interested in pursuing higher education.",
+    "Top Priorities": ["Higher Education", "Career Development"],
+    "Pain Points": ["Student Loan Debt", "Limited Job Opportunities"]
+  },
+  {
+    "Name": "Michael Red Cloud",
+    "Age": 65,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Michael is a retired elder who is focused on maintaining his health and staying connected with his community.",
+    "Top Priorities": ["Healthcare", "Social Connections"],
+    "Pain Points": ["Limited Access to Healthcare", "Isolation"]
+  }
+]

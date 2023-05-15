@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Dakota Blackbird",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Dakota is a young woman who enjoys spending time outdoors and is passionate about preserving her cultural heritage. She is involved in her local community and attends cultural events regularly.",
+    "Top Priorities": ["Cultural preservation", "Environmental conservation", "Affordable housing"],
+    "Pain points": ["Limited job opportunities", "Lack of representation in politics", "Access to affordable healthcare"]
+  },
+  {
+    "Name": "Michael TwoFeathers",
+    "Age": 45,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Construction Worker",
+    "Description": "Michael is a hardworking family man who values tradition and community. He is concerned about the future of his children and the opportunities available to them.",
+    "Top Priorities": ["Education", "Job security", "Community development"],
+    "Pain points": ["Limited educational resources", "Economic instability", "Lack of cultural understanding"]
+  },
+  {
+    "Name": "Sarah RedCloud",
+    "Age": 31,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Administrative Assistant",
+    "Description": "Sarah is a single mother who is dedicated to providing for her family. She is an active member of her community and is passionate about improving the lives of those around her.",
+    "Top Priorities": ["Childcare", "Healthcare", "Financial stability"],
+    "Pain points": ["Limited access to quality childcare", "High healthcare costs", "Wage inequality"]
+  },
+  {
+    "Name": "Joseph WhiteEagle",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 38000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Joseph is a retired elder who is focused on preserving his culture and passing on his knowledge to the younger generations. He is concerned about the environment and the impact of climate change on his community.",
+    "Top Priorities": ["Cultural preservation", "Environmental protection", "Social security"],
+    "Pain points": ["Loss of cultural identity", "Climate change", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Emily RunningBear",
+    "Age": 19,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Student",
+    "Description": "Emily is a recent high school graduate who is eager to further her education and make a difference in her community. She is passionate about social justice and environmental issues.",
+    "Top Priorities": ["Higher education", "Social justice", "Climate action"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Lack of representation in politics"]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Dorothy Thompson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Dorothy is a retired nurse who enjoys spending time with her grandchildren and volunteering at her local community center.",
+    "Top Priorities": {
+      "Healthcare": "High",
+      "Social Security": "High",
+      "Environment": "Medium"
+    },
+    "Pain points": {
+      "Affordable Healthcare": "High",
+      "Retirement Security": "Medium",
+      "Cost of Living": "Medium"
+    }
+  },
+  {
+    "Name": "Marilyn Johnson",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Marilyn is a widowed retiree who enjoys gardening and spending time with her friends at the local senior center.",
+    "Top Priorities": {
+      "Healthcare": "High",
+      "Social Security": "High",
+      "Community": "Medium"
+    },
+    "Pain points": {
+      "Affordable Healthcare": "High",
+      "Retirement Security": "High",
+      "Social Isolation": "Medium"
+    }
+  },
+  {
+    "Name": "Barbara Mitchell",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Barbara is a married retiree who enjoys traveling with her husband and participating in local community events.",
+    "Top Priorities": {
+      "Healthcare": "High",
+      "Social Security": "High",
+      "Travel": "Medium"
+    },
+    "Pain points": {
+      "Affordable Healthcare": "High",
+      "Retirement Security": "Medium",
+      "Travel Expenses": "Medium"
+    }
+  },
+  {
+    "Name": "Shirley Wilson",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Shirley is a single retiree who enjoys crafting and spending time with her pets.",
+    "Top Priorities": {
+      "Healthcare": "High",
+      "Social Security": "High",
+      "Animal Welfare": "Medium"
+    },
+    "Pain points": {
+      "Affordable Healthcare": "High",
+      "Retirement Security": "High",
+      "Pet Expenses": "Medium"
+    }
+  },
+  {
+    "Name": "Carolyn Smith",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 20000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Teacher",
+    "Description": "Carolyn is a separated retiree who enjoys reading and volunteering at her local library.",
+    "Top Priorities": {
+      "Healthcare": "High",
+      "Social Security": "High",
+      "Education": "Medium"
+    },
+    "Pain points": {
+      "Affordable Healthcare": "High",
+      "Retirement Security": "High",
+      "Access to Quality Education": "Medium"
+    }
+  }
+]

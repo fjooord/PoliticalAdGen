@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Emily Johnson",
+    "Age": 27,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Emily is a young woman living in Montana who enjoys outdoor activities and spending time with her friends. She is politically engaged and interested in local issues.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Environmental Protection": 2,
+      "Education Reform": 3
+    },
+    "Pain Points": {
+      "Student Loan Debt": 1,
+      "Limited Job Opportunities": 2,
+      "High Cost of Living": 3
+    }
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Laura is a dedicated teacher and mother of two who is passionate about education and community involvement. She is concerned about the future of her children and the quality of education in Montana.",
+    "Top Priorities": {
+      "Education Reform": 1,
+      "Childcare Support": 2,
+      "Affordable Housing": 3
+    },
+    "Pain Points": {
+      "Low Teacher Salaries": 1,
+      "Lack of Funding for Schools": 2,
+      "Rising Cost of Childcare": 3
+    }
+  },
+  {
+    "Name": "Hannah Brown",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Hannah is a compassionate nurse who is dedicated to providing quality healthcare to her patients. She is concerned about the accessibility and affordability of healthcare in Montana.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Mental Health Support": 2,
+      "Work-Life Balance": 3
+    },
+    "Pain Points": {
+      "High Healthcare Costs": 1,
+      "Lack of Mental Health Resources": 2,
+      "Long Work Hours": 3
+    }
+  },
+  {
+    "Name": "Olivia Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "Some College",
+    "Occupation": "Waitress",
+    "Description": "Olivia is a hardworking college student who is juggling work and school. She is concerned about the job market and the availability of affordable housing in Montana.",
+    "Top Priorities": {
+      "Job Opportunities": 1,
+      "Affordable Housing": 2,
+      "Student Loan Forgiveness": 3
+    },
+    "Pain Points": {
+      "Student Loan Debt": 1,
+      "Low Wages": 2,
+      "Limited Job Opportunities": 3
+    }
+  },
+  {
+    "Name": "Sophia Miller",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 50000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Office Manager",
+    "Description": "Sophia is a dedicated office manager who is nearing retirement. She is concerned about the financial stability of her family and the availability of social services in Montana.",
+    "Top Priorities": {
+      "Social Security": 1,
+      "Retirement Planning": 2,
+      "Elderly Care": 3
+    },
+    "Pain Points": {
+      "Limited Social Services": 1,
+      "Rising Cost of Living": 2,
+      "Lack of Retirement Savings": 3
+    }
+  }
+]

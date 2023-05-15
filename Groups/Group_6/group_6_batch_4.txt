@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Michael Littlebird",
+    "Age": 28,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Michael is a young man living in Montana who enjoys spending time outdoors and participating in community events. He is passionate about preserving his culture and the environment.",
+    "Top Priorities": ["Cultural preservation", "Environmental conservation", "Affordable housing"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Underrepresentation in politics"]
+  },
+  {
+    "Name": "Sarah Runningbear",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Sarah is a married woman living in Montana with her husband and two children. She is active in her children's school and is an advocate for better educational opportunities for American Indian children.",
+    "Top Priorities": ["Education", "Family", "Healthcare"],
+    "Pain points": ["Lack of quality education for American Indian children", "Limited access to healthcare", "Racial discrimination"]
+  },
+  {
+    "Name": "Thomas Blackfeather",
+    "Age": 62,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Carpenter",
+    "Description": "Thomas is a divorced man living in Montana who enjoys woodworking and fishing. He is concerned about the future of his community and the impact of climate change on his way of life.",
+    "Top Priorities": ["Climate change", "Economic stability", "Retirement security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare", "Concerns about retirement"]
+  },
+  {
+    "Name": "Emily Whitehorse",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Social Worker",
+    "Description": "Emily is a single woman living in Montana who is dedicated to helping others in her community. She is passionate about mental health and addiction recovery.",
+    "Top Priorities": ["Mental health", "Addiction recovery", "Community support"],
+    "Pain points": ["Limited mental health resources", "Stigma surrounding addiction", "Lack of support for American Indian communities"]
+  },
+  {
+    "Name": "David Redcloud",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 39000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "David is a married man living in Montana with his wife and three children. He enjoys spending time with his family and is concerned about the economy and job opportunities for his children.",
+    "Top Priorities": ["Economy", "Job opportunities", "Family"],
+    "Pain points": ["Economic uncertainty", "Limited job opportunities for American Indian youth", "Lack of representation in politics"]
+  }
+]

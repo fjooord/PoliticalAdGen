@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Emily Johnson",
+    "Age": 29,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Emily is a young woman living in a small town in Montana. She enjoys outdoor activities and spending time with her friends and family.",
+    "Top Priorities": ["Affordable healthcare", "Environmental conservation", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Rising cost of living"]
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a single mother of two teenagers living in a suburban area in Montana. She is actively involved in her community and local school.",
+    "Top Priorities": ["Education funding", "Childcare support", "Equal pay for equal work"],
+    "Pain points": ["Balancing work and family life", "Limited access to quality healthcare", "Rising college tuition costs"]
+  },
+  {
+    "Name": "Sarah Brown",
+    "Age": 60,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Sarah is a retired nurse living in a rural area in Montana. She enjoys gardening and volunteering at her local church.",
+    "Top Priorities": ["Social Security", "Medicare", "Rural infrastructure"],
+    "Pain points": ["Limited access to healthcare services", "Isolation from family and friends", "Rising property taxes"]
+  },
+  {
+    "Name": "Hannah Miller",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Hannah is a young woman living in a college town in Montana. She is working part-time while attending community college.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Climate change"],
+    "Pain points": ["Student loan debt", "Lack of affordable housing", "Limited public transportation options"]
+  },
+  {
+    "Name": "Rebecca Davis",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Preschool Teacher",
+    "Description": "Rebecca is a married woman with a young child living in a suburban area in Montana. She is passionate about early childhood education.",
+    "Top Priorities": ["Childcare support", "Early childhood education", "Paid family leave"],
+    "Pain points": ["Low wages in the education field", "Lack of affordable childcare options", "Limited access to quality healthcare"]
+  }
+]

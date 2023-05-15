@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Doris Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Doris is a retired teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain points": {
+      "Cost of Living": "Managing expenses on a fixed income",
+      "Isolation": "Feeling isolated in a rural community"
+    }
+  },
+  {
+    "Name": "Evelyn Martin",
+    "Age": 69,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local church and participating in community events.",
+    "Top Priorities": {
+      "Healthcare": "Affordable prescription medications for seniors",
+      "Community": "Supporting local community programs and events"
+    },
+    "Pain points": {
+      "Transportation": "Limited public transportation options in rural areas",
+      "Housing": "Finding affordable and accessible housing"
+    }
+  },
+  {
+    "Name": "Marilyn Hughes",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 24000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Marilyn is a retired factory worker who enjoys crafting and spending time with her family.",
+    "Top Priorities": {
+      "Economy": "Supporting local businesses and job growth",
+      "Environment": "Protecting natural resources and wildlife in Montana"
+    },
+    "Pain points": {
+      "Healthcare": "Managing chronic health conditions",
+      "Financial Security": "Ensuring financial stability for her family"
+    }
+  },
+  {
+    "Name": "Gloria Adams",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Gloria is a retired administrative assistant who enjoys reading, traveling, and spending time with friends.",
+    "Top Priorities": {
+      "Healthcare": "Access to mental health services for seniors",
+      "Education": "Supporting quality education for her grandchildren"
+    },
+    "Pain points": {
+      "Social Connection": "Maintaining friendships and social connections in a rural area",
+      "Travel": "Limited travel opportunities due to distance and cost"
+    }
+  },
+  {
+    "Name": "Helen Patterson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Helen is a retired store clerk who enjoys cooking, fishing, and spending time outdoors.",
+    "Top Priorities": {
+      "Environment": "Preserving public lands and outdoor recreation opportunities",
+      "Infrastructure": "Improving rural infrastructure, including roads and internet access"
+    },
+    "Pain points": {
+      "Access to Services": "Limited access to shopping and services in rural areas",
+      "Weather": "Adapting to and preparing for extreme weather events"
+    }
+  }
+]

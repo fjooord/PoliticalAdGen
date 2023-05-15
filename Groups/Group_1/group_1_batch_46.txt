@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Amy Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Amy is a friendly and outgoing retail sales associate in a small town in Montana. She enjoys spending time with her friends and family, and is passionate about her community.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Community development"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Rising healthcare costs"]
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a hardworking single mother of two teenagers. She is dedicated to providing a stable life for her children and is active in her local community.",
+    "Top Priorities": ["Education", "Childcare support", "Job security"],
+    "Pain points": ["Balancing work and family", "Limited educational resources", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Samantha Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Samantha is a dedicated and compassionate elementary school teacher. She is married and enjoys spending time outdoors with her husband and their dog.",
+    "Top Priorities": ["Education funding", "Environmental conservation", "Affordable housing"],
+    "Pain points": ["Low teacher salaries", "Limited resources in the classroom", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Rebecca Miller",
+    "Age": 58,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Rebecca is a widowed grandmother who works part-time as a cashier to supplement her retirement income. She is active in her church and enjoys gardening.",
+    "Top Priorities": ["Social Security", "Healthcare", "Community safety"],
+    "Pain points": ["Limited retirement income", "Rising healthcare costs", "Concerns about crime in her community"]
+  },
+  {
+    "Name": "Jennifer White",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "Associate's degree",
+    "Occupation": "Licensed Practical Nurse",
+    "Description": "Jennifer is a dedicated and compassionate licensed practical nurse. She is separated and has one child. She enjoys volunteering at her local animal shelter.",
+    "Top Priorities": ["Healthcare", "Job security", "Animal welfare"],
+    "Pain points": ["Limited job opportunities", "Rising healthcare costs", "Lack of support for animal shelters"]
+  }
+]

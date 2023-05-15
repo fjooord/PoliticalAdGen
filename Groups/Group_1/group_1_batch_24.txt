@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Sarah Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Sarah is a hardworking single mother of two who lives in a small town in Montana. She enjoys spending time outdoors with her children and is involved in her local community.",
+    "Top Priorities": ["Affordable childcare", "Job security", "Access to quality education"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Rising cost of living"]
+  },
+  {
+    "Name": "Emily Smith",
+    "Age": 46,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative assistant",
+    "Description": "Emily is married with three teenage children and lives in a rural area of Montana. She is active in her church and enjoys gardening and hiking with her family.",
+    "Top Priorities": ["Healthcare access", "Environmental conservation", "Community safety"],
+    "Pain points": ["Limited access to healthcare", "Lack of public transportation", "Concerns about climate change"]
+  },
+  {
+    "Name": "Hannah Brown",
+    "Age": 25,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Hannah is a young woman living in a small city in Montana. She is passionate about art and music and hopes to pursue a career in the creative industry.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Support for the arts"],
+    "Pain points": ["Student loan debt", "Limited job opportunities in her field", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Laura Wilson",
+    "Age": 58,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered nurse",
+    "Description": "Laura is a dedicated nurse who has worked in the healthcare industry for over 30 years. She lives in a small town in Montana and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare reform", "Retirement security", "Support for seniors"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security", "Limited access to healthcare in rural areas"]
+  },
+  {
+    "Name": "Olivia Davis",
+    "Age": 40,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Homemaker",
+    "Description": "Olivia is a stay-at-home mom who lives on a small family farm in Montana. She is passionate about sustainable living and is involved in local environmental initiatives.",
+    "Top Priorities": ["Sustainable agriculture", "Clean energy", "Rural development"],
+    "Pain points": ["Declining family farm income", "Lack of support for small businesses", "Environmental degradation"]
+  }
+]

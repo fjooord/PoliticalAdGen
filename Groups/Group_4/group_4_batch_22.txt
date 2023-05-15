@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Access to veterans services"]
+  },
+  {
+    "Name": "Robert Johnson",
+    "Age": 71,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": ["Medicare", "Taxes", "Community Development"],
+    "Pain points": ["Medicare coverage gaps", "Property taxes", "Lack of community resources"]
+  },
+  {
+    "Name": "James Brown",
+    "Age": 68,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "James is a retired teacher who enjoys gardening and traveling with his wife.",
+    "Top Priorities": ["Education", "Environment", "Economy"],
+    "Pain points": ["Education funding", "Climate change", "Economic stability"]
+  },
+  {
+    "Name": "William Davis",
+    "Age": 66,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "William is a retired police officer who enjoys hiking and spending time with his dog.",
+    "Top Priorities": ["Public Safety", "Gun Control", "Animal Welfare"],
+    "Pain points": ["Crime rates", "Gun violence", "Animal abuse"]
+  },
+  {
+    "Name": "Charles Miller",
+    "Age": 70,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Charles is a retired farmer who enjoys reading and spending time with his friends.",
+    "Top Priorities": ["Agriculture", "Infrastructure", "Rural Development"],
+    "Pain points": ["Farm subsidies", "Road maintenance", "Access to rural healthcare"]
+  }
+]

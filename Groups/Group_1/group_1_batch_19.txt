@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Sarah Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Sarah is a hardworking single woman living in Montana. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited job opportunities", "High healthcare costs", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Emily Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Emily is a married woman with two children. She is active in her community and enjoys volunteering at her children's school.",
+    "Top Priorities": ["Education", "Childcare", "Community safety"],
+    "Pain points": ["Balancing work and family", "Rising cost of living", "Limited access to quality education"]
+  },
+  {
+    "Name": "Laura Miller",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Laura is a divorced woman with grown children. She is passionate about healthcare and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare reform", "Retirement security", "Economic stability"],
+    "Pain points": ["Limited access to healthcare", "Uncertain retirement future", "Rising cost of living"]
+  },
+  {
+    "Name": "Hannah Wilson",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Hannah is a young woman who recently graduated from high school. She is saving money to attend college and enjoys spending time with her friends.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Social issues"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Olivia Brown",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Olivia is a married woman with one child. She is dedicated to her career as a teacher and enjoys spending time with her family.",
+    "Top Priorities": ["Education funding", "Work-life balance", "Community involvement"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for education", "Balancing work and family"]
+  }
+]

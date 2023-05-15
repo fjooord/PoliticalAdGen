@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Sarah Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Sarah is a hardworking retail sales associate living in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising healthcare costs", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Emily Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative assistant",
+    "Description": "Emily is a married mother of two who works as an administrative assistant in Montana. She is concerned about her children's education and the future of her community.",
+    "Top Priorities": ["Education", "Economic growth", "Community safety"],
+    "Pain points": ["School funding", "Lack of job opportunities for her children", "Crime rates"]
+  },
+  {
+    "Name": "Laura Wilson",
+    "Age": 26,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Laura is a young graphic designer living in Montana. She is passionate about the arts and is concerned about the lack of cultural opportunities in her area.",
+    "Top Priorities": ["Arts and culture", "Affordable housing", "Job opportunities"],
+    "Pain points": ["Limited cultural events", "High rent prices", "Lack of networking opportunities"]
+  },
+  {
+    "Name": "Rebecca Smith",
+    "Age": 53,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Cashier",
+    "Description": "Rebecca is a divorced mother of three who works as a cashier in Montana. She is concerned about her financial stability and the well-being of her children.",
+    "Top Priorities": ["Financial security", "Healthcare", "Childcare"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare", "Limited childcare options"]
+  },
+  {
+    "Name": "Hannah Brown",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Hannah is a married nurse living in Montana. She is passionate about healthcare and is concerned about the quality of care available in her community.",
+    "Top Priorities": ["Healthcare", "Mental health resources", "Community development"],
+    "Pain points": ["Limited healthcare facilities", "Lack of mental health resources", "Underdeveloped community infrastructure"]
+  }
+]

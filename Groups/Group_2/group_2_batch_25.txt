@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Dorothy Johnson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Dorothy is a retired school teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "As an older individual, Dorothy is concerned about her healthcare and the availability of affordable options.",
+      "Social Security": "Dorothy relies on her social security benefits and wants to ensure they remain stable."
+    },
+    "Pain points": {
+      "Isolation": "Living in a rural area, Dorothy sometimes feels isolated from her community and resources."
+    }
+  },
+  {
+    "Name": "Margaret Brown",
+    "Age": 69,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Margaret is a retired nurse who enjoys volunteering at her local church and spending time with her family.",
+    "Top Priorities": {
+      "Healthcare": "Margaret is concerned about the rising costs of prescription medications and healthcare services.",
+      "Community": "She values her community and wants to see more support for local organizations and events."
+    },
+    "Pain points": {
+      "Transportation": "Margaret struggles with limited public transportation options in her rural area."
+    }
+  },
+  {
+    "Name": "Barbara Wilson",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Barbara is a retired administrative assistant who enjoys reading and traveling with her husband.",
+    "Top Priorities": {
+      "Economy": "Barbara is concerned about the local economy and wants to see more job opportunities for younger generations.",
+      "Environment": "She values the natural beauty of Montana and wants to see more environmental protections in place."
+    },
+    "Pain points": {
+      "Internet Access": "Barbara struggles with limited and unreliable internet access in her rural area."
+    }
+  },
+  {
+    "Name": "Shirley Smith",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Shirley is a retired bank teller who enjoys painting and participating in her local book club.",
+    "Top Priorities": {
+      "Healthcare": "Shirley is concerned about the availability of mental health services in her rural area.",
+      "Education": "She values education and wants to see more support for local schools and libraries."
+    },
+    "Pain points": {
+      "Access to Services": "Shirley struggles with limited access to services and resources in her rural area."
+    }
+  },
+  {
+    "Name": "Carol Davis",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Carol is a retired factory worker who enjoys birdwatching and spending time with her friends.",
+    "Top Priorities": {
+      "Economy": "Carol is concerned about the rising cost of living and wants to see more affordable housing options.",
+      "Healthcare": "She is also worried about the availability of healthcare services in her rural area."
+    },
+    "Pain points": {
+      "Isolation": "Carol sometimes feels isolated from her community and resources due to her rural location."
+    }
+  }
+]

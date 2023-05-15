@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Whitefeather",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "John is a hardworking individual who values his cultural heritage and enjoys spending time outdoors.",
+    "Top Priorities": ["Preserving cultural heritage", "Access to quality education", "Affordable housing"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare", "Underrepresentation in politics"]
+  },
+  {
+    "Name": "Sarah Runningbear",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Office Administrator",
+    "Description": "Sarah is a dedicated mother of two who is passionate about her community and its future.",
+    "Top Priorities": ["Quality education for her children", "Environmental protection", "Community development"],
+    "Pain points": ["Lack of funding for local schools", "Limited access to healthcare", "Racial discrimination"]
+  },
+  {
+    "Name": "David Littlewolf",
+    "Age": 67,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 22000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "David is a retired veteran who enjoys spending time with his grandchildren and advocating for veterans' rights.",
+    "Top Priorities": ["Veterans' rights", "Social Security", "Access to healthcare"],
+    "Pain points": ["Limited access to VA services", "Rising cost of living", "Lack of support for mental health"]
+  },
+  {
+    "Name": "Emily Blackbird",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Social Worker",
+    "Description": "Emily is a recent college graduate who is passionate about helping others and advocating for social justice.",
+    "Top Priorities": ["Mental health awareness", "Equal opportunities", "Affordable housing"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Michael Redcloud",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Electrician",
+    "Description": "Michael is a skilled tradesman who enjoys fishing and spending time with his adult children.",
+    "Top Priorities": ["Economic growth", "Job security", "Retirement planning"],
+    "Pain points": ["Lack of affordable housing", "Rising healthcare costs", "Limited access to quality education"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Emily Johnson",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail salesperson",
+    "Description": "Emily is a young woman living in Montana, working in retail sales. She is a high school graduate and is currently single.",
+    "Top Priorities": ["Affordable housing", "Job security"],
+    "Pain points": ["Low wages", "Limited job opportunities"]
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative assistant",
+    "Description": "Laura is a middle-aged woman living in Montana. She is a divorced mother of two and works as an administrative assistant.",
+    "Top Priorities": ["Healthcare", "Education"],
+    "Pain points": ["Rising healthcare costs", "Limited educational resources"]
+  },
+  {
+    "Name": "Samantha Brown",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary school teacher",
+    "Description": "Samantha is a married woman living in Montana. She has a bachelor's degree and works as an elementary school teacher.",
+    "Top Priorities": ["Education", "Environment"],
+    "Pain points": ["Low teacher salaries", "Environmental concerns"]
+  },
+  {
+    "Name": "Olivia Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Nurse",
+    "Description": "Olivia is a widowed woman living in Montana. She is a high school graduate and works as a nurse.",
+    "Top Priorities": ["Healthcare", "Retirement security"],
+    "Pain points": ["Rising healthcare costs", "Uncertain retirement future"]
+  },
+  {
+    "Name": "Ava Martinez",
+    "Age": 30,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 38000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Ava is a single woman living in Montana. She has an associate's degree and works as a graphic designer.",
+    "Top Priorities": ["Economic growth", "Arts and culture"],
+    "Pain points": ["Lack of creative job opportunities", "Limited cultural events"]
+  }
+]

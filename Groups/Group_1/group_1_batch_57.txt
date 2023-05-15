@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Alyssa Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 34000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Alyssa is a young woman living in Montana who enjoys hiking and spending time outdoors. She is politically engaged and interested in environmental issues.",
+    "Top Priorities": ["Environmental protection", "Affordable healthcare", "Education"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Laura Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a single mother of two teenage children. She is concerned about the future of her children and the quality of education they receive.",
+    "Top Priorities": ["Education", "Childcare support", "Economic stability"],
+    "Pain points": ["Balancing work and family", "Limited access to affordable childcare", "Concerns about children's future"]
+  },
+  {
+    "Name": "Samantha Brown",
+    "Age": 36,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Samantha is a dedicated teacher who is passionate about her job. She is concerned about the state of public education and the resources available to her students.",
+    "Top Priorities": ["Education funding", "Teacher's rights", "Community development"],
+    "Pain points": ["Low teacher salary", "Lack of resources for students", "Overcrowded classrooms"]
+  },
+  {
+    "Name": "Emily Wilson",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a young woman who is working to save money for college. She is interested in politics and wants to see more opportunities for young people in her community.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Minimum wage increase"],
+    "Pain points": ["Struggling to save for college", "Limited job opportunities", "Low wages"]
+  },
+  {
+    "Name": "Rebecca Smith",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 38000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Rebecca is a compassionate nurse who is nearing retirement. She is concerned about healthcare and social security for herself and her community.",
+    "Top Priorities": ["Healthcare reform", "Social security", "Retirement planning"],
+    "Pain points": ["Rising healthcare costs", "Uncertainty about social security benefits", "Planning for retirement"]
+  }
+]

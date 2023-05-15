@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Laura Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Samantha Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Samantha is a divorced mother of two teenagers. She is concerned about the quality of education in her community and the rising cost of living.",
+    "Top Priorities": ["Education", "Economic stability", "Affordable housing"],
+    "Pain points": ["Rising cost of living", "Limited educational resources", "Lack of support for single parents"]
+  },
+  {
+    "Name": "Emily Brown",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a young woman who recently graduated from high school. She is currently working as a waitress while she decides what career path to pursue.",
+    "Top Priorities": ["Job opportunities", "Affordable education", "Mental health support"],
+    "Pain points": ["Uncertainty about the future", "Student loan debt", "Lack of mental health resources"]
+  },
+  {
+    "Name": "Rebecca Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Rebecca is a married woman with grown children. She works as a nurse and is concerned about the state of healthcare in her community.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Community safety"],
+    "Pain points": ["Rising healthcare costs", "Inadequate retirement savings", "Crime rates"]
+  },
+  {
+    "Name": "Jessica Miller",
+    "Age": 27,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Marketing Coordinator",
+    "Description": "Jessica is a young professional living in Montana. She is passionate about social justice and wants to see more diversity and inclusion in her community.",
+    "Top Priorities": ["Social justice", "Economic equality", "Diversity and inclusion"],
+    "Pain points": ["Gender pay gap", "Lack of diversity in the workplace", "Limited access to affordable childcare"]
+  }
+]

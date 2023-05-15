@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 43,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "John is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": {
+      "Employment": "Stable job in the construction industry",
+      "Healthcare": "Affordable healthcare options"
+    },
+    "Pain points": {
+      "Job Security": "Concerned about job stability in the construction industry",
+      "Retirement": "Worries about having enough saved for retirement"
+    }
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Teacher",
+    "Description": "Michael is a dedicated teacher who is passionate about education and making a difference in his students' lives.",
+    "Top Priorities": {
+      "Education": "Improving the quality of education in Montana",
+      "Family": "Starting a family with his wife"
+    },
+    "Pain points": {
+      "Student Loans": "Paying off student loan debt",
+      "Housing": "Finding affordable housing in a good school district"
+    }
+  },
+  {
+    "Name": "David Williams",
+    "Age": 36,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail salesperson",
+    "Description": "David is a friendly retail salesperson who enjoys helping customers find the perfect product.",
+    "Top Priorities": {
+      "Financial Stability": "Improving his financial situation",
+      "Relationships": "Building new relationships after his divorce"
+    },
+    "Pain points": {
+      "Income": "Limited income from his retail job",
+      "Child Support": "Paying child support for his two children"
+    }
+  },
+  {
+    "Name": "James Brown",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Truck driver",
+    "Description": "James is a long-haul truck driver who enjoys the freedom of the open road and providing for his family.",
+    "Top Priorities": {
+      "Retirement": "Saving for a comfortable retirement",
+      "Travel": "Exploring new places with his wife during time off"
+    },
+    "Pain points": {
+      "Health": "Maintaining a healthy lifestyle while on the road",
+      "Work-Life Balance": "Spending enough time with his family"
+    }
+  },
+  {
+    "Name": "Robert Miller",
+    "Age": 22,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Robert is a young fast food worker who is saving up to attend college and pursue a career in computer science.",
+    "Top Priorities": {
+      "Education": "Saving for college tuition",
+      "Career": "Pursuing a career in computer science"
+    },
+    "Pain points": {
+      "Low Income": "Struggling to save money on a fast food worker's salary",
+      "Time Management": "Balancing work and personal life"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Molly Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Salesperson",
+    "Description": "Molly is a friendly and outgoing woman who enjoys her job in retail. She is passionate about the outdoors and spends her free time hiking and camping.",
+    "Top Priorities": {
+      "Affordable Healthcare": 4,
+      "Environmental Protection": 5,
+      "Education": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 3,
+      "High Cost of Living": 2,
+      "Lack of Public Transportation": 1
+    }
+  },
+  {
+    "Name": "Sarah Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Sarah is a hardworking single mother of two who balances her job with taking care of her children. She is involved in her local community and volunteers at her children's school.",
+    "Top Priorities": {
+      "Education": 5,
+      "Affordable Housing": 4,
+      "Job Security": 3
+    },
+    "Pain points": {
+      "Childcare Expenses": 5,
+      "Limited Job Opportunities": 3,
+      "Lack of Affordable Housing": 4
+    }
+  },
+  {
+    "Name": "Emily Davis",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a young woman who is working her way through college. She is passionate about the environment and is studying environmental science.",
+    "Top Priorities": {
+      "Environmental Protection": 5,
+      "Affordable Education": 4,
+      "Job Opportunities": 3
+    },
+    "Pain points": {
+      "Student Loan Debt": 5,
+      "Limited Job Opportunities": 3,
+      "High Cost of Living": 2
+    }
+  },
+  {
+    "Name": "Laura Wilson",
+    "Age": 58,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Laura is a dedicated nurse who has been working in the healthcare industry for over 30 years. She is married and has three grown children.",
+    "Top Priorities": {
+      "Healthcare": 5,
+      "Retirement Security": 4,
+      "Job Security": 3
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": 5,
+      "Limited Job Opportunities": 2,
+      "Lack of Affordable Housing": 1
+    }
+  },
+  {
+    "Name": "Rebecca Smith",
+    "Age": 40,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Rebecca is a dedicated teacher who is passionate about helping her students succeed. She is married and has two children.",
+    "Top Priorities": {
+      "Education": 5,
+      "Affordable Housing": 4,
+      "Job Security": 3
+    },
+    "Pain points": {
+      "Low Teacher Salaries": 5,
+      "Limited Job Opportunities": 3,
+      "Lack of Affordable Housing": 4
+    }
+  }
+]

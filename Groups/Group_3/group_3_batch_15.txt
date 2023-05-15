@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "John is a hardworking individual who lives in Montana. He enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": {
+      "Employment": "Stable job with good benefits",
+      "Education": "Continuing education opportunities",
+      "Community": "Safe and friendly neighborhood"
+    },
+    "Pain points": {
+      "Financial": "Struggling with student loan debt",
+      "Health": "Limited access to affordable healthcare"
+    }
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Michael is a dedicated family man who lives in Montana with his wife and two children. He enjoys spending time with his family and coaching his son's soccer team.",
+    "Top Priorities": {
+      "Family": "Providing a good life for his family",
+      "Education": "Ensuring his children have access to quality education",
+      "Community": "Safe and friendly neighborhood"
+    },
+    "Pain points": {
+      "Financial": "Managing household expenses on a limited budget",
+      "Health": "Finding affordable healthcare for his family"
+    }
+  },
+  {
+    "Name": "David Williams",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "David is a creative individual who lives in Montana. He enjoys hiking, photography, and exploring new places.",
+    "Top Priorities": {
+      "Career": "Advancing in his field",
+      "Education": "Continuing education opportunities",
+      "Environment": "Protecting Montana's natural beauty"
+    },
+    "Pain points": {
+      "Financial": "Paying off student loans",
+      "Health": "Finding affordable healthcare"
+    }
+  },
+  {
+    "Name": "James Brown",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "James is a friendly and hardworking individual who lives in Montana. He enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Family": "Supporting his grandchildren's education",
+      "Community": "Safe and friendly neighborhood",
+      "Retirement": "Saving for a comfortable retirement"
+    },
+    "Pain points": {
+      "Financial": "Living on a limited income",
+      "Health": "Managing chronic health conditions"
+    }
+  },
+  {
+    "Name": "Robert Garcia",
+    "Age": 38,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 29000,
+    "Marital Status": "Married",
+    "Education Level": "Trade school graduate",
+    "Occupation": "Electrician",
+    "Description": "Robert is a skilled tradesman who lives in Montana with his wife. He enjoys working on home improvement projects and volunteering in his community.",
+    "Top Priorities": {
+      "Career": "Growing his business",
+      "Community": "Safe and friendly neighborhood",
+      "Environment": "Promoting clean energy solutions"
+    },
+    "Pain points": {
+      "Financial": "Managing business expenses",
+      "Health": "Finding affordable healthcare"
+    }
+  }
+]

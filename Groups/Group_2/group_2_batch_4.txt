@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Dorothy Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Dorothy is a retired high school teacher who lives in a small town in Montana. She enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "As a senior citizen, Dorothy is concerned about the quality and affordability of healthcare.",
+      "Social Security": "Dorothy relies on her social security benefits to supplement her income."
+    },
+    "Pain points": {
+      "Isolation": "Living in a small town, Dorothy sometimes feels isolated from her friends and family.",
+      "Rising living costs": "Dorothy is concerned about the rising cost of living, especially as it relates to her fixed income."
+    }
+  },
+  {
+    "Name": "Marilyn Johnson",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Marilyn is a retired nurse who lives in a rural area of Montana. She enjoys volunteering at her local community center and spending time with her pets.",
+    "Top Priorities": {
+      "Healthcare": "Marilyn is concerned about the availability and quality of healthcare in her rural community.",
+      "Animal Welfare": "As an animal lover, Marilyn is passionate about animal welfare and supports policies that protect animals."
+    },
+    "Pain points": {
+      "Access to healthcare": "Living in a rural area, Marilyn has limited access to healthcare providers and services.",
+      "Loneliness": "Since her husband passed away, Marilyn has struggled with feelings of loneliness and isolation."
+    }
+  },
+  {
+    "Name": "Susan Miller",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Susan is a retired administrative assistant who lives in a small city in Montana. She enjoys reading, attending local events, and spending time with her friends.",
+    "Top Priorities": {
+      "Economic Stability": "Susan is concerned about the stability of the economy and its impact on her retirement savings.",
+      "Community Development": "Susan is passionate about supporting local businesses and community development initiatives."
+    },
+    "Pain points": {
+      "Limited social opportunities": "Susan sometimes feels that there are limited social opportunities in her small city.",
+      "Rising healthcare costs": "Susan is concerned about the rising cost of healthcare and its impact on her budget."
+    }
+  },
+  {
+    "Name": "Barbara Wilson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Barbara is a retired retail manager who lives in a suburban area of Montana. She enjoys traveling with her husband and spending time with her family.",
+    "Top Priorities": {
+      "Healthcare": "Barbara is concerned about the affordability of healthcare for her and her husband.",
+      "Travel": "Barbara enjoys traveling and is interested in policies that support affordable and accessible travel options for seniors."
+    },
+    "Pain points": {
+      "Limited travel opportunities": "Barbara sometimes feels that there are limited travel opportunities for seniors in her area.",
+      "Rising living costs": "Barbara is concerned about the rising cost of living, especially as it relates to her fixed income."
+    }
+  },
+  {
+    "Name": "Nancy Smith",
+    "Age": 72,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Nancy is a retired factory worker who lives in a small town in Montana. She enjoys crafting, attending local events, and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Nancy is concerned about the quality and affordability of healthcare.",
+      "Social Security": "Nancy relies on her social security benefits to supplement her income."
+    },
+    "Pain points": {
+      "Isolation": "Living in a small town, Nancy sometimes feels isolated from her friends and family.",
+      "Rising living costs": "Nancy is concerned about the rising cost of living, especially as it relates to her fixed income."
+    }
+  }
+]

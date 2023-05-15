@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "John Smith",
+    "Age": 32,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "John is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job Security", "Affordable Healthcare", "Outdoor Recreation"],
+    "Pain points": ["Rising Cost of Living", "Limited Job Opportunities", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "Michael Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retail Manager",
+    "Description": "Michael is a dedicated retail manager who values family time and is actively involved in his local community.",
+    "Top Priorities": ["Education", "Community Safety", "Economic Growth"],
+    "Pain points": ["Rising Taxes", "School Funding", "Crime Rates"]
+  },
+  {
+    "Name": "David Williams",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 41000,
+    "Marital Status": "In a Relationship",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Graphic Designer",
+    "Description": "David is a creative graphic designer who enjoys exploring new technologies and has a passion for environmental issues.",
+    "Top Priorities": ["Environment", "Technology", "Arts and Culture"],
+    "Pain points": ["Climate Change", "Lack of Creative Opportunities", "Digital Divide"]
+  },
+  {
+    "Name": "Daniel Brown",
+    "Age": 53,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Janitor",
+    "Description": "Daniel is a hardworking janitor who values his independence and enjoys spending time with his grown children.",
+    "Top Priorities": ["Social Security", "Healthcare", "Retirement Savings"],
+    "Pain points": ["Low Wages", "Limited Job Benefits", "Rising Healthcare Costs"]
+  },
+  {
+    "Name": "James Miller",
+    "Age": 38,
+    "Gender": "Male",
+    "Nationality": "White",
+    "Income": 46000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Electrician",
+    "Description": "James is a skilled electrician who enjoys working with his hands and is passionate about renewable energy.",
+    "Top Priorities": ["Energy", "Infrastructure", "Job Training"],
+    "Pain points": ["Energy Costs", "Aging Infrastructure", "Lack of Skilled Workers"]
+  }
+]

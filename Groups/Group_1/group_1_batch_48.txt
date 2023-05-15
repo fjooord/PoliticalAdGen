@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Samantha Johnson",
+    "Age": 28,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Samantha is a young woman living in Montana who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable housing", "Job security", "Environmental conservation"],
+    "Pain points": ["Limited job opportunities in her area", "Lack of affordable healthcare options", "Concerns about climate change"]
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a married woman with two children who values family time and is involved in her local community.",
+    "Top Priorities": ["Education", "Healthcare", "Community safety"],
+    "Pain points": ["Rising cost of living", "Concerns about the quality of local schools", "Lack of access to affordable healthcare"]
+  },
+  {
+    "Name": "Rachel Brown",
+    "Age": 60,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Nurse",
+    "Description": "Rachel is a compassionate and dedicated nurse who enjoys helping others and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Social services"],
+    "Pain points": ["Concerns about the future of Social Security", "Rising healthcare costs", "Limited access to affordable housing"]
+  },
+  {
+    "Name": "Emily Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a recent high school graduate who is working to save money for college and enjoys spending time with her friends.",
+    "Top Priorities": ["Higher education", "Job opportunities", "Affordable housing"],
+    "Pain points": ["Student loan debt", "Lack of job opportunities in her area", "Rising cost of living"]
+  },
+  {
+    "Name": "Rebecca Miller",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Rebecca is a married woman with one child who enjoys spending time with her family and volunteering at her local church.",
+    "Top Priorities": ["Family values", "Community involvement", "Job security"],
+    "Pain points": ["Limited access to affordable childcare", "Lack of job opportunities in her area", "Concerns about the quality of local schools"]
+  }
+]

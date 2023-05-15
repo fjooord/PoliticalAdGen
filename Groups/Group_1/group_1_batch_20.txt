@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Laura Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a hardworking single woman living in a small town in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Inadequate public transportation"]
+  },
+  {
+    "Name": "Hannah Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Hannah is a divorced mother of two teenagers. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education funding", "Childcare support", "Economic stability"],
+    "Pain points": ["Rising cost of living", "Lack of affordable childcare", "Limited access to quality education"]
+  },
+  {
+    "Name": "Emily Wilson",
+    "Age": 24,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emily is a young woman working in the service industry. She is saving money to attend college and pursue a career in healthcare.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Job training programs"],
+    "Pain points": ["Student loan debt", "Low wages", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Sarah Miller",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Sarah is a dedicated nurse who has been working in the healthcare industry for over 30 years. She is married and has three grown children.",
+    "Top Priorities": ["Healthcare reform", "Retirement security", "Support for small businesses"],
+    "Pain points": ["Rising healthcare costs", "Uncertain retirement future", "Lack of support for local businesses"]
+  },
+  {
+    "Name": "Megan Davis",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 31000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Stay-at-home mom",
+    "Description": "Megan is a stay-at-home mom with two young children. She is married to a construction worker and is active in her local community.",
+    "Top Priorities": ["Family support programs", "Affordable housing", "Community safety"],
+    "Pain points": ["Limited resources for families", "Rising housing costs", "Concerns about crime and safety"]
+  }
+]

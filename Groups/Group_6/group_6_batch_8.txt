@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Michael Runningbear",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Michael is a young man living in Montana who enjoys spending time outdoors and participating in cultural events.",
+    "Top Priorities": [
+      "Affordable housing",
+      "Cultural preservation",
+      "Environmental protection"
+    ],
+    "Pain points": [
+      "Limited job opportunities",
+      "Lack of affordable healthcare",
+      "Underrepresentation in politics"
+    ]
+  },
+  {
+    "Name": "Samantha Littlebird",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Samantha is a married woman living in Montana who is passionate about community involvement and education.",
+    "Top Priorities": [
+      "Education funding",
+      "Community development",
+      "Healthcare access"
+    ],
+    "Pain points": [
+      "Limited access to quality education",
+      "Lack of affordable childcare",
+      "Racial discrimination"
+    ]
+  },
+  {
+    "Name": "Joseph Blackfeather",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Joseph is a divorced father of two living in Montana who values hard work and providing for his family.",
+    "Top Priorities": [
+      "Job security",
+      "Retirement planning",
+      "Infrastructure improvements"
+    ],
+    "Pain points": [
+      "Physical health concerns",
+      "Limited access to mental health services",
+      "Lack of affordable housing"
+    ]
+  },
+  {
+    "Name": "Rebecca Redcloud",
+    "Age": 60,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 41000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Nurse",
+    "Description": "Rebecca is a widowed woman living in Montana who is dedicated to helping others and advocating for healthcare access.",
+    "Top Priorities": [
+      "Healthcare reform",
+      "Elder care",
+      "Social Security"
+    ],
+    "Pain points": [
+      "Limited access to quality healthcare",
+      "Financial insecurity",
+      "Lack of support for seniors"
+    ]
+  },
+  {
+    "Name": "Daniel Whitehorse",
+    "Age": 42,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 38000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Daniel is a married father of three living in Montana who is focused on providing for his family and maintaining a work-life balance.",
+    "Top Priorities": [
+      "Economic stability",
+      "Family support",
+      "Transportation infrastructure"
+    ],
+    "Pain points": [
+      "Long hours away from home",
+      "Lack of affordable healthcare",
+      "Limited access to quality education for his children"
+    ]
+  }
+]

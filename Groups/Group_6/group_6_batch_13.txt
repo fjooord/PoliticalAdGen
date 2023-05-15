@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Daniel Runningbear",
+    "Age": 27,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Daniel is a young man living in Montana who enjoys spending time outdoors and participating in cultural events.",
+    "Top Priorities": [
+      "Preserving cultural heritage",
+      "Environmental conservation"
+    ],
+    "Pain points": [
+      "Limited job opportunities",
+      "Lack of affordable housing"
+    ]
+  },
+  {
+    "Name": "Samantha Littlebird",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Samantha is a married mother of two who works full-time and is active in her community.",
+    "Top Priorities": [
+      "Education for her children",
+      "Healthcare access"
+    ],
+    "Pain points": [
+      "Balancing work and family life",
+      "Limited access to quality healthcare"
+    ]
+  },
+  {
+    "Name": "Michael Redcloud",
+    "Age": 60,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Michael is a divorced father of three adult children who enjoys fishing and woodworking in his free time.",
+    "Top Priorities": [
+      "Retirement planning",
+      "Access to affordable healthcare"
+    ],
+    "Pain points": [
+      "Physical strain from work",
+      "Limited social connections"
+    ]
+  },
+  {
+    "Name": "Rebecca Whitefeather",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "American Indian",
+    "Income": 38000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Dental Assistant",
+    "Description": "Rebecca is a single woman who enjoys hiking and volunteering at her local animal shelter.",
+    "Top Priorities": [
+      "Career advancement",
+      "Finding a life partner"
+    ],
+    "Pain points": [
+      "Limited dating options",
+      "Student loan debt"
+    ]
+  },
+  {
+    "Name": "Thomas Blackhorse",
+    "Age": 52,
+    "Gender": "Male",
+    "Nationality": "American Indian",
+    "Income": 46000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Truck Driver",
+    "Description": "Thomas is a married father of four who enjoys spending time with his family and attending local sports events.",
+    "Top Priorities": [
+      "Financial stability",
+      "Supporting his children's education"
+    ],
+    "Pain points": [
+      "Long hours away from home",
+      "Rising cost of living"
+    ]
+  }
+]

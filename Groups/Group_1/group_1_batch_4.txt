@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Dorothy Thompson",
+    "Age": 67,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to affordable healthcare for seniors.",
+      "Social Security": "Protecting Social Security benefits for current and future retirees."
+    },
+    "Pain points": {
+      "Rising healthcare costs": "Struggling to afford necessary medications and treatments.",
+      "Limited social activities": "Finding activities and social opportunities for seniors in her community."
+    }
+  },
+  {
+    "Name": "Marilyn Johnson",
+    "Age": 70,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Marilyn is a retired teacher who volunteers at her local library and enjoys painting.",
+    "Top Priorities": {
+      "Education": "Supporting public education and teacher salaries.",
+      "Environment": "Protecting Montana's natural resources and wildlife."
+    },
+    "Pain points": {
+      "Fixed income": "Managing expenses on a fixed income.",
+      "Lack of public transportation": "Limited access to public transportation in her rural community."
+    }
+  },
+  {
+    "Name": "Susan Miller",
+    "Age": 66,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Susan is a retired administrative assistant who enjoys hiking and birdwatching.",
+    "Top Priorities": {
+      "Economy": "Supporting local businesses and job creation.",
+      "Healthcare": "Improving access to mental health services in rural areas."
+    },
+    "Pain points": {
+      "Limited healthcare options": "Difficulty finding specialized healthcare providers in her area.",
+      "Rising property taxes": "Concerned about the impact of rising property taxes on her fixed income."
+    }
+  },
+  {
+    "Name": "Barbara Wilson",
+    "Age": 68,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Barbara is a retired dental hygienist who enjoys quilting and participating in her church community.",
+    "Top Priorities": {
+      "Community": "Supporting local nonprofits and community organizations.",
+      "Public Safety": "Ensuring a safe and secure community for all residents."
+    },
+    "Pain points": {
+      "Isolation": "Feeling isolated and disconnected from friends and family.",
+      "Rising cost of living": "Worried about the rising cost of living in her community."
+    }
+  },
+  {
+    "Name": "Nancy Davis",
+    "Age": 71,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Nancy is a retired factory worker who enjoys fishing and spending time with her family.",
+    "Top Priorities": {
+      "Economy": "Promoting economic growth and job opportunities in her community.",
+      "Veterans": "Supporting veterans and their families."
+    },
+    "Pain points": {
+      "Limited access to healthcare": "Difficulty accessing healthcare services in her rural community.",
+      "Lack of affordable housing": "Concerned about the lack of affordable housing options for her children and grandchildren."
+    }
+  }
+]

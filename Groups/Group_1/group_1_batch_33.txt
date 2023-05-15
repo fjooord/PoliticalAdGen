@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Emily Johnson",
+    "Age": 33,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Emily is a friendly and outgoing retail sales associate in a small town in Montana. She enjoys spending time with her friends and family.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Job Security": 2,
+      "Environmental Conservation": 3
+    },
+    "Pain Points": {
+      "Limited Job Opportunities": 1,
+      "High Healthcare Costs": 2,
+      "Lack of Public Transportation": 3
+    }
+  },
+  {
+    "Name": "Laura Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Laura is a hardworking administrative assistant at a local company in Montana. She is a single mother of two children and enjoys hiking and camping.",
+    "Top Priorities": {
+      "Education": 1,
+      "Childcare Support": 2,
+      "Affordable Housing": 3
+    },
+    "Pain Points": {
+      "Balancing Work and Family": 1,
+      "Limited Childcare Options": 2,
+      "Rising Housing Costs": 3
+    }
+  },
+  {
+    "Name": "Samantha Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Waitress",
+    "Description": "Samantha is a friendly and hardworking waitress at a local diner in Montana. She is married and enjoys spending time outdoors with her husband.",
+    "Top Priorities": {
+      "Job Security": 1,
+      "Affordable Healthcare": 2,
+      "Financial Stability": 3
+    },
+    "Pain Points": {
+      "Low Wages": 1,
+      "Unpredictable Work Schedule": 2,
+      "Lack of Benefits": 3
+    }
+  },
+  {
+    "Name": "Rebecca Miller",
+    "Age": 52,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate Degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Rebecca is a compassionate and dedicated registered nurse in a rural hospital in Montana. She is widowed and enjoys spending time with her grown children and grandchildren.",
+    "Top Priorities": {
+      "Healthcare": 1,
+      "Retirement Security": 2,
+      "Community Safety": 3
+    },
+    "Pain Points": {
+      "Long Work Hours": 1,
+      "Limited Healthcare Resources": 2,
+      "Concerns for Future Financial Stability": 3
+    }
+  },
+  {
+    "Name": "Jessica Davis",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Cashier",
+    "Description": "Jessica is a friendly and reliable cashier at a local grocery store in Montana. She is married with two young children and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education": 1,
+      "Affordable Housing": 2,
+      "Job Security": 3
+    },
+    "Pain Points": {
+      "Limited Job Opportunities": 1,
+      "Rising Housing Costs": 2,
+      "Lack of Benefits": 3
+    }
+  }
+]

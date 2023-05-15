@@ -1,0 +1,67 @@
+[
+{
+    "Name": "Aiden Johnson",
+    "Age": 23,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Aiden is a young, mixed-race individual living in Montana. He enjoys outdoor activities and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable housing", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Concerns about climate change"]
+},
+{
+    "Name": "Maya Thompson",
+    "Age": 35,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Maya is a married, mixed-race woman living in Montana. She is a mother of two and is concerned about the quality of education and healthcare in her community.",
+    "Top Priorities": ["Education", "Healthcare", "Childcare support"],
+    "Pain points": ["Rising healthcare costs", "Limited educational resources", "Lack of affordable childcare"]
+},
+{
+    "Name": "Elijah Martinez",
+    "Age": 42,
+    "Gender": "Non-binary",
+    "Nationality": "American",
+    "Income": 38000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Delivery Driver",
+    "Description": "Elijah is a divorced, mixed-race individual living in Montana. They are passionate about social justice and LGBTQ+ rights.",
+    "Top Priorities": ["LGBTQ+ rights", "Social justice", "Economic equality"],
+    "Pain points": ["Discrimination", "Income inequality", "Lack of legal protections for LGBTQ+ individuals"]
+},
+{
+    "Name": "Olivia Smith",
+    "Age": 28,
+    "Gender": "Female",
+    "Nationality": "American",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Olivia is a single, mixed-race woman living in Montana. She is passionate about the arts and is working towards becoming a professional photographer.",
+    "Top Priorities": ["Arts funding", "Affordable education", "Mental health support"],
+    "Pain points": ["Lack of funding for the arts", "High student loan debt", "Limited mental health resources"]
+},
+{
+    "Name": "Lucas Brown",
+    "Age": 55,
+    "Gender": "Male",
+    "Nationality": "American",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Lucas is a married, mixed-race man living in Montana. He is concerned about the economy and the future of his children.",
+    "Top Priorities": ["Economic growth", "Job creation", "Retirement security"],
+    "Pain points": ["Economic uncertainty", "Concerns about job stability", "Worries about retirement savings"]
+}
+]

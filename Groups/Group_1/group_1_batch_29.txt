@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Laura Johnson",
+    "Age": 29,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Laura is a hardworking individual who enjoys spending time outdoors and exploring the natural beauty of Montana. She is passionate about environmental conservation and local community issues.",
+    "Top Priorities": ["Environmental conservation", "Affordable healthcare", "Local community issues"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Insufficient public transportation"]
+  },
+  {
+    "Name": "Emily Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Emily is a dedicated mother of two who is actively involved in her children's education and extracurricular activities. She is concerned about the quality of education and the availability of resources for her children.",
+    "Top Priorities": ["Quality education", "Childcare support", "Economic stability"],
+    "Pain points": ["Rising cost of living", "Limited access to quality healthcare", "Lack of support for single parents"]
+  },
+  {
+    "Name": "Samantha Miller",
+    "Age": 22,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Samantha is a young adult who is passionate about social justice and equality. She is currently saving money to attend college and is interested in pursuing a career in social work.",
+    "Top Priorities": ["Social justice", "Affordable education", "Mental health support"],
+    "Pain points": ["Student loan debt", "Lack of affordable mental health resources", "Income inequality"]
+  },
+  {
+    "Name": "Rebecca Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Rebecca is a dedicated teacher who is passionate about providing a quality education to her students. She is also a mother and is concerned about the future of her children in a rapidly changing world.",
+    "Top Priorities": ["Quality education", "Environmental sustainability", "Economic opportunity"],
+    "Pain points": ["Low teacher salaries", "Lack of funding for education", "Climate change"]
+  },
+  {
+    "Name": "Jessica Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Nationality": "White",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Jessica is a compassionate healthcare professional who is dedicated to providing quality care to her patients. She is concerned about the state of healthcare in the United States and the impact it has on her community.",
+    "Top Priorities": ["Affordable healthcare", "Elderly care", "Community safety"],
+    "Pain points": ["Rising healthcare costs", "Lack of access to quality healthcare", "Opioid crisis"]
+  }
+]
