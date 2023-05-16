@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired teacher who enjoys gardening and volunteering at her local community center.",
-    "Top Priorities": {
-      "Healthcare": "Dorothy is concerned about the rising costs of healthcare and prescription drugs.",
-      "Social Security": "She wants to ensure that her Social Security benefits are protected."
-    },
-    "Pain Points": {
-      "Isolation": "Dorothy sometimes feels isolated living in a rural area.",
-      "Limited Services": "She struggles with limited access to healthcare and other services in her community."
-    }
-  },
-  {
-    "Name": "Evelyn Martin",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Robert Anderson",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys spending time with her grandchildren and attending church.",
-    "Top Priorities": {
-      "Medicare": "Evelyn wants to ensure that Medicare remains solvent and accessible.",
-      "Community": "She is interested in supporting local initiatives to improve her community."
-    },
-    "Pain Points": {
-      "Transportation": "Evelyn has difficulty accessing reliable transportation.",
-      "Affordable Housing": "She is concerned about the lack of affordable housing options for seniors in her area."
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Robert is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Lack of job opportunities", "Rising cost of living", "Limited access to healthcare services"]
   },
   {
-    "Name": "Helen Johnson",
-    "Age": 72,
-    "Gender": "Female",
+    "Name": "Ryan Thompson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
+    "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired",
-    "Description": "Helen is a retired librarian who enjoys reading, knitting, and spending time with her family.",
-    "Top Priorities": {
-      "Education": "Helen is passionate about supporting public education and literacy programs.",
-      "Environment": "She is concerned about the impact of climate change on future generations."
-    },
-    "Pain Points": {
-      "Rising Costs": "Helen is worried about the rising costs of living, especially for seniors.",
-      "Access to Healthcare": "She has experienced difficulty accessing specialized healthcare services in her area."
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Ryan is a dedicated family man who values education and community involvement.",
+    "Top Priorities": ["Quality education for his children", "Community safety", "Economic growth"],
+    "Pain points": ["School budget cuts", "Crime rates", "Stagnant local economy"]
   },
   {
-    "Name": "Margaret Wilson",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Richard Johnson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Richard is a creative professional who enjoys exploring new technologies and trends.",
+    "Top Priorities": ["Career advancement", "Access to technology", "Environmental sustainability"],
+    "Pain points": ["Limited job market", "Lack of public transportation", "Climate change"]
+  },
+  {
+    "Name": "Roger Williams",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "Roger is a resilient individual who values hard work and perseverance.",
+    "Top Priorities": ["Financial stability", "Affordable healthcare", "Social security"],
+    "Pain points": ["Low wages", "High healthcare costs", "Uncertain retirement future"]
+  },
+  {
+    "Name": "Raymond Martinez",
+    "Age": 40,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Margaret is a retired factory worker who enjoys painting and spending time outdoors.",
-    "Top Priorities": {
-      "Economy": "Margaret is concerned about the local economy and job opportunities for younger generations.",
-      "Social Services": "She wants to ensure that social services are adequately funded and accessible."
-    },
-    "Pain Points": {
-      "Limited Income": "Margaret struggles to make ends meet on her limited income.",
-      "Lack of Activities": "She wishes there were more social and recreational activities for seniors in her community."
-    }
-  },
-  {
-    "Name": "Ruth Davis",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Ruth is a retired retail worker who enjoys cooking, playing cards, and spending time with friends.",
-    "Top Priorities": {
-      "Affordable Healthcare": "Ruth is concerned about the affordability of healthcare and insurance.",
-      "Senior Services": "She wants to see more investment in senior services and programs."
-    },
-    "Pain Points": {
-      "Financial Security": "Ruth worries about her financial security and the rising costs of living.",
-      "Access to Services": "She has experienced difficulty accessing necessary services in her rural community."
-    }
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Raymond is a dedicated worker who enjoys traveling and spending time with his family.",
+    "Top Priorities": ["Job security", "Infrastructure improvements", "Access to affordable childcare"],
+    "Pain points": ["Long hours away from home", "Poor road conditions", "High childcare costs"]
   }
 ]

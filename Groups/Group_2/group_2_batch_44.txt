@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Paul Adams",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Paul is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Patrick Allen",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Patrick is a dedicated retail manager who values family time and is active in his local community.",
+    "Top Priorities": ["Education for his children", "Job stability", "Retirement savings"],
+    "Pain points": ["Lack of job growth", "Inadequate public schools", "Insufficient retirement savings"]
+  },
+  {
+    "Name": "Parker Anderson",
+    "Age": 34,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Parker is an automotive technician who enjoys working on cars and spending time with his dog.",
+    "Top Priorities": ["Job satisfaction", "Financial stability", "Personal growth"],
+    "Pain points": ["Limited career advancement", "Financial stress", "Lack of support network"]
+  },
+  {
+    "Name": "Paxton Armstrong",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "Paxton is a young waiter who is saving up to attend college and enjoys playing sports in his free time.",
+    "Top Priorities": ["Higher education", "Financial independence", "Social life"],
+    "Pain points": ["Low-paying job", "Student loan debt", "Limited social opportunities"]
+  },
+  {
+    "Name": "Pablo Atkins",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Accountant",
+    "Description": "Pablo is an experienced accountant who enjoys gardening and volunteering at his local church.",
+    "Top Priorities": ["Financial security", "Community involvement", "Health and wellness"],
+    "Pain points": ["Loneliness", "Rising healthcare costs", "Concerns about retirement"]
+  }
+]

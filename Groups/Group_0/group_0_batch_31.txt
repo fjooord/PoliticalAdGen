@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Brianna Thompson",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Brianna is a young woman living in Montana. She works in retail and enjoys spending her free time hiking and exploring the outdoors.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Environmental Protection": 2,
+      "Education": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "Student Loan Debt": 2,
+      "High Insurance Premiums": 3
+    }
+  },
+  {
+    "Name": "Brandy Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Brandy is a married woman living in Montana with her husband and two children. She works as an administrative assistant and is active in her local community.",
+    "Top Priorities": {
+      "Education": 1,
+      "Affordable Housing": 2,
+      "Healthcare": 3
+    },
+    "Pain points": {
+      "Rising Cost of Living": 1,
+      "Limited Access to Quality Education": 2,
+      "Lack of Affordable Childcare": 3
+    }
+  },
+  {
+    "Name": "Bridget Martinez",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Bridget is a divorced woman living in Montana. She works as a nurse and is passionate about healthcare and helping others.",
+    "Top Priorities": {
+      "Healthcare": 1,
+      "Mental Health Services": 2,
+      "Community Safety": 3
+    },
+    "Pain points": {
+      "Lack of Mental Health Resources": 1,
+      "High Cost of Healthcare": 2,
+      "Limited Support for Single Parents": 3
+    }
+  },
+  {
+    "Name": "Brooke Wilson",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Brooke is a young woman living in Montana. She works as a waitress and is currently saving up to attend college.",
+    "Top Priorities": {
+      "Affordable Education": 1,
+      "Job Opportunities": 2,
+      "Environmental Protection": 3
+    },
+    "Pain points": {
+      "Low Wages": 1,
+      "Limited Job Opportunities": 2,
+      "High Cost of Education": 3
+    }
+  },
+  {
+    "Name": "Brittany Smith",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 38000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Teacher",
+    "Description": "Brittany is a widowed woman living in Montana. She works as a teacher and is dedicated to improving the education system for future generations.",
+    "Top Priorities": {
+      "Education": 1,
+      "Retirement Security": 2,
+      "Healthcare": 3
+    },
+    "Pain points": {
+      "Limited Retirement Savings": 1,
+      "High Cost of Healthcare": 2,
+      "Lack of Support for Widows": 3
+    }
+  }
+]

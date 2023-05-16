@@ -1,67 +1,97 @@
 [
   {
-    "Name": "Emily Johnson",
-    "Age": 24,
+    "Name": "Olivia Owens",
+    "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 32000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retail salesperson",
-    "Description": "Emily is a young woman living in Montana, working in retail sales. She is a high school graduate and is currently single.",
-    "Top Priorities": ["Affordable housing", "Job security"],
-    "Pain points": ["Low wages", "Limited job opportunities"]
-  },
-  {
-    "Name": "Laura Smith",
-    "Age": 45,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 48000,
+    "Income": 35000,
     "Marital Status": "Divorced",
-    "Education Level": "Some college",
-    "Occupation": "Administrative assistant",
-    "Description": "Laura is a middle-aged woman living in Montana. She is a divorced mother of two and works as an administrative assistant.",
-    "Top Priorities": ["Healthcare", "Education"],
-    "Pain points": ["Rising healthcare costs", "Limited educational resources"]
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Olivia is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain points": {
+      "Rising living costs": "Struggling to maintain her lifestyle on a fixed income",
+      "Lack of public transportation": "Limited mobility due to lack of public transportation options in her area"
+    }
   },
   {
-    "Name": "Samantha Brown",
-    "Age": 35,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Elementary school teacher",
-    "Description": "Samantha is a married woman living in Montana. She has a bachelor's degree and works as an elementary school teacher.",
-    "Top Priorities": ["Education", "Environment"],
-    "Pain points": ["Low teacher salaries", "Environmental concerns"]
-  },
-  {
-    "Name": "Olivia Davis",
-    "Age": 55,
+    "Name": "Odette O'Brien",
+    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Widowed",
-    "Education Level": "High school graduate",
-    "Occupation": "Nurse",
-    "Description": "Olivia is a widowed woman living in Montana. She is a high school graduate and works as a nurse.",
-    "Top Priorities": ["Healthcare", "Retirement security"],
-    "Pain points": ["Rising healthcare costs", "Uncertain retirement future"]
+    "Education Level": "Some College",
+    "Occupation": "Retired Teacher",
+    "Description": "Odette is a retired teacher who enjoys reading, traveling, and spending time with her friends. She is concerned about the environment and supports local conservation efforts.",
+    "Top Priorities": {
+      "Education": "Improving the quality of education in Montana",
+      "Environment": "Protecting Montana's natural resources and wildlife"
+    },
+    "Pain points": {
+      "Isolation": "Feeling isolated in her rural community",
+      "Limited access to healthcare": "Difficulty accessing specialized healthcare services"
+    }
   },
   {
-    "Name": "Ava Martinez",
-    "Age": 30,
+    "Name": "Ophelia Osborne",
+    "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 38000,
+    "Income": 25000,
     "Marital Status": "Single",
-    "Education Level": "Associate's degree",
-    "Occupation": "Graphic designer",
-    "Description": "Ava is a single woman living in Montana. She has an associate's degree and works as a graphic designer.",
-    "Top Priorities": ["Economic growth", "Arts and culture"],
-    "Pain points": ["Lack of creative job opportunities", "Limited cultural events"]
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Factory Worker",
+    "Description": "Ophelia is a retired factory worker who enjoys crafting and watching classic movies. She is concerned about the economy and job opportunities for younger generations.",
+    "Top Priorities": {
+      "Economy": "Creating jobs and supporting local businesses",
+      "Affordable Housing": "Ensuring affordable housing options for seniors"
+    },
+    "Pain points": {
+      "Rising healthcare costs": "Struggling to afford necessary medications and treatments",
+      "Lack of social services": "Limited access to social services and support programs"
+    }
+  },
+  {
+    "Name": "Opal O'Connell",
+    "Age": 66,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Opal is a retired administrative assistant who enjoys hiking and birdwatching. She is passionate about preserving Montana's natural beauty and supports local environmental initiatives.",
+    "Top Priorities": {
+      "Environment": "Promoting sustainable practices and protecting public lands",
+      "Infrastructure": "Improving roads and bridges in rural areas"
+    },
+    "Pain points": {
+      "Limited access to technology": "Difficulty accessing high-speed internet in her rural community",
+      "Rising property taxes": "Concerned about the impact of rising property taxes on her fixed income"
+    }
+  },
+  {
+    "Name": "Oriana O'Donnell",
+    "Age": 68,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Retail Worker",
+    "Description": "Oriana is a retired retail worker who enjoys cooking and spending time with her family. She is concerned about the rising cost of living and the availability of affordable housing.",
+    "Top Priorities": {
+      "Affordable Housing": "Increasing the availability of affordable housing options",
+      "Social Services": "Expanding social services and support programs for seniors"
+    },
+    "Pain points": {
+      "Rising cost of living": "Struggling to make ends meet on her fixed income",
+      "Limited access to healthcare": "Difficulty finding affordable and accessible healthcare services"
+    }
   }
 ]

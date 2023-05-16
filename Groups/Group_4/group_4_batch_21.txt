@@ -1,92 +1,97 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 68,
+    "Name": "Victor Anderson",
+    "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Description": "Victor is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "John relies on his social security benefits and wants to ensure they remain stable."
+      "Healthcare": "Victor is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "Victor relies on Social Security for his income and wants to ensure its stability."
     },
     "Pain points": {
-      "Retirement Savings": "John worries about the future of his retirement savings and whether they will be enough to support him."
+      "Retirement": "Victor worries about the financial security of his retirement.",
+      "Isolation": "Victor sometimes feels isolated living in a rural area."
     }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "Vincent Miller",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
+    "Description": "Vincent is a retired mechanic who enjoys woodworking and volunteering at his local church.",
     "Top Priorities": {
-      "Veterans Affairs": "Robert is a veteran and wants to see improvements in the care and support provided to veterans.",
-      "Medicare": "Robert relies on Medicare and wants to ensure it remains a strong program."
+      "Veterans Affairs": "Vincent is a Vietnam War veteran and wants to see better support for veterans.",
+      "Infrastructure": "Vincent believes in the importance of maintaining and improving local infrastructure."
     },
     "Pain points": {
-      "Isolation": "Robert struggles with feelings of isolation and loneliness since the passing of his wife."
+      "Loss": "Vincent struggles with the loss of his wife and finding new social connections.",
+      "Transportation": "Vincent has limited access to public transportation and relies on his car."
     }
   },
   {
-    "Name": "James Brown",
-    "Age": 67,
+    "Name": "Vernon Smith",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and spending time with his wife.",
+    "Description": "Vernon is a retired teacher who enjoys gardening and hiking with his wife.",
     "Top Priorities": {
-      "Education": "James is passionate about education and wants to see improvements in the public school system.",
-      "Environment": "James is concerned about climate change and wants to see more action taken to protect the environment."
+      "Education": "Vernon is passionate about improving the quality of education in his community.",
+      "Environment": "Vernon is concerned about the impact of climate change on future generations."
     },
     "Pain points": {
-      "Health": "James has some health issues and worries about the accessibility and affordability of healthcare."
+      "Health": "Vernon has some health issues and is concerned about access to quality healthcare.",
+      "Taxes": "Vernon is worried about the increasing property taxes in his area."
     }
   },
   {
-    "Name": "William Davis",
+    "Name": "Virgil Johnson",
     "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 25000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired factory worker who enjoys playing cards and watching sports.",
+    "Description": "Virgil is a retired farmer who enjoys reading and spending time with his dog.",
     "Top Priorities": {
-      "Economy": "William is concerned about the state of the economy and wants to see more job opportunities for younger generations.",
-      "Infrastructure": "William believes that improvements to infrastructure, such as roads and bridges, are important for the country's growth."
+      "Agriculture": "Virgil is concerned about the future of small family farms and sustainable agriculture.",
+      "Gun Rights": "Virgil is a strong supporter of the Second Amendment and gun rights."
     },
     "Pain points": {
-      "Housing": "William struggles to find affordable housing in his area and worries about being priced out of his community."
+      "Economy": "Virgil is worried about the local economy and job opportunities for younger generations.",
+      "Loneliness": "Virgil struggles with loneliness and finding social activities in his rural community."
     }
   },
   {
-    "Name": "Charles Wilson",
-    "Age": 66,
+    "Name": "Vance Wilson",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 20000,
+    "Income": 30000,
     "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired postal worker who enjoys reading and spending time with his dog.",
+    "Description": "Vance is a retired truck driver who enjoys playing cards and watching sports.",
     "Top Priorities": {
-      "Social Services": "Charles believes in the importance of social services, such as food assistance and housing support, for those in need.",
-      "Animal Welfare": "Charles is passionate about animal welfare and wants to see stronger laws protecting animals."
+      "Economy": "Vance wants to see policies that promote economic growth and job creation.",
+      "Immigration": "Vance believes in strong border security and immigration reform."
     },
     "Pain points": {
-      "Financial Security": "Charles struggles to make ends meet on his limited income and worries about his financial security."
+      "Housing": "Vance is concerned about the affordability of housing in his area.",
+      "Divorce": "Vance is going through a difficult separation and is navigating the legal process."
     }
   }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Ronald Rogers",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Ronald is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Roland Richards",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Roland is a family man who is passionate about cars and enjoys spending time with his wife and two children.",
+    "Top Priorities": ["Quality education for his children", "Job security", "Retirement savings"],
+    "Pain points": ["Concerns about public school quality", "Uncertain job market", "Lack of retirement savings"]
+  },
+  {
+    "Name": "Roger Patterson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Roger is a friendly and outgoing individual who enjoys socializing and meeting new people.",
+    "Top Priorities": ["Career advancement", "Affordable housing", "Social life"],
+    "Pain points": ["Limited career growth opportunities", "High rent prices", "Lack of social events in the area"]
+  },
+  {
+    "Name": "Roberto Wallace",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Roberto is a dedicated professional who values organization and efficiency in both his work and personal life.",
+    "Top Priorities": ["Financial stability", "Health and wellness", "Community involvement"],
+    "Pain points": ["Concerns about job security", "Rising healthcare costs", "Limited community engagement opportunities"]
+  },
+  {
+    "Name": "Robin Hayes",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Warehouse worker",
+    "Description": "Robin is a quiet and introspective individual who enjoys reading and spending time in nature.",
+    "Top Priorities": ["Job stability", "Access to public services", "Environmental conservation"],
+    "Pain points": ["Lack of job security", "Limited access to public services", "Concerns about environmental degradation"]
+  }
+]

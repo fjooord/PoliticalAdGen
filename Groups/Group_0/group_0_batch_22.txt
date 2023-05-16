@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Wendy Wilson",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Wendy is a friendly and outgoing retail sales associate who enjoys helping customers find what they need. She lives in a small apartment in Montana and enjoys spending her free time hiking and exploring the outdoors.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Job Security": 2,
+      "Environmental Protection": 3
+    },
+    "Pain points": {
+      "Rising Cost of Living": 1,
+      "Limited Job Opportunities": 2,
+      "Lack of Affordable Housing": 3
+    }
+  },
+  {
+    "Name": "Whitney Walker",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Whitney is a dedicated elementary school teacher who is passionate about making a difference in the lives of her students. She lives with her husband in Montana and enjoys spending her free time volunteering at local community events.",
+    "Top Priorities": {
+      "Education Funding": 1,
+      "Childcare Support": 2,
+      "Community Development": 3
+    },
+    "Pain points": {
+      "Low Teacher Salaries": 1,
+      "Lack of Resources for Schools": 2,
+      "Limited Access to Quality Childcare": 3
+    }
+  },
+  {
+    "Name": "Wanda Watson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Wanda is a compassionate registered nurse who works long hours at a local hospital. She lives in Montana and enjoys spending her free time gardening and taking care of her two dogs.",
+    "Top Priorities": {
+      "Healthcare Reform": 1,
+      "Mental Health Support": 2,
+      "Animal Welfare": 3
+    },
+    "Pain points": {
+      "High Healthcare Costs": 1,
+      "Long Work Hours": 2,
+      "Limited Mental Health Resources": 3
+    }
+  },
+  {
+    "Name": "Willow White",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Some college",
+    "Occupation": "Barista",
+    "Description": "Willow is a creative and hardworking barista who is working her way through college. She lives in Montana and enjoys spending her free time painting and attending local art events.",
+    "Top Priorities": {
+      "Student Loan Forgiveness": 1,
+      "Affordable Education": 2,
+      "Arts and Culture Funding": 3
+    },
+    "Pain points": {
+      "High Student Loan Debt": 1,
+      "Low Wages": 2,
+      "Limited Access to Arts and Culture": 3
+    }
+  },
+  {
+    "Name": "Winona Wright",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Office Manager",
+    "Description": "Winona is a detail-oriented office manager who takes pride in keeping her workplace running smoothly. She lives in Montana and enjoys spending her free time reading and attending book club meetings.",
+    "Top Priorities": {
+      "Social Security": 1,
+      "Retirement Planning": 2,
+      "Support for Small Businesses": 3
+    },
+    "Pain points": {
+      "Financial Insecurity": 1,
+      "Lack of Retirement Savings": 2,
+      "Limited Support for Small Businesses": 3
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Tommy O'Reilly",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Tommy is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Tony O'Connell",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Sales representative",
+    "Description": "Tony is a dedicated sales representative who enjoys spending time with his family and coaching his son's soccer team.",
+    "Top Priorities": ["Education funding", "Job security", "Retirement planning"],
+    "Pain points": ["Uncertain job market", "Rising cost of education", "Lack of retirement savings"]
+  },
+  {
+    "Name": "Toby O'Malley",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail associate",
+    "Description": "Toby is a friendly retail associate who enjoys playing video games and exploring new music.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Low wages", "Rising rent prices", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Todd O'Brien",
+    "Age": 54,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Mechanic",
+    "Description": "Todd is a skilled mechanic who enjoys working on classic cars and spending time with his grandchildren.",
+    "Top Priorities": ["Job security", "Retirement planning", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Torin O'Sullivan",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Warehouse worker",
+    "Description": "Torin is a hardworking warehouse worker who enjoys hiking and spending time with his dog.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  }
+]

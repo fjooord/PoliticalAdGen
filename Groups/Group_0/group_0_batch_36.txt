@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Deanna Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Deanna is a hardworking single woman living in Montana. She enjoys spending time outdoors and values her independence.",
+    "Top Priorities": ["Affordable housing", "Job security"],
+    "Pain points": ["Limited career growth opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Deborah Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Deborah is a divorced mother of two living in Montana. She is focused on providing for her children and ensuring they have a good education.",
+    "Top Priorities": ["Education", "Childcare support"],
+    "Pain points": ["Balancing work and family life", "Limited financial resources"]
+  },
+  {
+    "Name": "Desiree Brown",
+    "Age": 26,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Desiree is a young married woman living in Montana. She is passionate about her career and enjoys exploring the outdoors with her husband.",
+    "Top Priorities": ["Career growth", "Environmental conservation"],
+    "Pain points": ["Student loan debt", "Lack of public transportation options"]
+  },
+  {
+    "Name": "Delilah Davis",
+    "Age": 60,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Delilah is a widowed retiree living in Montana. She enjoys spending time with her grandchildren and volunteering in her community.",
+    "Top Priorities": ["Healthcare", "Social Security"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare services"]
+  },
+  {
+    "Name": "Destiny Miller",
+    "Age": 19,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Destiny is a young single woman living in Montana. She is currently working part-time while attending community college.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase"],
+    "Pain points": ["Lack of job opportunities", "High cost of college tuition"]
+  }
+]

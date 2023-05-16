@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Nathan Smith",
+    "Age": 34,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Dorothy is a retired nurse who enjoys spending time with her grandchildren and volunteering at her local church.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting Social Security benefits"
-    },
-    "Pain Points": {
-      "Cost of Living": "Struggling with the rising cost of living on a fixed income",
-      "Isolation": "Feeling isolated in her rural community"
-    }
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Nathan is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare services", "Concerns about job stability"]
   },
   {
-    "Name": "Marilyn Johnson",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Nolan Johnson",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Teacher",
-    "Description": "Marilyn is a widowed retired teacher who enjoys gardening and participating in her local book club.",
-    "Top Priorities": {
-      "Education": "Improving the quality of education in rural areas",
-      "Environment": "Protecting the environment and natural resources"
-    },
-    "Pain Points": {
-      "Lack of Services": "Limited access to healthcare and other services in her rural community",
-      "Loneliness": "Coping with loneliness after the loss of her spouse"
-    }
-  },
-  {
-    "Name": "Susan Miller",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Administrative Assistant",
-    "Description": "Susan is a married retired administrative assistant who enjoys traveling with her husband and attending community events.",
-    "Top Priorities": {
-      "Economy": "Supporting local businesses and job growth",
-      "Infrastructure": "Improving infrastructure in rural areas"
-    },
-    "Pain Points": {
-      "Limited Opportunities": "Concern for her children and grandchildren's limited opportunities in her rural community",
-      "Healthcare": "Navigating the complexities of Medicare"
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail sales associate",
+    "Description": "Nolan is a friendly and outgoing person who enjoys spending time with his wife and their dog.",
+    "Top Priorities": ["Affordable housing", "Access to quality education", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Lack of affordable housing options", "Limited job growth in the area"]
   },
   {
-    "Name": "Barbara Wilson",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Neil Thompson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Barbara is a single retired factory worker who enjoys crafting and spending time with her friends.",
-    "Top Priorities": {
-      "Social Security": "Ensuring the stability of Social Security",
-      "Affordable Housing": "Increasing the availability of affordable housing for seniors"
-    },
-    "Pain Points": {
-      "Financial Security": "Worrying about her financial security in retirement",
-      "Access to Healthcare": "Difficulty accessing healthcare services in her rural community"
-    }
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Mechanic",
+    "Description": "Neil is a skilled mechanic who enjoys working on cars and spending time with his two children.",
+    "Top Priorities": ["Childcare affordability", "Retirement savings", "Job security"],
+    "Pain points": ["High cost of childcare", "Concerns about retirement savings", "Lack of job advancement opportunities"]
   },
   {
-    "Name": "Patricia Smith",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Nathaniel Adams",
+    "Age": 23,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Patricia is a separated retired retail worker who enjoys painting and spending time with her pets.",
-    "Top Priorities": {
-      "Animal Welfare": "Supporting animal welfare and rescue organizations",
-      "Healthcare": "Expanding healthcare access for seniors"
-    },
-    "Pain Points": {
-      "Financial Struggles": "Managing her limited income and rising expenses",
-      "Transportation": "Limited transportation options in her rural community"
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "Nathaniel is a sociable young man who enjoys meeting new people and exploring new places.",
+    "Top Priorities": ["Student loan forgiveness", "Affordable healthcare", "Job opportunities"],
+    "Pain points": ["Struggling to pay off student loans", "Limited access to affordable healthcare", "Difficulty finding a stable job"]
+  },
+  {
+    "Name": "Nick Wilson",
+    "Age": 56,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Nick is a dedicated professional who enjoys spending time with his family and volunteering in his community.",
+    "Top Priorities": ["Retirement planning", "Affordable healthcare", "Economic growth"],
+    "Pain points": ["Concerns about retirement savings", "Rising healthcare costs", "Slow economic growth in the region"]
   }
 ]

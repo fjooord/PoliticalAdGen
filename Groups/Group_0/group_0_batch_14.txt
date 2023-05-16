@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Olivia Parker",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Olivia is a hardworking single woman living in Montana. She enjoys spending time outdoors and values her independence.",
+    "Top Priorities": ["Affordable housing", "Job stability", "Environmental conservation"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Ophelia Johnson",
+    "Age": 48,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Ophelia is a divorced mother of two teenagers. She is focused on providing a stable life for her children and is active in her community.",
+    "Top Priorities": ["Education", "Healthcare", "Community safety"],
+    "Pain points": ["Balancing work and family life", "High healthcare costs", "Concerns about public school quality"]
+  },
+  {
+    "Name": "Odette Smith",
+    "Age": 25,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Odette is a dedicated teacher who is passionate about making a difference in the lives of her students. She is married and enjoys spending time with her husband and their dog.",
+    "Top Priorities": ["Education funding", "Work-life balance", "Animal welfare"],
+    "Pain points": ["Low teacher salaries", "Lack of resources in schools", "Limited leisure time"]
+  },
+  {
+    "Name": "Olive Brown",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Cashier",
+    "Description": "Olive is a widowed woman who works as a cashier to make ends meet. She enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Social Security", "Healthcare", "Affordable housing"],
+    "Pain points": ["Financial insecurity", "Limited access to healthcare", "Loneliness"]
+  },
+  {
+    "Name": "Opal Davis",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Opal is a compassionate and dedicated nurse who is married with two young children. She is passionate about healthcare and helping others.",
+    "Top Priorities": ["Healthcare reform", "Work-life balance", "Childcare"],
+    "Pain points": ["Long work hours", "High childcare costs", "Stress from work"]
+  }
+]

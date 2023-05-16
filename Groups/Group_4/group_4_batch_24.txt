@@ -1,97 +1,67 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Yosef Adams",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "He wants to ensure that Social Security benefits are protected for future generations."
-    },
-    "Pain points": {
-      "Taxes": "John is worried about the increasing property taxes in his area.",
-      "Economy": "He is concerned about the overall state of the economy and its impact on his retirement savings."
-    }
+    "Description": "Yosef is a retired construction worker who enjoys spending time with his grandchildren and fishing in his spare time.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 70,
+    "Name": "Yancy Baker",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
-    "Top Priorities": {
-      "Veterans Affairs": "As a Vietnam War veteran, Robert is passionate about improving the care and support available to veterans.",
-      "Infrastructure": "He is concerned about the state of roads and bridges in his community."
-    },
-    "Pain points": {
-      "Inflation": "Robert is worried about the rising cost of living and its impact on his fixed income.",
-      "Healthcare": "He is concerned about the availability and affordability of healthcare services in his rural community."
-    }
+    "Description": "Yancy is a retired mechanic who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": ["Medicare", "Religious freedom", "Gun rights"],
+    "Pain points": ["Medicare coverage gaps", "Perceived threats to religious freedom", "Gun control legislation"]
   },
   {
-    "Name": "James Brown",
+    "Name": "Yves Campbell",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and spending time with his wife.",
-    "Top Priorities": {
-      "Education": "James is passionate about improving the quality of education in his community.",
-      "Environment": "He is concerned about the impact of climate change on future generations."
-    },
-    "Pain points": {
-      "Taxes": "James is worried about the increasing property taxes in his area.",
-      "Healthcare": "He is concerned about the rising costs of healthcare and prescription medications."
-    }
+    "Description": "Yves is a retired postal worker who enjoys traveling with his wife and playing golf.",
+    "Top Priorities": ["Pension security", "Travel safety", "Environmental conservation"],
+    "Pain points": ["Worries about pension solvency", "Air travel restrictions", "Climate change"]
   },
   {
-    "Name": "William Davis",
+    "Name": "Yardley Davidson",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired factory worker who enjoys hiking and photography.",
-    "Top Priorities": {
-      "Economy": "William is concerned about the overall state of the economy and its impact on his retirement savings.",
-      "Social Security": "He wants to ensure that Social Security benefits are protected for future generations."
-    },
-    "Pain points": {
-      "Healthcare": "William is worried about the availability and affordability of healthcare services in his rural community.",
-      "Inflation": "He is concerned about the rising cost of living and its impact on his fixed income."
-    }
+    "Description": "Yardley is a retired factory worker who enjoys gardening and spending time with his dog.",
+    "Top Priorities": ["Affordable housing", "Animal welfare", "Community safety"],
+    "Pain points": ["Rising housing costs", "Animal abuse cases", "Crime in the neighborhood"]
   },
   {
-    "Name": "Richard Martinez",
-    "Age": 65,
+    "Name": "Yanis Evans",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 20000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Richard is a retired postal worker who enjoys birdwatching and playing cards with friends.",
-    "Top Priorities": {
-      "Healthcare": "Richard is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "He wants to ensure that Social Security benefits are protected for future generations."
-    },
-    "Pain points": {
-      "Taxes": "Richard is worried about the increasing property taxes in his area.",
-      "Economy": "He is concerned about the overall state of the economy and its impact on his retirement savings."
-    }
+    "Description": "Yanis is a retired janitor who enjoys painting and spending time with his adult children.",
+    "Top Priorities": ["Healthcare", "Economic stability", "Education"],
+    "Pain points": ["Limited access to healthcare", "Financial insecurity", "Concerns about the quality of education for his grandchildren"]
   }
 ]

@@ -1,92 +1,67 @@
 [
   {
-    "Name": "Dorothy Johnson",
+    "Name": "Alice Thompson",
     "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
-    },
-    "Pain points": {
-      "Rising living costs": "Struggling to manage her budget with increasing costs of living"
-    }
-  },
-  {
-    "Name": "Evelyn Smith",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local community center.",
-    "Top Priorities": {
-      "Medicare": "Ensuring the stability and quality of Medicare services",
-      "Community Programs": "Supporting local programs for seniors"
-    },
-    "Pain points": {
-      "Limited income": "Worries about making ends meet on a fixed income"
-    }
-  },
-  {
-    "Name": "Helen Brown",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Helen is a retired administrative assistant who enjoys painting and attending art classes.",
-    "Top Priorities": {
-      "Arts and Culture": "Supporting local arts and cultural programs",
-      "Elderly Care": "Improving access to quality elderly care services"
-    },
-    "Pain points": {
-      "Isolation": "Concerned about social isolation and loneliness among seniors"
-    }
+    "Description": "Alice is a retired teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
   },
   {
-    "Name": "Margaret Davis",
+    "Name": "Annabelle Johnson",
     "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Margaret is a retired librarian who enjoys reading and participating in book clubs.",
-    "Top Priorities": {
-      "Education": "Supporting lifelong learning opportunities for seniors",
-      "Public Services": "Maintaining and improving public services for seniors"
-    },
-    "Pain points": {
-      "Transportation": "Limited access to public transportation for seniors"
-    }
+    "Description": "Annabelle is a retired nurse who enjoys volunteering at her local community center.",
+    "Top Priorities": ["Healthcare", "Veterans Affairs", "Education"],
+    "Pain points": ["Limited access to healthcare", "Support for veterans", "Funding for education"]
   },
   {
-    "Name": "Ruth Wilson",
+    "Name": "Ava Williams",
     "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Ruth is a retired factory worker who enjoys hiking and birdwatching.",
-    "Top Priorities": {
-      "Environment": "Protecting natural resources and wildlife habitats",
-      "Affordable Housing": "Increasing the availability of affordable housing for seniors"
-    },
-    "Pain points": {
-      "Financial Security": "Concerned about her financial security in retirement"
-    }
+    "Description": "Ava is a retired administrative assistant who enjoys traveling with her husband.",
+    "Top Priorities": ["Healthcare", "Social Security", "Economy"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Economic stability"]
+  },
+  {
+    "Name": "Amelia Brown",
+    "Age": 70,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Amelia is a retired factory worker who enjoys reading and spending time with her friends.",
+    "Top Priorities": ["Healthcare", "Social Security", "Affordable Housing"],
+    "Pain points": ["Limited access to healthcare", "Concerns about Social Security benefits", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Abigail Davis",
+    "Age": 66,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Abigail is a retired cashier who enjoys crafting and spending time with her family.",
+    "Top Priorities": ["Healthcare", "Social Security", "Community Safety"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Crime and safety in the community"]
   }
 ]

@@ -1,6 +1,6 @@
 [
-{
-    "Name": "John Smith",
+  {
+    "Name": "Bradley Rutherford",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -8,12 +8,12 @@
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Description": "Bradley is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
     "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
-},
-{
-    "Name": "Robert Johnson",
+  },
+  {
+    "Name": "Brandon Richards",
     "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -21,47 +21,47 @@
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local church.",
-    "Top Priorities": ["Medicare", "Gun Control", "Religious Freedom"],
-    "Pain points": ["Difficulty navigating Medicare system", "Concerns about gun control laws", "Perceived threats to religious freedom"]
-},
-{
-    "Name": "James Brown",
-    "Age": 71,
+    "Description": "Brandon is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
+    "Top Priorities": ["Medicare", "Affordable Housing", "Community Development"],
+    "Pain points": ["Difficulty navigating Medicare", "Lack of affordable housing options", "Limited resources for community programs"]
+  },
+  {
+    "Name": "Bryce Robertson",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and spending time with his wife.",
-    "Top Priorities": ["Education", "Environment", "Taxes"],
-    "Pain points": ["Concerns about public education funding", "Climate change and environmental protection", "Property taxes"]
-},
-{
-    "Name": "William Davis",
-    "Age": 66,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired factory worker who enjoys hiking and bird watching.",
-    "Top Priorities": ["Economy", "Immigration", "National Security"],
-    "Pain points": ["Worries about job loss in his community", "Concerns about immigration policies", "Perceived threats to national security"]
-},
-{
-    "Name": "Charles Wilson",
+    "Description": "Bryce is a retired postal worker who enjoys gardening and traveling with his wife.",
+    "Top Priorities": ["Pensions", "Travel Safety", "Environmental Conservation"],
+    "Pain points": ["Concerns about pension stability", "Air travel safety", "Loss of natural habitats"]
+  },
+  {
+    "Name": "Brent Rogers",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 30000,
     "Marital Status": "Separated",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired farmer who enjoys reading and spending time with his dog.",
-    "Top Priorities": ["Agriculture", "Infrastructure", "Rural Development"],
-    "Pain points": ["Declining farm income", "Deteriorating infrastructure", "Lack of rural development opportunities"]
-}
+    "Description": "Brent is a retired factory worker who enjoys playing cards and watching sports.",
+    "Top Priorities": ["Economic Stability", "Gun Control", "Public Safety"],
+    "Pain points": ["Worries about the economy", "Concerns about gun violence", "Crime rates in his neighborhood"]
+  },
+  {
+    "Name": "Brody Reynolds",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Brody is a retired farmer who enjoys reading and spending time outdoors.",
+    "Top Priorities": ["Agriculture", "Rural Development", "Infrastructure"],
+    "Pain points": ["Declining agricultural industry", "Lack of rural development", "Poor infrastructure in rural areas"]
+  }
 ]

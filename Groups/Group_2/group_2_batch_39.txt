@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Ken Edwards",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Ken is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Kendrick Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Kendrick is a family man who is focused on providing for his wife and two children.",
+    "Top Priorities": ["Education for his children", "Job stability", "Retirement savings"],
+    "Pain points": ["Concerns about job market", "Rising education costs", "Uncertain economic future"]
+  },
+  {
+    "Name": "Kerry Thompson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Kerry is a creative individual who enjoys expressing himself through art and design.",
+    "Top Priorities": ["Career growth", "Affordable housing", "Environmental conservation"],
+    "Pain points": ["Limited job opportunities in his field", "High cost of living", "Climate change"]
+  },
+  {
+    "Name": "Kenton Mitchell",
+    "Age": 53,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "Kenton is a resilient individual who has faced various challenges in life and is focused on rebuilding his future.",
+    "Top Priorities": ["Financial stability", "Access to healthcare", "Community safety"],
+    "Pain points": ["Low income", "Lack of affordable healthcare", "Crime in his neighborhood"]
+  },
+  {
+    "Name": "Kellan Murphy",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "IT technician",
+    "Description": "Kellan is a tech-savvy individual who is passionate about technology and its potential to improve people's lives.",
+    "Top Priorities": ["Career advancement", "Affordable education", "Internet privacy"],
+    "Pain points": ["Student loan debt", "Lack of affordable continuing education", "Concerns about online privacy"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Yvonne Adams",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Yvonne is a hardworking single woman living in Montana. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Yasmine Baker",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Yasmine is a divorced mother of two teenagers living in Montana. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education reform", "Childcare support", "Economic growth"],
+    "Pain points": ["Balancing work and family life", "Lack of support for single parents", "Concerns about children's future"]
+  },
+  {
+    "Name": "Yolanda Campbell",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Yolanda is a young married woman living in Montana. She and her husband are saving up to buy their first home together.",
+    "Top Priorities": ["Affordable housing", "Job opportunities", "Community safety"],
+    "Pain points": ["Low wages", "Difficulty saving for a down payment", "Limited job options"]
+  },
+  {
+    "Name": "Yvette Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Yvette is a widowed woman living in Montana. She is dedicated to her career as a nurse and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare reform", "Retirement security", "Support for seniors"],
+    "Pain points": ["Concerns about Medicare", "Rising healthcare costs", "Limited social services for seniors"]
+  },
+  {
+    "Name": "Yara Evans",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Yara is a recent high school graduate living in Montana. She is working part-time as a barista while attending community college.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Climate change"],
+    "Pain points": ["Student loan debt", "Limited job prospects", "Concerns about the environment"]
+  }
+]

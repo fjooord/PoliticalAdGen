@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Ralph Anderson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Ralph is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Raymond Adams",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Raymond is a dedicated father of two who is focused on providing for his family and maintaining a stable life.",
+    "Top Priorities": ["Education for his children", "Financial stability", "Work-life balance"],
+    "Pain points": ["Child support payments", "Limited career advancement opportunities", "Lack of affordable childcare options"]
+  },
+  {
+    "Name": "Randy Allen",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Delivery driver",
+    "Description": "Randy is a young man who enjoys traveling and exploring new places, but struggles to make ends meet.",
+    "Top Priorities": ["Increasing income", "Finding a stable job", "Access to affordable education"],
+    "Pain points": ["Low wages", "Job insecurity", "Lack of affordable education options"]
+  },
+  {
+    "Name": "Ramon Armstrong",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Ramon is a skilled tradesman who values hard work and is dedicated to providing for his family.",
+    "Top Priorities": ["Retirement planning", "Healthcare", "Supporting his family"],
+    "Pain points": ["Concerns about retirement savings", "Rising healthcare costs", "Worries about job stability"]
+  },
+  {
+    "Name": "Rafael Austin",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Restaurant server",
+    "Description": "Rafael is a recent high school graduate who is trying to figure out his career path while working in the service industry.",
+    "Top Priorities": ["Career development", "Affordable education", "Social life"],
+    "Pain points": ["Uncertainty about future", "Lack of affordable education options", "Inconsistent work hours"]
+  }
+]

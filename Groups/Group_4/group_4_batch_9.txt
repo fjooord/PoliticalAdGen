@@ -1,67 +1,97 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "John Jacobs",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
     "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
+    "Top Priorities": {
+      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "He relies on his social security benefits and wants to ensure they remain stable."
+    },
+    "Pain points": {
+      "Taxes": "John is worried about the increasing property taxes in his area.",
+      "Retirement": "He is concerned about the affordability of retirement and maintaining his quality of life."
+    }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "James Johnson",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and volunteering at his local church.",
-    "Top Priorities": ["Agriculture", "Religious Freedom", "Rural Development"],
-    "Pain points": ["Declining rural communities", "Loss of family farms", "Concerns about religious freedom"]
+    "Description": "James is a retired teacher who enjoys reading and volunteering at his local library.",
+    "Top Priorities": {
+      "Education": "James is passionate about improving the education system and increasing funding for public schools.",
+      "Environment": "He is concerned about climate change and its impact on future generations."
+    },
+    "Pain points": {
+      "Healthcare": "James struggles with the high costs of healthcare and insurance premiums.",
+      "Loneliness": "He is coping with the loss of his spouse and finding ways to stay socially connected."
+    }
   },
   {
-    "Name": "James Brown",
-    "Age": 69,
+    "Name": "Jack Jackson",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and traveling with his wife.",
-    "Top Priorities": ["Economy", "Infrastructure", "Social Security"],
-    "Pain points": ["Limited job opportunities for younger generations", "Deteriorating infrastructure", "Concerns about Social Security benefits"]
+    "Description": "Jack is a retired mechanic who enjoys working on classic cars and spending time outdoors.",
+    "Top Priorities": {
+      "Economy": "Jack is concerned about the stability of the economy and job opportunities for his children.",
+      "Veterans": "As a veteran, he is passionate about supporting fellow veterans and their families."
+    },
+    "Pain points": {
+      "Taxes": "Jack is frustrated with the increasing taxes and government spending.",
+      "Healthcare": "He is worried about the accessibility and affordability of healthcare for his family."
+    }
   },
   {
-    "Name": "William Davis",
-    "Age": 66,
+    "Name": "Joseph Jameson",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired postal worker who enjoys hiking and photography.",
-    "Top Priorities": ["Environment", "Healthcare", "Public Services"],
-    "Pain points": ["Climate change", "Rising healthcare costs", "Declining public services"]
+    "Description": "Joseph is a retired postal worker who enjoys gardening and spending time with his pets.",
+    "Top Priorities": {
+      "Healthcare": "Joseph is concerned about the rising costs of healthcare and the availability of services in his rural community.",
+      "Animal Welfare": "He is passionate about animal rights and supporting local animal shelters."
+    },
+    "Pain points": {
+      "Transportation": "Joseph struggles with the limited public transportation options in his area.",
+      "Social Isolation": "He is looking for ways to stay socially connected and engaged in his community."
+    }
   },
   {
-    "Name": "Richard Wilson",
-    "Age": 70,
+    "Name": "Jeremy Jensen",
+    "Age": 65,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 50000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "Associate degree",
     "Occupation": "Retired",
-    "Description": "Richard is a retired teacher who enjoys reading and spending time with his family.",
-    "Top Priorities": ["Education", "Healthcare", "Social Security"],
-    "Pain points": ["Education funding", "Rising healthcare costs", "Concerns about Social Security benefits"]
+    "Description": "Jeremy is a retired electrician who enjoys woodworking and spending time with his family.",
+    "Top Priorities": {
+      "Infrastructure": "Jeremy is concerned about the aging infrastructure in his community and the need for improvements.",
+      "Retirement Security": "He wants to ensure that his retirement savings will last throughout his lifetime."
+    },
+    "Pain points": {
+      "Taxes": "Jeremy is frustrated with the increasing taxes and the impact on his fixed income.",
+      "Healthcare": "He is worried about the rising costs of healthcare and long-term care options for his aging parents."
+    }
   }
 ]

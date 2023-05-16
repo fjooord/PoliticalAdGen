@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Irvin Johnson",
+    "Age": 34,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Irvin is a hardworking construction worker who enjoys the outdoors and values his independence.",
+    "Top Priorities": {
+      "Employment": "Stable job with fair wages",
+      "Education": "Continuing education opportunities",
+      "Healthcare": "Affordable healthcare options"
+    },
+    "Pain points": {
+      "Job Security": "Worries about job stability in the construction industry",
+      "Retirement": "Concerned about saving enough for retirement"
+    }
+  },
+  {
+    "Name": "Irwin Smith",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail Manager",
+    "Description": "Irwin is a dedicated retail manager who is passionate about providing excellent customer service.",
+    "Top Priorities": {
+      "Economy": "Supporting local businesses",
+      "Education": "Improving public education for his children",
+      "Environment": "Protecting Montana's natural resources"
+    },
+    "Pain points": {
+      "Work-Life Balance": "Struggles to balance work and family life",
+      "Childcare": "Finding affordable and reliable childcare"
+    }
+  },
+  {
+    "Name": "Ira Thompson",
+    "Age": 28,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Ira is a creative graphic designer who enjoys working remotely and spending time with his family.",
+    "Top Priorities": {
+      "Technology": "Expanding high-speed internet access",
+      "Healthcare": "Access to mental health resources",
+      "Housing": "Affordable housing options"
+    },
+    "Pain points": {
+      "Student Loans": "Paying off student loan debt",
+      "Remote Work": "Finding consistent remote work opportunities"
+    }
+  },
+  {
+    "Name": "Irving Mitchell",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Maintenance Worker",
+    "Description": "Irving is a reliable maintenance worker who takes pride in keeping his community clean and safe.",
+    "Top Priorities": {
+      "Public Safety": "Supporting local law enforcement",
+      "Healthcare": "Affordable healthcare for seniors",
+      "Social Security": "Protecting social security benefits"
+    },
+    "Pain points": {
+      "Loneliness": "Coping with the loss of his spouse",
+      "Financial Security": "Worries about financial stability in retirement"
+    }
+  },
+  {
+    "Name": "Irish Wilson",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "Automotive Technician",
+    "Description": "Irish is a skilled automotive technician who enjoys working on cars and exploring Montana's scenic drives.",
+    "Top Priorities": {
+      "Transportation": "Improving public transportation options",
+      "Environment": "Promoting clean energy initiatives",
+      "Job Training": "Expanding vocational training programs"
+    },
+    "Pain points": {
+      "Career Advancement": "Limited opportunities for career growth",
+      "Student Loans": "Paying off student loan debt"
+    }
+  }
+]

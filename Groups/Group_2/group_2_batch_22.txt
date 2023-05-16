@@ -1,67 +1,97 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren. She is actively involved in her local community and volunteers at the senior center.",
-    "Top Priorities": ["Healthcare", "Social Security", "Local Community"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of public transportation options"]
-  },
-  {
-    "Name": "Evelyn Johnson",
-    "Age": 69,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Teacher",
-    "Description": "Evelyn is a retired teacher who enjoys reading and traveling. She is a member of a local book club and is passionate about education and the environment.",
-    "Top Priorities": ["Education", "Environment", "Economic Stability"],
-    "Pain Points": ["Limited access to quality education", "Climate change", "Rising cost of living"]
-  },
-  {
-    "Name": "Marilyn Wilson",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Administrative Assistant",
-    "Description": "Marilyn is a retired administrative assistant who enjoys painting and spending time with her family. She is concerned about the future of her children and grandchildren.",
-    "Top Priorities": ["Family", "Healthcare", "Economic Stability"],
-    "Pain Points": ["Rising healthcare costs", "Job security for her children", "Affordable housing"]
-  },
-  {
-    "Name": "Barbara Mitchell",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Walter Smith",
+    "Age": 34,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Barbara is a retired retail worker who enjoys knitting and watching classic movies. She is concerned about the rising cost of living and the state of the economy.",
-    "Top Priorities": ["Economic Stability", "Social Security", "Affordable Housing"],
-    "Pain Points": ["Rising cost of living", "Concerns about Social Security benefits", "Lack of affordable housing options"]
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Walter is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": {
+      "Employment": "Stable job with good benefits",
+      "Healthcare": "Affordable healthcare options"
+    },
+    "Pain points": {
+      "Job Security": "Concerned about job stability in the construction industry",
+      "Retirement": "Worried about saving enough for retirement"
+    }
   },
   {
-    "Name": "Shirley Adams",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "William Johnson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Shirley is a retired factory worker who enjoys playing bingo and spending time with her friends. She is concerned about healthcare and the availability of social services.",
-    "Top Priorities": ["Healthcare", "Social Services", "Economic Stability"],
-    "Pain Points": ["Rising healthcare costs", "Limited access to social services", "Rising cost of living"]
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "William is a dedicated retail manager who enjoys spending time with his family and coaching his son's soccer team.",
+    "Top Priorities": {
+      "Education": "Quality education for his children",
+      "Economy": "A strong local economy"
+    },
+    "Pain points": {
+      "Work-Life Balance": "Struggles to balance work and family life",
+      "Job Satisfaction": "Feels unfulfilled in his current job"
+    }
+  },
+  {
+    "Name": "Wyatt Thompson",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Wyatt is a friendly barista who enjoys playing music and exploring the outdoors.",
+    "Top Priorities": {
+      "Environment": "Protecting the environment",
+      "Higher Education": "Affordable options for further education"
+    },
+    "Pain points": {
+      "Student Loans": "Worried about taking on student loan debt",
+      "Career Advancement": "Uncertain about career opportunities"
+    }
+  },
+  {
+    "Name": "Wesley Brown",
+    "Age": 56,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Mechanic",
+    "Description": "Wesley is a skilled mechanic who enjoys working on classic cars and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Social Security": "Protecting Social Security benefits",
+      "Healthcare": "Access to quality healthcare"
+    },
+    "Pain points": {
+      "Retirement": "Concerned about having enough money for retirement",
+      "Health": "Worries about maintaining good health as he ages"
+    }
+  },
+  {
+    "Name": "Warren Davis",
+    "Age": 29,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Engaged",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Warren is a creative graphic designer who enjoys hiking and photography.",
+    "Top Priorities": {
+      "Housing": "Affordable housing options",
+      "Arts and Culture": "Support for local arts and culture"
+    },
+    "Pain points": {
+      "Job Market": "Concerned about the competitive job market",
+      "Cost of Living": "Worried about the rising cost of living"
+    }
   }
 ]

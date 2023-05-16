@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Kendra Evans",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Kendra is a friendly and outgoing retail sales associate who enjoys helping customers find the perfect items. She lives in a small apartment in Montana and spends her free time hiking and exploring the outdoors.",
+    "Top Priorities": ["Affordable housing", "Job security", "Environmental conservation"],
+    "Pain points": ["Limited career growth opportunities", "Lack of affordable healthcare", "Concerns about climate change"]
+  },
+  {
+    "Name": "Kelsey Martin",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Kelsey is a detail-oriented administrative assistant who works for a small business in Montana. She is a single mother of two teenagers and is actively involved in her community.",
+    "Top Priorities": ["Education", "Childcare support", "Job stability"],
+    "Pain points": ["Balancing work and family life", "Rising cost of living", "Limited access to quality education"]
+  },
+  {
+    "Name": "Keira Thompson",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Keira is a hardworking waitress at a local diner in Montana. She is saving up to attend college and dreams of becoming a nurse. In her free time, she volunteers at a local animal shelter.",
+    "Top Priorities": ["Affordable education", "Healthcare", "Animal welfare"],
+    "Pain points": ["Low wages", "Student loan debt", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Kendra Wilson",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Licensed Practical Nurse",
+    "Description": "Kendra is a compassionate and dedicated licensed practical nurse who works at a local hospital in Montana. She is married with three grown children and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Support for local businesses"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security", "Limited job opportunities for her children"]
+  },
+  {
+    "Name": "Kelly Davis",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 31000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Kelly is a patient and empathetic customer service representative for a telecommunications company in Montana. She enjoys helping customers resolve their issues and find solutions to their problems.",
+    "Top Priorities": ["Job satisfaction", "Affordable housing", "Community safety"],
+    "Pain points": ["Limited career advancement", "High cost of living", "Concerns about crime in her neighborhood"]
+  }
+]

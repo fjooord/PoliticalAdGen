@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Quinn Taylor",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Quinn is a young woman living in a small town in Montana. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Quincy Adams",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Quincy is a married woman with two children. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Quality education", "Job security"],
+    "Pain points": ["Rising cost of living", "Limited access to quality healthcare"]
+  },
+  {
+    "Name": "Quintessa Brown",
+    "Age": 33,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Quintessa is a creative professional who enjoys hiking and photography. She is passionate about supporting local businesses.",
+    "Top Priorities": ["Economic growth", "Support for small businesses"],
+    "Pain points": ["Lack of networking opportunities", "Limited cultural events"]
+  },
+  {
+    "Name": "Quiana Johnson",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 38000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Quiana is a dedicated healthcare professional who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Access to quality healthcare", "Social security"],
+    "Pain points": ["Rising healthcare costs", "Limited public transportation options"]
+  },
+  {
+    "Name": "Queenie Smith",
+    "Age": 61,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Office Manager",
+    "Description": "Queenie is a hardworking woman who enjoys traveling with her husband and attending local community events.",
+    "Top Priorities": ["Retirement security", "Infrastructure improvements"],
+    "Pain points": ["Increasing taxes", "Lack of affordable travel options"]
+  }
+]

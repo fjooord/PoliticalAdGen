@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Mark Anderson",
+    "Age": 35,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Mark is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Outdoor recreation"],
+    "Pain points": ["Rising cost of living", "Lack of affordable housing", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Martin Bailey",
+    "Age": 28,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Martin is a friendly retail salesperson who is married and enjoys spending time with his wife and their dog.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Environmental conservation"],
+    "Pain points": ["Student loan debt", "Limited job growth", "Climate change"]
+  },
+  {
+    "Name": "Mason Clark",
+    "Age": 42,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Mason is a skilled electrician who has recently gone through a divorce and is focused on rebuilding his life.",
+    "Top Priorities": ["Economic stability", "Mental health support", "Infrastructure improvements"],
+    "Pain points": ["Financial stress", "Limited mental health resources", "Aging infrastructure"]
+  },
+  {
+    "Name": "Matthew Davis",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Matthew is a young fast food worker who is saving up to attend college and pursue a career in technology.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Internet access"],
+    "Pain points": ["Low wages", "Lack of affordable college options", "Limited internet connectivity"]
+  },
+  {
+    "Name": "Maxwell Evans",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Maxwell is a widowed office manager who is focused on supporting his adult children and planning for retirement.",
+    "Top Priorities": ["Retirement security", "Healthcare access", "Support for families"],
+    "Pain points": ["Uncertain retirement future", "Rising healthcare costs", "Lack of support for families"]
+  }
+]

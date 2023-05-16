@@ -1,97 +1,97 @@
 [
   {
-    "Name": "Dorothy Johnson",
+    "Name": "Diane Thompson",
     "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 42000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Dorothy is a retired school teacher who enjoys gardening and spending time with her grandchildren.",
+    "Description": "Diane is a retired high school teacher who enjoys gardening and spending time with her grandchildren.",
     "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
+      "Healthcare": "Diane is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "Diane relies on her Social Security benefits and wants to ensure they remain stable."
     },
     "Pain points": {
-      "Cost of Living": "Struggling with the rising cost of living on a fixed income",
-      "Isolation": "Feeling isolated in her rural community"
+      "Isolation": "Diane sometimes feels isolated living in a rural area and wishes there were more community resources available.",
+      "Transportation": "Diane struggles with limited public transportation options in her area."
     }
   },
   {
-    "Name": "Evelyn Smith",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "Some College",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who volunteers at her local community center.",
-    "Top Priorities": {
-      "Healthcare": "Improving healthcare services in rural areas",
-      "Community": "Supporting community programs and services for seniors"
-    },
-    "Pain points": {
-      "Transportation": "Limited access to public transportation",
-      "Access to Services": "Difficulty accessing healthcare and other services in her rural community"
-    }
-  },
-  {
-    "Name": "Marilyn Brown",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 35000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired administrative assistant who enjoys painting and traveling with her husband.",
-    "Top Priorities": {
-      "Economy": "Creating jobs and economic opportunities in rural areas",
-      "Environment": "Protecting Montana's natural resources and environment"
-    },
-    "Pain points": {
-      "Limited Opportunities": "Concerned about limited job opportunities for her children and grandchildren",
-      "Climate Change": "Worried about the impact of climate change on her community"
-    }
-  },
-  {
-    "Name": "Alice Davis",
-    "Age": 68,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Alice is a retired librarian who enjoys reading and participating in her local book club.",
-    "Top Priorities": {
-      "Education": "Supporting quality education for all children",
-      "Social Issues": "Promoting equality and social justice"
-    },
-    "Pain points": {
-      "Education Funding": "Concerned about the lack of funding for public schools",
-      "Social Inequality": "Worried about the growing divide between rich and poor"
-    }
-  },
-  {
-    "Name": "Carol Wilson",
+    "Name": "Deborah Johnson",
     "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Carol is a retired factory worker who enjoys spending time with her friends and family.",
+    "Description": "Deborah is a retired nurse who enjoys volunteering at her local church and spending time with her friends.",
     "Top Priorities": {
-      "Economy": "Supporting policies that promote economic growth and job creation",
-      "Healthcare": "Ensuring access to affordable healthcare for all"
+      "Healthcare": "Deborah wants to ensure that she has access to quality healthcare as she ages.",
+      "Community": "Deborah values her local community and wants to see it thrive."
     },
     "Pain points": {
-      "Financial Security": "Worried about her financial security in retirement",
-      "Healthcare Costs": "Struggling with the high cost of prescription medications"
+      "Housing": "Deborah is concerned about the rising cost of housing in her area.",
+      "Loneliness": "Deborah sometimes feels lonely since her husband passed away."
+    }
+  },
+  {
+    "Name": "Dorothy Miller",
+    "Age": 72,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Dorothy is a retired administrative assistant who enjoys traveling with her husband and attending local events.",
+    "Top Priorities": {
+      "Economy": "Dorothy is concerned about the local economy and wants to see more job opportunities for younger generations.",
+      "Environment": "Dorothy is passionate about protecting the environment and preserving natural resources."
+    },
+    "Pain points": {
+      "Taxes": "Dorothy is worried about rising property taxes in her area.",
+      "Access to Services": "Dorothy struggles with limited access to services in her rural community."
+    }
+  },
+  {
+    "Name": "Dolores Brown",
+    "Age": 66,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Dolores is a retired factory worker who enjoys reading and spending time with her pets.",
+    "Top Priorities": {
+      "Social Security": "Dolores relies on her Social Security benefits and wants to ensure they remain stable.",
+      "Animal Welfare": "Dolores is passionate about animal welfare and supports local animal shelters."
+    },
+    "Pain points": {
+      "Financial Security": "Dolores is concerned about her financial security as she ages.",
+      "Healthcare": "Dolores struggles with the high cost of healthcare and prescription medications."
+    }
+  },
+  {
+    "Name": "Daisy Wilson",
+    "Age": 65,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Daisy is a retired retail worker who enjoys painting and spending time outdoors.",
+    "Top Priorities": {
+      "Healthcare": "Daisy is concerned about the rising costs of healthcare and prescription medications.",
+      "Arts and Culture": "Daisy values arts and culture and wants to see more support for local artists and cultural events."
+    },
+    "Pain points": {
+      "Isolation": "Daisy sometimes feels isolated living in a rural area and wishes there were more community resources available.",
+      "Transportation": "Daisy struggles with limited public transportation options in her area."
     }
   }
 ]

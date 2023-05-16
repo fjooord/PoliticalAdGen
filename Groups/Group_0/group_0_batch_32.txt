@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Cara Thompson",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Cara is a young woman living in a small town in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Environmental Conservation", "Affordable Healthcare", "Education"],
+    "Pain Points": ["Limited Job Opportunities", "Student Loan Debt", "Rising Cost of Living"]
+  },
+  {
+    "Name": "Catherine Davis",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Administrative Assistant",
+    "Description": "Catherine is a married woman with two children. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education", "Community Safety", "Economic Growth"],
+    "Pain Points": ["Balancing Work and Family", "Rising Healthcare Costs", "Lack of Affordable Childcare"]
+  },
+  {
+    "Name": "Carla Johnson",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Carla is a divorced woman who works from home as a freelance graphic designer. She is passionate about the arts and supports local artists.",
+    "Top Priorities": ["Arts and Culture", "Internet Access", "Mental Health"],
+    "Pain Points": ["Lack of Networking Opportunities", "Isolation", "Unpredictable Income"]
+  },
+  {
+    "Name": "Cassandra Wilson",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Part-Time Cashier",
+    "Description": "Cassandra is a widowed woman who works part-time at a local grocery store. She is active in her church and enjoys gardening.",
+    "Top Priorities": ["Social Security", "Healthcare", "Community Involvement"],
+    "Pain Points": ["Limited Income", "Lack of Transportation", "Rising Cost of Living"]
+  },
+  {
+    "Name": "Caroline Smith",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's Degree",
+    "Occupation": "Dental Assistant",
+    "Description": "Caroline is a recent graduate who is starting her career as a dental assistant. She is interested in politics and wants to make a difference in her community.",
+    "Top Priorities": ["Affordable Housing", "Job Opportunities", "Climate Change"],
+    "Pain Points": ["Student Loan Debt", "Lack of Affordable Housing", "Political Polarization"]
+  }
+]

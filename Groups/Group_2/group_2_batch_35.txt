@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Geoffrey Smith",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Geoffrey is a hardworking individual who enjoys outdoor activities and spending time with his friends. He is politically engaged and interested in local issues.",
+    "Top Priorities": ["Economic Growth", "Job Security", "Affordable Housing"],
+    "Pain Points": ["Rising Cost of Living", "Limited Job Opportunities", "Lack of Affordable Housing"]
+  },
+  {
+    "Name": "George Wilson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some College",
+    "Occupation": "Retail Sales Associate",
+    "Description": "George is a friendly and outgoing person who enjoys meeting new people and learning about their experiences. He is concerned about the future of his community and wants to see positive change.",
+    "Top Priorities": ["Education", "Healthcare", "Community Development"],
+    "Pain Points": ["Low Wages", "Lack of Access to Quality Healthcare", "Declining Community Infrastructure"]
+  },
+  {
+    "Name": "Gerald Thompson",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Electrician",
+    "Description": "Gerald is a skilled tradesman who takes pride in his work and values the importance of a strong work ethic. He is concerned about the future of his industry and the impact of new regulations.",
+    "Top Priorities": ["Job Security", "Economic Growth", "Skilled Trade Support"],
+    "Pain Points": ["Increasing Regulations", "Competition from New Technologies", "Lack of Skilled Trade Workers"]
+  },
+  {
+    "Name": "Gerard Martin",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Gerard is a young man who is trying to find his path in life. He is passionate about social issues and wants to make a difference in his community.",
+    "Top Priorities": ["Minimum Wage Increase", "Affordable Education", "Environmental Protection"],
+    "Pain Points": ["Low Wages", "Student Loan Debt", "Lack of Job Opportunities"]
+  },
+  {
+    "Name": "Gerry Adams",
+    "Age": 61,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Teacher",
+    "Description": "Gerry is a dedicated educator who has spent his career shaping the minds of future generations. He is concerned about the state of education and the challenges facing his profession.",
+    "Top Priorities": ["Education Funding", "Teacher Support", "Student Success"],
+    "Pain Points": ["Budget Cuts", "Lack of Resources", "Increasing Class Sizes"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Brianna Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Brianna is a hardworking single woman living in Montana. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Bethany Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Bethany is a dedicated teacher and mother of two children. She is passionate about education and community involvement.",
+    "Top Priorities": ["Quality education", "Childcare support", "Community safety"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for schools", "Insufficient childcare options"]
+  },
+  {
+    "Name": "Belinda Martinez",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Waitress",
+    "Description": "Belinda is a young woman trying to make ends meet while pursuing her degree in nursing. She is focused on building a better future for herself.",
+    "Top Priorities": ["Affordable education", "Job opportunities", "Mental health support"],
+    "Pain points": ["Student loan debt", "Low wages", "Lack of affordable mental health services"]
+  },
+  {
+    "Name": "Barbara Wilson",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Administrative Assistant",
+    "Description": "Barbara is a widowed woman who enjoys spending time with her grandchildren and volunteering at her local church.",
+    "Top Priorities": ["Social security", "Healthcare", "Community programs"],
+    "Pain points": ["Financial insecurity", "Limited access to healthcare", "Lack of community resources"]
+  },
+  {
+    "Name": "Bianca Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Bianca is a recent high school graduate working in customer service. She is interested in pursuing higher education and exploring different career paths.",
+    "Top Priorities": ["Affordable education", "Job training programs", "LGBTQ+ rights"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable education", "Discrimination in the workplace"]
+  }
+]

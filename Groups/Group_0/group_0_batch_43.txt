@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Frida Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Frida is a hardworking single woman who lives in Montana. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Job Security": 2,
+      "Environmental Protection": 3
+    },
+    "Pain points": {
+      "Lack of affordable healthcare options": 1,
+      "Limited job opportunities in her area": 2,
+      "Concerns about climate change": 3
+    }
+  },
+  {
+    "Name": "Frieda Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Frieda is a married woman living in Montana with her husband and two children. She is active in her community and enjoys volunteering.",
+    "Top Priorities": {
+      "Education": 1,
+      "Public Safety": 2,
+      "Economic Growth": 3
+    },
+    "Pain points": {
+      "Concerns about the quality of local schools": 1,
+      "Crime rates in her community": 2,
+      "Lack of well-paying jobs in her area": 3
+    }
+  },
+  {
+    "Name": "Francesca Martin",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Social Worker",
+    "Description": "Francesca is a young, divorced woman who is passionate about helping others. She works as a social worker in Montana and enjoys hiking in her free time.",
+    "Top Priorities": {
+      "Mental Health": 1,
+      "Affordable Housing": 2,
+      "Women's Rights": 3
+    },
+    "Pain points": {
+      "Lack of mental health resources in her community": 1,
+      "Difficulty finding affordable housing": 2,
+      "Concerns about women's rights and equality": 3
+    }
+  },
+  {
+    "Name": "Franny Adams",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Franny is a widowed woman who works as a nurse in Montana. She has three grown children and enjoys gardening and reading.",
+    "Top Priorities": {
+      "Healthcare": 1,
+      "Retirement Security": 2,
+      "Gun Control": 3
+    },
+    "Pain points": {
+      "Concerns about the quality of healthcare": 1,
+      "Worries about retirement savings": 2,
+      "Desire for stricter gun control laws": 3
+    }
+  },
+  {
+    "Name": "Freya Simmons",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Freya is a young, single woman who works as a waitress in Montana. She is interested in pursuing higher education and enjoys painting.",
+    "Top Priorities": {
+      "College Affordability": 1,
+      "Minimum Wage": 2,
+      "Arts Funding": 3
+    },
+    "Pain points": {
+      "Struggling to afford college": 1,
+      "Difficulty making ends meet on minimum wage": 2,
+      "Lack of funding for the arts in her community": 3
+    }
+  }
+]

@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Ulysses Underwood",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Ensuring access to affordable healthcare for seniors",
-      "Social Security": "Protecting Social Security benefits for current and future retirees"
-    },
-    "Pain Points": {
-      "Rising Costs": "Struggling with the rising costs of living on a fixed income",
-      "Isolation": "Feeling isolated in her rural community"
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Ulysses is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Outdoor recreation"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare in rural areas"]
   },
   {
-    "Name": "Evelyn Martin",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Uriah Upton",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local church and participating in community events.",
-    "Top Priorities": {
-      "Healthcare": "Improving access to healthcare services in rural areas",
-      "Community": "Supporting community programs and events"
-    },
-    "Pain Points": {
-      "Limited Services": "Lack of access to essential services in her rural town",
-      "Transportation": "Limited public transportation options"
-    }
-  },
-  {
-    "Name": "Helen Johnson",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Helen is a retired administrative assistant who enjoys reading, knitting, and spending time with her family.",
-    "Top Priorities": {
-      "Education": "Ensuring quality education for her grandchildren",
-      "Environment": "Protecting the environment and natural resources in Montana"
-    },
-    "Pain Points": {
-      "Rising Costs": "Concerned about the rising costs of healthcare and prescription medications",
-      "Climate Change": "Worried about the impacts of climate change on her community"
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail sales associate",
+    "Description": "Uriah is a friendly retail sales associate who is passionate about helping customers find the perfect product.",
+    "Top Priorities": ["Affordable housing", "Quality education for his children", "Job stability"],
+    "Pain points": ["Low wages", "Limited job opportunities"]
   },
   {
-    "Name": "Margaret Wilson",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Upton Unger",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Upton is a skilled automotive technician who takes pride in his work and enjoys restoring classic cars in his spare time.",
+    "Top Priorities": ["Retirement savings", "Access to affordable healthcare", "Job security"],
+    "Pain points": ["Rising healthcare costs", "Uncertain job market"]
+  },
+  {
+    "Name": "Urban Upshaw",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Margaret is a retired factory worker who enjoys painting and spending time outdoors.",
-    "Top Priorities": {
-      "Economy": "Supporting policies that promote job growth and economic stability",
-      "Public Safety": "Ensuring a safe and secure community for all residents"
-    },
-    "Pain Points": {
-      "Affordable Housing": "Struggling to find affordable housing options in her area",
-      "Limited Resources": "Lack of access to social services and support programs"
-    }
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Urban is a dedicated fast food worker who is saving money to attend college and pursue a career in graphic design.",
+    "Top Priorities": ["Affordable education", "Higher minimum wage", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Low wages"]
   },
   {
-    "Name": "Ruth Davis",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Usher Ullman",
+    "Age": 55,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 42000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Ruth is a retired cashier who enjoys baking and spending time with her friends.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for all",
-      "Social Services": "Expanding social services and support programs for seniors"
-    },
-    "Pain Points": {
-      "Financial Security": "Worried about her financial security in retirement",
-      "Loneliness": "Feeling lonely and disconnected from her community"
-    }
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary school teacher",
+    "Description": "Usher is a compassionate elementary school teacher who is dedicated to making a positive impact on his students' lives.",
+    "Top Priorities": ["Quality education", "Retirement security", "Affordable healthcare"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for education"]
   }
 ]

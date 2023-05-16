@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Joanne Smith",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Joanne is a young woman living in a small town in Montana. She works at a local retail store and enjoys spending time outdoors with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Limited access to healthcare services"]
+  },
+  {
+    "Name": "Jodie Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Jodie is a married woman living in a rural area of Montana. She works as an administrative assistant for a local business and is involved in her community.",
+    "Top Priorities": ["Education", "Rural development", "Infrastructure improvements"],
+    "Pain points": ["Limited access to quality education", "Lack of public transportation", "Limited access to high-speed internet"]
+  },
+  {
+    "Name": "Jolene Davis",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Licensed Practical Nurse",
+    "Description": "Jolene is a divorced woman living in a suburban area of Montana. She works as a licensed practical nurse at a local hospital and is a mother of two children.",
+    "Top Priorities": ["Healthcare", "Childcare support", "Economic growth"],
+    "Pain points": ["High cost of childcare", "Limited access to mental health services", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Joan Wilson",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 38000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Joan is a widowed woman living in a small city in Montana. She works as a customer service representative for a local company and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Social Security", "Healthcare", "Job opportunities for older workers"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare", "Limited access to public transportation"]
+  },
+  {
+    "Name": "Joyce Martin",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Entry-level Marketing Coordinator",
+    "Description": "Joyce is a recent college graduate living in a college town in Montana. She works as an entry-level marketing coordinator for a local business and is passionate about social issues.",
+    "Top Priorities": ["Student loan debt", "Climate change", "Affordable housing"],
+    "Pain points": ["High student loan debt", "Limited job opportunities in her field", "Lack of affordable housing options"]
+  }
+]

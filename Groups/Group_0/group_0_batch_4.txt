@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Evelyn Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail salesperson",
+    "Description": "Evelyn is a single woman living in Montana. She works in retail and has a high school diploma.",
+    "Top Priorities": ["Affordable housing", "Job security", "Healthcare"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Ella Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative assistant",
+    "Description": "Ella is a divorced woman living in Montana. She works as an administrative assistant and has some college education.",
+    "Top Priorities": ["Education", "Childcare", "Retirement savings"],
+    "Pain points": ["Limited educational opportunities", "High childcare costs", "Inadequate retirement savings"]
+  },
+  {
+    "Name": "Emma Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Emma is a married woman living in Montana. She works as a waitress and has a high school diploma.",
+    "Top Priorities": ["Family planning", "Job security", "Healthcare"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Emily Davis",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered nurse",
+    "Description": "Emily is a widowed woman living in Montana. She works as a registered nurse and has an associate degree.",
+    "Top Priorities": ["Healthcare", "Retirement savings", "Community involvement"],
+    "Pain points": ["Limited healthcare options", "Inadequate retirement savings", "Lack of community resources"]
+  },
+  {
+    "Name": "Elizabeth Miller",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer service representative",
+    "Description": "Elizabeth is a separated woman living in Montana. She works as a customer service representative and has a high school diploma.",
+    "Top Priorities": ["Financial stability", "Job security", "Mental health"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of mental health resources"]
+  }
+]

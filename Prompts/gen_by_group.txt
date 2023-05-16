@@ -1,4 +1,8 @@
-Please create a list of <<BATCH>> different and unique personas for the following demographic group, using <<NUM>> as a random seed:
+Using <<NUM>> as a random seed for all generated values.
+
+Please create a list of <<BATCH>> different and unique personas for the following demographic group.
+
+All the names of the personas should begin with <<START>>.
 
 Please only output the list. 
 

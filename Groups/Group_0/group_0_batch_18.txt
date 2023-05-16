@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Samantha Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Samantha is a friendly and outgoing individual who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Job Security": 2,
+      "Environmental Protection": 3
+    },
+    "Pain Points": {
+      "Student Loan Debt": 1,
+      "Lack of Affordable Housing": 2,
+      "Limited Job Opportunities": 3
+    }
+  },
+  {
+    "Name": "Stella Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Stella is a hardworking single mother who is focused on providing a stable and secure life for her two children.",
+    "Top Priorities": {
+      "Education": 1,
+      "Childcare": 2,
+      "Job Security": 3
+    },
+    "Pain Points": {
+      "Childcare Expenses": 1,
+      "Lack of Support for Single Parents": 2,
+      "Limited Job Opportunities": 3
+    }
+  },
+  {
+    "Name": "Sylvia Martin",
+    "Age": 56,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Sylvia is a dedicated healthcare professional who is passionate about helping others and advocating for better healthcare policies.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Retirement Security": 2,
+      "Job Security": 3
+    },
+    "Pain Points": {
+      "Rising Healthcare Costs": 1,
+      "Lack of Retirement Savings": 2,
+      "Limited Job Opportunities": 3
+    }
+  },
+  {
+    "Name": "Sasha Williams",
+    "Age": 25,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Sasha is a young and ambitious woman who is working to save money for college while also supporting her family.",
+    "Top Priorities": {
+      "Education": 1,
+      "Job Security": 2,
+      "Affordable Housing": 3
+    },
+    "Pain Points": {
+      "Student Loan Debt": 1,
+      "Lack of Affordable Housing": 2,
+      "Limited Job Opportunities": 3
+    }
+  },
+  {
+    "Name": "Sierra Davis",
+    "Age": 39,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 31000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Sierra is a dedicated educator who is passionate about teaching and making a positive impact on her students' lives.",
+    "Top Priorities": {
+      "Education": 1,
+      "Job Security": 2,
+      "Affordable Healthcare": 3
+    },
+    "Pain Points": {
+      "Low Teacher Salaries": 1,
+      "Lack of Support for Educators": 2,
+      "Limited Job Opportunities": 3
+    }
+  }
+]

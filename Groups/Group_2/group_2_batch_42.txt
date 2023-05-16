@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Michael Anderson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Michael is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare", "Lack of public transportation"]
+  },
+  {
+    "Name": "Miles Thompson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Miles is a friendly and outgoing person who enjoys spending time with his wife and two dogs.",
+    "Top Priorities": ["Affordable housing", "Quality education", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Lack of affordable housing", "Limited job growth"]
+  },
+  {
+    "Name": "Mitchell Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive mechanic",
+    "Description": "Mitchell is a skilled mechanic who enjoys working on cars and spending time with his teenage daughter.",
+    "Top Priorities": ["Child support", "Retirement savings", "Quality healthcare"],
+    "Pain points": ["High cost of child support", "Lack of affordable healthcare", "Inadequate retirement savings"]
+  },
+  {
+    "Name": "Milton Davis",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "High school teacher",
+    "Description": "Milton is a dedicated teacher who enjoys helping his students succeed and spending time with his grandchildren.",
+    "Top Priorities": ["Education funding", "Social security", "Community safety"],
+    "Pain points": ["Low teacher salary", "Concerns about social security benefits", "Rising crime rates"]
+  },
+  {
+    "Name": "Micah Williams",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Micah is a young and ambitious individual who is working to save money for college and enjoys playing video games.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Job training programs"],
+    "Pain points": ["Low wages", "Limited job opportunities", "High cost of college education"]
+  }
+]

@@ -1,97 +1,97 @@
 [
   {
-    "Name": "George Thompson",
-    "Age": 68,
+    "Name": "Benjamin Edwards",
+    "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 45000,
+    "Income": 30000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "George is a retired construction worker who enjoys spending time with his grandchildren and fishing in his free time.",
+    "Description": "Benjamin is a retired construction worker who enjoys spending time with his grandchildren and fishing in his spare time.",
     "Top Priorities": {
-      "Healthcare": "George wants affordable healthcare for himself and his family.",
-      "Social Security": "George relies on Social Security for his retirement income."
+      "Healthcare": "Benjamin wants affordable healthcare for himself and his family.",
+      "Social Security": "He is concerned about the future of Social Security and its impact on his retirement."
     },
     "Pain points": {
-      "Rising Cost of Living": "George struggles with the increasing cost of living on a fixed income.",
-      "Limited Access to Healthcare": "George has limited access to healthcare in rural Montana."
+      "Rising living costs": "Benjamin struggles with the increasing cost of living and maintaining his lifestyle on a fixed income.",
+      "Access to healthcare": "He has difficulty accessing quality healthcare in his rural community."
     }
   },
   {
-    "Name": "Harold Johnson",
-    "Age": 70,
+    "Name": "Bernard Thompson",
+    "Age": 71,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Bernard is a retired teacher who enjoys volunteering at his local community center and gardening.",
+    "Top Priorities": {
+      "Education": "Bernard believes in the importance of quality education for future generations.",
+      "Environment": "He is passionate about environmental conservation and sustainable living."
+    },
+    "Pain points": {
+      "Isolation": "Bernard struggles with feelings of isolation and loneliness since his wife passed away.",
+      "Limited resources": "He is concerned about the limited resources and opportunities available in his rural community."
+    }
+  },
+  {
+    "Name": "Bert Lancaster",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
+    "Marital Status": "Married",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Harold is a retired mechanic who enjoys woodworking and watching sports.",
+    "Description": "Bert is a retired mechanic who enjoys working on classic cars and spending time with his wife.",
     "Top Priorities": {
-      "Veterans Affairs": "Harold is a Vietnam War veteran and wants better support for veterans.",
-      "Medicare": "Harold relies on Medicare for his healthcare needs."
+      "Economy": "Bert is concerned about the state of the economy and the impact on his community.",
+      "Veterans Affairs": "As a veteran, he is passionate about supporting fellow veterans and their families."
     },
     "Pain points": {
-      "Isolation": "Harold feels isolated living alone in rural Montana.",
-      "Limited Mobility": "Harold has limited mobility due to age and health issues."
+      "Healthcare costs": "Bert struggles with the high cost of healthcare and prescription medications.",
+      "Limited support for veterans": "He is frustrated with the lack of support and resources available for veterans in his area."
     }
   },
   {
-    "Name": "Frank Miller",
+    "Name": "Beau Harrison",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
+    "Marital Status": "Single",
+    "Education Level": "Associate Degree",
+    "Occupation": "Retired",
+    "Description": "Beau is a retired electrician who enjoys woodworking and spending time outdoors.",
+    "Top Priorities": {
+      "Infrastructure": "Beau believes in the importance of investing in infrastructure to support rural communities.",
+      "Gun Rights": "He is a strong advocate for Second Amendment rights and responsible gun ownership."
+    },
+    "Pain points": {
+      "Lack of community engagement": "Beau feels disconnected from his community and wishes there were more opportunities for social interaction.",
+      "Limited access to services": "He is concerned about the limited access to essential services in his rural area."
+    }
+  },
+  {
+    "Name": "Benedict Walker",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
     "Marital Status": "Married",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Frank is a retired farmer who enjoys gardening and spending time with his wife.",
+    "Description": "Benedict is a retired farmer who enjoys reading and spending time with his family.",
     "Top Priorities": {
-      "Agriculture": "Frank wants policies that support small farmers.",
-      "Rural Infrastructure": "Frank wants improved infrastructure in rural areas."
+      "Agriculture": "Benedict is passionate about supporting local agriculture and sustainable farming practices.",
+      "Social Services": "He believes in the importance of social services and support for vulnerable populations."
     },
     "Pain points": {
-      "Declining Rural Economy": "Frank is concerned about the decline of the rural economy.",
-      "Access to Services": "Frank has limited access to services in rural Montana."
-    }
-  },
-  {
-    "Name": "Edward Wilson",
-    "Age": 72,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Edward is a retired teacher who enjoys reading and volunteering at the local library.",
-    "Top Priorities": {
-      "Education": "Edward wants better funding for public schools.",
-      "Community Involvement": "Edward values community involvement and local organizations."
-    },
-    "Pain points": {
-      "Limited Social Opportunities": "Edward has limited social opportunities in rural Montana.",
-      "Declining Public Services": "Edward is concerned about the decline of public services in rural areas."
-    }
-  },
-  {
-    "Name": "Walter Brown",
-    "Age": 67,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 20000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Walter is a retired truck driver who enjoys hiking and birdwatching.",
-    "Top Priorities": {
-      "Transportation": "Walter wants better transportation options in rural areas.",
-      "Environment": "Walter values environmental conservation and wildlife protection."
-    },
-    "Pain points": {
-      "Financial Struggles": "Walter struggles financially on a limited income.",
-      "Limited Access to Nature": "Walter has limited access to nature and outdoor activities in rural Montana."
+      "Financial insecurity": "Benedict struggles with financial insecurity and worries about his family's future.",
+      "Access to information": "He is concerned about the lack of access to reliable information and resources in his community."
     }
   }
 ]

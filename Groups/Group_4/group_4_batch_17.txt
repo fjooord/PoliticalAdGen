@@ -1,97 +1,67 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Robert Anderson",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High school graduate",
+    "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren. He is politically active and attends town hall meetings.",
-    "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "John relies on Social Security benefits and wants to ensure its stability for future generations."
-    },
-    "Pain points": {
-      "Taxes": "John is worried about the increasing tax burden on middle-class families.",
-      "Gun Control": "John is a strong supporter of the Second Amendment and opposes any new gun control measures."
-    }
+    "Description": "Robert is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 70,
+    "Name": "Roger Thompson",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High school graduate",
+    "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and watching sports. He is a member of his local American Legion post.",
-    "Top Priorities": {
-      "Veterans Affairs": "Robert is concerned about the quality of care and support available to veterans.",
-      "Infrastructure": "Robert believes that the government should invest more in repairing and maintaining roads, bridges, and other infrastructure."
-    },
-    "Pain points": {
-      "Immigration": "Robert is concerned about illegal immigration and supports stronger border security measures.",
-      "Economy": "Robert worries about the national debt and the impact it may have on future generations."
-    }
+    "Description": "Roger is a retired mechanic who enjoys working on classic cars and attending car shows.",
+    "Top Priorities": ["Economy", "Infrastructure", "Gun Rights"],
+    "Pain points": ["Economic stability", "Deteriorating infrastructure", "Protecting Second Amendment rights"]
   },
   {
-    "Name": "James Brown",
-    "Age": 68,
+    "Name": "Raymond Johnson",
+    "Age": 65,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High school graduate",
+    "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and volunteering at his local food bank. He is active in his church community.",
-    "Top Priorities": {
-      "Education": "James believes that the government should invest more in public education and teacher salaries.",
-      "Environment": "James is concerned about climate change and supports clean energy initiatives."
-    },
-    "Pain points": {
-      "Social Issues": "James is pro-life and opposes same-sex marriage.",
-      "Government Spending": "James is concerned about wasteful government spending and supports fiscal responsibility."
-    }
-  },
-  {
-    "Name": "William Davis",
-    "Age": 66,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 42000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired police officer who enjoys hiking and photography. He is a member of his local Rotary Club.",
-    "Top Priorities": {
-      "Public Safety": "William is concerned about crime rates and supports increased funding for law enforcement.",
-      "Elderly Care": "William believes that the government should do more to support seniors, including expanding Medicare and Social Security benefits."
-    },
-    "Pain points": {
-      "Drug Policy": "William supports the war on drugs and opposes marijuana legalization.",
-      "Foreign Policy": "William is concerned about national security and supports a strong military presence."
-    }
+    "Description": "Raymond is a retired teacher who enjoys gardening and volunteering at his local community center.",
+    "Top Priorities": ["Education", "Environment", "Healthcare"],
+    "Pain points": ["Quality of public education", "Climate change", "Affordable healthcare"]
   },
   {
     "Name": "Richard Wilson",
-    "Age": 71,
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 48000,
-    "Marital Status": "Separated",
-    "Education Level": "High school graduate",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Richard is a retired farmer who enjoys hunting and spending time with his dogs. He is a member of the National Rifle Association.",
-    "Top Priorities": {
-      "Agriculture": "Richard is concerned about the challenges facing small farmers and supports policies that protect their interests.",
-      "Property Rights": "Richard believes in strong property rights and opposes government overreach in land management."
-    },
-    "Pain points": {
-      "Regulation": "Richard is concerned about excessive government regulation and its impact on small businesses.",
-      "Trade": "Richard is worried about the impact of trade policies on the agricultural industry."
-    }
+    "Description": "Richard is a retired postal worker who enjoys hiking and birdwatching in his free time.",
+    "Top Priorities": ["Social Security", "Public Lands", "Economy"],
+    "Pain points": ["Social Security solvency", "Preserving public lands", "Job opportunities for younger generations"]
+  },
+  {
+    "Name": "Ralph Davis",
+    "Age": 68,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Ralph is a retired factory worker who enjoys woodworking and spending time with his dog.",
+    "Top Priorities": ["Economy", "Healthcare", "Immigration"],
+    "Pain points": ["Economic growth", "Access to healthcare", "Border security"]
   }
 ]

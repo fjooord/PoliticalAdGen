@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Cheryl Adams",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Cheryl is a young woman living in Montana who works in the retail industry. She enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": {
+      "Affordable Healthcare": 1,
+      "Job Security": 2,
+      "Environmental Protection": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "High Healthcare Costs": 2,
+      "Lack of Public Transportation": 3
+    }
+  },
+  {
+    "Name": "Christine Brown",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Christine is a married woman living in Montana with her husband and two children. She works as an administrative assistant and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education": 1,
+      "Job Security": 2,
+      "Affordable Housing": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "Rising Cost of Living": 2,
+      "Lack of Childcare Options": 3
+    }
+  },
+  {
+    "Name": "Charlotte Davis",
+    "Age": 61,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Charlotte is a divorced woman living in Montana who works as a registered nurse. She enjoys gardening and volunteering in her community.",
+    "Top Priorities": {
+      "Healthcare": 1,
+      "Retirement Security": 2,
+      "Community Involvement": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "High Healthcare Costs": 2,
+      "Lack of Social Services": 3
+    }
+  },
+  {
+    "Name": "Charlene Evans",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Charlene is a married woman living in Montana who works as an elementary school teacher. She enjoys hiking and spending time with her husband.",
+    "Top Priorities": {
+      "Education": 1,
+      "Job Security": 2,
+      "Environmental Protection": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "Rising Cost of Living": 2,
+      "Lack of Public Transportation": 3
+    }
+  },
+  {
+    "Name": "Chelsea Foster",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Chelsea is a young woman living in Montana who works as a waitress. She enjoys traveling and exploring new places.",
+    "Top Priorities": {
+      "Affordable Education": 1,
+      "Job Security": 2,
+      "Affordable Housing": 3
+    },
+    "Pain points": {
+      "Limited Job Opportunities": 1,
+      "High Student Loan Debt": 2,
+      "Lack of Affordable Housing": 3
+    }
+  }
+]

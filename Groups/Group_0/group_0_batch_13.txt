@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Nancy Nichols",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Nancy is a friendly and outgoing individual who enjoys working with people. She is passionate about helping customers find the perfect items and providing excellent customer service.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited job opportunities in her area", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Nina Nelson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Nina is a detail-oriented and organized individual who enjoys working in a structured environment. She is a dedicated employee and values stability in her career.",
+    "Top Priorities": ["Education funding", "Retirement security", "Work-life balance"],
+    "Pain points": ["Difficulty finding affordable childcare", "Concerns about retirement savings", "Limited opportunities for career advancement"]
+  },
+  {
+    "Name": "Natalie Norris",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Natalie is a hardworking and dedicated individual who is always looking for ways to improve her skills and provide for her family. She is passionate about her job and enjoys interacting with customers.",
+    "Top Priorities": ["Affordable housing", "Childcare support", "Job training programs"],
+    "Pain points": ["Struggling to make ends meet", "Lack of affordable housing options", "Limited access to affordable childcare"]
+  },
+  {
+    "Name": "Nicole Nash",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Nicole is a compassionate and dedicated healthcare professional who is committed to providing the best possible care for her patients. She is a strong advocate for healthcare reform and is passionate about improving the quality of care in her community.",
+    "Top Priorities": ["Healthcare reform", "Mental health awareness", "Community safety"],
+    "Pain points": ["Concerns about the future of healthcare", "Limited mental health resources in her community", "Rising crime rates in her neighborhood"]
+  },
+  {
+    "Name": "Naomi Newman",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Marketing Coordinator",
+    "Description": "Naomi is a creative and ambitious young professional who is eager to make her mark in the world of marketing. She is passionate about using her skills to help businesses grow and succeed.",
+    "Top Priorities": ["Student loan forgiveness", "Equal pay for equal work", "Climate change"],
+    "Pain points": ["Struggling with student loan debt", "Gender pay gap in her industry", "Concerns about the impact of climate change on future generations"]
+  }
+]

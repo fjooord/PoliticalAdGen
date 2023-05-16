@@ -1,6 +1,6 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Derek Anderson",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -8,90 +8,90 @@
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Description": "Derek is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": {
-      "Healthcare": "John wants affordable and accessible healthcare for seniors.",
-      "Social Security": "John is concerned about the future of Social Security and its impact on his retirement."
+      "Healthcare": "Access to affordable healthcare for seniors",
+      "Social Security": "Ensuring the stability of Social Security benefits"
     },
     "Pain points": {
-      "Technology": "John struggles with modern technology and feels left behind.",
-      "Isolation": "Living in a rural area, John sometimes feels isolated from his community."
+      "Retirement": "Worries about the rising cost of living affecting his retirement savings",
+      "Health": "Concerned about the availability of quality healthcare in rural areas"
     }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "Donald Baker",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and spending time with his dog.",
+    "Description": "Donald is a retired farmer who enjoys woodworking and volunteering at his local church.",
     "Top Priorities": {
-      "Agriculture": "Robert is concerned about the future of farming and its impact on rural communities.",
-      "Veterans Affairs": "As a Vietnam War veteran, Robert is passionate about veterans' rights and benefits."
+      "Agriculture": "Support for small farmers and sustainable agriculture practices",
+      "Community": "Investment in local community programs and services"
     },
     "Pain points": {
-      "Health": "Robert has chronic health issues and struggles with the cost of medications.",
-      "Loneliness": "Since his wife passed away, Robert has struggled with loneliness and depression."
+      "Isolation": "Feeling disconnected from his community due to the loss of his spouse",
+      "Economy": "Concerned about the decline of small businesses in his town"
     }
   },
   {
-    "Name": "James Brown",
-    "Age": 69,
+    "Name": "Dennis Carter",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and going to car shows.",
+    "Description": "Dennis is a retired mechanic who enjoys classic cars and spending time with his wife.",
     "Top Priorities": {
-      "Economy": "James is concerned about the economy and its impact on his children and grandchildren.",
-      "Gun Rights": "As a gun owner, James is passionate about protecting his Second Amendment rights."
+      "Economy": "Job opportunities for younger generations",
+      "Infrastructure": "Improving local infrastructure, such as roads and bridges"
     },
     "Pain points": {
-      "Taxes": "James feels that he is overtaxed and wants to see more efficient use of government funds.",
-      "Crime": "James is concerned about the rising crime rates in his community."
+      "Taxes": "Concerned about rising property taxes",
+      "Environment": "Worried about the impact of climate change on future generations"
     }
   },
   {
-    "Name": "William Davis",
+    "Name": "Daniel Evans",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 30000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired postal worker who enjoys hiking and birdwatching.",
+    "Description": "Daniel is a retired teacher who enjoys hiking and birdwatching in his free time.",
     "Top Priorities": {
-      "Environment": "William is passionate about protecting the environment and wildlife.",
-      "Infrastructure": "William wants to see improvements in roads, bridges, and public transportation."
+      "Education": "Support for public education and teacher salaries",
+      "Environment": "Protection of natural habitats and wildlife"
     },
     "Pain points": {
-      "Housing": "William struggles to find affordable housing in his community.",
-      "Access to Services": "Living in a rural area, William has limited access to healthcare and other services."
+      "Healthcare": "Struggling with the high cost of prescription medications",
+      "Housing": "Concerned about the lack of affordable housing options for seniors"
     }
   },
   {
-    "Name": "Charles Miller",
-    "Age": 70,
+    "Name": "Douglas Foster",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 25000,
     "Marital Status": "Separated",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired teacher who enjoys reading and volunteering at his local library.",
+    "Description": "Douglas is a retired postal worker who enjoys photography and spending time with his dog.",
     "Top Priorities": {
-      "Education": "Charles is concerned about the quality of education in his community.",
-      "Social Services": "Charles wants to see more support for seniors and low-income families."
+      "Social Services": "Access to social services for seniors and low-income individuals",
+      "Public Safety": "Support for local law enforcement and emergency services"
     },
     "Pain points": {
-      "Pensions": "Charles is worried about the stability of his pension and retirement savings.",
-      "Ageism": "Charles has experienced ageism and feels that seniors are often overlooked in society."
+      "Transportation": "Limited access to public transportation in rural areas",
+      "Loneliness": "Struggling with feelings of loneliness and isolation"
     }
   }
 ]

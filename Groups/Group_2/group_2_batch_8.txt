@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 68,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired school teacher who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
-    "Top Priorities": {
-      "Healthcare": "Ensuring access to affordable healthcare for seniors",
-      "Social Security": "Protecting Social Security benefits for herself and future generations"
-    },
-    "Pain Points": {
-      "Cost of Living": "Struggling to make ends meet on a fixed income",
-      "Isolation": "Feeling isolated in a rural community with limited access to resources and services"
-    }
-  },
-  {
-    "Name": "Evelyn Martin",
-    "Age": 71,
-    "Gender": "Female",
+    "Name": "Isaac Johnson",
+    "Age": 28,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a widowed homemaker who enjoys quilting and baking. She is involved in her church and often helps organize community events.",
-    "Top Priorities": {
-      "Medicare": "Ensuring the stability of Medicare for seniors",
-      "Community": "Supporting local initiatives to improve the quality of life in her community"
-    },
-    "Pain Points": {
-      "Loneliness": "Coping with the loss of her spouse and adjusting to living alone",
-      "Transportation": "Limited access to public transportation in her rural community"
-    }
-  },
-  {
-    "Name": "Margaret Johnson",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Margaret is a retired nurse who enjoys birdwatching and hiking. She is passionate about environmental conservation and volunteers at a local wildlife refuge.",
-    "Top Priorities": {
-      "Environment": "Promoting policies that protect the environment and wildlife",
-      "Healthcare": "Advocating for affordable healthcare options for seniors"
-    },
-    "Pain Points": {
-      "Access to Care": "Difficulty finding healthcare providers in her rural community",
-      "Environmental Concerns": "Worries about the impact of climate change on her community and the planet"
-    }
-  },
-  {
-    "Name": "Helen Wilson",
-    "Age": 69,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 25000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Helen is a retired librarian who enjoys reading and attending book club meetings. She is an advocate for education and literacy in her community.",
-    "Top Priorities": {
-      "Education": "Supporting local schools and libraries to promote literacy and lifelong learning",
-      "Social Services": "Ensuring access to social services for seniors and low-income individuals"
-    },
-    "Pain Points": {
-      "Financial Security": "Concerns about her financial stability on a limited income",
-      "Access to Resources": "Limited access to educational and cultural resources in her rural community"
-    }
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Isaac is a hardworking construction worker living in Montana. He enjoys spending time outdoors and values his independence.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
   },
   {
-    "Name": "Barbara Brown",
-    "Age": 73,
-    "Gender": "Female",
+    "Name": "Ian Smith",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Barbara is a retired factory worker who enjoys gardening and spending time with her family. She is active in her local community and often attends town hall meetings.",
-    "Top Priorities": {
-      "Economy": "Supporting policies that promote economic growth and job creation in her community",
-      "Infrastructure": "Improving local infrastructure, such as roads and bridges"
-    },
-    "Pain Points": {
-      "Economic Opportunity": "Concerns about the lack of economic opportunities for younger generations in her community",
-      "Aging Infrastructure": "Frustration with the state of local roads and bridges"
-    }
+    "Education Level": "Associate degree",
+    "Occupation": "Auto mechanic",
+    "Description": "Ian is a skilled auto mechanic who has been working in the industry for over 20 years. He is married and has two children.",
+    "Top Priorities": ["Education for his children", "Job stability", "Retirement planning"],
+    "Pain points": ["Rising education costs", "Uncertain job market", "Lack of retirement savings"]
+  },
+  {
+    "Name": "Ivan Brown",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Sales representative",
+    "Description": "Ivan is a sales representative for a local company. He is recently divorced and is focused on rebuilding his life.",
+    "Top Priorities": ["Career advancement", "Financial stability", "Personal growth"],
+    "Pain points": ["Competitive job market", "High cost of living", "Emotional stress from divorce"]
+  },
+  {
+    "Name": "Irving Davis",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "Irving is a janitor at a local school. He is a widower and lives alone, focusing on his work and hobbies.",
+    "Top Priorities": ["Healthcare", "Social security", "Community involvement"],
+    "Pain points": ["Low income", "Limited access to healthcare", "Loneliness"]
+  },
+  {
+    "Name": "Israel Martinez",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Some college",
+    "Occupation": "Retail associate",
+    "Description": "Israel is a young retail associate working part-time while attending college. He is passionate about the environment and social issues.",
+    "Top Priorities": ["Affordable education", "Environmental protection", "Social justice"],
+    "Pain points": ["Student loan debt", "Low-paying job", "Lack of political representation"]
   }
 ]

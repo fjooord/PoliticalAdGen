@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Harold Thompson",
+    "Name": "Kenneth Adams",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -8,90 +8,60 @@
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Harold is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "As a senior citizen, Harold is concerned about the quality and affordability of healthcare.",
-      "Social Security": "He relies on his Social Security benefits and wants to ensure they remain stable."
-    },
-    "Pain points": {
-      "Technology": "Harold struggles to keep up with the latest technology and feels left behind.",
-      "Isolation": "Living in a rural area, he sometimes feels isolated from the rest of the world."
-    }
+    "Description": "Kenneth is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Limited access to specialized medical care", "Concerns about Social Security benefits"]
   },
   {
-    "Name": "Frank Johnson",
-    "Age": 70,
+    "Name": "Keith Brown",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Frank is a retired mechanic who enjoys working on classic cars and attending car shows.",
-    "Top Priorities": {
-      "Economy": "Frank is concerned about the state of the economy and its impact on his fixed income.",
-      "Veterans Affairs": "As a Vietnam War veteran, he is passionate about improving veterans' services."
-    },
-    "Pain points": {
-      "Health": "Frank has some health issues and worries about the cost of medications and treatments.",
-      "Loneliness": "Since his wife passed away, he has struggled with feelings of loneliness and depression."
-    }
+    "Description": "Keith is a retired mechanic who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": ["Medicare", "Religious Freedom", "Gun Rights"],
+    "Pain points": ["Difficulty navigating Medicare", "Concerns about religious freedom", "Worries about potential gun control legislation"]
   },
   {
-    "Name": "George Wilson",
+    "Name": "Karl Johnson",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Karl is a retired postal worker who enjoys gardening and spending time with his wife.",
+    "Top Priorities": ["Pensions", "Environment", "Healthcare"],
+    "Pain points": ["Concerns about pension stability", "Worries about environmental issues", "Rising healthcare costs"]
+  },
+  {
+    "Name": "Kurt Miller",
+    "Age": 69,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Kurt is a retired police officer who enjoys golfing and spending time with his family.",
+    "Top Priorities": ["Law Enforcement", "Taxes", "Immigration"],
+    "Pain points": ["Concerns about law enforcement support", "Worries about rising taxes", "Worries about immigration policies"]
+  },
+  {
+    "Name": "Kevin Smith",
+    "Age": 65,
+    "Gender": "Male",
+    "Ethnicity": "White",
     "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "George is a retired farmer who enjoys gardening and volunteering at his local food bank.",
-    "Top Priorities": {
-      "Agriculture": "George is concerned about the future of farming and the impact of climate change on crops.",
-      "Community": "He is passionate about supporting his local community and addressing food insecurity."
-    },
-    "Pain points": {
-      "Physical Limitations": "George has some physical limitations that make it difficult for him to participate in activities he once enjoyed.",
-      "Rural Infrastructure": "He is frustrated by the lack of resources and infrastructure in his rural community."
-    }
-  },
-  {
-    "Name": "Edward Smith",
-    "Age": 72,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 25000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "Trade School",
     "Occupation": "Retired",
-    "Description": "Edward is a retired teacher who enjoys reading, writing, and attending local theater productions.",
-    "Top Priorities": {
-      "Education": "Edward is passionate about improving the quality of education in his community.",
-      "Arts and Culture": "He believes in the importance of supporting local arts and cultural institutions."
-    },
-    "Pain points": {
-      "Limited Income": "Edward struggles to make ends meet on his limited income and worries about the rising cost of living.",
-      "Age Discrimination": "He feels that older adults are often overlooked and undervalued in society."
-    }
-  },
-  {
-    "Name": "Walter Davis",
-    "Age": 67,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Walter is a retired postal worker who enjoys hiking, birdwatching, and spending time outdoors.",
-    "Top Priorities": {
-      "Environment": "Walter is concerned about the impact of climate change and wants to protect the environment for future generations.",
-      "Public Services": "He values public services and wants to ensure they remain well-funded and accessible."
-    },
-    "Pain points": {
-      "Limited Mobility": "Walter has limited mobility due to arthritis and finds it difficult to participate in some of his favorite activities.",
-      "Healthcare Costs": "He is worried about the rising cost of healthcare and the potential impact on his family."
-    }
+    "Description": "Kevin is a retired electrician who enjoys hiking and photography.",
+    "Top Priorities": ["Infrastructure", "Economy", "Healthcare"],
+    "Pain points": ["Concerns about aging infrastructure", "Worries about economic stability", "Rising healthcare costs"]
   }
 ]

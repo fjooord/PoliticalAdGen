@@ -1,67 +1,97 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 67,
+    "Name": "Walter Smith",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Access to veterans services"]
+    "Description": "Walter is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Walter is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "He relies on Social Security for his income and wants to ensure its stability."
+    },
+    "Pain points": {
+      "Taxes": "Walter is worried about the increasing property taxes in his area.",
+      "Inflation": "He is also concerned about the rising cost of living."
+    }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 71,
+    "Name": "William Johnson",
+    "Age": 72,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local church.",
-    "Top Priorities": ["Medicare", "Taxes", "Community Development"],
-    "Pain points": ["Medicare coverage gaps", "Property taxes", "Lack of community resources"]
+    "Description": "William is a retired mechanic who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": {
+      "Veterans Affairs": "As a veteran, William is passionate about supporting fellow veterans and improving the VA system.",
+      "Community": "He is also invested in the well-being of his local community."
+    },
+    "Pain points": {
+      "Healthcare": "William is concerned about the quality of healthcare available to him.",
+      "Isolation": "He struggles with feelings of isolation since the passing of his wife."
+    }
   },
   {
-    "Name": "James Brown",
-    "Age": 68,
+    "Name": "Wayne Brown",
+    "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 42000,
+    "Income": 40000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and traveling with his wife.",
-    "Top Priorities": ["Education", "Environment", "Economy"],
-    "Pain points": ["Education funding", "Climate change", "Economic stability"]
+    "Description": "Wayne is a retired teacher who enjoys gardening and spending time with his wife.",
+    "Top Priorities": {
+      "Education": "Wayne is passionate about improving the education system and providing better resources for teachers.",
+      "Environment": "He is also concerned about the environment and climate change."
+    },
+    "Pain points": {
+      "Pensions": "Wayne is worried about the stability of his pension.",
+      "Healthcare": "He is concerned about the rising costs of healthcare for him and his wife."
+    }
   },
   {
-    "Name": "William Davis",
+    "Name": "Wesley Davis",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Wesley is a retired factory worker who enjoys hiking and birdwatching.",
+    "Top Priorities": {
+      "Economy": "Wesley is concerned about the state of the economy and job opportunities for younger generations.",
+      "Social Security": "He relies on Social Security for his income and wants to ensure its stability."
+    },
+    "Pain points": {
+      "Healthcare": "Wesley is worried about the affordability of healthcare.",
+      "Housing": "He is also concerned about the lack of affordable housing options in his area."
+    }
+  },
+  {
+    "Name": "Warren Miller",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 48000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
     "Occupation": "Retired",
-    "Description": "William is a retired police officer who enjoys hiking and spending time with his dog.",
-    "Top Priorities": ["Public Safety", "Gun Control", "Animal Welfare"],
-    "Pain points": ["Crime rates", "Gun violence", "Animal abuse"]
-  },
-  {
-    "Name": "Charles Miller",
-    "Age": 70,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Charles is a retired farmer who enjoys reading and spending time with his friends.",
-    "Top Priorities": ["Agriculture", "Infrastructure", "Rural Development"],
-    "Pain points": ["Farm subsidies", "Road maintenance", "Access to rural healthcare"]
+    "Description": "Warren is a retired electrician who enjoys golfing and spending time with his family.",
+    "Top Priorities": {
+      "Infrastructure": "Warren is concerned about the state of the country's infrastructure and supports investment in improvements.",
+      "Taxes": "He is also interested in tax reform that benefits the middle class."
+    },
+    "Pain points": {
+      "Healthcare": "Warren is worried about the rising costs of healthcare for him and his family.",
+      "Retirement": "He is also concerned about the financial stability of his retirement."
+    }
   }
 ]

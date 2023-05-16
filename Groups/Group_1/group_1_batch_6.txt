@@ -1,67 +1,102 @@
 [
   {
-    "Name": "Doris Thompson",
+    "Name": "Gloria Stevens",
     "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 45000,
+    "Income": 35000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Doris is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and attends church regularly.",
-    "Top Priorities": ["Healthcare", "Social Security", "Family"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of affordable housing for her children"]
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Gloria is a retired high school teacher who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits",
+      "Community Involvement": "Supporting local community programs and initiatives"
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": "Struggling to afford necessary medications and treatments",
+      "Social Isolation": "Limited opportunities for social interaction and engagement"
+    }
   },
   {
-    "Name": "Evelyn Martin",
+    "Name": "Geraldine Murphy",
     "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 35000,
+    "Income": 45000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Secretary",
-    "Description": "Evelyn is a widowed retiree who enjoys reading and volunteering at her local library. She is concerned about the environment and the future for her grandchildren.",
-    "Top Priorities": ["Environment", "Education", "Healthcare"],
-    "Pain points": ["Climate change", "Lack of funding for public education", "Rising prescription drug costs"]
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Geraldine is a retired nurse who enjoys traveling and spending time with her friends. She is an active member of her church and participates in various community events.",
+    "Top Priorities": {
+      "Healthcare": "Improving access to quality healthcare for seniors",
+      "Retirement Security": "Ensuring a stable and secure retirement",
+      "Community Engagement": "Promoting community involvement and volunteerism"
+    },
+    "Pain points": {
+      "Limited Mobility": "Difficulty accessing transportation and community resources",
+      "Financial Security": "Concerns about the future of Social Security and retirement savings"
+    }
   },
   {
-    "Name": "Marilyn Hughes",
+    "Name": "Greta Johnson",
     "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Marilyn is a retired retail worker who enjoys crafting and spending time with her husband. She is concerned about the economy and the financial stability of her family.",
-    "Top Priorities": ["Economy", "Taxes", "Social Security"],
-    "Pain points": ["Rising cost of living", "Concerns about tax increases", "Uncertainty about Social Security benefits"]
-  },
-  {
-    "Name": "Gloria Simmons",
-    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Gloria is a retired factory worker who enjoys traveling and spending time with her friends. She is concerned about the state of the country and the political climate.",
-    "Top Priorities": ["National Security", "Immigration", "Healthcare"],
-    "Pain points": ["Concerns about terrorism", "Illegal immigration", "Rising healthcare costs"]
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Greta is a retired administrative assistant who enjoys reading and spending time with her pets. She is involved in her local animal shelter and advocates for animal welfare.",
+    "Top Priorities": {
+      "Animal Welfare": "Supporting policies and initiatives that protect animals",
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": "Struggling to afford necessary medications and treatments",
+      "Social Isolation": "Limited opportunities for social interaction and engagement"
+    }
   },
   {
-    "Name": "Helen Sanders",
+    "Name": "Gwen Phillips",
+    "Age": 68,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Gwen is a retired bank teller who enjoys hiking and spending time outdoors. She is an active member of her local hiking club and participates in various environmental initiatives.",
+    "Top Priorities": {
+      "Environment": "Protecting natural resources and promoting sustainable practices",
+      "Healthcare": "Improving access to quality healthcare for seniors",
+      "Retirement Security": "Ensuring a stable and secure retirement"
+    },
+    "Pain points": {
+      "Limited Mobility": "Difficulty accessing transportation and community resources",
+      "Financial Security": "Concerns about the future of Social Security and retirement savings"
+    }
+  },
+  {
+    "Name": "Georgia Simmons",
     "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Teacher",
-    "Description": "Helen is a retired teacher who enjoys spending time with her family and volunteering at her local food bank. She is passionate about social justice and helping those in need.",
-    "Top Priorities": ["Social Justice", "Education", "Healthcare"],
-    "Pain points": ["Income inequality", "Lack of funding for public education", "Limited access to affordable healthcare"]
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Georgia is a retired factory worker who enjoys crafting and spending time with her family. She is involved in her local senior center and participates in various community events.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits",
+      "Community Involvement": "Supporting local community programs and initiatives"
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": "Struggling to afford necessary medications and treatments",
+      "Social Isolation": "Limited opportunities for social interaction and engagement"
+    }
   }
 ]

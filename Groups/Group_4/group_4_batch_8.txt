@@ -1,67 +1,92 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 67,
+    "Name": "Ivan Ingram",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
+    "Description": "Ivan is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Access to affordable healthcare for seniors",
+      "Social Security": "Ensuring the stability of Social Security benefits"
+    },
+    "Pain Points": {
+      "Retirement": "Worries about the rising cost of living and maintaining his retirement savings"
+    }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 70,
+    "Name": "Irving Isaacs",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
-    "Top Priorities": ["Medicare", "Pension Security", "Community Development"],
-    "Pain Points": ["Medicare coverage limitations", "Worries about pension stability", "Lack of community resources"]
+    "Description": "Irving is a retired teacher who enjoys reading and volunteering at his local library.",
+    "Top Priorities": {
+      "Education": "Support for public education and teacher salaries",
+      "Community": "Investment in local community programs and services"
+    },
+    "Pain Points": {
+      "Loneliness": "Coping with the loss of his spouse and finding social connections"
+    }
   },
   {
-    "Name": "James Wilson",
-    "Age": 68,
+    "Name": "Isaac Irwin",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and spending time with his wife.",
-    "Top Priorities": ["Education", "Environmental Protection", "Healthcare"],
-    "Pain Points": ["Concerns about public education funding", "Worries about environmental degradation", "Rising healthcare costs"]
+    "Description": "Isaac is a retired mechanic who enjoys working on classic cars and attending car shows.",
+    "Top Priorities": {
+      "Economy": "Support for small businesses and local economies",
+      "Infrastructure": "Improvement of roads and transportation systems"
+    },
+    "Pain Points": {
+      "Health": "Managing chronic health conditions and access to specialists"
+    }
   },
   {
-    "Name": "William Brown",
-    "Age": 66,
+    "Name": "Irwin Inglewood",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired postal worker who enjoys hiking and birdwatching.",
-    "Top Priorities": ["Postal Service", "Social Security", "Infrastructure"],
-    "Pain Points": ["Concerns about the future of the postal service", "Worries about Social Security benefits", "Deteriorating infrastructure"]
-  },
-  {
-    "Name": "Charles Davis",
-    "Age": 71,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 25000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired farmer who enjoys reading and playing cards with friends.",
-    "Top Priorities": ["Agriculture", "Rural Development", "Healthcare"],
-    "Pain Points": ["Concerns about the future of small farms", "Lack of rural development resources", "Limited access to healthcare services"]
+    "Description": "Irwin is a retired farmer who enjoys gardening and spending time outdoors.",
+    "Top Priorities": {
+      "Environment": "Protection of natural resources and wildlife",
+      "Agriculture": "Support for local farmers and sustainable farming practices"
+    },
+    "Pain Points": {
+      "Housing": "Affordability and availability of suitable housing options for seniors"
+    }
+  },
+  {
+    "Name": "Ignatius Irving",
+    "Age": 72,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Ignatius is a retired factory worker who enjoys woodworking and watching sports.",
+    "Top Priorities": {
+      "Jobs": "Creation of jobs and opportunities for younger generations",
+      "Veterans": "Support for veterans and their families"
+    },
+    "Pain Points": {
+      "Financial Security": "Managing a limited income and unexpected expenses"
+    }
   }
 ]

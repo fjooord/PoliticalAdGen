@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Franklin Rogers",
+    "Age": 28,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Franklin is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Access to quality healthcare"]
+  },
+  {
+    "Name": "Fredrick Montgomery",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Fredrick is a dedicated retail manager who values family time and is involved in his local community.",
+    "Top Priorities": ["Education for his children", "Community safety", "Economic growth"],
+    "Pain points": ["Job stability", "Rising crime rates", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Francis Howard",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Delivery driver",
+    "Description": "Francis is a young delivery driver who enjoys playing video games and hanging out with his friends.",
+    "Top Priorities": ["Job advancement opportunities", "Affordable education", "Environmental issues"],
+    "Pain points": ["Low wages", "Student loan debt", "Climate change"]
+  },
+  {
+    "Name": "Frederic Thompson",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Frederic is an experienced electrician who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": ["Retirement planning", "Healthcare", "Veterans' issues"],
+    "Pain points": ["Financial security", "Access to quality healthcare", "Support for veterans"]
+  },
+  {
+    "Name": "Fritz Wallace",
+    "Age": 37,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Accountant",
+    "Description": "Fritz is a detail-oriented accountant who enjoys hiking and spending time with his family.",
+    "Top Priorities": ["Tax reform", "Quality education for his children", "Infrastructure improvements"],
+    "Pain points": ["Complex tax system", "Overcrowded schools", "Poor road conditions"]
+  }
+]

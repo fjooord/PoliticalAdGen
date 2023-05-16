@@ -1,67 +1,97 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 67,
+    "Name": "Ansel Adams",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
+    "Description": "Ansel is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Top Priorities": {
+      "Healthcare": "Ansel wants affordable healthcare for seniors.",
+      "Social Security": "Ansel wants to protect Social Security benefits."
+    },
+    "Pain points": {
+      "Rising Cost of Living": "Ansel struggles with the increasing cost of living on a fixed income.",
+      "Access to Healthcare": "Ansel has difficulty accessing healthcare services in rural Montana."
+    }
   },
   {
-    "Name": "Robert Johnson",
+    "Name": "Anderson Baker",
+    "Age": 72,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Anderson is a retired farmer who enjoys woodworking and spending time with his dog.",
+    "Top Priorities": {
+      "Agriculture": "Anderson wants to support local farmers and sustainable agriculture.",
+      "Veterans Affairs": "Anderson, a Vietnam War veteran, wants to improve support for veterans."
+    },
+    "Pain points": {
+      "Isolation": "Anderson struggles with loneliness and isolation in rural Montana.",
+      "Access to Services": "Anderson has difficulty accessing services and resources for veterans."
+    }
+  },
+  {
+    "Name": "Antonio Clark",
+    "Age": 67,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Antonio is a retired teacher who enjoys gardening and volunteering at the local food bank.",
+    "Top Priorities": {
+      "Education": "Antonio wants to improve the quality of education in Montana.",
+      "Community Involvement": "Antonio wants to encourage community engagement and volunteerism."
+    },
+    "Pain points": {
+      "Education Funding": "Antonio is concerned about the lack of funding for public schools.",
+      "Rural Poverty": "Antonio sees the effects of poverty in his community and wants to address it."
+    }
+  },
+  {
+    "Name": "Anthony Davis",
     "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Robert is a retired teacher who enjoys reading and volunteering at his local library.",
-    "Top Priorities": ["Education", "Environment", "Healthcare"],
-    "Pain points": ["Concerns about public education funding", "Climate change", "Rising healthcare costs"]
-  },
-  {
-    "Name": "James Brown",
-    "Age": 68,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 42000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys working on classic cars and spending time with his family.",
-    "Top Priorities": ["Economy", "Infrastructure", "Healthcare"],
-    "Pain points": ["Concerns about the national debt", "Deteriorating infrastructure", "Rising healthcare costs"]
-  },
-  {
-    "Name": "William Davis",
-    "Age": 66,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 48000,
     "Marital Status": "Separated",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired police officer who enjoys hiking and spending time with his dog.",
-    "Top Priorities": ["Public Safety", "Veterans Affairs", "Healthcare"],
-    "Pain points": ["Concerns about crime rates", "Limited access to VA services", "Rising healthcare costs"]
+    "Description": "Anthony is a retired mechanic who enjoys classic cars and watching sports.",
+    "Top Priorities": {
+      "Economy": "Anthony wants to see economic growth and job opportunities in Montana.",
+      "Infrastructure": "Anthony wants to improve roads and bridges in the state."
+    },
+    "Pain points": {
+      "Limited Job Opportunities": "Anthony is concerned about the lack of job opportunities for his adult children.",
+      "Transportation": "Anthony struggles with limited public transportation options in rural Montana."
+    }
   },
   {
-    "Name": "Charles Wilson",
-    "Age": 65,
+    "Name": "Andrew Evans",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
+    "Income": 20000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired factory worker who enjoys woodworking and spending time with his friends.",
-    "Top Priorities": ["Economy", "Social Security", "Healthcare"],
-    "Pain points": ["Concerns about job loss due to automation", "Concerns about Social Security benefits", "Rising healthcare costs"]
+    "Description": "Andrew is a retired postal worker who enjoys birdwatching and photography.",
+    "Top Priorities": {
+      "Environment": "Andrew wants to protect Montana's natural resources and wildlife.",
+      "Affordable Housing": "Andrew wants to ensure affordable housing options for seniors."
+    },
+    "Pain points": {
+      "Housing Costs": "Andrew struggles with the rising cost of housing on a limited income.",
+      "Environmental Protection": "Andrew is concerned about the impact of development on the environment."
+    }
   }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Levi Thompson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Levi is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Lack of affordable housing", "Limited access to healthcare services", "Concerns about job stability"]
+  },
+  {
+    "Name": "Leonard Davis",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Leonard is a family man who is focused on providing for his wife and two children.",
+    "Top Priorities": ["Education funding", "Economic growth", "Public safety"],
+    "Pain points": ["Rising cost of living", "Limited educational opportunities for his children", "Concerns about crime rates"]
+  },
+  {
+    "Name": "Leroy Jenkins",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Leroy is a young man who enjoys traveling and is passionate about politics.",
+    "Top Priorities": ["Infrastructure improvements", "Job creation", "Affordable housing"],
+    "Pain points": ["Lack of job opportunities in his field", "High cost of rent", "Concerns about the state of the economy"]
+  },
+  {
+    "Name": "Leslie Adams",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 46000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Leslie is a skilled tradesman who is focused on maintaining a comfortable lifestyle.",
+    "Top Priorities": ["Retirement security", "Healthcare access", "Lower taxes"],
+    "Pain points": ["Concerns about retirement savings", "Rising healthcare costs", "High tax burden"]
+  },
+  {
+    "Name": "Leland Martin",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Teacher",
+    "Description": "Leland is a dedicated educator who is passionate about making a difference in his community.",
+    "Top Priorities": ["Education reform", "Social justice", "Community development"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for his students", "Concerns about social inequality"]
+  }
+]

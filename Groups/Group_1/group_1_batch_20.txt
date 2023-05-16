@@ -1,67 +1,97 @@
 [
   {
-    "Name": "Laura Thompson",
-    "Age": 32,
+    "Name": "Ursula Underwood",
+    "Age": 67,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Ursula is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Top Priorities": {
+      "Healthcare": "Ursula wants to ensure that she and her peers have access to affordable healthcare.",
+      "Social Security": "Ursula relies on her social security benefits and wants to ensure they remain stable."
+    },
+    "Pain points": {
+      "Rising living costs": "Ursula is concerned about the rising cost of living, especially in terms of housing and healthcare.",
+      "Isolation": "Ursula sometimes feels isolated in her rural community and wishes there were more opportunities for social interaction."
+    }
+  },
+  {
+    "Name": "Uma Upton",
+    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Laura is a hardworking single woman living in a small town in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
-    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
-    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Inadequate public transportation"]
-  },
-  {
-    "Name": "Hannah Johnson",
-    "Age": 45,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 42000,
-    "Marital Status": "Divorced",
+    "Marital Status": "Widowed",
     "Education Level": "Some college",
-    "Occupation": "Administrative Assistant",
-    "Description": "Hannah is a divorced mother of two teenagers. She is active in her community and volunteers at her children's school.",
-    "Top Priorities": ["Education funding", "Childcare support", "Economic stability"],
-    "Pain points": ["Rising cost of living", "Lack of affordable childcare", "Limited access to quality education"]
+    "Occupation": "Retired Teacher",
+    "Description": "Uma is a retired teacher who enjoys reading, knitting, and spending time with her friends. She is involved in her local book club and knitting group.",
+    "Top Priorities": {
+      "Education": "Uma believes in the importance of education and wants to see increased funding for public schools.",
+      "Community": "Uma values her community and wants to see more support for local organizations and events."
+    },
+    "Pain points": {
+      "Limited transportation": "Uma struggles with limited public transportation options in her rural area.",
+      "Access to healthcare": "Uma is concerned about the availability of healthcare services in her community."
+    }
   },
   {
-    "Name": "Emily Wilson",
-    "Age": 24,
+    "Name": "Urszula Unger",
+    "Age": 65,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 27000,
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Urszula is a retired administrative assistant who enjoys painting and hiking. She is active in her local art community and participates in art shows.",
+    "Top Priorities": {
+      "Environment": "Urszula is passionate about protecting the environment and wants to see more action on climate change.",
+      "Arts and culture": "Urszula values the arts and wants to see more support for local artists and cultural events."
+    },
+    "Pain points": {
+      "Limited access to art resources": "Urszula wishes there were more art resources and opportunities in her community.",
+      "Lack of affordable housing": "Urszula is concerned about the lack of affordable housing options for seniors in her area."
+    }
+  },
+  {
+    "Name": "Ulla Upchurch",
+    "Age": 70,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
     "Marital Status": "Single",
     "Education Level": "High school graduate",
-    "Occupation": "Waitress",
-    "Description": "Emily is a young woman working in the service industry. She is saving money to attend college and pursue a career in healthcare.",
-    "Top Priorities": ["Affordable education", "Minimum wage increase", "Job training programs"],
-    "Pain points": ["Student loan debt", "Low wages", "Lack of affordable healthcare"]
+    "Occupation": "Retired Factory Worker",
+    "Description": "Ulla is a retired factory worker who enjoys birdwatching and spending time with her pets. She is a member of her local Audubon Society and volunteers at the animal shelter.",
+    "Top Priorities": {
+      "Animal welfare": "Ulla is passionate about animal welfare and wants to see stronger animal protection laws.",
+      "Social services": "Ulla relies on social services and wants to ensure they remain well-funded and accessible."
+    },
+    "Pain points": {
+      "Rising healthcare costs": "Ulla is concerned about the rising cost of healthcare and prescription medications.",
+      "Limited social opportunities": "Ulla wishes there were more social opportunities for seniors in her community."
+    }
   },
   {
-    "Name": "Sarah Miller",
-    "Age": 55,
+    "Name": "Unity Underhill",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 48000,
-    "Marital Status": "Married",
-    "Education Level": "Associate degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Sarah is a dedicated nurse who has been working in the healthcare industry for over 30 years. She is married and has three grown children.",
-    "Top Priorities": ["Healthcare reform", "Retirement security", "Support for small businesses"],
-    "Pain points": ["Rising healthcare costs", "Uncertain retirement future", "Lack of support for local businesses"]
-  },
-  {
-    "Name": "Megan Davis",
-    "Age": 38,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 31000,
-    "Marital Status": "Married",
+    "Income": 25000,
+    "Marital Status": "Separated",
     "Education Level": "High school graduate",
-    "Occupation": "Stay-at-home mom",
-    "Description": "Megan is a stay-at-home mom with two young children. She is married to a construction worker and is active in her local community.",
-    "Top Priorities": ["Family support programs", "Affordable housing", "Community safety"],
-    "Pain points": ["Limited resources for families", "Rising housing costs", "Concerns about crime and safety"]
+    "Occupation": "Retired Cashier",
+    "Description": "Unity is a retired cashier who enjoys cooking and spending time with her family. She is involved in her local church and participates in community events.",
+    "Top Priorities": {
+      "Family values": "Unity values strong family connections and wants to see policies that support families.",
+      "Religious freedom": "Unity believes in the importance of religious freedom and wants to see her beliefs respected."
+    },
+    "Pain points": {
+      "Limited access to healthcare": "Unity is concerned about the limited access to healthcare services in her rural community.",
+      "Economic opportunities": "Unity worries about the lack of economic opportunities for her children and grandchildren in her area."
+    }
   }
 ]

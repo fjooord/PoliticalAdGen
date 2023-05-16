@@ -1,92 +1,67 @@
 [
   {
-    "Name": "Dorothy Johnson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Divorced",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired school teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "As an older individual, Dorothy is concerned about her healthcare and the availability of affordable options.",
-      "Social Security": "Dorothy relies on her social security benefits and wants to ensure they remain stable."
-    },
-    "Pain points": {
-      "Isolation": "Living in a rural area, Dorothy sometimes feels isolated from her community and resources."
-    }
-  },
-  {
-    "Name": "Margaret Brown",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Zachary Thompson",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "Some college",
-    "Occupation": "Retired",
-    "Description": "Margaret is a retired nurse who enjoys volunteering at her local church and spending time with her family.",
-    "Top Priorities": {
-      "Healthcare": "Margaret is concerned about the rising costs of prescription medications and healthcare services.",
-      "Community": "She values her community and wants to see more support for local organizations and events."
-    },
-    "Pain points": {
-      "Transportation": "Margaret struggles with limited public transportation options in her rural area."
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Zachary is a hardworking individual who enjoys spending his free time outdoors. He is politically engaged and cares about local issues.",
+    "Top Priorities": ["Economy", "Healthcare", "Environment"],
+    "Pain points": ["Affordable housing", "Job security", "Access to healthcare"]
   },
   {
-    "Name": "Barbara Wilson",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Zane Martin",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Married",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Barbara is a retired administrative assistant who enjoys reading and traveling with her husband.",
-    "Top Priorities": {
-      "Economy": "Barbara is concerned about the local economy and wants to see more job opportunities for younger generations.",
-      "Environment": "She values the natural beauty of Montana and wants to see more environmental protections in place."
-    },
-    "Pain points": {
-      "Internet Access": "Barbara struggles with limited and unreliable internet access in her rural area."
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Zane is a friendly and outgoing person who values family and community. He is interested in politics and often discusses current events with friends and family.",
+    "Top Priorities": ["Education", "Infrastructure", "Public safety"],
+    "Pain points": ["Student loan debt", "Traffic congestion", "Crime rates"]
   },
   {
-    "Name": "Shirley Smith",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Zeke Wilson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Single",
+    "Income": 48000,
+    "Marital Status": "Divorced",
     "Education Level": "Associate degree",
-    "Occupation": "Retired",
-    "Description": "Shirley is a retired bank teller who enjoys painting and participating in her local book club.",
-    "Top Priorities": {
-      "Healthcare": "Shirley is concerned about the availability of mental health services in her rural area.",
-      "Education": "She values education and wants to see more support for local schools and libraries."
-    },
-    "Pain points": {
-      "Access to Services": "Shirley struggles with limited access to services and resources in her rural area."
-    }
+    "Occupation": "Electrician",
+    "Description": "Zeke is a skilled tradesman who takes pride in his work. He is concerned about the future of his industry and the impact of politics on his livelihood.",
+    "Top Priorities": ["Economy", "Taxes", "Workers' rights"],
+    "Pain points": ["Job stability", "Retirement savings", "Tax burden"]
   },
   {
-    "Name": "Carol Davis",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Zion Davis",
+    "Age": 22,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
+    "Income": 24000,
+    "Marital Status": "Single",
     "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Carol is a retired factory worker who enjoys birdwatching and spending time with her friends.",
-    "Top Priorities": {
-      "Economy": "Carol is concerned about the rising cost of living and wants to see more affordable housing options.",
-      "Healthcare": "She is also worried about the availability of healthcare services in her rural area."
-    },
-    "Pain points": {
-      "Isolation": "Carol sometimes feels isolated from her community and resources due to her rural location."
-    }
+    "Occupation": "Fast food worker",
+    "Description": "Zion is a young adult who is trying to find his path in life. He is politically aware and wants to see changes in his community.",
+    "Top Priorities": ["Minimum wage", "Affordable education", "Climate change"],
+    "Pain points": ["Low wages", "Lack of job opportunities", "Environmental concerns"]
+  },
+  {
+    "Name": "Zander Smith",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Zander is a dedicated professional who balances work and family life. He is politically active and wants to see positive change in his community.",
+    "Top Priorities": ["Healthcare", "Economy", "Education"],
+    "Pain points": ["Health insurance costs", "Job market", "Quality of education"]
   }
 ]

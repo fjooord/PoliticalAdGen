@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
+    "Name": "Eleanor Thompson",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Ensuring access to affordable healthcare for seniors.",
-      "Social Security": "Protecting Social Security benefits for current and future retirees."
-    },
-    "Pain points": {
-      "Rising healthcare costs": "Struggling to afford necessary medications and treatments.",
-      "Limited social activities": "Finding activities and social opportunities for seniors in her community."
-    }
+    "Description": "Eleanor is a retired teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
   },
   {
-    "Name": "Marilyn Johnson",
-    "Age": 70,
+    "Name": "Edith Martin",
+    "Age": 71,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Marilyn is a retired teacher who volunteers at her local library and enjoys painting.",
-    "Top Priorities": {
-      "Education": "Supporting public education and teacher salaries.",
-      "Environment": "Protecting Montana's natural resources and wildlife."
-    },
-    "Pain points": {
-      "Fixed income": "Managing expenses on a fixed income.",
-      "Lack of public transportation": "Limited access to public transportation in her rural community."
-    }
+    "Description": "Edith is a retired nurse who enjoys volunteering at her local community center.",
+    "Top Priorities": ["Healthcare", "Community development", "Economy"],
+    "Pain points": ["Access to affordable healthcare", "Lack of community resources", "Limited job opportunities for younger generations"]
   },
   {
-    "Name": "Susan Miller",
+    "Name": "Evelyn Davis",
     "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 35000,
+    "Income": 30000,
     "Marital Status": "Married",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Susan is a retired administrative assistant who enjoys hiking and birdwatching.",
-    "Top Priorities": {
-      "Economy": "Supporting local businesses and job creation.",
-      "Healthcare": "Improving access to mental health services in rural areas."
-    },
-    "Pain points": {
-      "Limited healthcare options": "Difficulty finding specialized healthcare providers in her area.",
-      "Rising property taxes": "Concerned about the impact of rising property taxes on her fixed income."
-    }
+    "Description": "Evelyn is a retired administrative assistant who enjoys traveling with her husband.",
+    "Top Priorities": ["Healthcare", "Social Security", "Travel"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited travel opportunities due to COVID-19"]
   },
   {
-    "Name": "Barbara Wilson",
-    "Age": 68,
+    "Name": "Esther Johnson",
+    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Single",
-    "Education Level": "Associate degree",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Barbara is a retired dental hygienist who enjoys quilting and participating in her church community.",
-    "Top Priorities": {
-      "Community": "Supporting local nonprofits and community organizations.",
-      "Public Safety": "Ensuring a safe and secure community for all residents."
-    },
-    "Pain points": {
-      "Isolation": "Feeling isolated and disconnected from friends and family.",
-      "Rising cost of living": "Worried about the rising cost of living in her community."
-    }
+    "Description": "Esther is a retired factory worker who enjoys painting and spending time with her friends.",
+    "Top Priorities": ["Healthcare", "Social Security", "Arts and culture"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to arts and cultural events"]
   },
   {
-    "Name": "Nancy Davis",
-    "Age": 71,
+    "Name": "Ella Wilson",
+    "Age": 65,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 25000,
     "Marital Status": "Married",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Nancy is a retired factory worker who enjoys fishing and spending time with her family.",
-    "Top Priorities": {
-      "Economy": "Promoting economic growth and job opportunities in her community.",
-      "Veterans": "Supporting veterans and their families."
-    },
-    "Pain points": {
-      "Limited access to healthcare": "Difficulty accessing healthcare services in her rural community.",
-      "Lack of affordable housing": "Concerned about the lack of affordable housing options for her children and grandchildren."
-    }
+    "Description": "Ella is a retired retail worker who enjoys spending time with her family and attending church.",
+    "Top Priorities": ["Healthcare", "Social Security", "Religion"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited in-person church services due to COVID-19"]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Quentin Adams",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -8,35 +8,25 @@
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
-    "Top Priorities": {
-      "Healthcare": "John wants affordable healthcare for himself and his family.",
-      "Social Security": "John relies on his social security benefits for his retirement."
-    },
-    "Pain Points": {
-      "Rising Costs": "John is concerned about the rising cost of living and healthcare."
-    }
+    "Description": "Quentin is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": ["Social Security", "Healthcare", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "Quincy Baker",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and gardening.",
-    "Top Priorities": {
-      "Agriculture": "Robert wants policies that support small farmers.",
-      "Veterans Affairs": "Robert is a veteran and wants better support for veterans."
-    },
-    "Pain Points": {
-      "Isolation": "Robert feels isolated in his rural community and wants better access to services."
-    }
+    "Description": "Quincy is a retired teacher who volunteers at the local library and enjoys gardening.",
+    "Top Priorities": ["Education", "Environment", "Social Security"],
+    "Pain points": ["Underfunded public schools", "Climate change", "Worries about Social Security benefits"]
   },
   {
-    "Name": "James Brown",
+    "Name": "Quinton Campbell",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -44,49 +34,34 @@
     "Marital Status": "Married",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and traveling with his wife.",
-    "Top Priorities": {
-      "Infrastructure": "James wants better roads and bridges in his community.",
-      "Medicare": "James relies on Medicare for his healthcare needs."
-    },
-    "Pain Points": {
-      "Taxes": "James is concerned about rising property taxes in his area."
-    }
+    "Description": "Quinton is a retired mechanic who enjoys working on classic cars and spending time with his wife.",
+    "Top Priorities": ["Economy", "Healthcare", "Social Security"],
+    "Pain points": ["Stagnant wages", "Rising healthcare costs", "Concerns about Social Security benefits"]
   },
   {
-    "Name": "William Davis",
-    "Age": 70,
+    "Name": "Quade Daniels",
+    "Age": 72,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired teacher who enjoys reading and volunteering at his local library.",
-    "Top Priorities": {
-      "Education": "William wants better funding for public schools.",
-      "Environment": "William is concerned about climate change and wants action to protect the environment."
-    },
-    "Pain Points": {
-      "Affordable Housing": "William is concerned about the lack of affordable housing options in his area."
-    }
-  },
-  {
-    "Name": "Richard Wilson",
-    "Age": 67,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 25000,
     "Marital Status": "Separated",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Richard is a retired factory worker who enjoys hiking and spending time with his dog.",
-    "Top Priorities": {
-      "Economy": "Richard wants policies that create jobs and support local businesses.",
-      "Animal Welfare": "Richard is passionate about animal welfare and wants stronger animal protection laws."
-    },
-    "Pain Points": {
-      "Public Transportation": "Richard wants better public transportation options in his community."
-    }
+    "Description": "Quade is a retired factory worker who enjoys woodworking and spending time with his friends.",
+    "Top Priorities": ["Economy", "Veterans Affairs", "Social Security"],
+    "Pain points": ["Loss of manufacturing jobs", "Lack of support for veterans", "Worries about Social Security benefits"]
+  },
+  {
+    "Name": "Quillan Edwards",
+    "Age": 67,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Quillan is a retired postal worker who enjoys hiking and birdwatching.",
+    "Top Priorities": ["Environment", "Healthcare", "Social Security"],
+    "Pain points": ["Climate change", "Rising healthcare costs", "Concerns about Social Security benefits"]
   }
 ]

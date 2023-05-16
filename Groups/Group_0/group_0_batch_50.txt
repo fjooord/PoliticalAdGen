@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Jaimee Anderson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Jaimee is a young woman living in a small town in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable healthcare options", "Concerns about climate change"]
+  },
+  {
+    "Name": "Janae Williams",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Janae is a single mother of two teenagers, living in a suburban area in Montana. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education", "Economic stability", "Community safety"],
+    "Pain points": ["Balancing work and family life", "Concerns about the quality of education", "Rising cost of living"]
+  },
+  {
+    "Name": "Jasmine Turner",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Jasmine is a dedicated teacher who is passionate about helping her students succeed. She lives with her husband and their two young children in a rural area in Montana.",
+    "Top Priorities": ["Education funding", "Family-friendly policies", "Rural development"],
+    "Pain points": ["Limited resources for education", "Lack of affordable childcare options", "Limited access to public services in rural areas"]
+  },
+  {
+    "Name": "Jada Thompson",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Nurse's Aide",
+    "Description": "Jada is a compassionate caregiver who works at a local nursing home. She enjoys spending time with her adult children and grandchildren.",
+    "Top Priorities": ["Healthcare access", "Social security", "Elderly care"],
+    "Pain points": ["Low wages in the healthcare industry", "Concerns about the future of social security", "Lack of support for elderly care"]
+  },
+  {
+    "Name": "Jacqueline Smith",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Jacqueline is a recent college graduate who is starting her career as a freelance graphic designer. She is passionate about art and design and hopes to open her own design studio one day.",
+    "Top Priorities": ["Small business support", "Affordable housing", "Arts and culture"],
+    "Pain points": ["Student loan debt", "Lack of affordable housing options", "Limited opportunities for artists and creatives"]
+  }
+]

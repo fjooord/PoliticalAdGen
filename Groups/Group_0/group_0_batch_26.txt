@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Abigail Stevens",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Abigail is a friendly and outgoing individual who enjoys spending time outdoors and exploring Montana's beautiful landscapes. She is passionate about environmental conservation and animal welfare.",
+    "Top Priorities": ["Environmental conservation", "Animal welfare", "Affordable healthcare"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "High healthcare costs"]
+  },
+  {
+    "Name": "Abby Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Abby is a dedicated mother of two who values family time and community involvement. She is an active volunteer at her children's school and a member of her local PTA.",
+    "Top Priorities": ["Education", "Family values", "Community safety"],
+    "Pain points": ["Underfunded schools", "Rising crime rates", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Abrielle Smith",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Abrielle is a young woman who is working to save money for college. She is passionate about social justice and equality and is an active participant in local activism.",
+    "Top Priorities": ["Affordable education", "Social justice", "Income equality"],
+    "Pain points": ["Student loan debt", "Low minimum wage", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Abbygail Brown",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Abbygail is a compassionate and caring nurse who has dedicated her life to helping others. She is concerned about the state of healthcare in the United States and advocates for affordable and accessible care for all.",
+    "Top Priorities": ["Healthcare reform", "Mental health awareness", "Senior care"],
+    "Pain points": ["High healthcare costs", "Lack of mental health resources", "Limited senior care options"]
+  },
+  {
+    "Name": "Abilene Turner",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Abilene is a creative and ambitious young professional who is passionate about art and design. She is concerned about the lack of support for the arts and the impact of technology on society.",
+    "Top Priorities": ["Arts funding", "Technology regulation", "Job security"],
+    "Pain points": ["Limited arts funding", "Job displacement due to automation", "Lack of affordable housing"]
+  }
+]

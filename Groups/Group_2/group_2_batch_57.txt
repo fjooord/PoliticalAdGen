@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Heath Edwards",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Heath is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Affordable housing", "Job security", "Access to healthcare"],
+    "Pain points": ["Rising cost of living", "Limited job opportunities", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Hector Evans",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 38000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Hector is a dedicated father of two who is focused on providing a stable life for his children.",
+    "Top Priorities": ["Education", "Childcare", "Financial stability"],
+    "Pain points": ["Balancing work and family life", "Limited childcare options", "Rising education costs"]
+  },
+  {
+    "Name": "Henry Ellison",
+    "Age": 25,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Warehouse worker",
+    "Description": "Henry is a young man who enjoys playing video games and hanging out with his friends.",
+    "Top Priorities": ["Job advancement", "Affordable entertainment", "Access to public transportation"],
+    "Pain points": ["Lack of job growth", "Limited entertainment options", "Inadequate public transportation"]
+  },
+  {
+    "Name": "Herbert Erickson",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Herbert is a skilled tradesman who enjoys spending time with his family and working on home improvement projects.",
+    "Top Priorities": ["Retirement planning", "Healthcare", "Homeownership"],
+    "Pain points": ["Uncertain retirement future", "Rising healthcare costs", "Property taxes"]
+  },
+  {
+    "Name": "Herman Ellis",
+    "Age": 40,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 33000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Herman is a long-haul truck driver who enjoys listening to music and exploring new places.",
+    "Top Priorities": ["Job security", "Access to healthcare", "Work-life balance"],
+    "Pain points": ["Long hours on the road", "Limited healthcare options", "Lack of job stability"]
+  }
+]

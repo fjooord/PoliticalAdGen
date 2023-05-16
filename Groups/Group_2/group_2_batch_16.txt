@@ -1,67 +1,67 @@
 [
-{
-    "Name": "Doris Thompson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Doris is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
-    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
-},
-{
-    "Name": "Eleanor Martin",
-    "Age": 71,
-    "Gender": "Female",
+  {
+    "Name": "Quentin Adams",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Divorced",
-    "Education Level": "Some College",
-    "Occupation": "Retired Administrative Assistant",
-    "Description": "Eleanor is a retired administrative assistant who enjoys reading, knitting, and attending local cultural events. She is a member of a book club and a knitting group.",
-    "Top Priorities": ["Education", "Economy", "Healthcare"],
-    "Pain Points": ["Affordability of higher education", "Job opportunities for younger generations", "Access to affordable healthcare"]
-},
-{
-    "Name": "Marilyn Johnson",
-    "Age": 68,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Marilyn is a retired retail worker who enjoys spending time with her family, traveling, and playing cards with friends. She is active in her church and volunteers at a local food bank.",
-    "Top Priorities": ["Social Security", "Healthcare", "Immigration"],
-    "Pain Points": ["Concerns about Social Security benefits", "Rising healthcare costs", "Border security"]
-},
-{
-    "Name": "Carolyn Wilson",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Carolyn is a retired factory worker who enjoys painting, hiking, and spending time with her pets. She is a member of a local art group and participates in community clean-up events.",
-    "Top Priorities": ["Environment", "Economy", "Healthcare"],
-    "Pain Points": ["Climate change", "Economic inequality", "Access to affordable healthcare"]
-},
-{
-    "Name": "Shirley Davis",
-    "Age": 70,
-    "Gender": "Female",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Quentin is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job stability", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare services", "Lack of public transportation"]
+  },
+  {
+    "Name": "Quincy Baker",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 20000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Teacher",
-    "Description": "Shirley is a retired teacher who enjoys writing, attending community events, and volunteering at her local library. She is a member of a writing group and a gardening club.",
-    "Top Priorities": ["Education", "Social Security", "Healthcare"],
-    "Pain Points": ["Affordability of higher education", "Concerns about Social Security benefits", "Rising healthcare costs"]
-}
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Quincy is a dedicated family man who values education and community involvement.",
+    "Top Priorities": ["Education funding", "Support for small businesses", "Public safety"],
+    "Pain points": ["Lack of affordable housing", "Insufficient funding for local schools", "Increasing crime rates"]
+  },
+  {
+    "Name": "Quinten Campbell",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Quinten is a creative and outgoing individual who enjoys exploring new places and meeting new people.",
+    "Top Priorities": ["Affordable housing", "Arts and culture funding", "LGBTQ+ rights"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Quade Daniels",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Quade is a skilled tradesman who values hard work and self-reliance.",
+    "Top Priorities": ["Job training programs", "Infrastructure improvements", "Veterans' services"],
+    "Pain points": ["Aging infrastructure", "Limited access to job training resources", "Inadequate support for veterans"]
+  },
+  {
+    "Name": "Quillan Edwards",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Entry-level marketing coordinator",
+    "Description": "Quillan is a recent college graduate who is eager to make a difference in his community.",
+    "Top Priorities": ["Student loan forgiveness", "Climate change", "Racial equality"],
+    "Pain points": ["High student loan debt", "Limited job opportunities in his field", "Lack of diversity in his community"]
+  }
 ]

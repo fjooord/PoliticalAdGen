@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Diana Smith",
+    "Age": 25,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Diana is a young woman living in Montana who works in retail sales. She is single and enjoys spending time outdoors.",
+    "Top Priorities": {
+      "Affordable Healthcare": "Diana is concerned about the rising costs of healthcare and wants to see more affordable options.",
+      "Environmental Protection": "Diana is passionate about preserving Montana's natural beauty and wants to see stronger environmental policies."
+    },
+    "Pain points": {
+      "Student Loan Debt": "Diana is struggling to pay off her student loans and wants to see more support for debt relief.",
+      "Job Security": "Diana worries about the stability of her job and wants to see more opportunities for career growth."
+    }
+  },
+  {
+    "Name": "Diane Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Diane is a married woman living in Montana who works as a registered nurse. She has two children and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education": "Diane wants to see improvements in the education system to provide better opportunities for her children.",
+      "Healthcare": "As a nurse, Diane is concerned about the quality and affordability of healthcare in her community."
+    },
+    "Pain points": {
+      "Work-Life Balance": "Diane struggles to balance her demanding job with her family life and wants to see more support for working parents.",
+      "Retirement Savings": "Diane is worried about her ability to save for retirement and wants to see more financial planning resources."
+    }
+  },
+  {
+    "Name": "Dina Brown",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Dina is a divorced woman living in Montana who works as an elementary school teacher. She has one child and enjoys hiking.",
+    "Top Priorities": {
+      "Education Funding": "Dina wants to see increased funding for public schools to provide better resources for her students.",
+      "Childcare": "As a single parent, Dina is concerned about the availability and affordability of childcare."
+    },
+    "Pain points": {
+      "Housing Costs": "Dina is struggling to afford housing on her salary and wants to see more affordable options.",
+      "Teacher Pay": "Dina believes that teachers should be paid more for their work and wants to see higher salaries for educators."
+    }
+  },
+  {
+    "Name": "Diana Williams",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Office Manager",
+    "Description": "Diana is a widowed woman living in Montana who works as an office manager. She has three grown children and enjoys gardening.",
+    "Top Priorities": {
+      "Social Security": "Diana is concerned about the future of Social Security and wants to see it protected for her retirement.",
+      "Healthcare": "Diana wants to see improvements in the healthcare system to ensure quality care for her and her family."
+    },
+    "Pain points": {
+      "Loneliness": "Diana struggles with loneliness since her husband passed away and wants to see more community support for widows.",
+      "Cost of Living": "Diana is worried about the rising cost of living and wants to see more affordable options for seniors."
+    }
+  },
+  {
+    "Name": "Diane Taylor",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Master's degree",
+    "Occupation": "Social Worker",
+    "Description": "Diane is a married woman living in Montana who works as a social worker. She has one child and enjoys volunteering in her community.",
+    "Top Priorities": {
+      "Mental Health": "Diane wants to see more resources for mental health services in her community.",
+      "Income Inequality": "Diane is concerned about income inequality and wants to see policies that address this issue."
+    },
+    "Pain points": {
+      "Job Stress": "Diane experiences high levels of stress in her job and wants to see more support for mental health professionals.",
+      "Childcare": "Diane struggles to find affordable childcare for her child and wants to see more options in her community."
+    }
+  }
+]

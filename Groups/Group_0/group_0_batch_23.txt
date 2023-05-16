@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Xena Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Xena is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Xiomara Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Xiomara is a divorced mother of two teenagers. She is involved in her local community and is an advocate for better education and after-school programs.",
+    "Top Priorities": ["Education reform", "Childcare support", "Community development"],
+    "Pain points": ["Lack of quality education options", "Limited childcare support", "Insufficient community resources"]
+  },
+  {
+    "Name": "Xanthe Brown",
+    "Age": 24,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Social Media Coordinator",
+    "Description": "Xanthe is a recent college graduate who is passionate about social justice and equality. She is active on social media and uses her platform to raise awareness about various causes.",
+    "Top Priorities": ["Social justice", "Equal pay", "Affordable housing"],
+    "Pain points": ["Student loan debt", "Gender pay gap", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Xylia Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Xylia is a dedicated nurse who has been working in the healthcare field for over 30 years. She is concerned about the future of healthcare and the well-being of her patients.",
+    "Top Priorities": ["Healthcare reform", "Senior care", "Mental health support"],
+    "Pain points": ["Rising healthcare costs", "Limited resources for senior care", "Insufficient mental health support"]
+  },
+  {
+    "Name": "Xochitl Wilson",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Xochitl is a widowed mother of three young children. She is focused on providing for her family and ensuring they have a bright future.",
+    "Top Priorities": ["Childcare support", "Job security", "Affordable housing"],
+    "Pain points": ["Limited childcare options", "Job instability", "Rising housing costs"]
+  }
+]

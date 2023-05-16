@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Diana Davis",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Salesperson",
+    "Description": "Diana is a friendly and outgoing retail salesperson living in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable Healthcare", "Environmental Conservation", "Education"],
+    "Pain points": ["Limited access to healthcare", "Concerns about climate change", "Lack of affordable higher education"]
+  },
+  {
+    "Name": "Diane Daniels",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Diane is a hardworking single mother of two teenagers. She is focused on providing a stable life for her children and ensuring they have access to good education.",
+    "Top Priorities": ["Education", "Economic Stability", "Childcare Support"],
+    "Pain points": ["Struggling to make ends meet", "Concerns about children's future", "Limited access to affordable childcare"]
+  },
+  {
+    "Name": "Daisy Donovan",
+    "Age": 26,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Daisy is a young married woman working as a waitress in a local diner. She is interested in pursuing higher education but is concerned about the cost.",
+    "Top Priorities": ["Affordable Education", "Job Opportunities", "Affordable Housing"],
+    "Pain points": ["Lack of affordable higher education", "Limited job opportunities", "High cost of living"]
+  },
+  {
+    "Name": "Deborah Duncan",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Deborah is a compassionate and dedicated registered nurse nearing retirement. She is concerned about the future of healthcare and social security.",
+    "Top Priorities": ["Healthcare", "Social Security", "Retirement Security"],
+    "Pain points": ["Concerns about healthcare system", "Worries about social security", "Uncertainty about retirement"]
+  },
+  {
+    "Name": "Danielle Dawson",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Danielle is a creative and talented graphic designer who is passionate about supporting local businesses and community development.",
+    "Top Priorities": ["Small Business Support", "Community Development", "Arts and Culture"],
+    "Pain points": ["Lack of support for small businesses", "Limited community resources", "Lack of funding for arts and culture"]
+  }
+]

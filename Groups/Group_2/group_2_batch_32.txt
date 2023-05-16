@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Derek Evans",
+    "Age": 28,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Derek is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Outdoor recreation"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Dean Martin",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Dean is a family man who values stability and community involvement.",
+    "Top Priorities": ["Education for his children", "Community safety", "Economic growth"],
+    "Pain points": ["Concerns about public school quality", "Crime rates", "Limited career advancement opportunities"]
+  },
+  {
+    "Name": "Dexter Thompson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Dexter is a skilled worker who enjoys working on cars and spending time with his dog.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Access to quality healthcare"],
+    "Pain points": ["Lack of affordable housing options", "Limited job opportunities", "High healthcare costs"]
+  },
+  {
+    "Name": "Dennis Murphy",
+    "Age": 54,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "Dennis is a dedicated worker who enjoys spending time with his grandchildren and attending church.",
+    "Top Priorities": ["Social security", "Affordable healthcare", "Community involvement"],
+    "Pain points": ["Low income", "Limited access to healthcare", "Concerns about retirement security"]
+  },
+  {
+    "Name": "Declan Mitchell",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Declan is a creative individual who enjoys playing music and exploring new hobbies.",
+    "Top Priorities": ["Higher education opportunities", "Affordable housing", "Environmental protection"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Lack of affordable housing options"]
+  }
+]

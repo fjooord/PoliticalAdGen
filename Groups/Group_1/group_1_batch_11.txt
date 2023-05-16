@@ -1,67 +1,97 @@
 [
-{
-    "Name": "Doris Thompson",
+  {
+    "Name": "Linda Larson",
     "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Doris is a retired teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
-},
-{
-    "Name": "Evelyn Martin",
-    "Age": 70,
+    "Description": "Linda is a retired teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to affordable healthcare for herself and her family.",
+      "Social Security": "Protecting her retirement income and benefits."
+    },
+    "Pain Points": {
+      "Rising Costs": "Struggling to keep up with the rising costs of living on a fixed income.",
+      "Isolation": "Feeling isolated in her rural community and lacking access to resources."
+    }
+  },
+  {
+    "Name": "Laura Lee",
+    "Age": 71,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who volunteers at her local community center and enjoys painting.",
-    "Top Priorities": ["Healthcare", "Social Security", "Community Development"],
-    "Pain Points": ["Access to affordable healthcare", "Worries about Social Security benefits", "Lack of community resources"]
-},
-{
-    "Name": "Gloria Johnson",
-    "Age": 65,
+    "Description": "Laura is a retired nurse who enjoys volunteering at her local church and community events.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to quality healthcare for herself and her community.",
+      "Community Involvement": "Staying active and engaged in her community."
+    },
+    "Pain Points": {
+      "Limited Mobility": "Struggling with limited mobility and access to transportation.",
+      "Lack of Services": "Limited access to services and resources in her rural community."
+    }
+  },
+  {
+    "Name": "Lorraine Lewis",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Gloria is a retired administrative assistant who enjoys traveling with her husband and attending local events.",
-    "Top Priorities": ["Healthcare", "Social Security", "Economic Growth"],
-    "Pain Points": ["Rising healthcare costs", "Uncertainty about Social Security benefits", "Limited job opportunities for younger generations"]
-},
-{
-    "Name": "Helen Wilson",
-    "Age": 68,
+    "Description": "Lorraine is a retired administrative assistant who enjoys reading and spending time with her husband.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to quality healthcare for herself and her husband.",
+      "Retirement Security": "Protecting her retirement savings and benefits."
+    },
+    "Pain Points": {
+      "Rising Costs": "Struggling to keep up with the rising costs of living on a fixed income.",
+      "Lack of Activities": "Limited access to social and recreational activities in her rural community."
+    }
+  },
+  {
+    "Name": "Lucille Lang",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Helen is a retired factory worker who enjoys reading and spending time with her friends.",
-    "Top Priorities": ["Healthcare", "Social Security", "Affordable Housing"],
-    "Pain Points": ["Limited access to healthcare", "Concerns about Social Security benefits", "Rising housing costs"]
-},
-{
-    "Name": "Irene Davis",
-    "Age": 71,
+    "Description": "Lucille is a retired factory worker who enjoys crafting and spending time with her friends.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to affordable healthcare for herself and her friends.",
+      "Social Security": "Protecting her retirement income and benefits."
+    },
+    "Pain Points": {
+      "Rising Costs": "Struggling to keep up with the rising costs of living on a fixed income.",
+      "Limited Resources": "Limited access to resources and services in her rural community."
+    }
+  },
+  {
+    "Name": "Lillian Lane",
+    "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 25000,
     "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Irene is a retired retail worker who enjoys knitting and spending time with her family.",
-    "Top Priorities": ["Healthcare", "Social Security", "Economic Stability"],
-    "Pain Points": ["Lack of affordable healthcare", "Worries about Social Security benefits", "Concerns about the economy"]
-}
+    "Description": "Lillian is a retired retail worker who enjoys painting and spending time with her pets.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to affordable healthcare for herself and her pets.",
+      "Social Security": "Protecting her retirement income and benefits."
+    },
+    "Pain Points": {
+      "Rising Costs": "Struggling to keep up with the rising costs of living on a fixed income.",
+      "Isolation": "Feeling isolated in her rural community and lacking access to resources."
+    }
+  }
 ]

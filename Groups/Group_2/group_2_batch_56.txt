@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Greg Harrison",
+    "Age": 34,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Greg is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Recreational opportunities"],
+    "Pain points": ["Lack of job growth in his field", "Limited access to affordable housing", "Concerns about environmental conservation"]
+  },
+  {
+    "Name": "Grant Thompson",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Grant is a friendly and outgoing person who enjoys meeting new people and helping customers find what they need.",
+    "Top Priorities": ["Job security", "Healthcare", "Retirement planning"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare options", "Uncertainty about retirement savings"]
+  },
+  {
+    "Name": "Graham Mitchell",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary school teacher",
+    "Description": "Graham is a dedicated and compassionate teacher who enjoys making a difference in the lives of his students.",
+    "Top Priorities": ["Education funding", "Family planning", "Community involvement"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for students", "Limited access to affordable childcare"]
+  },
+  {
+    "Name": "Grayson Parker",
+    "Age": 41,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Automotive technician",
+    "Description": "Grayson is a skilled mechanic who takes pride in his work and enjoys spending time with his family.",
+    "Top Priorities": ["Job stability", "Homeownership", "Quality of life"],
+    "Pain points": ["Lack of job advancement opportunities", "Difficulty finding affordable housing", "Concerns about work-life balance"]
+  },
+  {
+    "Name": "Griffin Cooper",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Restaurant server",
+    "Description": "Griffin is a sociable and hardworking individual who is saving money to pursue higher education.",
+    "Top Priorities": ["Affordable education", "Job flexibility", "Social life"],
+    "Pain points": ["Low wages", "Lack of affordable educational opportunities", "Limited job benefits"]
+  }
+]

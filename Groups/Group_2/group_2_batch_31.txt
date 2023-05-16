@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Damon Smith",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Damon is a hardworking construction worker who enjoys spending his free time outdoors. He is passionate about preserving Montana's natural beauty.",
+    "Top Priorities": ["Environmental conservation", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Darius Johnson",
+    "Age": 42,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Darius is a dedicated retail manager who values education and community involvement. He is an active member of his local PTA and volunteers at a food bank.",
+    "Top Priorities": ["Education funding", "Community development"],
+    "Pain points": ["School budget cuts", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Dale Brown",
+    "Age": 58,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Dale is a long-haul truck driver who enjoys listening to podcasts and audiobooks on the road. He is concerned about the future of his industry due to automation.",
+    "Top Priorities": ["Job security", "Infrastructure improvements"],
+    "Pain points": ["Fear of job loss due to automation", "Poor road conditions"]
+  },
+  {
+    "Name": "Davin Miller",
+    "Age": 36,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Davin is a skilled electrician who is passionate about renewable energy. He hopes to see more investment in clean energy projects in Montana.",
+    "Top Priorities": ["Clean energy", "Job growth"],
+    "Pain points": ["Lack of clean energy initiatives", "Limited job opportunities"]
+  },
+  {
+    "Name": "Dante Wilson",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Dante is a friendly barista who enjoys engaging with customers and discussing politics. He is concerned about the rising cost of higher education and student loan debt.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase"],
+    "Pain points": ["Student loan debt", "Low wages"]
+  }
+]

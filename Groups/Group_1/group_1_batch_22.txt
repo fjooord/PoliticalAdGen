@@ -1,67 +1,97 @@
 [
   {
-    "Name": "Laura Johnson",
-    "Age": 35,
+    "Name": "Wendy Williams",
+    "Age": 67,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Wendy is a retired high school teacher who enjoys gardening and volunteering at her local community center.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring affordable healthcare for seniors",
+      "Social Security": "Protecting social security benefits"
+    },
+    "Pain points": {
+      "Rising living costs": "Struggling to keep up with increasing costs of living on a fixed income",
+      "Limited access to healthcare": "Difficulty accessing healthcare services in rural Montana"
+    }
+  },
+  {
+    "Name": "Wilma Watson",
+    "Age": 69,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Wilma is a retired nurse who enjoys spending time with her grandchildren and participating in her local book club.",
+    "Top Priorities": {
+      "Education": "Improving the quality of education for her grandchildren",
+      "Healthcare": "Affordable and accessible healthcare for seniors"
+    },
+    "Pain points": {
+      "Isolation": "Feeling isolated in a rural community",
+      "Lack of public transportation": "Limited access to public transportation in rural Montana"
+    }
+  },
+  {
+    "Name": "Wanda Wilson",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Laura is a hardworking single mother of two who lives in a small town in Montana. She enjoys spending time outdoors with her children.",
-    "Top Priorities": ["Financial Stability", "Education for her children", "Healthcare"],
-    "Pain Points": ["Limited job opportunities", "Affordable childcare", "Access to quality healthcare"]
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Wanda is a retired administrative assistant who enjoys painting and hiking in her free time.",
+    "Top Priorities": {
+      "Environment": "Protecting Montana's natural beauty and resources",
+      "Healthcare": "Affordable healthcare for seniors"
+    },
+    "Pain points": {
+      "Limited social activities": "Lack of social activities and opportunities for seniors in rural Montana",
+      "Rising healthcare costs": "Difficulty affording healthcare services on a limited income"
+    }
   },
   {
-    "Name": "Emily Thompson",
-    "Age": 24,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Married",
-    "Education Level": "Bachelor's Degree",
-    "Occupation": "Elementary School Teacher",
-    "Description": "Emily is a dedicated teacher who recently got married. She is passionate about education and enjoys hiking in her free time.",
-    "Top Priorities": ["Education funding", "Environmental conservation", "Work-life balance"],
-    "Pain Points": ["Student loan debt", "Limited resources for her classroom", "Housing affordability"]
-  },
-  {
-    "Name": "Sarah Wilson",
-    "Age": 52,
+    "Name": "Winona Wright",
+    "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
-    "Marital Status": "Divorced",
-    "Education Level": "Associate's Degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Sarah is a compassionate nurse who has been working in a rural hospital for over 20 years. She is an active member of her community.",
-    "Top Priorities": ["Healthcare access", "Retirement planning", "Community engagement"],
-    "Pain Points": ["Rising healthcare costs", "Limited retirement savings", "Lack of public transportation"]
-  },
-  {
-    "Name": "Hannah Brown",
-    "Age": 18,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 20000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Fast Food Worker",
-    "Description": "Hannah is a recent high school graduate who is working part-time while deciding on her future plans. She is interested in pursuing higher education.",
-    "Top Priorities": ["Affordable education", "Job opportunities", "Mental health support"],
-    "Pain Points": ["Low wages", "Uncertainty about the future", "Limited access to mental health resources"]
-  },
-  {
-    "Name": "Olivia Smith",
-    "Age": 41,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 35000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Olivia is a dedicated employee who has been working for a local business for over 10 years. She is married with two teenage children.",
-    "Top Priorities": ["Job security", "Family well-being", "Community safety"],
-    "Pain Points": ["Limited career advancement", "Rising cost of living", "Concerns about crime in the community"]
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Winona is a retired paralegal who enjoys traveling with her husband and spending time with her family.",
+    "Top Priorities": {
+      "Economy": "Supporting local businesses and economic growth in rural Montana",
+      "Healthcare": "Ensuring affordable healthcare for seniors"
+    },
+    "Pain points": {
+      "Limited access to services": "Difficulty accessing services and resources in rural Montana",
+      "Rising living costs": "Struggling to maintain a comfortable lifestyle on a fixed income"
+    }
+  },
+  {
+    "Name": "Whitney White",
+    "Age": 65,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Whitney is a retired retail worker who enjoys knitting and spending time with her friends.",
+    "Top Priorities": {
+      "Social Security": "Protecting social security benefits for seniors",
+      "Healthcare": "Affordable healthcare for seniors"
+    },
+    "Pain points": {
+      "Limited access to healthcare": "Difficulty accessing healthcare services in rural Montana",
+      "Rising living costs": "Struggling to afford basic necessities on a limited income"
+    }
   }
 ]

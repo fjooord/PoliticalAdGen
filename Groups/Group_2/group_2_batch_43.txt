@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Nigel Thompson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Nigel is a hardworking individual who enjoys outdoor activities and spending time with his friends. He is politically engaged and interested in local issues.",
+    "Top Priorities": ["Job security", "Affordable housing", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Nikolas Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Nikolas is a family man who values stability and a strong community. He is concerned about the future for his children and wants to ensure they have access to quality education.",
+    "Top Priorities": ["Education", "Public safety", "Economic growth"],
+    "Pain points": ["School funding", "Crime rates", "Lack of job opportunities for his children"]
+  },
+  {
+    "Name": "Niles Cooper",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Niles is a creative professional who values personal freedom and self-expression. He is passionate about social issues and wants to see progress in his community.",
+    "Top Priorities": ["LGBTQ+ rights", "Arts funding", "Mental health support"],
+    "Pain points": ["Lack of acceptance for LGBTQ+ individuals", "Limited resources for mental health", "Gentrification"]
+  },
+  {
+    "Name": "Nixon Wright",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Janitor",
+    "Description": "Nixon is a hardworking individual who has faced many challenges in life. He is concerned about the welfare of his community and wants to see improvements in social services.",
+    "Top Priorities": ["Social services", "Healthcare", "Poverty reduction"],
+    "Pain points": ["Limited access to healthcare", "Low wages", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Nico Mitchell",
+    "Age": 40,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Electrician",
+    "Description": "Nico is a skilled tradesman who values hard work and dedication. He is concerned about the future of his industry and wants to see policies that support small businesses.",
+    "Top Priorities": ["Small business support", "Infrastructure", "Job training programs"],
+    "Pain points": ["Regulations affecting small businesses", "Aging infrastructure", "Lack of skilled workers"]
+  }
+]

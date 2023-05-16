@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Amanda Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Amanda is a young woman working in retail sales in Montana. She is passionate about the outdoors and enjoys hiking and camping.",
+    "Top Priorities": ["Affordable healthcare", "Environmental conservation", "Job security"],
+    "Pain points": ["Limited job opportunities", "Student loan debt", "High cost of living"]
+  },
+  {
+    "Name": "Allison Davis",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Allison is a divorced mother of two who works as an administrative assistant in Montana. She is active in her community and volunteers at her children's school.",
+    "Top Priorities": ["Education reform", "Childcare support", "Economic stability"],
+    "Pain points": ["Balancing work and family", "Limited access to affordable childcare", "Lack of support for single parents"]
+  },
+  {
+    "Name": "Abigail Johnson",
+    "Age": 61,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Abigail is a married registered nurse nearing retirement age in Montana. She is passionate about healthcare and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare reform", "Social security", "Retirement planning"],
+    "Pain points": ["Rising healthcare costs", "Uncertainty about social security benefits", "Limited retirement savings"]
+  },
+  {
+    "Name": "Ava Martin",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Marketing Coordinator",
+    "Description": "Ava is a recent college graduate working as a marketing coordinator in Montana. She is passionate about social justice and environmental issues.",
+    "Top Priorities": ["Climate change", "Student loan forgiveness", "Affordable housing"],
+    "Pain points": ["High student loan debt", "Limited job opportunities in her field", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Alicia Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Alicia is a married customer service representative in Montana. She enjoys spending time with her family and is active in her local church.",
+    "Top Priorities": ["Family values", "Community safety", "Economic growth"],
+    "Pain points": ["Limited career advancement opportunities", "Concerns about crime in her community", "Rising cost of living"]
+  }
+]

@@ -1,97 +1,97 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Paul Patterson",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Description": "Paul is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
     "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "He relies on his Social Security benefits and wants to ensure they remain stable."
+      "Healthcare": "Paul is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "He wants to ensure that Social Security remains stable for his retirement."
     },
-    "Pain Points": {
-      "Technology": "John struggles to keep up with the latest technology and feels left behind.",
-      "Isolation": "Living in a rural area, he sometimes feels isolated from the rest of the community."
+    "Pain points": {
+      "Taxes": "Paul is worried about the increasing taxes on his fixed income.",
+      "Inflation": "The rising cost of living is making it difficult for him to maintain his lifestyle."
     }
   },
   {
-    "Name": "Robert Johnson",
+    "Name": "Peter Thompson",
     "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and spending time outdoors.",
+    "Description": "Peter is a retired teacher who enjoys reading and volunteering at his local library.",
     "Top Priorities": {
-      "Agriculture": "Robert is concerned about the future of small family farms and the impact of climate change on agriculture.",
-      "Veterans Affairs": "As a Vietnam War veteran, he is passionate about supporting fellow veterans and improving VA services."
+      "Education": "Peter is passionate about improving the education system for future generations.",
+      "Community": "He wants to see more community programs and resources for seniors."
     },
-    "Pain Points": {
-      "Transportation": "Robert has limited access to public transportation and relies on his truck for mobility.",
-      "Health": "He struggles with chronic pain and has difficulty finding affordable healthcare options."
+    "Pain points": {
+      "Isolation": "Peter struggles with feelings of loneliness since his wife passed away.",
+      "Transportation": "He has difficulty accessing public transportation and getting around town."
     }
   },
   {
-    "Name": "James Brown",
-    "Age": 69,
+    "Name": "Phillip Martin",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and attending local car shows.",
+    "Description": "Phillip is a retired mechanic who enjoys working on classic cars and spending time outdoors.",
     "Top Priorities": {
-      "Economy": "James is concerned about the local economy and the availability of good-paying jobs for younger generations.",
-      "Infrastructure": "He believes that improving roads and bridges is crucial for the community's growth."
+      "Economy": "Phillip is concerned about the state of the economy and job opportunities for his children.",
+      "Environment": "He wants to see more done to protect the environment and natural resources."
     },
-    "Pain Points": {
-      "Taxes": "James feels that his taxes are too high and that the government should be more fiscally responsible.",
-      "Crime": "He is worried about the increasing crime rates in his community and wants to see more police presence."
+    "Pain points": {
+      "Health": "Phillip has chronic health issues and struggles to afford his medical expenses.",
+      "Housing": "He is worried about the rising cost of housing and property taxes."
     }
   },
   {
-    "Name": "William Davis",
+    "Name": "Preston Davis",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired teacher who enjoys reading, gardening, and volunteering at the local library.",
+    "Description": "Preston is a retired postal worker who enjoys playing chess and watching sports.",
     "Top Priorities": {
-      "Education": "William believes in the importance of quality education and wants to see increased funding for public schools.",
-      "Environment": "He is passionate about protecting the environment and promoting sustainable practices."
+      "Veterans": "Preston is a veteran and wants to see more support for veterans and their families.",
+      "Infrastructure": "He is concerned about the state of the country's infrastructure and public services."
     },
-    "Pain Points": {
-      "Housing": "William struggles to find affordable housing options in his community.",
-      "Loneliness": "He sometimes feels lonely and wishes there were more social activities for seniors in his area."
+    "Pain points": {
+      "Pensions": "Preston is worried about the stability of his pension and retirement savings.",
+      "Crime": "He is concerned about the increasing crime rates in his neighborhood."
     }
   },
   {
-    "Name": "Charles Wilson",
-    "Age": 68,
+    "Name": "Patrick Johnson",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired factory worker who enjoys watching sports and playing cards with his friends.",
+    "Description": "Patrick is a retired factory worker who enjoys gardening and spending time with his family.",
     "Top Priorities": {
-      "Pensions": "Charles is concerned about the stability of his pension and wants to ensure it remains secure.",
-      "Gun Control": "He is a strong supporter of the Second Amendment and opposes any new gun control measures."
+      "Healthcare": "Patrick is concerned about the accessibility and affordability of healthcare services.",
+      "Social Security": "He wants to ensure that Social Security remains stable for his retirement."
     },
-    "Pain Points": {
-      "Cost of Living": "Charles struggles to make ends meet on his fixed income and is worried about rising costs of living.",
-      "Access to Services": "He has difficulty accessing essential services, such as healthcare and transportation, in his rural community."
+    "Pain points": {
+      "Taxes": "Patrick is worried about the increasing taxes on his fixed income.",
+      "Inflation": "The rising cost of living is making it difficult for him to maintain his lifestyle."
     }
   }
 ]

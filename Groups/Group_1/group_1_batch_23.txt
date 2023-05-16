@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Samantha Johnson",
-    "Age": 28,
+    "Name": "Xena Smith",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Single",
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Samantha is a young woman living in Montana. She enjoys outdoor activities and spending time with her friends.",
-    "Top Priorities": {
-      "Affordable Healthcare": "Samantha is concerned about the rising costs of healthcare.",
-      "Job Security": "She wants to ensure that her job remains stable."
-    },
-    "Pain points": {
-      "Student Loan Debt": "Samantha is still paying off her student loans.",
-      "Lack of Affordable Housing": "She struggles to find affordable housing in her area."
-    }
+    "Occupation": "Retired",
+    "Description": "Xena is a retired teacher who enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare", "Social Security", "Environment"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Climate change"]
   },
   {
-    "Name": "Laura Smith",
-    "Age": 45,
+    "Name": "Xander Johnson",
+    "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 48000,
-    "Marital Status": "Divorced",
+    "Income": 45000,
+    "Marital Status": "Not specified",
     "Education Level": "Some college",
-    "Occupation": "Administrative Assistant",
-    "Description": "Laura is a single mother of two teenagers. She is focused on providing for her family and ensuring her children have a bright future.",
-    "Top Priorities": {
-      "Education": "Laura wants to ensure her children receive a quality education.",
-      "Childcare": "She is concerned about the availability and affordability of childcare."
-    },
-    "Pain points": {
-      "Single Parent Challenges": "Laura faces the challenges of being a single parent.",
-      "Limited Job Opportunities": "She is concerned about the limited job opportunities in her area."
-    }
+    "Occupation": "Retired",
+    "Description": "Xander is a retired nurse who enjoys volunteering at her local community center.",
+    "Top Priorities": ["Healthcare", "Education", "Community"],
+    "Pain points": ["Limited access to affordable healthcare", "Education funding", "Lack of community resources"]
   },
   {
-    "Name": "Emily Brown",
-    "Age": 60,
+    "Name": "Xiomara Brown",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 42000,
-    "Marital Status": "Widowed",
+    "Income": 30000,
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
-    "Occupation": "Nurse",
-    "Description": "Emily is a compassionate and caring nurse who has dedicated her life to helping others. She is now looking forward to retirement.",
-    "Top Priorities": {
-      "Retirement Security": "Emily wants to ensure she has enough saved for a comfortable retirement.",
-      "Healthcare": "She is concerned about the quality and affordability of healthcare."
-    },
-    "Pain points": {
-      "Loss of Spouse": "Emily is adjusting to life without her spouse.",
-      "Rising Healthcare Costs": "She is worried about the rising costs of healthcare."
-    }
+    "Occupation": "Retired",
+    "Description": "Xiomara is a retired factory worker who enjoys reading and spending time outdoors.",
+    "Top Priorities": ["Economy", "Social Security", "Environment"],
+    "Pain points": ["Economic stability", "Social Security benefits", "Environmental pollution"]
   },
   {
-    "Name": "Rebecca Davis",
-    "Age": 35,
+    "Name": "Xochitl Davis",
+    "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 24000,
-    "Marital Status": "Married",
-    "Education Level": "Associate's degree",
-    "Occupation": "Preschool Teacher",
-    "Description": "Rebecca is a dedicated preschool teacher who loves working with young children. She is married and has a young daughter.",
-    "Top Priorities": {
-      "Education": "Rebecca is passionate about early childhood education.",
-      "Work-Life Balance": "She wants to maintain a healthy work-life balance."
-    },
-    "Pain points": {
-      "Low Income": "Rebecca struggles with her low income.",
-      "Lack of Resources": "She is concerned about the lack of resources available for her students."
-    }
+    "Income": 40000,
+    "Marital Status": "Not specified",
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Xochitl is a retired administrative assistant who enjoys painting and traveling.",
+    "Top Priorities": ["Healthcare", "Social Security", "Arts and Culture"],
+    "Pain points": ["Access to healthcare", "Social Security benefits", "Support for local arts and culture"]
   },
   {
-    "Name": "Katherine Wilson",
-    "Age": 52,
+    "Name": "Xanthe Miller",
+    "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 39000,
-    "Marital Status": "Married",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Accountant",
-    "Description": "Katherine is a detail-oriented accountant who enjoys helping her clients manage their finances. She is married and has two adult children.",
-    "Top Priorities": {
-      "Financial Security": "Katherine wants to ensure her family's financial security.",
-      "Community Involvement": "She is passionate about giving back to her community."
-    },
-    "Pain points": {
-      "Empty Nest Syndrome": "Katherine is adjusting to life as an empty nester.",
-      "Economic Uncertainty": "She is concerned about the future of the economy."
-    }
+    "Income": 25000,
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Xanthe is a retired cashier who enjoys knitting and spending time with her pets.",
+    "Top Priorities": ["Animal Welfare", "Social Security", "Healthcare"],
+    "Pain points": ["Animal rights and protection", "Social Security benefits", "Affordable healthcare"]
   }
 ]

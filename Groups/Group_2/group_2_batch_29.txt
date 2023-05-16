@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Bradley Robertson",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and attends church regularly.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting Social Security benefits for current and future retirees"
-    },
-    "Pain points": {
-      "Rising Healthcare Costs": "Struggling to afford necessary medications and treatments",
-      "Limited Social Activities": "Difficulty finding social activities and events for seniors in her community"
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction Worker",
+    "Description": "Bradley is a hardworking construction worker who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Outdoor recreation"],
+    "Pain points": ["Rising cost of living", "Limited job opportunities"]
   },
   {
-    "Name": "Evelyn Johnson",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Brandon Mitchell",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Teacher",
-    "Description": "Evelyn is a retired teacher who enjoys reading and volunteering at her local library. She is passionate about education and stays informed on local politics.",
-    "Top Priorities": {
-      "Education": "Improving public education and supporting teachers",
-      "Senior Services": "Expanding services and resources for seniors in her community"
-    },
-    "Pain points": {
-      "Isolation": "Feeling isolated and disconnected from friends and family",
-      "Financial Security": "Concerned about her financial stability in retirement"
-    }
-  },
-  {
-    "Name": "Margaret Wilson",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Administrative Assistant",
-    "Description": "Margaret is a retired administrative assistant who enjoys traveling with her husband and spending time outdoors. She is involved in local environmental conservation efforts.",
-    "Top Priorities": {
-      "Environment": "Protecting Montana's natural resources and wildlife",
-      "Economic Development": "Supporting local businesses and job growth"
-    },
-    "Pain points": {
-      "Limited Travel Opportunities": "Difficulty finding affordable and accessible travel options for seniors",
-      "Environmental Concerns": "Worried about the impact of climate change on her community and future generations"
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Brandon is a friendly retail sales associate who is married and enjoys spending time with his wife and their dog.",
+    "Top Priorities": ["Healthcare", "Job security", "Family planning"],
+    "Pain points": ["Student loan debt", "Lack of affordable healthcare"]
   },
   {
-    "Name": "Barbara Miller",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Bryce Thompson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Barbara is a retired retail worker who enjoys crafting and attending local art events. She is a member of a local senior center and values staying connected with her community.",
-    "Top Priorities": {
-      "Affordable Housing": "Ensuring affordable housing options for seniors",
-      "Community Engagement": "Promoting opportunities for seniors to stay active and engaged in their community"
-    },
-    "Pain points": {
-      "Housing Costs": "Struggling to afford her current living situation",
-      "Limited Transportation Options": "Difficulty accessing public transportation and getting around her community"
-    }
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Accountant",
+    "Description": "Bryce is a detail-oriented accountant who is divorced and enjoys hiking and photography.",
+    "Top Priorities": ["Retirement planning", "Financial stability", "Environmental conservation"],
+    "Pain points": ["High taxes", "Limited social opportunities"]
   },
   {
-    "Name": "Shirley Davis",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Brent Johnson",
+    "Age": 22,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Shirley is a retired factory worker who enjoys spending time with her pets and watching classic movies. She is concerned about the well-being of her community and stays informed on local news.",
-    "Top Priorities": {
-      "Public Safety": "Improving public safety and supporting local law enforcement",
-      "Healthcare": "Ensuring access to affordable healthcare for all residents"
-    },
-    "Pain points": {
-      "Rising Cost of Living": "Struggling to make ends meet on a fixed income",
-      "Access to Healthcare": "Difficulty finding a primary care doctor and accessing healthcare services"
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast Food Worker",
+    "Description": "Brent is a young fast food worker who is saving money to attend college and enjoys playing video games.",
+    "Top Priorities": ["Higher education", "Job security", "Affordable entertainment"],
+    "Pain points": ["Low wages", "Lack of affordable education options"]
+  },
+  {
+    "Name": "Brady Wilson",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Automotive Technician",
+    "Description": "Brady is a skilled automotive technician who is married and enjoys working on cars and spending time with his family.",
+    "Top Priorities": ["Job security", "Family planning", "Community involvement"],
+    "Pain points": ["Rising cost of living", "Limited job opportunities"]
   }
 ]

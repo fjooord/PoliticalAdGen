@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Stefan Turner",
+        "Age": 32,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 45000,
+        "Marital Status": "Single",
+        "Education Level": "High school graduate",
+        "Occupation": "Construction Worker",
+        "Description": "Stefan is a hard-working individual who enjoys outdoor activities and values his independence.",
+        "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+        "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+    },
+    {
+        "Name": "Stanley Harris",
+        "Age": 45,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Divorced",
+        "Education Level": "Some college",
+        "Occupation": "Retail Sales Associate",
+        "Description": "Stanley is a friendly and outgoing person who enjoys connecting with people and is passionate about local politics.",
+        "Top Priorities": ["Community engagement", "Education reform", "Economic growth"],
+        "Pain points": ["Low wages", "Lack of job security", "Limited access to higher education"]
+    },
+    {
+        "Name": "Steven Adams",
+        "Age": 27,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 42000,
+        "Marital Status": "Married",
+        "Education Level": "Bachelor's degree",
+        "Occupation": "Elementary School Teacher",
+        "Description": "Steven is a dedicated educator who is committed to improving the lives of his students and advocating for better educational resources.",
+        "Top Priorities": ["Education funding", "Teacher support", "Childcare services"],
+        "Pain points": ["Insufficient resources for schools", "Low teacher salaries", "Lack of affordable childcare options"]
+    },
+    {
+        "Name": "Stuart Johnson",
+        "Age": 55,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 48000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Truck Driver",
+        "Description": "Stuart is a long-haul truck driver who values his time at home with his family and is concerned about the future of his industry.",
+        "Top Priorities": ["Transportation infrastructure", "Retirement security", "Environmental conservation"],
+        "Pain points": ["Long hours away from home", "Uncertain future of trucking industry", "Limited access to healthcare"]
+    },
+    {
+        "Name": "Sterling Cooper",
+        "Age": 22,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Single",
+        "Education Level": "High school graduate",
+        "Occupation": "Barista",
+        "Description": "Sterling is a young and ambitious individual who is passionate about the environment and social justice issues.",
+        "Top Priorities": ["Climate change", "Income inequality", "Affordable education"],
+        "Pain points": ["Student loan debt", "Low wages", "Lack of affordable housing options"]
+    }
+]

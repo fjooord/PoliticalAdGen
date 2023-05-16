@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Doris Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Caleb Smith",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Doris is a retired high school teacher who lives in a small town in Montana. She enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
-    },
-    "Pain Points": {
-      "Isolation": "Limited social interactions due to living in a rural area",
-      "Transportation": "Limited access to public transportation"
-    }
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Caleb is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Lack of affordable housing", "Limited access to healthcare"]
   },
   {
-    "Name": "Evelyn Martin",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Cameron Johnson",
+    "Age": 25,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Divorced",
-    "Education Level": "Some College",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local church and participating in community events.",
-    "Top Priorities": {
-      "Healthcare": "Affordable prescription medications",
-      "Community": "Support for local community programs and events"
-    },
-    "Pain Points": {
-      "Financial Security": "Concerns about the rising cost of living",
-      "Access to Services": "Limited access to healthcare services in rural areas"
-    }
-  },
-  {
-    "Name": "Marilyn Hughes",
-    "Age": 68,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired administrative assistant who enjoys spending time with her family and traveling with her husband.",
-    "Top Priorities": {
-      "Economy": "Support for small businesses and local economies",
-      "Environment": "Protecting natural resources and wildlife in Montana"
-    },
-    "Pain Points": {
-      "Travel": "Limited travel options due to living in a rural area",
-      "Internet Access": "Limited access to high-speed internet"
-    }
+    "Education Level": "Some college",
+    "Occupation": "Retail sales associate",
+    "Description": "Cameron is a friendly and outgoing person who values family and community involvement.",
+    "Top Priorities": ["Education", "Support for small businesses", "Infrastructure improvements"],
+    "Pain points": ["Student loan debt", "Lack of job opportunities", "Inadequate public transportation"]
   },
   {
-    "Name": "Gloria Simmons",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Charles Wilson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Charles is a skilled worker who enjoys problem-solving and helping others.",
+    "Top Priorities": ["Economic growth", "Public safety", "Veterans' support"],
+    "Pain points": ["High taxes", "Crime rates", "Limited access to mental health services"]
+  },
+  {
+    "Name": "Cody Brown",
+    "Age": 19,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 21000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Gloria is a retired factory worker who enjoys crafting and selling her creations at local markets.",
-    "Top Priorities": {
-      "Social Security": "Ensuring the solvency of Social Security",
-      "Healthcare": "Access to affordable healthcare and mental health services"
-    },
-    "Pain Points": {
-      "Financial Stability": "Concerns about the rising cost of living on a fixed income",
-      "Access to Resources": "Limited access to resources and services in rural areas"
-    }
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Cody is a young and ambitious individual who is eager to learn and explore new opportunities.",
+    "Top Priorities": ["Affordable education", "Job training programs", "Climate change"],
+    "Pain points": ["Low wages", "Lack of affordable higher education", "Limited job prospects"]
   },
   {
-    "Name": "Helen Ross",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Clayton Davis",
+    "Age": 58,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 42000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Helen is a retired librarian who enjoys reading, knitting, and spending time with her friends.",
-    "Top Priorities": {
-      "Education": "Support for public libraries and lifelong learning opportunities",
-      "Healthcare": "Affordable and accessible healthcare for seniors"
-    },
-    "Pain Points": {
-      "Isolation": "Limited social interactions due to living in a rural area",
-      "Transportation": "Limited access to public transportation"
-    }
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary school teacher",
+    "Description": "Clayton is a dedicated educator who enjoys spending time with his grandchildren and volunteering in his community.",
+    "Top Priorities": ["Quality education", "Social security", "Healthcare reform"],
+    "Pain points": ["Underfunded schools", "Rising healthcare costs", "Retirement insecurity"]
   }
 ]

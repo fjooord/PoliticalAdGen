@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Samuel Adams",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Samuel is a hardworking individual who enjoys outdoor activities and spending time with friends.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Environmental conservation"],
+    "Pain points": ["Rising cost of living", "Lack of affordable housing", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Salvatore Bianchi",
+    "Age": 47,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Salvatore is a friendly and outgoing person who enjoys meeting new people and helping customers.",
+    "Top Priorities": ["Job stability", "Affordable education", "Community safety"],
+    "Pain points": ["Low wages", "Lack of job opportunities", "High crime rates"]
+  },
+  {
+    "Name": "Santiago Rodriguez",
+    "Age": 25,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "Santiago is a sociable and hardworking individual who enjoys spending time with his family.",
+    "Top Priorities": ["Higher wages", "Affordable housing", "Quality education"],
+    "Pain points": ["Student loan debt", "Lack of affordable healthcare", "Limited job opportunities"]
+  },
+  {
+    "Name": "Sasha Thompson",
+    "Age": 41,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Sasha is a creative and detail-oriented person who enjoys spending time with his family and working on personal projects.",
+    "Top Priorities": ["Work-life balance", "Access to quality education", "Economic growth"],
+    "Pain points": ["High cost of living", "Lack of affordable childcare", "Limited job opportunities"]
+  },
+  {
+    "Name": "Sawyer Johnson",
+    "Age": 56,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Electrician",
+    "Description": "Sawyer is a skilled and experienced worker who enjoys spending time with his grandchildren and working on home improvement projects.",
+    "Top Priorities": ["Retirement security", "Affordable healthcare", "Community development"],
+    "Pain points": ["Rising healthcare costs", "Lack of affordable housing", "Limited access to public services"]
+  }
+]

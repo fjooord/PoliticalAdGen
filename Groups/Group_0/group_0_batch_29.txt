@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Anabelle Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Anabelle is a friendly and outgoing individual who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable housing", "Job security", "Healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare options"]
+  },
+  {
+    "Name": "Anita Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Anita is a hardworking single mother of two who is focused on providing for her family and ensuring her children have a bright future.",
+    "Top Priorities": ["Education", "Childcare", "Financial stability"],
+    "Pain points": ["Balancing work and family", "Limited childcare options", "Financial stress due to divorce"]
+  },
+  {
+    "Name": "Angela Davis",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Angela is a newlywed who is passionate about environmental issues and animal rights. She enjoys volunteering at her local animal shelter.",
+    "Top Priorities": ["Environmental protection", "Animal welfare", "Community involvement"],
+    "Pain points": ["Low wages", "Lack of career advancement opportunities", "Limited access to affordable education"]
+  },
+  {
+    "Name": "Andrea Mitchell",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Andrea is a compassionate and dedicated nurse who is focused on providing quality care to her patients and advocating for better healthcare policies.",
+    "Top Priorities": ["Healthcare reform", "Patient advocacy", "Mental health awareness"],
+    "Pain points": ["Emotional stress from work", "Lack of support for mental health", "Healthcare system inefficiencies"]
+  },
+  {
+    "Name": "Anne Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 31000,
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Anne is a creative and talented graphic designer who enjoys working on freelance projects and exploring new artistic mediums.",
+    "Top Priorities": ["Arts and culture", "Small business support", "Work-life balance"],
+    "Pain points": ["Inconsistent income", "Lack of affordable studio space", "Limited networking opportunities"]
+  }
+]

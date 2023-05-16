@@ -1,67 +1,67 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Oliver O'Brien",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
+    "Description": "Oliver is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": ["Social Security", "Healthcare", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Limited access to public transportation", "Concerns about Social Security benefits"]
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 70,
+    "Name": "Oscar Owens",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys working on classic cars and attending car shows.",
-    "Top Priorities": ["Medicare", "Economic Growth", "Infrastructure"],
-    "Pain Points": ["Limited access to healthcare", "Stagnant wages", "Poor infrastructure in rural areas"]
+    "Description": "Oscar is a retired mechanic who spends his time volunteering at the local community center.",
+    "Top Priorities": ["Medicare", "Community development", "Public safety"],
+    "Pain points": ["Lack of affordable housing", "Limited access to healthcare providers", "Concerns about crime in the community"]
   },
   {
-    "Name": "James Brown",
-    "Age": 68,
+    "Name": "Owen O'Malley",
+    "Age": 65,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "James is a retired farmer who enjoys gardening and spending time with his wife.",
-    "Top Priorities": ["Agriculture", "Environment", "Rural Development"],
-    "Pain Points": ["Declining farm income", "Climate change", "Lack of rural development opportunities"]
+    "Description": "Owen is a retired teacher who enjoys gardening and traveling with his wife.",
+    "Top Priorities": ["Education", "Environmental conservation", "Economic development"],
+    "Pain points": ["Concerns about public education funding", "Limited access to cultural events", "Rising property taxes"]
   },
   {
-    "Name": "William Davis",
+    "Name": "Otis O'Neal",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 25000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired factory worker who enjoys woodworking and watching sports.",
-    "Top Priorities": ["Pensions", "Job Security", "Affordable Housing"],
-    "Pain Points": ["Inadequate pension benefits", "Job loss due to automation", "Rising housing costs"]
+    "Description": "Otis is a retired factory worker who enjoys woodworking and watching sports.",
+    "Top Priorities": ["Job creation", "Infrastructure improvements", "Social Security"],
+    "Pain points": ["Lack of job opportunities for younger generations", "Deteriorating infrastructure", "Concerns about retirement savings"]
   },
   {
-    "Name": "Charles Miller",
-    "Age": 71,
+    "Name": "Orville O'Donnell",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 30000,
     "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired teacher who enjoys reading and volunteering at his local library.",
-    "Top Priorities": ["Education", "Social Services", "Community Development"],
-    "Pain Points": ["Underfunded schools", "Limited access to social services", "Lack of community resources"]
+    "Description": "Orville is a retired postal worker who enjoys hiking and photography.",
+    "Top Priorities": ["Healthcare", "Public transportation", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Limited access to public transportation", "Concerns about veterans' benefits"]
   }
 ]

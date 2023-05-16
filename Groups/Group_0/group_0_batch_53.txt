@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Judy Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Judy is a friendly and outgoing retail sales associate who enjoys helping customers find the perfect items. She is passionate about environmental conservation and spends her free time volunteering at a local wildlife rehabilitation center.",
+    "Top Priorities": {
+      "Affordable Healthcare": 4,
+      "Environmental Conservation": 5,
+      "Education": 3
+    },
+    "Pain points": {
+      "Student Loan Debt": 2,
+      "Lack of Affordable Housing": 3,
+      "Job Security": 3
+    }
+  },
+  {
+    "Name": "Julia Martinez",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Julia is a detail-oriented administrative assistant who takes pride in keeping her office running smoothly. She is a single mother of two teenagers and is actively involved in her community, serving on the PTA and volunteering at her local food bank.",
+    "Top Priorities": {
+      "Affordable Healthcare": 5,
+      "Education": 4,
+      "Job Security": 4
+    },
+    "Pain points": {
+      "Childcare Costs": 3,
+      "Lack of Affordable Housing": 4,
+      "Retirement Savings": 2
+    }
+  },
+  {
+    "Name": "June Adams",
+    "Age": 60,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "June is a compassionate and dedicated registered nurse who has spent her career caring for others. She is an active member of her church and enjoys spending time with her grandchildren.",
+    "Top Priorities": {
+      "Affordable Healthcare": 5,
+      "Social Security": 4,
+      "Community Safety": 3
+    },
+    "Pain points": {
+      "Retirement Savings": 4,
+      "Lack of Affordable Housing": 2,
+      "Healthcare Costs": 5
+    }
+  },
+  {
+    "Name": "Julianne Johnson",
+    "Age": 35,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 38000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Julianne is a dedicated elementary school teacher who is passionate about helping her students succeed. She is married with one young child and enjoys hiking and camping with her family.",
+    "Top Priorities": {
+      "Education": 5,
+      "Affordable Healthcare": 4,
+      "Work-Life Balance": 3
+    },
+    "Pain points": {
+      "Student Loan Debt": 4,
+      "Childcare Costs": 3,
+      "Job Security": 2
+    }
+  },
+  {
+    "Name": "Juliette Brown",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Juliette is a creative and hardworking barista who is saving up to attend college. She enjoys painting and playing guitar in her free time.",
+    "Top Priorities": {
+      "Affordable Education": 5,
+      "Job Security": 3,
+      "Arts and Culture": 4
+    },
+    "Pain points": {
+      "Student Loan Debt": 1,
+      "Lack of Affordable Housing": 4,
+      "Minimum Wage": 3
+    }
+  }
+]

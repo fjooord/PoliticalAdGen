@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Iris Ingram",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Iris is a friendly and outgoing individual who enjoys spending time outdoors and exploring the natural beauty of Montana. She is active in her local community and volunteers at a nearby animal shelter.",
+    "Top Priorities": ["Affordable housing", "Environmental conservation", "Animal welfare"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing options", "Concerns about climate change"]
+  },
+  {
+    "Name": "Isabel Irwin",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Isabel is a detail-oriented and organized individual who enjoys spending time with her family and friends. She is passionate about education and is an active member of her children's school PTA.",
+    "Top Priorities": ["Education", "Healthcare", "Family"],
+    "Pain points": ["Rising healthcare costs", "Concerns about the quality of education", "Balancing work and family life"]
+  },
+  {
+    "Name": "Ivy Irvin",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 21000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Ivy is a hardworking and ambitious individual who is currently saving money to attend college. She is passionate about social justice issues and is an active participant in local activism.",
+    "Top Priorities": ["Higher education", "Social justice", "Economic opportunity"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Income inequality"]
+  },
+  {
+    "Name": "Ingrid Isaac",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Ingrid is a compassionate and dedicated healthcare professional who enjoys helping others. She is an active member of her church and volunteers at a local food bank.",
+    "Top Priorities": ["Healthcare", "Community involvement", "Faith"],
+    "Pain points": ["Rising healthcare costs", "Concerns about retirement", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Irene Ibarra",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Childcare Provider",
+    "Description": "Irene is a nurturing and patient individual who enjoys working with children. She is passionate about early childhood education and is an advocate for affordable childcare options for working families.",
+    "Top Priorities": ["Childcare", "Education", "Family"],
+    "Pain points": ["Lack of affordable childcare options", "Low wages", "Limited job opportunities"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Joel Anderson",
+    "Age": 42,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Joel is a hardworking construction worker who enjoys spending time outdoors and values his independence.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Lack of affordable healthcare", "Limited job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Jonah Williams",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Sales associate",
+    "Description": "Jonah is a dedicated sales associate who is passionate about providing excellent customer service.",
+    "Top Priorities": ["Career advancement", "Financial stability", "Starting a family"],
+    "Pain points": ["Student loan debt", "Lack of affordable childcare", "Inconsistent work hours"]
+  },
+  {
+    "Name": "Jordan Smith",
+    "Age": 34,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Truck driver",
+    "Description": "Jordan is a long-haul truck driver who values his time at home with his two children.",
+    "Top Priorities": ["Child custody", "Job flexibility", "Access to quality education"],
+    "Pain points": ["Limited time with children", "Job-related stress", "Lack of affordable legal representation"]
+  },
+  {
+    "Name": "Josiah Turner",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Josiah is a skilled electrician who enjoys mentoring younger workers and spending time with his grandchildren.",
+    "Top Priorities": ["Retirement planning", "Healthcare", "Supporting family"],
+    "Pain points": ["Rising healthcare costs", "Uncertain job market", "Lack of affordable housing for family"]
+  },
+  {
+    "Name": "Joseph Bennett",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail worker",
+    "Description": "Joseph is a friendly retail worker who is interested in pursuing higher education to improve his career prospects.",
+    "Top Priorities": ["Continuing education", "Job security", "Affordable housing"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable education options"]
+  }
+]

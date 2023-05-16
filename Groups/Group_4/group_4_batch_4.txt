@@ -1,97 +1,97 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Ethan Edwards",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Description": "Ethan is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "John relies on Social Security for his income and wants to ensure its stability."
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
     },
     "Pain points": {
-      "Technology": "John struggles to keep up with new technology and feels left behind.",
-      "Isolation": "Living in a rural area, John sometimes feels isolated from the rest of the world."
+      "Rising living costs": "Struggling to keep up with increasing costs of living on a fixed income",
+      "Healthcare costs": "Worried about the rising costs of prescription medications"
     }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "Edward Evans",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and watching sports.",
+    "Description": "Edward is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
     "Top Priorities": {
-      "Veterans Affairs": "As a Vietnam War veteran, Robert is concerned about the treatment and support of veterans.",
-      "Gun Control": "Robert is a strong supporter of the Second Amendment and opposes any new gun control measures."
+      "Veterans Affairs": "Improving support and resources for veterans",
+      "Economic Security": "Ensuring a stable economy for future generations"
     },
     "Pain points": {
-      "Transportation": "Robert has limited mobility and struggles with transportation to appointments and events.",
-      "Loneliness": "Since his wife passed away, Robert has struggled with loneliness and depression."
+      "Isolation": "Feeling isolated after the loss of his spouse",
+      "Healthcare": "Concerned about the quality and accessibility of healthcare services in rural areas"
     }
   },
   {
-    "Name": "William Brown",
-    "Age": 69,
+    "Name": "Elijah Ellis",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "William is a retired teacher who enjoys gardening and volunteering at his local church.",
+    "Description": "Elijah is a retired teacher who enjoys gardening and spending time with his wife.",
     "Top Priorities": {
-      "Education": "William is passionate about education and wants to see increased funding for public schools.",
-      "Environment": "William is concerned about climate change and supports clean energy initiatives."
+      "Education": "Improving the quality of education in rural areas",
+      "Environment": "Protecting Montana's natural resources and wildlife"
     },
     "Pain points": {
-      "Health": "William has several chronic health conditions that require ongoing medical care.",
-      "Retirement Savings": "William worries about the future of his retirement savings and whether it will be enough."
+      "Retirement": "Worried about the financial stability of his pension",
+      "Climate Change": "Concerned about the effects of climate change on Montana's environment"
     }
   },
   {
-    "Name": "James Davis",
-    "Age": 66,
+    "Name": "Eric Erickson",
+    "Age": 72,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired truck driver who enjoys playing cards and spending time with his dog.",
+    "Description": "Eric is a retired farmer who enjoys reading and spending time outdoors.",
     "Top Priorities": {
-      "Economy": "James is concerned about the state of the economy and wants to see more job opportunities for younger generations.",
-      "Immigration": "James believes in strong border security and supports measures to reduce illegal immigration."
+      "Agriculture": "Supporting policies that benefit small farmers",
+      "Infrastructure": "Improving rural infrastructure, such as roads and bridges"
     },
     "Pain points": {
-      "Housing": "James struggles to afford his monthly rent and worries about being priced out of his home.",
-      "Access to Healthcare": "James has limited access to healthcare providers in his rural community."
+      "Economic Inequality": "Concerned about the growing wealth gap in the country",
+      "Access to Services": "Limited access to essential services in rural areas"
     }
   },
   {
-    "Name": "Charles Wilson",
-    "Age": 70,
+    "Name": "Evan Emerson",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired farmer who enjoys reading and spending time outdoors.",
+    "Description": "Evan is a retired postal worker who enjoys hiking and photography.",
     "Top Priorities": {
-      "Agriculture": "Charles is concerned about the future of small family farms and supports policies that protect them.",
-      "Infrastructure": "Charles wants to see improvements in rural infrastructure, such as roads and broadband access."
+      "Social Security": "Ensuring the long-term solvency of Social Security",
+      "Healthcare": "Expanding access to mental health services"
     },
     "Pain points": {
-      "Financial Security": "Charles struggles to make ends meet on his limited income and worries about unexpected expenses.",
-      "Access to Services": "Charles has limited access to services like grocery stores and healthcare providers in his rural community."
+      "Affordable Housing": "Struggling to find affordable housing in his community",
+      "Mental Health": "Concerned about the lack of mental health resources in rural areas"
     }
   }
 ]

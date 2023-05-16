@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
-    },
-    "Pain Points": {
-      "Cost of Living": "Struggling with the rising cost of living on a fixed income",
-      "Isolation": "Feeling isolated from friends and family due to limited mobility"
-    }
-  },
-  {
-    "Name": "Evelyn Martin",
-    "Age": 69,
-    "Gender": "Female",
+    "Name": "Vincent Thompson",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local community center.",
-    "Top Priorities": {
-      "Medicare": "Ensuring the solvency and accessibility of Medicare",
-      "Community Services": "Supporting local community services and programs for seniors"
-    },
-    "Pain Points": {
-      "Housing": "Finding affordable and safe housing options",
-      "Transportation": "Limited public transportation options in her rural area"
-    }
-  },
-  {
-    "Name": "Marilyn Johnson",
-    "Age": 65,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired administrative assistant who enjoys traveling with her husband.",
-    "Top Priorities": {
-      "Taxes": "Lowering taxes for seniors on fixed incomes",
-      "Veterans Affairs": "Improving services and benefits for her veteran husband"
-    },
-    "Pain Points": {
-      "Healthcare Costs": "Managing the high cost of prescription medications",
-      "Retirement Savings": "Concerned about the sustainability of her retirement savings"
-    }
-  },
-  {
-    "Name": "Shirley Wilson",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Shirley is a retired factory worker who enjoys spending time with her pets.",
-    "Top Priorities": {
-      "Animal Welfare": "Supporting animal welfare and rescue organizations",
-      "Social Services": "Increasing funding for social services for seniors in need"
-    },
-    "Pain Points": {
-      "Financial Security": "Worrying about her financial security in the coming years",
-      "Access to Healthcare": "Difficulty accessing healthcare services in her rural area"
-    }
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Vincent is a hardworking individual who enjoys outdoor activities and spending time with friends. He is politically engaged and cares about local issues.",
+    "Top Priorities": ["Economic growth", "Job security", "Infrastructure improvements"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable housing"]
   },
   {
-    "Name": "Barbara Smith",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Victor Martinez",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Barbara is a retired retail worker who enjoys crafting and attending local events.",
-    "Top Priorities": {
-      "Economic Development": "Promoting economic development in her rural community",
-      "Senior Programs": "Expanding programs and services for seniors in her area"
-    },
-    "Pain Points": {
-      "Loneliness": "Coping with loneliness and lack of social support",
-      "Financial Assistance": "Navigating the complex process of applying for financial assistance"
-    }
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Automotive technician",
+    "Description": "Victor is a family man who values stability and security. He is concerned about the future of his children and the community they live in.",
+    "Top Priorities": ["Education", "Healthcare", "Public safety"],
+    "Pain points": ["Rising healthcare costs", "Inadequate public transportation", "Concerns about crime"]
+  },
+  {
+    "Name": "Vance Wilson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Vance is a creative professional who is passionate about the environment and social justice. He is an active member of his community and participates in local events.",
+    "Top Priorities": ["Environmental protection", "Equal rights", "Support for local businesses"],
+    "Pain points": ["Lack of green spaces", "Limited cultural activities", "Insufficient support for small businesses"]
+  },
+  {
+    "Name": "Vaughn Peterson",
+    "Age": 53,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Vaughn is a friendly and outgoing individual who enjoys meeting new people. He is concerned about the economic well-being of his community and the availability of social services.",
+    "Top Priorities": ["Affordable housing", "Social services", "Community development"],
+    "Pain points": ["Low wages", "Limited job growth", "Inadequate social safety net"]
+  },
+  {
+    "Name": "Vernon Mitchell",
+    "Age": 61,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some college",
+    "Occupation": "Custodian",
+    "Description": "Vernon is a dedicated worker who values hard work and perseverance. He is concerned about the well-being of seniors in his community and the availability of resources for them.",
+    "Top Priorities": ["Senior services", "Pension security", "Healthcare"],
+    "Pain points": ["Limited resources for seniors", "Concerns about retirement", "Rising healthcare costs"]
   }
 ]

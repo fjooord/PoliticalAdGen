@@ -1,97 +1,97 @@
 [
   {
-    "Name": "Doris Thompson",
+    "Name": "Fiona Smith",
     "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Doris is a retired teacher who enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
-    },
-    "Pain points": {
-      "Cost of Living": "Managing expenses on a fixed income",
-      "Isolation": "Feeling isolated in a rural community"
-    }
-  },
-  {
-    "Name": "Evelyn Martin",
-    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Divorced",
-    "Education Level": "Some college",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys volunteering at her local church and participating in community events.",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Nurse",
+    "Description": "Fiona is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at a nearby hospital.",
     "Top Priorities": {
-      "Healthcare": "Affordable prescription medications for seniors",
-      "Community": "Supporting local community programs and events"
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
     },
-    "Pain points": {
-      "Transportation": "Limited public transportation options in rural areas",
-      "Housing": "Finding affordable and accessible housing"
+    "Pain Points": {
+      "Rising Healthcare Costs": "Struggling with the increasing cost of healthcare and prescription medications",
+      "Limited Income": "Living on a fixed income and concerned about financial security"
     }
   },
   {
-    "Name": "Marilyn Hughes",
-    "Age": 72,
+    "Name": "Felicity Johnson",
+    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 24000,
-    "Marital Status": "Married",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired factory worker who enjoys crafting and spending time with her family.",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Some College",
+    "Occupation": "Retired Teacher",
+    "Description": "Felicity is a retired teacher who enjoys reading, traveling, and attending local cultural events. She is passionate about education and stays involved with her former school.",
     "Top Priorities": {
-      "Economy": "Supporting local businesses and job growth",
-      "Environment": "Protecting natural resources and wildlife in Montana"
+      "Education": "Supporting public education and teacher benefits",
+      "Retirement Security": "Ensuring a secure and comfortable retirement"
     },
-    "Pain points": {
-      "Healthcare": "Managing chronic health conditions",
-      "Financial Security": "Ensuring financial stability for her family"
+    "Pain Points": {
+      "Loss of Spouse": "Adjusting to life without her spouse and managing finances alone",
+      "Travel Expenses": "Worried about the rising cost of travel and its impact on her retirement plans"
     }
   },
   {
-    "Name": "Gloria Adams",
+    "Name": "Francesca Martin",
+    "Age": 71,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Francesca is a retired administrative assistant who enjoys painting and spending time with her friends. She is involved in her local senior center and participates in various activities.",
+    "Top Priorities": {
+      "Affordable Housing": "Access to affordable housing for seniors",
+      "Community Involvement": "Creating a strong and supportive community for seniors"
+    },
+    "Pain Points": {
+      "Limited Social Circle": "Feeling isolated and lonely due to a limited social circle",
+      "Rising Housing Costs": "Struggling with the increasing cost of housing and utilities"
+    }
+  },
+  {
+    "Name": "Faye Thompson",
     "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Gloria is a retired administrative assistant who enjoys reading, traveling, and spending time with friends.",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate Degree",
+    "Occupation": "Retired Office Manager",
+    "Description": "Faye is a retired office manager who enjoys hiking and birdwatching. She is active in local environmental groups and advocates for conservation efforts.",
     "Top Priorities": {
-      "Healthcare": "Access to mental health services for seniors",
-      "Education": "Supporting quality education for her grandchildren"
+      "Environment": "Protecting natural resources and promoting sustainable practices",
+      "Outdoor Recreation": "Preserving and expanding access to public lands for recreation"
     },
-    "Pain points": {
-      "Social Connection": "Maintaining friendships and social connections in a rural area",
-      "Travel": "Limited travel opportunities due to distance and cost"
+    "Pain Points": {
+      "Environmental Degradation": "Concerned about the impact of climate change and pollution on her community",
+      "Limited Mobility": "Facing mobility challenges as she ages and worried about losing access to outdoor activities"
     }
   },
   {
-    "Name": "Helen Patterson",
-    "Age": 68,
+    "Name": "Freya Wilson",
+    "Age": 73,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Married",
-    "Education Level": "High school graduate",
-    "Occupation": "Retired",
-    "Description": "Helen is a retired store clerk who enjoys cooking, fishing, and spending time outdoors.",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "Retired Social Worker",
+    "Description": "Freya is a retired social worker who enjoys volunteering at her local food bank and attending community events. She is passionate about social justice and helping those in need.",
     "Top Priorities": {
-      "Environment": "Preserving public lands and outdoor recreation opportunities",
-      "Infrastructure": "Improving rural infrastructure, including roads and internet access"
+      "Social Services": "Supporting and expanding social services for vulnerable populations",
+      "Income Inequality": "Addressing income inequality and promoting economic mobility"
     },
-    "Pain points": {
-      "Access to Services": "Limited access to shopping and services in rural areas",
-      "Weather": "Adapting to and preparing for extreme weather events"
+    "Pain Points": {
+      "Limited Resources": "Struggling to make ends meet on a limited income",
+      "Access to Services": "Concerned about the availability and quality of social services in her community"
     }
   }
 ]

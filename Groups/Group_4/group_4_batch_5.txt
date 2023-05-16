@@ -1,67 +1,67 @@
 [
   {
-    "Name": "Harold Thompson",
+    "Name": "Frank Foster",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Harold is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Description": "Frank is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Lack of support for veterans"]
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
   },
   {
-    "Name": "George Martin",
-    "Age": 71,
+    "Name": "Fredrick Finch",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "George is a retired farmer who enjoys woodworking and volunteering at his local church.",
-    "Top Priorities": ["Agriculture", "Religious Freedom", "Environmental Conservation"],
-    "Pain points": ["Declining rural communities", "Perceived threats to religious freedom", "Environmental degradation"]
+    "Description": "Fredrick is a retired teacher who enjoys reading and volunteering at his local library.",
+    "Top Priorities": ["Education", "Environment", "Healthcare"],
+    "Pain points": ["Limited educational resources", "Climate change concerns", "Rising prescription drug costs"]
   },
   {
-    "Name": "Frank Wilson",
+    "Name": "Floyd Fields",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
+    "Income": 42000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Frank is a retired mechanic who enjoys classic cars and spending time with his wife.",
-    "Top Priorities": ["Economy", "Infrastructure", "Gun Rights"],
-    "Pain points": ["Economic uncertainty", "Deteriorating infrastructure", "Perceived threats to Second Amendment rights"]
+    "Description": "Floyd is a retired mechanic who enjoys working on classic cars and spending time outdoors.",
+    "Top Priorities": ["Economy", "Infrastructure", "Gun Control"],
+    "Pain points": ["Economic stability", "Deteriorating infrastructure", "Concerns about gun control legislation"]
   },
   {
-    "Name": "Edward Davis",
-    "Age": 70,
+    "Name": "Felix Ford",
+    "Age": 65,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 48000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Edward is a retired postal worker who enjoys hiking and birdwatching.",
-    "Top Priorities": ["Postal Service", "Environment", "Healthcare"],
-    "Pain points": ["Declining postal service", "Loss of natural habitats", "Rising healthcare costs"]
+    "Description": "Felix is a retired police officer who enjoys playing golf and watching sports.",
+    "Top Priorities": ["Law Enforcement", "Immigration", "Taxes"],
+    "Pain points": ["Support for law enforcement", "Border security", "Tax reform"]
   },
   {
-    "Name": "Walter Johnson",
+    "Name": "Forrest Fuller",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 30000,
     "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Walter is a retired factory worker who enjoys playing cards and watching sports.",
-    "Top Priorities": ["Economy", "Social Security", "Education"],
-    "Pain points": ["Economic uncertainty", "Concerns about Social Security benefits", "Lack of quality education for grandchildren"]
+    "Description": "Forrest is a retired farmer who enjoys gardening and spending time with his dogs.",
+    "Top Priorities": ["Agriculture", "Rural Development", "Social Security"],
+    "Pain points": ["Support for small farms", "Rural infrastructure", "Social Security solvency"]
   }
 ]

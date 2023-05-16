@@ -1,67 +1,97 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Nathan Norris",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing in his free time.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain Points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to VA services"]
+    "Description": "Nathan is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to affordable healthcare for seniors",
+      "Social Security": "Protecting Social Security benefits"
+    },
+    "Pain points": {
+      "Rising living costs": "Struggling to maintain a comfortable lifestyle on a fixed income",
+      "Limited access to services": "Living in a rural area with limited access to healthcare and other services"
+    }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 69,
+    "Name": "Neil O'Connor",
+    "Age": 72,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Education Level": "Some college",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and gardening. He is active in his local community center.",
-    "Top Priorities": ["Agriculture", "Rural Development", "Environmental Conservation"],
-    "Pain Points": ["Declining farm income", "Lack of rural infrastructure", "Climate change impacts on agriculture"]
+    "Description": "Neil is a retired teacher who enjoys reading, gardening, and volunteering at his local library.",
+    "Top Priorities": {
+      "Education": "Supporting quality education for future generations",
+      "Environment": "Protecting Montana's natural resources"
+    },
+    "Pain points": {
+      "Isolation": "Feeling isolated after the loss of his spouse",
+      "Access to healthcare": "Difficulty finding specialized healthcare services in his rural community"
+    }
   },
   {
-    "Name": "James Brown",
-    "Age": 66,
+    "Name": "Nolan Smith",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and attending car shows. He is also a volunteer firefighter.",
-    "Top Priorities": ["Public Safety", "Economic Development", "Transportation"],
-    "Pain Points": ["Crime rates", "Lack of job opportunities for younger generations", "Poor road conditions"]
+    "Description": "Nolan is a retired mechanic who enjoys working on classic cars and attending car shows.",
+    "Top Priorities": {
+      "Economy": "Supporting policies that promote economic growth in Montana",
+      "Veterans": "Ensuring veterans receive the support and benefits they deserve"
+    },
+    "Pain points": {
+      "Rising healthcare costs": "Concerned about the affordability of healthcare as he ages",
+      "Limited recreational opportunities": "Wishing for more recreational opportunities for seniors in his community"
+    }
   },
   {
-    "Name": "William Davis",
-    "Age": 68,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired postal worker who enjoys hiking and birdwatching. He is a member of a local nature club.",
-    "Top Priorities": ["Environmental Conservation", "Public Services", "Healthcare"],
-    "Pain Points": ["Loss of natural habitats", "Declining quality of public services", "Limited access to healthcare"]
-  },
-  {
-    "Name": "Richard Martinez",
-    "Age": 70,
+    "Name": "Nigel Bennett",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Richard is a retired factory worker who enjoys playing chess and reading. He is active in his local senior center.",
-    "Top Priorities": ["Social Security", "Affordable Housing", "Community Development"],
-    "Pain Points": ["Concerns about Social Security benefits", "Lack of affordable housing options", "Limited community resources"]
+    "Description": "Nigel is a retired farmer who enjoys woodworking and spending time outdoors.",
+    "Top Priorities": {
+      "Agriculture": "Supporting policies that benefit small farmers",
+      "Rural development": "Promoting economic development in rural areas"
+    },
+    "Pain points": {
+      "Financial insecurity": "Worried about his financial future due to a limited income",
+      "Access to resources": "Limited access to resources and services in his rural community"
+    }
+  },
+  {
+    "Name": "Norman Hayes",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Retired",
+    "Description": "Norman is a retired electrician who enjoys hiking and photography.",
+    "Top Priorities": {
+      "Infrastructure": "Supporting investments in Montana's infrastructure",
+      "Public safety": "Ensuring the safety and security of his community"
+    },
+    "Pain points": {
+      "Rising property taxes": "Concerned about the impact of rising property taxes on his fixed income",
+      "Access to public services": "Limited access to public services in his rural community"
+    }
   }
 ]

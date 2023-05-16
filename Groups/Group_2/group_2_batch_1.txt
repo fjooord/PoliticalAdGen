@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Doris Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Bradley Thompson",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
+    "Income": 42000,
+    "Marital Status": "Single",
     "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Doris is a retired school teacher who enjoys gardening and volunteering at her local church.",
-    "Top Priorities": {
-      "Healthcare": "Doris is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "She relies on her social security benefits for her income and wants to ensure its stability."
-    },
-    "Pain points": {
-      "Isolation": "Living alone in a rural area, Doris sometimes feels isolated and disconnected from her community.",
-      "Transportation": "She has limited access to public transportation and relies on her car for mobility."
-    }
+    "Occupation": "Carpenter",
+    "Description": "Bradley is a hardworking carpenter who enjoys spending time outdoors. He is a proud Montanan and values his independence.",
+    "Top Priorities": ["Job Security", "Affordable Healthcare"],
+    "Pain Points": ["Rising Cost of Living", "Lack of Affordable Housing"]
   },
   {
-    "Name": "Evelyn Martin",
-    "Age": 71,
-    "Gender": "Female",
+    "Name": "Bryan Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
+    "Occupation": "Retail Manager",
+    "Description": "Bryan is a dedicated retail manager who is passionate about providing excellent customer service. He is married with two children and enjoys spending time with his family.",
+    "Top Priorities": ["Education", "Economic Growth"],
+    "Pain Points": ["Limited Job Opportunities", "Rising Healthcare Costs"]
+  },
+  {
+    "Name": "Brandon Mitchell",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Divorced",
+    "Marital Status": "Single",
     "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Evelyn is a retired nurse who enjoys spending time with her grandchildren and participating in local book clubs.",
-    "Top Priorities": {
-      "Medicare": "Evelyn wants to ensure that Medicare remains strong and accessible for seniors.",
-      "Environment": "She is concerned about the impact of climate change on future generations."
-    },
-    "Pain points": {
-      "Housing": "Evelyn struggles to find affordable housing options in her area.",
-      "Access to Services": "She has limited access to healthcare services and specialists in her rural community."
-    }
+    "Occupation": "Warehouse Worker",
+    "Description": "Brandon is a young warehouse worker who is looking for opportunities to advance in his career. He enjoys playing sports and spending time with friends.",
+    "Top Priorities": ["Job Training Programs", "Affordable Housing"],
+    "Pain Points": ["Lack of Career Advancement", "Student Loan Debt"]
   },
   {
-    "Name": "Marilyn Hughes",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Benjamin Clark",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate Degree",
+    "Occupation": "Electrician",
+    "Description": "Benjamin is an experienced electrician who takes pride in his work. He is divorced and has one adult child. He enjoys fishing and hiking in his free time.",
+    "Top Priorities": ["Retirement Security", "Environmental Conservation"],
+    "Pain Points": ["Rising Cost of Living", "Lack of Access to Healthcare"]
+  },
+  {
+    "Name": "Blake Adams",
+    "Age": 38,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired administrative assistant who enjoys quilting and spending time with her friends.",
-    "Top Priorities": {
-      "Economy": "Marilyn is concerned about the stability of the economy and the impact on her retirement savings.",
-      "Veterans Affairs": "Her husband is a veteran, and she wants to ensure that veterans receive proper support and care."
-    },
-    "Pain points": {
-      "Rural Broadband": "Marilyn struggles with slow and unreliable internet service in her rural community.",
-      "Access to Healthcare": "She has limited access to healthcare providers and facilities in her area."
-    }
-  },
-  {
-    "Name": "Shirley Jenkins",
-    "Age": 66,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Shirley is a retired factory worker who enjoys fishing and spending time outdoors.",
-    "Top Priorities": {
-      "Social Security": "Shirley relies on her social security benefits and wants to ensure its stability.",
-      "Infrastructure": "She is concerned about the state of roads and bridges in her rural community."
-    },
-    "Pain points": {
-      "Cost of Living": "Shirley struggles to make ends meet on her fixed income.",
-      "Access to Healthcare": "She has limited access to healthcare providers and facilities in her area."
-    }
-  },
-  {
-    "Name": "Barbara Clark",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Barbara is a retired retail worker who enjoys painting and spending time with her family.",
-    "Top Priorities": {
-      "Healthcare": "Barbara is concerned about the rising costs of healthcare and prescription medications.",
-      "Senior Services": "She wants to ensure that seniors have access to necessary services and support."
-    },
-    "Pain points": {
-      "Isolation": "Living alone in a rural area, Barbara sometimes feels isolated and disconnected from her community.",
-      "Transportation": "She has limited access to public transportation and relies on her car for mobility."
-    }
+    "Education Level": "Bachelor's Degree",
+    "Occupation": "High School Teacher",
+    "Description": "Blake is a dedicated high school teacher who is passionate about helping his students succeed. He is married and has a young daughter.",
+    "Top Priorities": ["Education Funding", "Family-Friendly Policies"],
+    "Pain Points": ["Low Teacher Salaries", "Lack of Affordable Childcare"]
   }
 ]

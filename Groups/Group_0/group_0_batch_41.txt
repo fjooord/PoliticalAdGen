@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Eva Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Eva is a hardworking single woman who lives in a small town in Montana. She enjoys outdoor activities and spending time with her friends and family.",
+    "Top Priorities": {
+      "Affordable Healthcare": "Eva is concerned about the rising cost of healthcare and wants to see more affordable options.",
+      "Job Security": "Eva wants to ensure that her job remains stable and secure."
+    },
+    "Pain points": {
+      "Limited Job Opportunities": "Eva feels that there are limited job opportunities in her area.",
+      "High Cost of Living": "Eva struggles with the high cost of living and wants to see policies that help lower expenses."
+    }
+  },
+  {
+    "Name": "Evelyn Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Evelyn is a dedicated teacher who is passionate about education. She is married and has two children.",
+    "Top Priorities": {
+      "Education Funding": "Evelyn wants to see increased funding for public schools.",
+      "Family Values": "Evelyn believes in strong family values and wants to see policies that support families."
+    },
+    "Pain points": {
+      "Teacher Salaries": "Evelyn feels that teachers are underpaid and wants to see higher salaries for educators.",
+      "Lack of Resources": "Evelyn is concerned about the lack of resources available for her students."
+    }
+  },
+  {
+    "Name": "Evangeline Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Evangeline is a young professional who is focused on building her career. She is recently divorced and has no children.",
+    "Top Priorities": {
+      "Economic Growth": "Evangeline wants to see policies that promote economic growth and job creation.",
+      "Women's Rights": "Evangeline is passionate about women's rights and wants to see policies that support gender equality."
+    },
+    "Pain points": {
+      "Student Loan Debt": "Evangeline is burdened by student loan debt and wants to see policies that help alleviate this issue.",
+      "Limited Career Advancement": "Evangeline feels that there are limited opportunities for career advancement in her area."
+    }
+  },
+  {
+    "Name": "Eve Williams",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Eve is a widowed woman who works part-time to supplement her income. She has three grown children and enjoys gardening in her free time.",
+    "Top Priorities": {
+      "Social Security": "Eve wants to ensure that Social Security remains stable and well-funded.",
+      "Healthcare": "Eve is concerned about the rising cost of healthcare and wants to see more affordable options."
+    },
+    "Pain points": {
+      "Financial Security": "Eve worries about her financial security and wants to see policies that help support individuals like her.",
+      "Access to Healthcare": "Eve struggles with accessing affordable healthcare and wants to see policies that improve access."
+    }
+  },
+  {
+    "Name": "Everly Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Everly is a recent high school graduate who is working as a barista while she decides on her future plans. She is passionate about the environment and social justice.",
+    "Top Priorities": {
+      "Climate Change": "Everly wants to see policies that address climate change and promote sustainable practices.",
+      "Affordable Education": "Everly is interested in pursuing higher education and wants to see more affordable options."
+    },
+    "Pain points": {
+      "Low Wages": "Everly struggles with low wages and wants to see policies that promote higher minimum wages.",
+      "Lack of Affordable Housing": "Everly is concerned about the lack of affordable housing in her area."
+    }
+  }
+]

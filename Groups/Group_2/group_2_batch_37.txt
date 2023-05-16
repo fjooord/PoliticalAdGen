@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Jackson Adams",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Jackson is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to public lands"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Environmental concerns"]
+  },
+  {
+    "Name": "Jameson Alexander",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail sales associate",
+    "Description": "Jameson is a friendly and outgoing person who enjoys spending time with his family and friends.",
+    "Top Priorities": ["Healthcare", "Education", "Community safety"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare", "Limited access to quality education"]
+  },
+  {
+    "Name": "Jared Armstrong",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Jared is a dedicated professional who values stability and a strong work-life balance.",
+    "Top Priorities": ["Economic growth", "Retirement security", "Infrastructure"],
+    "Pain points": ["Job market competition", "Uncertain retirement future", "Aging infrastructure"]
+  },
+  {
+    "Name": "Jason Allen",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Fast food worker",
+    "Description": "Jason is a young and ambitious individual who is eager to learn and advance in his career.",
+    "Top Priorities": ["Higher education", "Job training programs", "Affordable transportation"],
+    "Pain points": ["Student loan debt", "Limited job prospects", "High cost of living"]
+  },
+  {
+    "Name": "Jacob Anderson",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Jacob is a skilled worker who takes pride in his work and enjoys spending time with his family.",
+    "Top Priorities": ["Job security", "Quality education for his children", "Access to affordable healthcare"],
+    "Pain points": ["Job market volatility", "Rising healthcare costs", "Concerns about public education"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Gina Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Gina is a friendly and outgoing individual who enjoys her job in retail. She is passionate about supporting local businesses and the environment.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Support for local businesses"],
+    "Pain points": ["Limited access to affordable healthcare", "Concerns about environmental issues in Montana", "Lack of support for small businesses"]
+  },
+  {
+    "Name": "Gloria Adams",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Gloria is a dedicated worker and mother of two. She is concerned about the quality of education and opportunities for her children.",
+    "Top Priorities": ["Education", "Job opportunities", "Affordable housing"],
+    "Pain points": ["Worries about the quality of local schools", "Limited job opportunities for her children", "Rising housing costs"]
+  },
+  {
+    "Name": "Gwendolyn Martin",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Gwendolyn is a compassionate and caring nurse who is passionate about healthcare and helping others. She is concerned about the state of healthcare in Montana.",
+    "Top Priorities": ["Healthcare", "Mental health resources", "Retirement security"],
+    "Pain points": ["Lack of access to quality healthcare", "Limited mental health resources in the community", "Worries about retirement savings"]
+  },
+  {
+    "Name": "Gabrielle Johnson",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Gabrielle is a hardworking young woman who is trying to save money for college. She is passionate about social justice and equality.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Social justice"],
+    "Pain points": ["Struggling to afford college", "Low minimum wage", "Concerns about social inequality"]
+  },
+  {
+    "Name": "Grace Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Grace is a dedicated teacher who is passionate about providing a quality education for her students. She is concerned about the lack of resources and support for teachers.",
+    "Top Priorities": ["Education funding", "Teacher support", "Community engagement"],
+    "Pain points": ["Insufficient funding for schools", "Lack of support for teachers", "Desire for more community involvement in education"]
+  }
+]

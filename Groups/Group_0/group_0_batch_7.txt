@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Hannah Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Hannah is a friendly and outgoing person who enjoys outdoor activities and spending time with her friends.",
+    "Top Priorities": ["Affordable healthcare", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Heather Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Heather is a hardworking single mother of two who is passionate about education and community involvement.",
+    "Top Priorities": ["Quality education", "Childcare support"],
+    "Pain points": ["Balancing work and family life", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Holly Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Holly is a creative and ambitious young professional who is focused on building a successful career and starting a family.",
+    "Top Priorities": ["Career advancement", "Affordable housing"],
+    "Pain points": ["Student loan debt", "Limited networking opportunities"]
+  },
+  {
+    "Name": "Hilary Davis",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Hilary is a kind and compassionate person who enjoys volunteering at her local church and spending time with her grandchildren.",
+    "Top Priorities": ["Social security", "Community safety"],
+    "Pain points": ["Financial insecurity", "Lack of public transportation"]
+  },
+  {
+    "Name": "Harriet Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "Associate's degree",
+    "Occupation": "Licensed Practical Nurse",
+    "Description": "Harriet is a dedicated healthcare worker who is passionate about providing quality care to her patients.",
+    "Top Priorities": ["Access to healthcare", "Mental health support"],
+    "Pain points": ["Long work hours", "Lack of mental health resources"]
+  }
+]

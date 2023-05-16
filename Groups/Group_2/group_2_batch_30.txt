@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Chad Thompson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Chad is a hardworking individual who enjoys outdoor activities and spending time with friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Outdoor recreation"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Charles Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail sales associate",
+    "Description": "Charles is a friendly and outgoing person who enjoys meeting new people and helping customers.",
+    "Top Priorities": ["Healthcare", "Retirement savings", "Job stability"],
+    "Pain points": ["Low wages", "Lack of benefits", "Job insecurity"]
+  },
+  {
+    "Name": "Christopher Davis",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "Christopher is a sociable and hardworking individual who enjoys working in the service industry.",
+    "Top Priorities": ["Higher wages", "Affordable education", "Job advancement opportunities"],
+    "Pain points": ["Student loan debt", "Unpredictable work hours", "Lack of job benefits"]
+  },
+  {
+    "Name": "Chester Wilson",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Chester is a skilled tradesman who takes pride in his work and enjoys spending time with his family.",
+    "Top Priorities": ["Job safety", "Retirement planning", "Quality education for children"],
+    "Pain points": ["Rising healthcare costs", "Economic uncertainty", "Limited job growth"]
+  },
+  {
+    "Name": "Chase Martin",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Cashier",
+    "Description": "Chase is a young and ambitious individual who is eager to learn and grow in his career.",
+    "Top Priorities": ["Job training", "Affordable housing", "Access to higher education"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable education options"]
+  }
+]

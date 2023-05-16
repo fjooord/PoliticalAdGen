@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Isabella Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Isabella is a friendly and outgoing person who enjoys her job at a local clothing store. She is passionate about environmental issues and volunteers at a nearby animal shelter.",
+    "Top Priorities": ["Environmental protection", "Animal welfare", "Affordable housing"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing", "Concerns about climate change"]
+  },
+  {
+    "Name": "Isabel Martinez",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Isabel is a hardworking single mother of two teenagers. She is concerned about the quality of education in her community and the rising cost of living.",
+    "Top Priorities": ["Education", "Economic stability", "Healthcare"],
+    "Pain points": ["Rising cost of living", "Limited educational resources", "Access to affordable healthcare"]
+  },
+  {
+    "Name": "Isadora Smith",
+    "Age": 25,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Isadora is a young woman who enjoys her job at a local diner. She is passionate about social justice issues and is an active member of her community.",
+    "Top Priorities": ["Social justice", "Community engagement", "Mental health"],
+    "Pain points": ["Low wages", "Lack of affordable mental health resources", "Feeling unheard by local government"]
+  },
+  {
+    "Name": "Isolde Thompson",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Isolde is a dedicated nurse who works at a local hospital. She is concerned about the state of healthcare in her community and the impact of the opioid crisis on her patients.",
+    "Top Priorities": ["Healthcare", "Opioid crisis", "Economic growth"],
+    "Pain points": ["Understaffed hospitals", "Lack of resources for opioid addiction", "Stagnant local economy"]
+  },
+  {
+    "Name": "Ishtar Williams",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 31000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Customer Service Representative",
+    "Description": "Ishtar is a friendly and empathetic customer service representative at a local call center. She is passionate about helping others and is an active volunteer in her community.",
+    "Top Priorities": ["Community support", "Mental health", "Work-life balance"],
+    "Pain points": ["Stressful work environment", "Lack of affordable mental health resources", "Difficulty finding time for self-care"]
+  }
+]

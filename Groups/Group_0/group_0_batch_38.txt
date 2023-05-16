@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Elaine Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Elaine is a young woman living in Montana, working in retail sales. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable housing", "Environmental protection"],
+    "Pain points": ["Low wages", "Limited job opportunities"]
+  },
+  {
+    "Name": "Eleanor Martin",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Eleanor is a divorced mother of two living in Montana. She is an administrative assistant and is concerned about the quality of education for her children.",
+    "Top Priorities": ["Education", "Healthcare"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Elena Rodriguez",
+    "Age": 35,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Teacher",
+    "Description": "Elena is a married woman living in Montana with her husband and two children. She works as a teacher and is passionate about improving the education system.",
+    "Top Priorities": ["Education reform", "Childcare"],
+    "Pain points": ["Low teacher salaries", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Ella Johnson",
+    "Age": 60,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Ella is a widowed woman living in Montana. She is retired and enjoys spending time with her grandchildren. She is concerned about the future of Social Security and Medicare.",
+    "Top Priorities": ["Social Security", "Medicare"],
+    "Pain points": ["Rising healthcare costs", "Uncertainty about Social Security benefits"]
+  },
+  {
+    "Name": "Elsie Adams",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Elsie is a young woman living in Montana, working as a waitress. She is interested in pursuing higher education but is concerned about the cost of college.",
+    "Top Priorities": ["Affordable education", "Job opportunities"],
+    "Pain points": ["Student loan debt", "Limited job prospects"]
+  }
+]

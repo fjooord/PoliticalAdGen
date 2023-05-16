@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Wilbur Thompson",
+    "Age": 37,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Wilbur is a hardworking construction worker who lives in a small town in Montana. He enjoys spending time outdoors and values his close-knit community.",
+    "Top Priorities": ["Job security", "Affordable healthcare", "Community development"],
+    "Pain points": ["Rising cost of living", "Limited access to healthcare services", "Lack of job opportunities"]
+  },
+  {
+    "Name": "Willard Johnson",
+    "Age": 29,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Willard is a friendly retail salesperson who lives with his wife in Montana. He is passionate about environmental conservation and enjoys hiking and fishing.",
+    "Top Priorities": ["Environmental protection", "Affordable housing", "Education"],
+    "Pain points": ["Low wages", "Student loan debt", "Limited public transportation options"]
+  },
+  {
+    "Name": "Wilfred Adams",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Wilfred is a skilled electrician who has lived in Montana for most of his life. He is a proud father of two adult children and enjoys volunteering at his local church.",
+    "Top Priorities": ["Retirement security", "Support for small businesses", "Community safety"],
+    "Pain points": ["High healthcare costs", "Lack of affordable housing", "Limited social services"]
+  },
+  {
+    "Name": "Winston Baker",
+    "Age": 23,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waiter",
+    "Description": "Winston is a young waiter who is saving up to attend college in Montana. He is passionate about social justice and enjoys participating in local activism.",
+    "Top Priorities": ["Higher education affordability", "Racial equality", "LGBTQ+ rights"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare", "Limited job opportunities"]
+  },
+  {
+    "Name": "Wilhelm Cooper",
+    "Age": 41,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary school teacher",
+    "Description": "Wilhelm is a dedicated elementary school teacher who lives with his wife and two children in Montana. He is committed to providing quality education for all students.",
+    "Top Priorities": ["Education funding", "Childcare support", "Work-life balance"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for schools", "High childcare costs"]
+  }
+]

@@ -1,67 +1,97 @@
 [
   {
-    "Name": "Laura Smith",
-    "Age": 32,
+    "Name": "Pamela Peters",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Retail Sales Associate",
-    "Description": "Laura is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental issues.",
-    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
-    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable housing"]
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Pamela is a retired teacher who enjoys gardening and volunteering at her local community center.",
+    "Top Priorities": {
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain Points": {
+      "Rising Cost of Living": "Struggling to make ends meet on a fixed income",
+      "Isolation": "Feeling isolated and disconnected from her community"
+    }
   },
   {
-    "Name": "Samantha Johnson",
-    "Age": 45,
+    "Name": "Patricia Price",
+    "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
-    "Education Level": "Some college",
-    "Occupation": "Administrative Assistant",
-    "Description": "Samantha is a divorced mother of two teenagers. She is concerned about the quality of education in her community and the rising cost of living.",
-    "Top Priorities": ["Education", "Economic stability", "Affordable housing"],
-    "Pain points": ["Rising cost of living", "Limited educational resources", "Lack of support for single parents"]
+    "Education Level": "Some College",
+    "Occupation": "Retired",
+    "Description": "Patricia is a retired nurse who enjoys reading, traveling, and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Affordable prescription medications",
+      "Environment": "Protecting the environment for future generations"
+    },
+    "Pain Points": {
+      "Limited Mobility": "Difficulty accessing public transportation and community resources",
+      "Lack of Affordable Housing": "Struggling to find affordable housing options"
+    }
   },
   {
-    "Name": "Emily Brown",
-    "Age": 22,
+    "Name": "Paula Parker",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Single",
-    "Education Level": "High school graduate",
-    "Occupation": "Waitress",
-    "Description": "Emily is a young woman who recently graduated from high school. She is currently working as a waitress while she decides what career path to pursue.",
-    "Top Priorities": ["Job opportunities", "Affordable education", "Mental health support"],
-    "Pain points": ["Uncertainty about the future", "Student loan debt", "Lack of mental health resources"]
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Paula is a retired administrative assistant who enjoys crafting and spending time with her family.",
+    "Top Priorities": {
+      "Economy": "Creating jobs and supporting small businesses",
+      "Education": "Improving public education for her grandchildren"
+    },
+    "Pain Points": {
+      "Financial Insecurity": "Worrying about her family's financial future",
+      "Limited Access to Healthcare": "Difficulty finding affordable healthcare options"
+    }
   },
   {
-    "Name": "Rebecca Davis",
-    "Age": 55,
+    "Name": "Peggy Patterson",
+    "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Associate degree",
-    "Occupation": "Nurse",
-    "Description": "Rebecca is a married woman with grown children. She works as a nurse and is concerned about the state of healthcare in her community.",
-    "Top Priorities": ["Healthcare", "Retirement security", "Community safety"],
-    "Pain points": ["Rising healthcare costs", "Inadequate retirement savings", "Crime rates"]
+    "Marital Status": "Single",
+    "Education Level": "Associate Degree",
+    "Occupation": "Retired",
+    "Description": "Peggy is a retired librarian who enjoys hiking, birdwatching, and participating in local book clubs.",
+    "Top Priorities": {
+      "Environment": "Preserving natural resources and wildlife habitats",
+      "Community": "Supporting local arts and cultural events"
+    },
+    "Pain Points": {
+      "Lack of Social Opportunities": "Finding it difficult to make new friends and stay socially active",
+      "Rising Healthcare Costs": "Concerned about the rising cost of healthcare and prescription medications"
+    }
   },
   {
-    "Name": "Jessica Miller",
-    "Age": 27,
+    "Name": "Phyllis Powell",
+    "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 35000,
-    "Marital Status": "Single",
-    "Education Level": "Bachelor's degree",
-    "Occupation": "Marketing Coordinator",
-    "Description": "Jessica is a young professional living in Montana. She is passionate about social justice and wants to see more diversity and inclusion in her community.",
-    "Top Priorities": ["Social justice", "Economic equality", "Diversity and inclusion"],
-    "Pain points": ["Gender pay gap", "Lack of diversity in the workplace", "Limited access to affordable childcare"]
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Phyllis is a retired factory worker who enjoys cooking, fishing, and spending time with her husband.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring access to quality healthcare for all",
+      "Economy": "Supporting policies that promote economic growth and job creation"
+    },
+    "Pain Points": {
+      "Rising Cost of Living": "Worrying about the rising cost of living and its impact on her retirement",
+      "Limited Access to Services": "Difficulty accessing necessary services and resources in her rural community"
+    }
   }
 ]

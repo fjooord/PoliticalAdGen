@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Zara Zimmerman",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Zara is a friendly and outgoing retail sales associate who enjoys helping customers find the perfect items. She lives in a small apartment in Montana and spends her free time exploring the outdoors.",
+    "Top Priorities": {
+      "Affordable housing": "Zara is looking for a larger, more affordable place to live.",
+      "Job security": "Zara wants to ensure her job remains stable and secure."
+    },
+    "Pain points": {
+      "Limited career growth": "Zara feels stuck in her current job and wants to explore new opportunities.",
+      "Lack of affordable healthcare": "Zara struggles to find affordable healthcare options."
+    }
+  },
+  {
+    "Name": "Zoe Ziegler",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Zoe is a detail-oriented administrative assistant who works for a local business in Montana. She is married with two children and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education": "Zoe wants to ensure her children receive a quality education.",
+      "Work-life balance": "Zoe is focused on maintaining a healthy work-life balance."
+    },
+    "Pain points": {
+      "Childcare costs": "Zoe struggles with the high cost of childcare.",
+      "Limited job opportunities": "Zoe feels there are limited job opportunities in her area."
+    }
+  },
+  {
+    "Name": "Zelda Zuniga",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Zelda is a hardworking waitress at a local restaurant in Montana. She is recently divorced and enjoys spending time with her friends and hiking in her free time.",
+    "Top Priorities": {
+      "Financial stability": "Zelda wants to improve her financial situation.",
+      "Personal growth": "Zelda is focused on personal growth and self-improvement."
+    },
+    "Pain points": {
+      "Low wages": "Zelda struggles with low wages and limited job opportunities.",
+      "Lack of support": "Zelda feels isolated and lacks a strong support network."
+    }
+  },
+  {
+    "Name": "Zoey Zane",
+    "Age": 54,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Zoey is a compassionate nurse who works at a local hospital in Montana. She is widowed and has one adult child. Zoey enjoys gardening and volunteering in her community.",
+    "Top Priorities": {
+      "Healthcare": "Zoey wants to ensure she has access to quality healthcare.",
+      "Community involvement": "Zoey is passionate about giving back to her community."
+    },
+    "Pain points": {
+      "Loneliness": "Zoey struggles with loneliness and finding new social connections.",
+      "Retirement planning": "Zoey is concerned about her financial stability in retirement."
+    }
+  },
+  {
+    "Name": "Zara Zuniga",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Cashier",
+    "Description": "Zara is a friendly cashier at a local grocery store in Montana. She is married and has three children. Zara enjoys spending time with her family and attending her children's sports events.",
+    "Top Priorities": {
+      "Family": "Zara is focused on providing a stable and loving home for her family.",
+      "Financial security": "Zara wants to improve her family's financial situation."
+    },
+    "Pain points": {
+      "Low income": "Zara struggles to make ends meet on her current salary.",
+      "Lack of affordable childcare": "Zara has difficulty finding affordable childcare options."
+    }
+  }
+]

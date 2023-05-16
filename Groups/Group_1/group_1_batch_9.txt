@@ -1,97 +1,97 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 68,
+    "Name": "Judy Johnson",
+    "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Dorothy is a retired nurse who enjoys gardening and spending time with her grandchildren. She is active in her local community and volunteers at the senior center.",
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Judy is a retired teacher who enjoys gardening and spending time with her grandchildren.",
     "Top Priorities": {
-      "Healthcare": "Affordable and accessible healthcare for seniors",
-      "Social Security": "Protecting and strengthening Social Security benefits"
+      "Healthcare": "Ensuring access to affordable healthcare for herself and her family.",
+      "Social Security": "Protecting her social security benefits."
     },
     "Pain points": {
-      "Rising Cost of Living": "Struggling to maintain her lifestyle on a fixed income",
-      "Isolation": "Feeling isolated from friends and family due to the pandemic"
+      "Rising cost of living": "Struggling to maintain her lifestyle on a fixed income.",
+      "Limited access to services": "Living in a rural area with limited access to healthcare and other services."
     }
   },
   {
-    "Name": "Evelyn Martin",
-    "Age": 70,
+    "Name": "Janice Miller",
+    "Age": 69,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Administrative Assistant",
-    "Description": "Evelyn is a widowed retiree who enjoys reading, knitting, and attending church events. She is concerned about the future of her community and the country.",
+    "Income": 30000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Janice is a retired nurse who enjoys volunteering at her local community center.",
     "Top Priorities": {
-      "Economy": "Creating jobs and supporting local businesses",
-      "Environment": "Protecting Montana's natural resources and wildlife"
+      "Healthcare": "Affordable healthcare and prescription drug coverage.",
+      "Community": "Supporting local community programs and initiatives."
     },
     "Pain points": {
-      "Healthcare": "Managing her chronic health conditions on a limited budget",
-      "Loneliness": "Coping with the loss of her spouse and finding new social connections"
+      "Isolation": "Feeling isolated and disconnected from her community.",
+      "Financial insecurity": "Worried about her financial future and the rising cost of living."
     }
   },
   {
-    "Name": "Gloria Johnson",
-    "Age": 66,
+    "Name": "Joan Smith",
+    "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
     "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Teacher",
-    "Description": "Gloria is a retired teacher who enjoys hiking and birdwatching. She is passionate about education and the environment and is an active member of her local Audubon Society chapter.",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Joan is a retired administrative assistant who enjoys traveling with her husband.",
     "Top Priorities": {
-      "Education": "Improving public education and supporting teachers",
-      "Climate Change": "Addressing climate change and promoting clean energy"
+      "Healthcare": "Affordable healthcare for herself and her husband.",
+      "Travel": "Continuing to explore new places in her retirement."
     },
     "Pain points": {
-      "Retirement Security": "Ensuring she and her husband have enough savings for a comfortable retirement",
-      "Access to Nature": "Preserving public lands and access to outdoor recreation"
+      "Rising healthcare costs": "Concerned about the rising cost of healthcare and prescription drugs.",
+      "Limited travel opportunities": "Limited travel opportunities due to financial constraints and health concerns."
     }
   },
   {
-    "Name": "Helen Wilson",
-    "Age": 72,
+    "Name": "Jeanette Williams",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 35000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Helen is a retired factory worker who enjoys painting and spending time with her dog. She is concerned about the economy and the well-being of her fellow retirees.",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Jeanette is a retired factory worker who enjoys crafting and spending time with her friends.",
     "Top Priorities": {
-      "Economy": "Supporting manufacturing jobs and fair trade policies",
-      "Social Services": "Ensuring access to social services for seniors and low-income individuals"
+      "Healthcare": "Access to affordable healthcare and prescription drugs.",
+      "Social connections": "Maintaining strong social connections with friends and family."
     },
     "Pain points": {
-      "Affordable Housing": "Finding affordable housing in her community",
-      "Transportation": "Limited access to public transportation and mobility options"
+      "Financial insecurity": "Worried about her financial future and the rising cost of living.",
+      "Limited social opportunities": "Limited social opportunities in her rural community."
     }
   },
   {
-    "Name": "Irene Davis",
-    "Age": 67,
+    "Name": "Joyce Anderson",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Irene is a retired retail worker who enjoys cooking and spending time with her family. She is concerned about healthcare and the cost of living for seniors.",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retired",
+    "Description": "Joyce is a retired librarian who enjoys reading and participating in her local book club.",
     "Top Priorities": {
-      "Healthcare": "Expanding Medicare and lowering prescription drug costs",
-      "Affordable Housing": "Increasing affordable housing options for seniors"
+      "Healthcare": "Affordable healthcare for herself and her husband.",
+      "Education": "Supporting local education initiatives and programs."
     },
     "Pain points": {
-      "Financial Security": "Managing her finances on a limited income",
-      "Access to Healthcare": "Navigating the healthcare system and finding affordable care"
+      "Rising healthcare costs": "Concerned about the rising cost of healthcare and prescription drugs.",
+      "Limited access to services": "Living in a rural area with limited access to healthcare and other services."
     }
   }
 ]

@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Rachel Thompson",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Rachel is a young woman who enjoys outdoor activities and spending time with her friends. She is passionate about environmental issues and is involved in local community projects.",
+    "Top Priorities": {
+      "Affordable Healthcare": 4,
+      "Environmental Protection": 5,
+      "Education": 3
+    },
+    "Pain points": {
+      "Student Loan Debt": 3,
+      "Lack of Affordable Housing": 4,
+      "Limited Job Opportunities": 2
+    }
+  },
+  {
+    "Name": "Rebecca Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Rebecca is a dedicated teacher who is committed to her students' success. She is active in her local PTA and is concerned about the quality of education in her community.",
+    "Top Priorities": {
+      "Education": 5,
+      "Childcare": 4,
+      "Taxes": 3
+    },
+    "Pain points": {
+      "Overcrowded Classrooms": 5,
+      "Lack of Resources for Education": 4,
+      "High Property Taxes": 3
+    }
+  },
+  {
+    "Name": "Rita Martinez",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Rita is a single mother who is focused on providing for her family. She is concerned about the cost of living and the availability of affordable childcare.",
+    "Top Priorities": {
+      "Affordable Childcare": 5,
+      "Job Security": 4,
+      "Healthcare": 3
+    },
+    "Pain points": {
+      "High Cost of Living": 5,
+      "Limited Childcare Options": 4,
+      "Job Insecurity": 3
+    }
+  },
+  {
+    "Name": "Rosemary Adams",
+    "Age": 58,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Rosemary is a retired woman who is active in her community and volunteers at her local senior center. She is concerned about the future of Social Security and Medicare.",
+    "Top Priorities": {
+      "Social Security": 5,
+      "Medicare": 4,
+      "Community Safety": 3
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": 5,
+      "Uncertainty of Social Security": 4,
+      "Crime in the Community": 3
+    }
+  },
+  {
+    "Name": "Renee Wilson",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Renee is a dedicated healthcare professional who is passionate about providing quality care to her patients. She is concerned about the state of the healthcare system and the impact of rising costs on her family.",
+    "Top Priorities": {
+      "Healthcare": 5,
+      "Work-Life Balance": 4,
+      "Retirement Savings": 3
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": 5,
+      "Long Work Hours": 4,
+      "Lack of Retirement Savings": 3
+    }
+  }
+]

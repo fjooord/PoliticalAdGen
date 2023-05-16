@@ -1,97 +1,97 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Dorothy is a retired high school teacher who lives in a small town in Montana. She enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "As a senior citizen, Dorothy is concerned about the quality and affordability of healthcare.",
-      "Social Security": "Dorothy relies on her social security benefits to supplement her income."
-    },
-    "Pain points": {
-      "Isolation": "Living in a small town, Dorothy sometimes feels isolated from her friends and family.",
-      "Rising living costs": "Dorothy is concerned about the rising cost of living, especially as it relates to her fixed income."
-    }
-  },
-  {
-    "Name": "Marilyn Johnson",
-    "Age": 70,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Marilyn is a retired nurse who lives in a rural area of Montana. She enjoys volunteering at her local community center and spending time with her pets.",
-    "Top Priorities": {
-      "Healthcare": "Marilyn is concerned about the availability and quality of healthcare in her rural community.",
-      "Animal Welfare": "As an animal lover, Marilyn is passionate about animal welfare and supports policies that protect animals."
-    },
-    "Pain points": {
-      "Access to healthcare": "Living in a rural area, Marilyn has limited access to healthcare providers and services.",
-      "Loneliness": "Since her husband passed away, Marilyn has struggled with feelings of loneliness and isolation."
-    }
-  },
-  {
-    "Name": "Susan Miller",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Ethan Smith",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Single",
-    "Education Level": "Some College",
-    "Occupation": "Retired",
-    "Description": "Susan is a retired administrative assistant who lives in a small city in Montana. She enjoys reading, attending local events, and spending time with her friends.",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Ethan is a hardworking construction worker who enjoys outdoor activities in his free time.",
     "Top Priorities": {
-      "Economic Stability": "Susan is concerned about the stability of the economy and its impact on her retirement savings.",
-      "Community Development": "Susan is passionate about supporting local businesses and community development initiatives."
+      "Employment": "Stable job with good working conditions",
+      "Education": "Continuing education opportunities"
     },
     "Pain points": {
-      "Limited social opportunities": "Susan sometimes feels that there are limited social opportunities in her small city.",
-      "Rising healthcare costs": "Susan is concerned about the rising cost of healthcare and its impact on her budget."
+      "Income": "Struggling to save for the future",
+      "Healthcare": "Limited access to affordable healthcare"
     }
   },
   {
-    "Name": "Barbara Wilson",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Elijah Johnson",
+    "Age": 45,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
+    "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Barbara is a retired retail manager who lives in a suburban area of Montana. She enjoys traveling with her husband and spending time with her family.",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Elijah is a skilled automotive technician who values family time and community involvement.",
     "Top Priorities": {
-      "Healthcare": "Barbara is concerned about the affordability of healthcare for her and her husband.",
-      "Travel": "Barbara enjoys traveling and is interested in policies that support affordable and accessible travel options for seniors."
+      "Family": "Supporting his wife and children",
+      "Community": "Contributing to local events and organizations"
     },
     "Pain points": {
-      "Limited travel opportunities": "Barbara sometimes feels that there are limited travel opportunities for seniors in her area.",
-      "Rising living costs": "Barbara is concerned about the rising cost of living, especially as it relates to her fixed income."
+      "Income": "Managing household expenses",
+      "Education": "Ensuring quality education for his children"
     }
   },
   {
-    "Name": "Nancy Smith",
-    "Age": 72,
-    "Gender": "Female",
+    "Name": "Eric Brown",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "Nancy is a retired factory worker who lives in a small town in Montana. She enjoys crafting, attending local events, and spending time with her grandchildren.",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Eric is a friendly retail sales associate who enjoys socializing and exploring new hobbies.",
     "Top Priorities": {
-      "Healthcare": "Nancy is concerned about the quality and affordability of healthcare.",
-      "Social Security": "Nancy relies on her social security benefits to supplement her income."
+      "Social Life": "Maintaining friendships and meeting new people",
+      "Personal Growth": "Exploring new interests and skills"
     },
     "Pain points": {
-      "Isolation": "Living in a small town, Nancy sometimes feels isolated from her friends and family.",
-      "Rising living costs": "Nancy is concerned about the rising cost of living, especially as it relates to her fixed income."
+      "Income": "Limited disposable income for leisure activities",
+      "Career": "Lack of clear career progression"
+    }
+  },
+  {
+    "Name": "Edward Davis",
+    "Age": 58,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Edward is an organized office manager who values stability and routine in his life.",
+    "Top Priorities": {
+      "Financial Security": "Saving for retirement",
+      "Health": "Maintaining good health as he ages"
+    },
+    "Pain points": {
+      "Relationships": "Rebuilding social connections after divorce",
+      "Retirement": "Concerns about financial preparedness"
+    }
+  },
+  {
+    "Name": "Evan Miller",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 26000,
+    "Marital Status": "Single",
+    "Education Level": "Some college",
+    "Occupation": "Barista",
+    "Description": "Evan is a creative barista who is passionate about music and the arts.",
+    "Top Priorities": {
+      "Creative Expression": "Pursuing artistic projects and collaborations",
+      "Education": "Completing his college degree"
+    },
+    "Pain points": {
+      "Income": "Balancing work and school expenses",
+      "Career": "Finding a fulfilling job in his field of study"
     }
   }
 ]

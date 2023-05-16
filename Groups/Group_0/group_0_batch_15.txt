@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Patricia Palmer",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Salesperson",
+    "Description": "Patricia is a friendly and outgoing retail salesperson who enjoys helping customers find the perfect items. She lives in a small apartment in Montana and enjoys spending her free time hiking and exploring the outdoors.",
+    "Top Priorities": {
+      "Affordable Healthcare": "Patricia is concerned about the rising costs of healthcare and wants to ensure she can afford necessary medical treatments.",
+      "Environmental Protection": "As an outdoor enthusiast, Patricia is passionate about preserving the environment and natural resources in Montana."
+    },
+    "Pain points": {
+      "Student Loan Debt": "Patricia is still paying off her student loans and is struggling to make ends meet with her current income.",
+      "Lack of Affordable Housing": "Patricia is finding it difficult to find affordable housing options in her area."
+    }
+  },
+  {
+    "Name": "Pamela Peters",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Pamela is a dedicated elementary school teacher who has been working in the education field for over 20 years. She lives with her husband and two children in Montana and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education Funding": "Pamela is concerned about the lack of funding for public schools and wants to ensure her students have access to quality education.",
+      "Childcare Support": "With two young children, Pamela is interested in policies that support affordable childcare options."
+    },
+    "Pain points": {
+      "Low Teacher Salaries": "Pamela is frustrated with the low salaries for teachers and feels undervalued in her profession.",
+      "Lack of Resources": "Pamela struggles with a lack of resources in her classroom, making it difficult to provide the best education for her students."
+    }
+  },
+  {
+    "Name": "Paula Patterson",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Paula is a compassionate registered nurse who has been working in the healthcare field for over 30 years. She lives alone in Montana and enjoys volunteering at her local community center.",
+    "Top Priorities": {
+      "Healthcare Reform": "Paula is concerned about the current state of healthcare and wants to see improvements in the system.",
+      "Retirement Security": "As Paula approaches retirement age, she is focused on ensuring she has enough savings to live comfortably."
+    },
+    "Pain points": {
+      "Rising Healthcare Costs": "Paula is worried about the increasing costs of healthcare and how it will affect her ability to receive necessary treatments.",
+      "Lack of Social Support": "Paula struggles with feelings of loneliness and isolation since her divorce and is looking for ways to connect with others in her community."
+    }
+  },
+  {
+    "Name": "Phoebe Powell",
+    "Age": 26,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Phoebe is a hardworking waitress who is currently saving up to attend college. She lives with her parents in Montana and enjoys spending time with her friends and attending local events.",
+    "Top Priorities": {
+      "Affordable Education": "Phoebe is focused on finding affordable options for higher education so she can pursue her career goals.",
+      "Job Opportunities": "Phoebe is interested in policies that promote job growth and provide opportunities for young adults in her community."
+    },
+    "Pain points": {
+      "Low Wages": "Phoebe struggles to make ends meet with her current income and is concerned about her financial future.",
+      "Lack of Opportunities": "Phoebe feels limited in her career options due to her current education level and lack of job opportunities in her area."
+    }
+  },
+  {
+    "Name": "Penny Price",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 31000,
+    "Marital Status": "Married",
+    "Education Level": "Some college, no degree",
+    "Occupation": "Office Clerk",
+    "Description": "Penny is an organized office clerk who enjoys helping her coworkers and keeping the office running smoothly. She lives with her husband and their dog in Montana and enjoys gardening and cooking in her free time.",
+    "Top Priorities": {
+      "Economic Stability": "Penny is focused on maintaining a stable financial situation for her family and is interested in policies that promote economic growth.",
+      "Animal Welfare": "As a dog owner, Penny is passionate about animal welfare and supports policies that protect animals from abuse and neglect."
+    },
+    "Pain points": {
+      "Job Insecurity": "Penny is concerned about the stability of her job and worries about finding a new job if she were to lose her current position.",
+      "Lack of Community Involvement": "Penny feels disconnected from her community and is looking for ways to become more involved in local events and organizations."
+    }
+  }
+]

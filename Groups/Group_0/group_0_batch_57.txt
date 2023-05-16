@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Lila Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Lila is a hardworking single woman living in Montana. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection"],
+    "Pain points": ["Low wages", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Linda Johnson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Linda is a married woman with two children. She is concerned about the quality of education in her community and the future of her children.",
+    "Top Priorities": ["Education", "Economic growth"],
+    "Pain points": ["Rising cost of living", "Limited job opportunities"]
+  },
+  {
+    "Name": "Lillian Davis",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Lillian is a young professional who values creativity and innovation. She is concerned about the lack of opportunities for young people in her area.",
+    "Top Priorities": ["Job creation", "Support for local businesses"],
+    "Pain points": ["Limited career growth", "Lack of cultural activities"]
+  },
+  {
+    "Name": "Lindsay Miller",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Home Health Aide",
+    "Description": "Lindsay is a compassionate caregiver who is dedicated to helping others. She is concerned about the lack of support for seniors and people with disabilities in her community.",
+    "Top Priorities": ["Healthcare", "Social services"],
+    "Pain points": ["Low income", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Lisa Wilson",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "Associate's degree",
+    "Occupation": "Preschool Teacher",
+    "Description": "Lisa is a dedicated educator who believes in the importance of early childhood education. She is concerned about the lack of resources for children and families in her community.",
+    "Top Priorities": ["Childcare", "Family support"],
+    "Pain points": ["Low wages", "Lack of affordable childcare"]
+  }
+]

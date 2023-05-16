@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Jenna Edwards",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Jenna is a friendly and outgoing person who enjoys her job in retail. She is passionate about environmental conservation and spends her free time volunteering at a local wildlife rehabilitation center.",
+    "Top Priorities": ["Environmental conservation", "Affordable healthcare", "Job security"],
+    "Pain points": ["Limited job opportunities in her area", "Concerns about the future of the environment", "High healthcare costs"]
+  },
+  {
+    "Name": "Jessie Thompson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Jessie is a dedicated teacher who loves working with children. She is concerned about the quality of education in her state and wants to see improvements in the public school system.",
+    "Top Priorities": ["Education reform", "Childcare affordability", "Teacher salaries"],
+    "Pain points": ["Low teacher pay", "Lack of resources in schools", "Difficulty finding affordable childcare"]
+  },
+  {
+    "Name": "Jemma Wilson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Jemma is a compassionate and hardworking nurse who is dedicated to her patients. She is concerned about the state of healthcare in the country and wants to see improvements to the system.",
+    "Top Priorities": ["Healthcare reform", "Mental health awareness", "Work-life balance"],
+    "Pain points": ["Long hours at work", "High stress levels", "Concerns about healthcare accessibility"]
+  },
+  {
+    "Name": "Jenny Martin",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Jenny is a hardworking waitress who is saving money to attend college. She is passionate about social justice issues and wants to see more opportunities for young people in her community.",
+    "Top Priorities": ["Affordable education", "Minimum wage increase", "Community development"],
+    "Pain points": ["Struggling to save for college", "Low wages", "Limited opportunities in her area"]
+  },
+  {
+    "Name": "Jeri Davis",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Administrative Assistant",
+    "Description": "Jeri is a dedicated administrative assistant who enjoys her job. She is concerned about the future of Social Security and wants to see improvements in the system to ensure its longevity.",
+    "Top Priorities": ["Social Security reform", "Retirement planning", "Economic stability"],
+    "Pain points": ["Concerns about the future of Social Security", "Limited retirement savings", "Economic uncertainty"]
+  }
+]

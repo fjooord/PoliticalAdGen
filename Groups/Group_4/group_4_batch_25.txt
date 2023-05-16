@@ -1,97 +1,97 @@
 [
   {
-    "Name": "Harold Thompson",
+    "Name": "Zachary Zimmerman",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Divorced",
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Harold is a retired construction worker who enjoys fishing and spending time with his grandchildren. He is a lifelong resident of Montana.",
+    "Description": "Zachary is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
     "Top Priorities": {
-      "Healthcare": "As a senior, Harold is concerned about the quality and affordability of healthcare.",
-      "Social Security": "Harold relies on Social Security for his income and wants to ensure its stability."
+      "Healthcare": "Affordable and accessible healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
     },
-    "Pain Points": {
-      "Technology": "Harold struggles to keep up with the latest technology and feels left behind.",
-      "Isolation": "Living in a rural area, Harold sometimes feels isolated from the rest of the country."
+    "Pain points": {
+      "Rising healthcare costs": "Struggling to afford necessary medications and treatments",
+      "Limited access to services": "Living in a rural area with limited access to healthcare providers"
     }
   },
   {
-    "Name": "Frank Johnson",
-    "Age": 69,
+    "Name": "Zeke Zelinsky",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Frank is a retired farmer who enjoys woodworking and spending time outdoors. He is active in his local community.",
+    "Description": "Zeke is a retired mechanic who enjoys woodworking and volunteering at his local community center.",
     "Top Priorities": {
-      "Agriculture": "Frank is concerned about the future of farming and wants policies that support small farmers.",
-      "Veterans Affairs": "As a Vietnam War veteran, Frank is passionate about improving services for veterans."
+      "Economy": "Creating jobs and supporting small businesses",
+      "Veterans Affairs": "Improving services and support for veterans"
     },
-    "Pain Points": {
-      "Healthcare": "Frank has experienced difficulties navigating the healthcare system and finding affordable care.",
-      "Loneliness": "Since the passing of his wife, Frank has struggled with loneliness and depression."
+    "Pain points": {
+      "Limited income": "Living on a fixed income and struggling to make ends meet",
+      "Lack of support for veterans": "Feeling that veterans are not receiving the support they deserve"
     }
   },
   {
-    "Name": "Edward Wilson",
-    "Age": 72,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Some college",
-    "Occupation": "Retired",
-    "Description": "Edward is a retired teacher who enjoys reading and volunteering at his local library. He is an active member of his church.",
-    "Top Priorities": {
-      "Education": "Edward believes in the importance of a strong education system and wants to see increased funding for schools.",
-      "Religious Freedom": "As a devout Christian, Edward is concerned about protecting religious freedom."
-    },
-    "Pain Points": {
-      "Pension": "Edward worries about the stability of his pension and the impact of inflation on his retirement savings.",
-      "Healthcare": "Edward and his wife have faced challenges finding affordable healthcare and prescription medications."
-    }
-  },
-  {
-    "Name": "George Martin",
+    "Name": "Zane Zepeda",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Single",
+    "Income": 40000,
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "George is a retired mechanic who enjoys restoring classic cars and attending car shows. He is a member of a local car club.",
+    "Description": "Zane is a retired teacher who enjoys gardening and participating in local politics.",
     "Top Priorities": {
-      "Economy": "George is concerned about the economy and wants policies that promote job growth and financial stability.",
-      "Gun Rights": "As a gun owner, George is passionate about protecting Second Amendment rights."
+      "Education": "Improving the quality of education and supporting teachers",
+      "Environment": "Protecting natural resources and promoting sustainable practices"
     },
-    "Pain Points": {
-      "Housing": "George struggles to find affordable housing in his area and worries about being priced out of his community.",
-      "Healthcare": "George has faced challenges finding affordable healthcare and managing his chronic health conditions."
+    "Pain points": {
+      "Declining education standards": "Concerned about the future of education for his grandchildren",
+      "Environmental degradation": "Worried about the impact of climate change on his community"
     }
   },
   {
-    "Name": "William Davis",
+    "Name": "Zebulon Zito",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 20000,
-    "Marital Status": "Separated",
+    "Income": 30000,
+    "Marital Status": "Not specified",
     "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired postal worker who enjoys birdwatching and photography. He is a member of a local photography club.",
+    "Description": "Zebulon is a retired farmer who enjoys hiking and birdwatching.",
     "Top Priorities": {
-      "Environment": "William is passionate about environmental conservation and wants policies that protect natural habitats.",
-      "Social Security": "As someone who relies on Social Security, William is concerned about its stability and future."
+      "Agriculture": "Supporting family farms and promoting sustainable agriculture",
+      "Rural Development": "Investing in infrastructure and services for rural communities"
     },
-    "Pain Points": {
-      "Income": "William struggles to make ends meet on his limited income and worries about unexpected expenses.",
-      "Transportation": "Living in a rural area, William faces challenges accessing public transportation and getting around."
+    "Pain points": {
+      "Declining rural economy": "Concerned about the future of his community and the loss of family farms",
+      "Lack of rural services": "Struggling with limited access to healthcare and other essential services"
+    }
+  },
+  {
+    "Name": "Ziggy Zuniga",
+    "Age": 71,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 20000,
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Ziggy is a retired postal worker who enjoys painting and playing cards with friends.",
+    "Top Priorities": {
+      "Social Security": "Protecting and strengthening Social Security benefits",
+      "Healthcare": "Affordable and accessible healthcare for seniors"
+    },
+    "Pain points": {
+      "Rising healthcare costs": "Struggling to afford necessary medications and treatments",
+      "Limited income": "Living on a fixed income and struggling to make ends meet"
     }
   }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Elton Johnson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Elton is a hardworking individual who enjoys outdoor activities and values his independence.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Elijah Smith",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Elijah is a family man who values education and a strong work ethic.",
+    "Top Priorities": ["Quality education", "Job security", "Retirement planning"],
+    "Pain points": ["Concerns about job automation", "Rising education costs", "Uncertain economic future"]
+  },
+  {
+    "Name": "Elliot Brown",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail sales associate",
+    "Description": "Elliot is a young and ambitious individual looking to advance his career and improve his financial situation.",
+    "Top Priorities": ["Career advancement", "Financial stability", "Affordable education"],
+    "Pain points": ["Low wages", "Limited job opportunities", "High student loan debt"]
+  },
+  {
+    "Name": "Elvis Thompson",
+    "Age": 52,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Elvis is a dedicated professional who values stability and a strong sense of community.",
+    "Top Priorities": ["Community development", "Job security", "Access to healthcare"],
+    "Pain points": ["Concerns about job outsourcing", "Rising healthcare costs", "Lack of community resources"]
+  },
+  {
+    "Name": "Elmer Davis",
+    "Age": 38,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Warehouse worker",
+    "Description": "Elmer is a hardworking individual who values family and a strong work-life balance.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Quality education"],
+    "Pain points": ["Long work hours", "Limited job opportunities", "Rising cost of living"]
+  }
+]

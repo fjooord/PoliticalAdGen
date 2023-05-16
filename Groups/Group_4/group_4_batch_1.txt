@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Harold Thompson",
+    "Name": "Benjamin Baxter",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Harold is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Ensuring affordable healthcare for seniors",
-      "Social Security": "Protecting Social Security benefits"
-    },
-    "Pain Points": {
-      "Rising Cost of Living": "Struggling to make ends meet on a fixed income",
-      "Limited Access to Services": "Living in a rural area with limited access to healthcare and other services"
-    }
+    "Description": "Benjamin is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Access to VA services"]
   },
   {
-    "Name": "Franklin Davis",
-    "Age": 69,
+    "Name": "Bruce Baldwin",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
+    "Income": 35000,
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Franklin is a retired farmer who enjoys woodworking and volunteering at his local church.",
-    "Top Priorities": {
-      "Agriculture": "Supporting policies that benefit small farmers",
-      "Community": "Strengthening local communities and organizations"
-    },
-    "Pain Points": {
-      "Isolation": "Feeling isolated after the loss of his spouse",
-      "Rural Infrastructure": "Concerned about the lack of investment in rural infrastructure"
-    }
+    "Description": "Bruce is a retired mechanic who enjoys working on classic cars and attending car shows.",
+    "Top Priorities": ["Economy", "Infrastructure", "Gun Rights"],
+    "Pain points": ["Limited job opportunities for younger generations", "Poor road conditions", "Concerns about gun control legislation"]
   },
   {
-    "Name": "George Wilson",
+    "Name": "Bryan Bowman",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "George is a retired mechanic who enjoys hunting and spending time with his wife.",
-    "Top Priorities": {
-      "Gun Rights": "Protecting Second Amendment rights",
-      "Veterans": "Ensuring proper care and support for veterans"
-    },
-    "Pain Points": {
-      "Healthcare": "Worried about the rising cost of healthcare",
-      "Pensions": "Concerned about the stability of his pension"
-    }
+    "Description": "Bryan is a retired teacher who enjoys reading, gardening, and volunteering at the local library.",
+    "Top Priorities": ["Education", "Environment", "Healthcare"],
+    "Pain points": ["Decreased funding for public schools", "Climate change", "Rising healthcare costs"]
   },
   {
-    "Name": "Edward Johnson",
+    "Name": "Barry Benson",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 35000,
-    "Marital Status": "Separated",
-    "Education Level": "High School Graduate",
+    "Income": 30000,
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Edward is a retired postal worker who enjoys hiking and birdwatching.",
-    "Top Priorities": {
-      "Environment": "Protecting public lands and wildlife",
-      "Postal Service": "Supporting a strong and efficient postal service"
-    },
-    "Pain Points": {
-      "Loneliness": "Feeling lonely after separating from his spouse",
-      "Access to Nature": "Concerned about the loss of natural spaces due to development"
-    }
+    "Description": "Barry is a retired postal worker who enjoys hiking, birdwatching, and photography.",
+    "Top Priorities": ["Social Security", "Veterans Affairs", "Public Lands"],
+    "Pain points": ["Concerns about Social Security benefits", "Access to VA services", "Protection of public lands"]
   },
   {
-    "Name": "Walter Smith",
-    "Age": 70,
+    "Name": "Bernard Banks",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 25000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Marital Status": "Not specified",
+    "Education Level": "High school graduate",
     "Occupation": "Retired",
-    "Description": "Walter is a retired teacher who enjoys reading and playing chess.",
-    "Top Priorities": {
-      "Education": "Improving the quality of education for future generations",
-      "Senior Services": "Expanding services and programs for seniors"
-    },
-    "Pain Points": {
-      "Affordable Housing": "Struggling to find affordable housing on a limited income",
-      "Transportation": "Limited access to public transportation in his rural community"
-    }
+    "Description": "Bernard is a retired factory worker who enjoys woodworking, watching sports, and spending time with his family.",
+    "Top Priorities": ["Economy", "Healthcare", "Immigration"],
+    "Pain points": ["Limited job opportunities for younger generations", "Rising healthcare costs", "Concerns about border security"]
   }
 ]

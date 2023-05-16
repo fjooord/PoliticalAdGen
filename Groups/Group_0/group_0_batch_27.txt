@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Alana Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Alana is a friendly and outgoing retail sales associate who enjoys the outdoors and spending time with her friends. She is politically aware and interested in local issues.",
+    "Top Priorities": ["Affordable housing", "Environmental protection", "Job security"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare", "Limited job opportunities"]
+  },
+  {
+    "Name": "Alice Thompson",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Alice is a hardworking single mother of two who is dedicated to providing for her family. She is concerned about the future of her children and the state of the education system.",
+    "Top Priorities": ["Education reform", "Childcare support", "Economic stability"],
+    "Pain points": ["High cost of living", "Limited access to quality education", "Balancing work and family life"]
+  },
+  {
+    "Name": "Alison Martin",
+    "Age": 29,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Alison is a creative and ambitious graphic designer who is passionate about her work. She is interested in policies that support small businesses and the arts.",
+    "Top Priorities": ["Small business support", "Arts funding", "Infrastructure improvements"],
+    "Pain points": ["Lack of affordable housing", "Limited public transportation", "High taxes"]
+  },
+  {
+    "Name": "Alexandra Smith",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Home Health Aide",
+    "Description": "Alexandra is a compassionate and dedicated home health aide who cares for elderly clients. She is concerned about the state of healthcare and social services in her community.",
+    "Top Priorities": ["Healthcare reform", "Social security", "Elderly care"],
+    "Pain points": ["Low wages", "Lack of affordable healthcare", "Limited social services"]
+  },
+  {
+    "Name": "Alyssa Davis",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Alyssa is a sociable and energetic barista who is passionate about environmental issues and social justice. She is interested in policies that promote equality and sustainability.",
+    "Top Priorities": ["Climate change", "Racial equality", "LGBTQ+ rights"],
+    "Pain points": ["Student loan debt", "Lack of affordable housing", "Job insecurity"]
+  }
+]

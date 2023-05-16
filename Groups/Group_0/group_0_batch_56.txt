@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Lauren Adams",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Lauren is a hardworking single mother who lives in a small town in Montana. She enjoys spending time with her daughter and exploring the outdoors.",
+    "Top Priorities": ["Affordable healthcare", "Education reform", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Lana Baker",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Lana is married with two teenage children and lives in a rural area of Montana. She is active in her community and enjoys gardening.",
+    "Top Priorities": ["Environmental conservation", "Gun control", "Infrastructure improvements"],
+    "Pain points": ["Lack of public transportation", "Limited access to healthcare", "Concerns about public safety"]
+  },
+  {
+    "Name": "Laura Campbell",
+    "Age": 26,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Social Worker",
+    "Description": "Laura is a recent college graduate who is passionate about helping others. She lives in a small city in Montana and enjoys hiking and photography.",
+    "Top Priorities": ["Mental health awareness", "Affordable housing", "Student loan forgiveness"],
+    "Pain points": ["Low starting salary", "High student loan debt", "Limited career advancement opportunities"]
+  },
+  {
+    "Name": "Lacey Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Nurse",
+    "Description": "Lacey is a dedicated nurse who lives in a small town in Montana. She is divorced with three grown children and enjoys spending time with her grandchildren.",
+    "Top Priorities": ["Healthcare reform", "Social Security", "Veterans' benefits"],
+    "Pain points": ["Rising healthcare costs", "Limited access to specialized medical care", "Concerns about retirement"]
+  },
+  {
+    "Name": "Larissa Evans",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Trade school",
+    "Occupation": "Hairdresser",
+    "Description": "Larissa is a self-employed hairdresser who lives in a rural area of Montana. She is married with one child and enjoys crafting and home improvement projects.",
+    "Top Priorities": ["Small business support", "Tax reform", "Rural development"],
+    "Pain points": ["Lack of affordable business loans", "High self-employment taxes", "Limited access to high-speed internet"]
+  }
+]

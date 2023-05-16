@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Sarah Thompson",
-    "Age": 28,
+    "Name": "Amelia Anderson",
+    "Age": 68,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Single",
+    "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
-    "Occupation": "Retail Salesperson",
-    "Description": "Sarah is a friendly and outgoing person who enjoys spending time outdoors and exploring the beautiful landscapes of Montana.",
-    "Top Priorities": {
-      "Employment": "Stable job with a decent income",
-      "Education": "Continuing education opportunities"
-    },
-    "Pain Points": {
-      "Job Security": "Concerned about the stability of her job",
-      "Affordable Housing": "Struggling to find affordable housing in her area"
-    }
+    "Occupation": "Retired Nurse",
+    "Description": "Amelia is a retired nurse who enjoys spending time with her grandchildren and volunteering at her local community center.",
+    "Top Priorities": ["Healthcare", "Social Security", "Community Involvement"],
+    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited public transportation options"]
   },
   {
-    "Name": "Emily Johnson",
-    "Age": 42,
+    "Name": "Amanda Baker",
+    "Age": 70,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 45000,
-    "Marital Status": "Married",
+    "Marital Status": "Widowed",
     "Education Level": "Some College",
-    "Occupation": "Administrative Assistant",
-    "Description": "Emily is a dedicated mother of two who is actively involved in her local community and enjoys volunteering at her children's school.",
-    "Top Priorities": {
-      "Family": "Ensuring a safe and supportive environment for her children",
-      "Community": "Improving local resources and opportunities"
-    },
-    "Pain Points": {
-      "Work-Life Balance": "Struggling to balance work and family responsibilities",
-      "Healthcare": "Concerned about the rising cost of healthcare"
-    }
+    "Occupation": "Retired Administrative Assistant",
+    "Description": "Amanda is a widowed retiree who enjoys gardening, reading, and spending time with her friends at the local senior center.",
+    "Top Priorities": ["Medicare", "Environmental Issues", "Senior Services"],
+    "Pain points": ["Navigating Medicare coverage", "Climate change", "Limited senior services and activities"]
   },
   {
-    "Name": "Hannah Brown",
-    "Age": 22,
+    "Name": "Amber Carter",
+    "Age": 66,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 25000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
-    "Occupation": "Waitress",
-    "Description": "Hannah is a recent high school graduate who is working to save money for college. She is passionate about environmental issues and enjoys hiking in her free time.",
-    "Top Priorities": {
-      "Education": "Saving for college and finding scholarships",
-      "Environment": "Protecting Montana's natural resources"
-    },
-    "Pain Points": {
-      "Student Loans": "Worried about accumulating student loan debt",
-      "Job Opportunities": "Limited job opportunities in her field of interest"
-    }
+    "Occupation": "Retired Retail Worker",
+    "Description": "Amber is a single retiree who enjoys crafting, attending local events, and spending time with her pets.",
+    "Top Priorities": ["Affordable Housing", "Animal Welfare", "Community Events"],
+    "Pain points": ["Rising housing costs", "Animal shelters and rescue organizations", "Limited community events and resources"]
   },
   {
-    "Name": "Olivia Smith",
-    "Age": 35,
+    "Name": "Amy Davis",
+    "Age": 67,
     "Gender": "Female",
     "Ethnicity": "White",
     "Income": 40000,
-    "Marital Status": "Divorced",
-    "Education Level": "Bachelor's Degree",
-    "Occupation": "Elementary School Teacher",
-    "Description": "Olivia is a dedicated teacher who is passionate about helping her students succeed. She enjoys reading and spending time with her dog.",
-    "Top Priorities": {
-      "Education": "Improving the quality of education in her community",
-      "Mental Health": "Supporting mental health resources for students and teachers"
-    },
-    "Pain Points": {
-      "Teacher Pay": "Concerned about low teacher salaries",
-      "Classroom Resources": "Limited resources for her students"
-    }
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired Teacher",
+    "Description": "Amy is a retired teacher who enjoys traveling with her husband, volunteering at her local library, and participating in her church community.",
+    "Top Priorities": ["Education", "Travel Opportunities", "Religious Freedom"],
+    "Pain points": ["Education funding and resources", "Travel safety and accessibility", "Religious freedom and tolerance"]
   },
   {
-    "Name": "Grace Miller",
-    "Age": 55,
+    "Name": "Amelie Evans",
+    "Age": 72,
     "Gender": "Female",
     "Ethnicity": "White",
-    "Income": 50000,
-    "Marital Status": "Widowed",
-    "Education Level": "Associate's Degree",
-    "Occupation": "Registered Nurse",
-    "Description": "Grace is a compassionate and experienced nurse who is dedicated to providing quality care to her patients. She enjoys gardening and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Ensuring access to quality healthcare for all",
-      "Retirement": "Planning for a secure retirement"
-    },
-    "Pain Points": {
-      "Healthcare Costs": "Concerned about the rising cost of healthcare",
-      "Social Security": "Worried about the future of Social Security"
-    }
+    "Income": 30000,
+    "Marital Status": "Separated",
+    "Education Level": "Associate Degree",
+    "Occupation": "Retired Bank Teller",
+    "Description": "Amelie is a separated retiree who enjoys painting, attending art classes, and spending time with her adult children.",
+    "Top Priorities": ["Arts and Culture", "Financial Security", "Family Support"],
+    "Pain points": ["Limited arts and cultural opportunities", "Financial planning and stability", "Supporting adult children and grandchildren"]
   }
 ]

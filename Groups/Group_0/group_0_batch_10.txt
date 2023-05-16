@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Kara Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Salesperson",
+    "Description": "Kara is a friendly and outgoing retail salesperson living in Montana. She enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited job opportunities", "Rising cost of living", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Kendra Williams",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Kendra is a hardworking single mother of two who is focused on providing for her family. She is concerned about the quality of education and opportunities available for her children.",
+    "Top Priorities": ["Quality education", "Childcare support", "Economic stability"],
+    "Pain points": ["Balancing work and family life", "Limited access to quality education", "Rising childcare costs"]
+  },
+  {
+    "Name": "Kelsey Thompson",
+    "Age": 25,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Social Worker",
+    "Description": "Kelsey is a compassionate and dedicated social worker who is passionate about helping others. She is concerned about the lack of mental health resources and support in her community.",
+    "Top Priorities": ["Mental health support", "Community development", "Affordable housing"],
+    "Pain points": ["Limited mental health resources", "High student loan debt", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Kristen Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Nurse",
+    "Description": "Kristen is a dedicated nurse who has been working in the healthcare industry for over 30 years. She is concerned about the future of healthcare and the impact it will have on her patients.",
+    "Top Priorities": ["Healthcare reform", "Retirement security", "Job stability"],
+    "Pain points": ["Increasing healthcare costs", "Uncertainty about retirement", "Job burnout"]
+  },
+  {
+    "Name": "Katherine Smith",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 32000,
+    "Marital Status": "Married",
+    "Education Level": "Associate's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Katherine is a creative and talented graphic designer who enjoys working from home. She is concerned about the lack of high-speed internet access in her rural community.",
+    "Top Priorities": ["Internet access", "Small business support", "Work-life balance"],
+    "Pain points": ["Limited internet connectivity", "Lack of local job opportunities", "Isolation from urban centers"]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Hank Anderson",
+    "Age": 42,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Hank is a hardworking construction worker who lives in a small town in Montana. He enjoys spending time outdoors and values his close-knit community.",
+    "Top Priorities": {
+      "Economy": "Hank is concerned about the local economy and job opportunities in his area.",
+      "Healthcare": "Access to affordable healthcare is important to Hank."
+    },
+    "Pain points": {
+      "Job Security": "Hank worries about the stability of his job and the future of the construction industry.",
+      "Rural Healthcare": "Hank is concerned about the limited healthcare options available in his rural community."
+    }
+  },
+  {
+    "Name": "Harold Baker",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "High school teacher",
+    "Description": "Harold is a dedicated high school teacher in a rural Montana town. He is passionate about education and making a difference in the lives of his students.",
+    "Top Priorities": {
+      "Education": "Harold wants to see increased funding and support for public schools.",
+      "Environment": "As an outdoor enthusiast, Harold is concerned about protecting Montana's natural resources."
+    },
+    "Pain points": {
+      "Teacher Pay": "Harold feels that teachers are underpaid and undervalued in society.",
+      "Climate Change": "Harold worries about the long-term effects of climate change on Montana's environment."
+    }
+  },
+  {
+    "Name": "Harvey Collins",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Truck driver",
+    "Description": "Harvey is a long-haul truck driver who has lived in Montana his entire life. He values his independence and the open road.",
+    "Top Priorities": {
+      "Infrastructure": "Harvey wants to see improvements in Montana's roads and highways.",
+      "Economy": "Harvey is concerned about the overall health of the economy and job opportunities for his adult children."
+    },
+    "Pain points": {
+      "Retirement": "Harvey is unsure if he will have enough saved for a comfortable retirement.",
+      "Loneliness": "Harvey struggles with feelings of loneliness and isolation due to his job."
+    }
+  },
+  {
+    "Name": "Harrison Davis",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "Retail manager",
+    "Description": "Harrison is a retail manager at a local store in Montana. He enjoys interacting with customers and helping his employees succeed.",
+    "Top Priorities": {
+      "Economy": "Harrison is concerned about the future of brick-and-mortar retail and the impact on his job.",
+      "Housing": "Harrison is interested in affordable housing options in his community."
+    },
+    "Pain points": {
+      "Job Security": "Harrison worries about the stability of his job in the retail industry.",
+      "Student Loans": "Harrison is still paying off student loans and feels burdened by the debt."
+    }
+  },
+  {
+    "Name": "Hayden Evans",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Farmhand",
+    "Description": "Hayden is a young farmhand working on a family-owned ranch in Montana. He enjoys the physical labor and connection to the land.",
+    "Top Priorities": {
+      "Agriculture": "Hayden is concerned about the future of family farms and ranches in Montana.",
+      "Environment": "Hayden wants to see responsible land management practices to protect Montana's natural resources."
+    },
+    "Pain points": {
+      "Job Opportunities": "Hayden worries about the limited job opportunities in his rural community.",
+      "Access to Technology": "Hayden struggles with limited access to high-speed internet and other modern technologies."
+    }
+  }
+]

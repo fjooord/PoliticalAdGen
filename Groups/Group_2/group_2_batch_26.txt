@@ -1,97 +1,67 @@
 [
   {
-    "Name": "Dorothy Thompson",
-    "Age": 67,
-    "Gender": "Female",
+    "Name": "Alfred Adams",
+    "Age": 32,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 45000,
-    "Marital Status": "Divorced",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Nurse",
-    "Description": "Dorothy is a retired nurse who lives in a small town in Montana. She enjoys gardening, reading, and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "As a retired nurse, Dorothy is concerned about the quality and affordability of healthcare for seniors.",
-      "Social Security": "Dorothy relies on her social security benefits and wants to ensure they remain stable and secure."
-    },
-    "Pain points": {
-      "Isolation": "Living in a small town, Dorothy sometimes feels isolated and disconnected from the larger community.",
-      "Limited Services": "Dorothy struggles with the limited availability of services and resources in her rural area."
-    }
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Alfred is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job security", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Lack of affordable healthcare options", "Limited job opportunities in his area"]
   },
   {
-    "Name": "Evelyn Martin",
-    "Age": 70,
-    "Gender": "Female",
+    "Name": "Albert Brown",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Albert is a family man who values stability and a strong community. He is active in local organizations.",
+    "Top Priorities": ["Education for his children", "Community safety", "Economic growth"],
+    "Pain points": ["Concerns about crime rates", "Worries about the quality of local schools"]
+  },
+  {
+    "Name": "Alexander Clark",
+    "Age": 27,
+    "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
-    "Marital Status": "Widowed",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Secretary",
-    "Description": "Evelyn is a widowed retired secretary who lives in a small city in Montana. She enjoys volunteering at her local church and spending time with her friends.",
-    "Top Priorities": {
-      "Economic Stability": "Evelyn is concerned about the economy and wants to ensure her fixed income remains stable.",
-      "Community": "Evelyn values her community and wants to see it thrive and grow."
-    },
-    "Pain points": {
-      "Transportation": "Evelyn struggles with limited public transportation options in her area.",
-      "Healthcare": "Evelyn is concerned about the rising costs of healthcare and prescription medications."
-    }
+    "Marital Status": "In a relationship",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic designer",
+    "Description": "Alexander is a creative individual who enjoys exploring new ideas and is passionate about the environment.",
+    "Top Priorities": ["Environmental conservation", "Access to arts and culture", "Affordable education"],
+    "Pain points": ["Lack of public transportation options", "Student loan debt"]
   },
   {
-    "Name": "Marilyn Johnson",
-    "Age": 68,
-    "Gender": "Female",
+    "Name": "Alan Davis",
+    "Age": 55,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "Some College",
-    "Occupation": "Retired Teacher",
-    "Description": "Marilyn is a retired teacher who lives with her husband in a rural area of Montana. She enjoys painting, hiking, and spending time with her family.",
-    "Top Priorities": {
-      "Education": "As a former teacher, Marilyn is passionate about improving the quality of education in her community.",
-      "Environment": "Marilyn is concerned about the environment and wants to see policies that protect Montana's natural resources."
-    },
-    "Pain points": {
-      "Limited Activities": "Marilyn wishes there were more cultural and recreational activities available in her area.",
-      "Connectivity": "Marilyn struggles with limited internet access and connectivity in her rural location."
-    }
+    "Income": 50000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Alan is a skilled tradesman who values hard work and self-reliance. He is interested in local politics.",
+    "Top Priorities": ["Infrastructure improvements", "Lower taxes", "Support for small businesses"],
+    "Pain points": ["High property taxes", "Regulations affecting his trade"]
   },
   {
-    "Name": "Shirley Adams",
-    "Age": 66,
-    "Gender": "Female",
+    "Name": "Alvin Evans",
+    "Age": 22,
+    "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
+    "Income": 24000,
     "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Factory Worker",
-    "Description": "Shirley is a retired factory worker who lives alone in a small town in Montana. She enjoys knitting, watching movies, and spending time with her neighbors.",
-    "Top Priorities": {
-      "Affordable Housing": "Shirley is concerned about the rising cost of housing and wants to ensure there are affordable options for seniors.",
-      "Social Services": "Shirley relies on social services and wants to see them adequately funded and accessible."
-    },
-    "Pain points": {
-      "Limited Income": "Shirley struggles to make ends meet on her fixed income.",
-      "Isolation": "Shirley sometimes feels isolated and lonely, especially during the winter months."
-    }
-  },
-  {
-    "Name": "Barbara Wilson",
-    "Age": 71,
-    "Gender": "Female",
-    "Ethnicity": "White",
-    "Income": 25000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired Retail Worker",
-    "Description": "Barbara is a retired retail worker who lives with her husband in a small city in Montana. She enjoys cooking, playing cards, and spending time with her grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "Barbara is concerned about the affordability and accessibility of healthcare for seniors.",
-      "Economic Stability": "Barbara wants to ensure her fixed income remains stable and secure."
-    },
-    "Pain points": {
-      "Limited Services": "Barbara struggles with the limited availability of services and resources in her area.",
-      "Transportation": "Barbara wishes there were more public transportation options in her community."
-    }
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Alvin is a young adult who is still exploring his career options and is passionate about social issues.",
+    "Top Priorities": ["LGBTQ+ rights", "Racial equality", "Affordable housing"],
+    "Pain points": ["Low wages", "Lack of affordable housing options"]
   }
 ]

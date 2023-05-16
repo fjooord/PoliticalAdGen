@@ -1,97 +1,67 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 68,
+    "Name": "Harold Thompson",
+    "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": {
-      "Healthcare": "John is concerned about the rising costs of healthcare and prescription medications.",
-      "Social Security": "He relies on Social Security for his income and wants to ensure its stability."
-    },
-    "Pain points": {
-      "Technology": "John struggles with technology and feels left behind in today's digital world.",
-      "Isolation": "Living in a rural area, he sometimes feels isolated from his community."
-    }
+    "Description": "Harold is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": ["Social Security", "Healthcare", "Veterans Affairs"],
+    "Pain Points": ["Rising healthcare costs", "Limited access to public transportation", "Concerns about Social Security benefits"]
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 70,
+    "Name": "Henry Adams",
+    "Age": 71,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired mechanic who enjoys woodworking and watching sports.",
-    "Top Priorities": {
-      "Veterans Affairs": "As a Vietnam War veteran, Robert is concerned about the treatment and support of veterans.",
-      "Gun Control": "He is a strong supporter of the Second Amendment and opposes any new gun control measures."
-    },
-    "Pain points": {
-      "Transportation": "Robert has limited mobility and struggles to access public transportation.",
-      "Loss of Spouse": "He is still grieving the loss of his wife and adjusting to life without her."
-    }
+    "Description": "Henry is a retired farmer who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": ["Agriculture", "Environment", "Religious Freedom"],
+    "Pain Points": ["Declining rural communities", "Environmental regulations", "Concerns about religious freedom"]
   },
   {
-    "Name": "James Brown",
-    "Age": 66,
+    "Name": "Howard Johnson",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 42000,
     "Marital Status": "Married",
     "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "James is a retired teacher who enjoys gardening and volunteering at his local church.",
-    "Top Priorities": {
-      "Education": "James is passionate about improving the quality of education in his community.",
-      "Environment": "He is concerned about the impact of climate change on future generations."
-    },
-    "Pain points": {
-      "Pension": "James worries about the stability of his pension and the rising cost of living.",
-      "Aging": "He is concerned about the challenges of aging, such as maintaining his health and independence."
-    }
+    "Description": "Howard is a retired mechanic who enjoys classic cars and spending time with his wife.",
+    "Top Priorities": ["Economy", "Healthcare", "Gun Rights"],
+    "Pain Points": ["Rising cost of living", "Limited access to healthcare", "Concerns about gun control"]
   },
   {
-    "Name": "William Davis",
-    "Age": 72,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 23000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "William is a retired farmer who enjoys reading and spending time outdoors.",
-    "Top Priorities": {
-      "Agriculture": "William is concerned about the future of small family farms and the impact of corporate farming.",
-      "Rural Development": "He wants to see more investment in rural communities and infrastructure."
-    },
-    "Pain points": {
-      "Financial Security": "William struggles to make ends meet on his limited income.",
-      "Access to Services": "He has difficulty accessing healthcare and other services in his rural community."
-    }
-  },
-  {
-    "Name": "Charles Wilson",
-    "Age": 67,
+    "Name": "Hank Williams",
+    "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 48000,
     "Marital Status": "Married",
-    "Education Level": "Associate Degree",
+    "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired electrician who enjoys traveling and spending time with his family.",
-    "Top Priorities": {
-      "Economy": "Charles is concerned about the national debt and the impact on future generations.",
-      "Immigration": "He believes in strong border security and a merit-based immigration system."
-    },
-    "Pain points": {
-      "Healthcare": "Charles is frustrated with the complexity of the healthcare system and the high cost of insurance.",
-      "Retirement": "He is concerned about the rising cost of living and maintaining his quality of life in retirement."
-    }
+    "Description": "Hank is a retired truck driver who enjoys hunting and spending time outdoors.",
+    "Top Priorities": ["Transportation", "Gun Rights", "Veterans Affairs"],
+    "Pain Points": ["Declining infrastructure", "Concerns about gun control", "Limited support for veterans"]
+  },
+  {
+    "Name": "Herbert Miller",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Herbert is a retired factory worker who enjoys photography and spending time with his friends.",
+    "Top Priorities": ["Economy", "Social Security", "Healthcare"],
+    "Pain Points": ["Rising cost of living", "Concerns about Social Security benefits", "Limited access to healthcare"]
   }
 ]

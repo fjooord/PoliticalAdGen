@@ -1,67 +1,97 @@
 [
   {
-    "Name": "John Smith",
-    "Age": 67,
+    "Name": "Larry Johnson",
+    "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 45000,
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
-    "Top Priorities": ["Healthcare", "Social Security", "Veterans Affairs"],
-    "Pain points": ["Rising healthcare costs", "Concerns about Social Security benefits", "Limited access to veterans services"]
+    "Description": "Larry is a retired construction worker who enjoys fishing and spending time with his grandchildren.",
+    "Top Priorities": {
+      "Healthcare": "Ensuring affordable healthcare for seniors",
+      "Social Security": "Protecting and strengthening Social Security benefits"
+    },
+    "Pain Points": {
+      "Rising Costs": "Struggling with the rising costs of living and healthcare",
+      "Limited Mobility": "Limited mobility due to age and health issues"
+    }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 69,
+    "Name": "Leonard Smith",
+    "Age": 72,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a widowed retiree who enjoys gardening and volunteering at his local church.",
-    "Top Priorities": ["Medicare", "Gun Control", "Environment"],
-    "Pain points": ["Difficulty navigating Medicare", "Concerns about gun violence", "Worries about climate change"]
+    "Description": "Leonard is a retired mechanic who enjoys woodworking and volunteering at his local church.",
+    "Top Priorities": {
+      "Medicare": "Expanding Medicare coverage and benefits",
+      "Community": "Supporting local community programs and services"
+    },
+    "Pain Points": {
+      "Loneliness": "Coping with the loss of his spouse and feelings of loneliness",
+      "Fixed Income": "Managing expenses on a fixed income"
+    }
   },
   {
-    "Name": "James Brown",
-    "Age": 71,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 40000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys traveling with his wife and playing golf.",
-    "Top Priorities": ["Economy", "Taxes", "Immigration"],
-    "Pain points": ["Concerns about the national debt", "High property taxes", "Worries about border security"]
-  },
-  {
-    "Name": "William Davis",
+    "Name": "Lloyd Thompson",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 30000,
-    "Marital Status": "Separated",
+    "Income": 42000,
+    "Marital Status": "Married",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "William is a retired teacher who enjoys reading and spending time with his dog.",
-    "Top Priorities": ["Education", "Animal Welfare", "Infrastructure"],
-    "Pain points": ["Concerns about public education funding", "Animal shelters in need of support", "Deteriorating roads and bridges"]
+    "Description": "Lloyd is a retired farmer who enjoys gardening and spending time with his wife.",
+    "Top Priorities": {
+      "Agriculture": "Supporting policies that benefit small farmers",
+      "Environment": "Promoting sustainable farming practices and environmental conservation"
+    },
+    "Pain Points": {
+      "Rural Healthcare": "Access to quality healthcare in rural areas",
+      "Retirement Savings": "Ensuring financial security in retirement"
+    }
   },
   {
-    "Name": "Richard Wilson",
-    "Age": 68,
+    "Name": "Lester Davis",
+    "Age": 70,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 25000,
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Lester is a retired teacher who enjoys reading, traveling, and spending time with his family.",
+    "Top Priorities": {
+      "Education": "Improving the quality of public education",
+      "Veterans Affairs": "Supporting veterans and their families"
+    },
+    "Pain Points": {
+      "Pension Security": "Concerns about the security of his pension",
+      "Aging Infrastructure": "Concerns about the aging infrastructure in his community"
+    }
+  },
+  {
+    "Name": "Lance Wilson",
+    "Age": 67,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
     "Marital Status": "Single",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Richard is a retired factory worker who enjoys woodworking and watching sports.",
-    "Top Priorities": ["Jobs", "Social Security", "Healthcare"],
-    "Pain points": ["Lack of job opportunities for younger generations", "Concerns about Social Security benefits", "Rising healthcare costs"]
+    "Description": "Lance is a retired police officer who enjoys hiking, photography, and volunteering at his local animal shelter.",
+    "Top Priorities": {
+      "Public Safety": "Supporting policies that promote public safety and community policing",
+      "Animal Welfare": "Advocating for animal welfare and protection"
+    },
+    "Pain Points": {
+      "Health Concerns": "Managing chronic health conditions",
+      "Housing Costs": "Affording housing on a fixed income"
+    }
   }
 ]

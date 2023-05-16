@@ -1,6 +1,6 @@
 [
   {
-    "Name": "John Smith",
+    "Name": "Thomas Taylor",
     "Age": 67,
     "Gender": "Male",
     "Ethnicity": "White",
@@ -8,90 +8,90 @@
     "Marital Status": "Divorced",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "John is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
+    "Description": "Thomas is a retired construction worker who enjoys spending time with his grandchildren and fishing.",
     "Top Priorities": {
-      "Healthcare": "John is concerned about the rising cost of healthcare and prescription medications.",
-      "Social Security": "John relies on Social Security for his income and wants to ensure its stability."
+      "Healthcare": "Thomas is concerned about the rising costs of healthcare and prescription medications.",
+      "Social Security": "Thomas relies on Social Security for his income and wants to ensure its continued stability."
     },
     "Pain points": {
-      "Technology": "John struggles to keep up with the latest technology and feels left behind.",
-      "Isolation": "Living in a rural area, John sometimes feels isolated from his community."
+      "Taxes": "Thomas is worried about the impact of taxes on his fixed income.",
+      "Inflation": "Thomas is concerned about the rising cost of living and its effect on his retirement savings."
     }
   },
   {
-    "Name": "Robert Johnson",
-    "Age": 72,
+    "Name": "Timothy Turner",
+    "Age": 69,
     "Gender": "Male",
     "Ethnicity": "White",
     "Income": 35000,
     "Marital Status": "Widowed",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Robert is a retired farmer who enjoys woodworking and spending time outdoors.",
+    "Description": "Timothy is a retired mechanic who enjoys woodworking and spending time in his garden.",
     "Top Priorities": {
-      "Agriculture": "Robert is concerned about the future of small family farms and the impact of climate change on agriculture.",
-      "Veterans Affairs": "As a Vietnam War veteran, Robert is passionate about improving support for veterans."
+      "Veterans Affairs": "As a Vietnam War veteran, Timothy is passionate about improving healthcare and support for veterans.",
+      "Gun Control": "Timothy is a gun owner and wants to protect his Second Amendment rights."
     },
     "Pain points": {
-      "Transportation": "Robert has limited access to public transportation and relies on his old truck for mobility.",
-      "Access to Services": "Living in a rural area, Robert has limited access to healthcare and other essential services."
+      "Isolation": "Timothy struggles with feelings of isolation since the passing of his wife.",
+      "Healthcare": "Timothy is concerned about the quality and affordability of healthcare in his rural community."
     }
   },
   {
-    "Name": "James Brown",
-    "Age": 69,
-    "Gender": "Male",
-    "Ethnicity": "White",
-    "Income": 42000,
-    "Marital Status": "Married",
-    "Education Level": "High School Graduate",
-    "Occupation": "Retired",
-    "Description": "James is a retired mechanic who enjoys classic cars and watching sports.",
-    "Top Priorities": {
-      "Economy": "James is concerned about the national debt and the impact of inflation on his fixed income.",
-      "Second Amendment Rights": "As a gun owner, James is passionate about protecting his Second Amendment rights."
-    },
-    "Pain points": {
-      "Healthcare": "James has ongoing health issues and is worried about the affordability of his healthcare.",
-      "Retirement Security": "James is concerned about the long-term stability of his retirement savings."
-    }
-  },
-  {
-    "Name": "William Davis",
+    "Name": "Terry Thompson",
     "Age": 66,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 48000,
-    "Marital Status": "Single",
-    "Education Level": "High School Graduate",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "Some College",
     "Occupation": "Retired",
-    "Description": "William is a retired teacher who enjoys reading, gardening, and volunteering at his local library.",
+    "Description": "Terry is a retired teacher who enjoys hiking and birdwatching with his wife.",
     "Top Priorities": {
-      "Education": "William is passionate about improving the quality of education in his community.",
-      "Environment": "William is concerned about the impact of climate change on future generations."
+      "Education": "Terry is passionate about improving the quality of education in his community.",
+      "Environment": "Terry is concerned about the impact of climate change on his beloved Montana wilderness."
     },
     "Pain points": {
-      "Housing": "William is worried about the rising cost of housing and property taxes in his area.",
-      "Social Isolation": "As a single older adult, William sometimes feels lonely and disconnected from his community."
+      "Pensions": "Terry is worried about the stability of his pension and the potential for cuts.",
+      "Healthcare": "Terry is concerned about the rising costs of healthcare and long-term care for his aging parents."
     }
   },
   {
-    "Name": "Charles Wilson",
+    "Name": "Travis Tanner",
     "Age": 68,
     "Gender": "Male",
     "Ethnicity": "White",
-    "Income": 23000,
+    "Income": 30000,
     "Marital Status": "Separated",
     "Education Level": "High School Graduate",
     "Occupation": "Retired",
-    "Description": "Charles is a retired factory worker who enjoys playing cards and spending time with his dog.",
+    "Description": "Travis is a retired truck driver who enjoys playing cards with his friends at the local senior center.",
     "Top Priorities": {
-      "Social Services": "Charles relies on social services for support and wants to see increased funding for these programs.",
-      "Infrastructure": "Charles is concerned about the state of roads and bridges in his community."
+      "Infrastructure": "Travis wants to see improvements to roads and bridges in his community.",
+      "Social Security": "Travis relies on Social Security for his income and wants to ensure its continued stability."
     },
     "Pain points": {
-      "Financial Security": "Charles struggles to make ends meet on his limited income.",
-      "Access to Healthcare": "Charles has limited access to healthcare providers in his rural community."
+      "Transportation": "Travis is concerned about the lack of public transportation options in his rural community.",
+      "Housing": "Travis is worried about the rising cost of housing and property taxes."
+    }
+  },
+  {
+    "Name": "Trevor Townsend",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High School Graduate",
+    "Occupation": "Retired",
+    "Description": "Trevor is a retired farmer who enjoys reading and volunteering at his local food bank.",
+    "Top Priorities": {
+      "Agriculture": "Trevor is concerned about the challenges facing small family farms.",
+      "Social Services": "Trevor is passionate about supporting social services and programs for those in need."
+    },
+    "Pain points": {
+      "Healthcare": "Trevor is concerned about the rising costs of healthcare and prescription medications.",
+      "Isolation": "Trevor struggles with feelings of isolation and loneliness in his rural community."
     }
   }
 ]

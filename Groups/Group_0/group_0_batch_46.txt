@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Hannah Adams",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Hannah is a friendly and outgoing individual who enjoys her job at a local retail store. She is passionate about helping customers find the perfect items for their needs.",
+    "Top Priorities": ["Affordable healthcare", "Job security", "Environmental protection"],
+    "Pain points": ["Limited access to healthcare", "Low wages", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Harriet Baker",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Harriet is a detail-oriented and organized individual who works for a local business. She enjoys spending time with her two children and volunteering at their school.",
+    "Top Priorities": ["Education", "Childcare support", "Economic growth"],
+    "Pain points": ["Balancing work and family", "Limited childcare options", "Lack of job advancement opportunities"]
+  },
+  {
+    "Name": "Hazel Clark",
+    "Age": 26,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Hazel is a hardworking and dedicated waitress at a local restaurant. She is married and has a young child. She is passionate about providing a good life for her family.",
+    "Top Priorities": ["Affordable housing", "Childcare support", "Job security"],
+    "Pain points": ["Low wages", "Lack of affordable childcare", "Limited job opportunities"]
+  },
+  {
+    "Name": "Hayley Davis",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Hayley is a compassionate and caring nurse who works at a local hospital. She is widowed and has two adult children. She enjoys spending time with her family and friends.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Community safety"],
+    "Pain points": ["Rising healthcare costs", "Concerns about retirement", "Crime in the community"]
+  },
+  {
+    "Name": "Harmony Evans",
+    "Age": 40,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Harmony is a dedicated and passionate teacher who loves working with children. She is married and has a teenage daughter. She is active in her community and enjoys outdoor activities.",
+    "Top Priorities": ["Education", "Environmental protection", "Economic growth"],
+    "Pain points": ["Limited resources for education", "Lack of affordable housing", "Concerns about the environment"]
+  }
+]

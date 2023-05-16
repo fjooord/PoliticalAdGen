@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Barry Anderson",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Barry is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job stability", "Affordable housing", "Access to healthcare"],
+    "Pain points": ["Lack of job opportunities", "Rising cost of living", "Limited access to healthcare services"]
+  },
+  {
+    "Name": "Baxter Smith",
+    "Age": 56,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Retail salesperson",
+    "Description": "Baxter is a friendly and outgoing person who enjoys meeting new people and engaging in community events.",
+    "Top Priorities": ["Retirement savings", "Healthcare", "Community involvement"],
+    "Pain points": ["Inadequate retirement savings", "High healthcare costs", "Lack of community resources"]
+  },
+  {
+    "Name": "Barnaby Johnson",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Delivery driver",
+    "Description": "Barnaby is a dedicated and responsible individual who enjoys spending time with his family and exploring the outdoors.",
+    "Top Priorities": ["Family", "Job security", "Education for children"],
+    "Pain points": ["Low income", "Job insecurity", "Limited educational opportunities for children"]
+  },
+  {
+    "Name": "Basil Turner",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Associate degree",
+    "Occupation": "Electrician",
+    "Description": "Basil is a skilled tradesman who values hard work and enjoys spending time with his family and friends.",
+    "Top Priorities": ["Job stability", "Homeownership", "Retirement planning"],
+    "Pain points": ["Limited job growth", "High cost of homeownership", "Inadequate retirement savings"]
+  },
+  {
+    "Name": "Baldwin Cooper",
+    "Age": 39,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Single",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Office manager",
+    "Description": "Baldwin is an organized and detail-oriented individual who enjoys reading and participating in local sports leagues.",
+    "Top Priorities": ["Career advancement", "Financial stability", "Social life"],
+    "Pain points": ["Limited career opportunities", "Student loan debt", "Lack of social activities"]
+  }
+]

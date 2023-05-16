@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Cecilia Thompson",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Cecilia is a young woman working in retail sales in Montana. She is single and enjoys spending time outdoors.",
+    "Top Priorities": {
+      "Employment": "Finding a stable job with benefits",
+      "Education": "Considering further education to improve job prospects"
+    },
+    "Pain points": {
+      "Income": "Struggling to save money for future goals",
+      "Work-life balance": "Finding time for hobbies and personal life"
+    }
+  },
+  {
+    "Name": "Celeste Martin",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Celeste is a married woman with two children. She works as an administrative assistant and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Family": "Providing a stable home for her children",
+      "Education": "Encouraging her children to pursue higher education"
+    },
+    "Pain points": {
+      "Income": "Managing household expenses on a tight budget",
+      "Work-life balance": "Balancing work and family responsibilities"
+    }
+  },
+  {
+    "Name": "Celine Davis",
+    "Age": 34,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Licensed Practical Nurse",
+    "Description": "Celine is a divorced woman working as a licensed practical nurse. She is passionate about helping others and enjoys hiking in her free time.",
+    "Top Priorities": {
+      "Career": "Advancing her nursing career",
+      "Health": "Maintaining a healthy lifestyle"
+    },
+    "Pain points": {
+      "Income": "Paying off student loans and managing living expenses",
+      "Relationships": "Navigating the dating scene after divorce"
+    }
+  },
+  {
+    "Name": "Cecelia Johnson",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Cecelia is a widowed woman who has been an elementary school teacher for over 20 years. She enjoys gardening and spending time with her grandchildren.",
+    "Top Priorities": {
+      "Retirement": "Planning for a comfortable retirement",
+      "Community": "Staying involved in local events and organizations"
+    },
+    "Pain points": {
+      "Income": "Adjusting to life on a fixed income after retirement",
+      "Loneliness": "Coping with the loss of her spouse"
+    }
+  },
+  {
+    "Name": "Cerise Adams",
+    "Age": 23,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Cerise is a young woman working as a barista in a local coffee shop. She is passionate about art and hopes to pursue a career in graphic design.",
+    "Top Priorities": {
+      "Education": "Saving money to attend art school",
+      "Career": "Building a portfolio to showcase her skills"
+    },
+    "Pain points": {
+      "Income": "Living paycheck to paycheck",
+      "Networking": "Finding connections in the art and design industry"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Molly Martin",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail salesperson",
+    "Description": "Molly is a friendly and outgoing retail salesperson who enjoys helping customers find the perfect items. She lives in a small apartment in Montana and spends her free time hiking and exploring the outdoors.",
+    "Top Priorities": ["Affordable housing", "Environmental conservation", "Job security"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing options", "Concerns about climate change"]
+  },
+  {
+    "Name": "Megan Mitchell",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative assistant",
+    "Description": "Megan is a detail-oriented administrative assistant who works for a local business in Montana. She is a single mother of two teenagers and is actively involved in her community.",
+    "Top Priorities": ["Education", "Healthcare", "Childcare support"],
+    "Pain points": ["Balancing work and family life", "Rising healthcare costs", "Limited childcare options"]
+  },
+  {
+    "Name": "Melissa Moore",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Melissa is a hardworking waitress at a local diner in Montana. She is married and has a young child. She is passionate about providing a good life for her family and is considering going back to school to further her education.",
+    "Top Priorities": ["Family", "Education", "Financial stability"],
+    "Pain points": ["Low wages", "Lack of affordable education options", "Limited job opportunities"]
+  },
+  {
+    "Name": "Mariah Morris",
+    "Age": 53,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Nurse",
+    "Description": "Mariah is a compassionate nurse who works at a local hospital in Montana. She is widowed and has two grown children. In her free time, she enjoys volunteering at her church and spending time with her family.",
+    "Top Priorities": ["Healthcare", "Retirement security", "Community involvement"],
+    "Pain points": ["Concerns about healthcare access", "Worries about retirement savings", "Lack of community resources"]
+  },
+  {
+    "Name": "Michelle Murphy",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 29000,
+    "Marital Status": "Separated",
+    "Education Level": "High school graduate",
+    "Occupation": "Cashier",
+    "Description": "Michelle is a dedicated cashier at a local grocery store in Montana. She is separated from her husband and has one child. She enjoys reading and spending time with her friends.",
+    "Top Priorities": ["Financial stability", "Job security", "Mental health"],
+    "Pain points": ["Financial stress", "Limited job opportunities", "Lack of mental health resources"]
+  }
+]

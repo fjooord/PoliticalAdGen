@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Emma Johnson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Emma is a young woman living in Montana who works in retail. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection"],
+    "Pain points": ["Limited job opportunities", "Lack of affordable housing"]
+  },
+  {
+    "Name": "Emily Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Emily is a divorced mother of two who lives in Montana. She is concerned about the quality of education for her children and the future of the economy.",
+    "Top Priorities": ["Education", "Economic growth"],
+    "Pain points": ["Childcare expenses", "Job security"]
+  },
+  {
+    "Name": "Emilia Brown",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Graphic Designer",
+    "Description": "Emilia is a married woman living in Montana who works as a graphic designer. She is passionate about the arts and is an advocate for increased funding for arts programs.",
+    "Top Priorities": ["Arts funding", "Women's rights"],
+    "Pain points": ["Lack of cultural opportunities", "Gender pay gap"]
+  },
+  {
+    "Name": "Emmeline Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Receptionist",
+    "Description": "Emmeline is a widowed woman living in Montana who works part-time as a receptionist. She is concerned about her financial security and access to healthcare as she ages.",
+    "Top Priorities": ["Social Security", "Medicare"],
+    "Pain points": ["Financial insecurity", "Limited access to healthcare"]
+  },
+  {
+    "Name": "Ember Williams",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Ember is a young woman living in Montana who works as a waitress. She is concerned about the cost of higher education and the lack of affordable housing.",
+    "Top Priorities": ["Affordable education", "Housing"],
+    "Pain points": ["Student loan debt", "Low wages"]
+  }
+]

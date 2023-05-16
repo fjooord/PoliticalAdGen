@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Edgar Smith",
+    "Age": 27,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Construction worker",
+    "Description": "Edgar is a hardworking individual who enjoys outdoor activities and spending time with his friends.",
+    "Top Priorities": ["Job stability", "Affordable housing"],
+    "Pain points": ["Lack of job opportunities", "Rising cost of living"]
+  },
+  {
+    "Name": "Eddie Johnson",
+    "Age": 45,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Retail manager",
+    "Description": "Eddie is a family man who values work-life balance and is actively involved in his community.",
+    "Top Priorities": ["Education for his children", "Healthcare"],
+    "Pain points": ["Limited access to quality education", "High healthcare costs"]
+  },
+  {
+    "Name": "Edwin Davis",
+    "Age": 32,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate degree",
+    "Occupation": "Automotive technician",
+    "Description": "Edwin is passionate about cars and enjoys working on them in his free time.",
+    "Top Priorities": ["Job satisfaction", "Personal growth"],
+    "Pain points": ["Lack of career advancement opportunities", "Difficulty finding a work-life balance"]
+  },
+  {
+    "Name": "Edmund Williams",
+    "Age": 22,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Edmund is a creative individual who enjoys making art and exploring new places.",
+    "Top Priorities": ["Continuing education", "Financial stability"],
+    "Pain points": ["Student loan debt", "Low-paying job"]
+  },
+  {
+    "Name": "Edward Thompson",
+    "Age": 55,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 50000,
+    "Marital Status": "Widowed",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Accountant",
+    "Description": "Edward is a detail-oriented person who enjoys spending time with his grandchildren and volunteering at local events.",
+    "Top Priorities": ["Retirement planning", "Community involvement"],
+    "Pain points": ["Uncertainty about Social Security benefits", "Lack of local activities for seniors"]
+  }
+]

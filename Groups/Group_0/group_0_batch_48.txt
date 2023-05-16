@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Iris Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Iris is a hardworking retail sales associate who enjoys spending time outdoors and is passionate about environmental conservation.",
+    "Top Priorities": ["Affordable healthcare", "Environmental protection", "Job security"],
+    "Pain points": ["Limited access to affordable healthcare", "Concerns about job stability", "Lack of public transportation options"]
+  },
+  {
+    "Name": "Irene Baker",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Irene is a dedicated administrative assistant who values family time and is an active member of her local community.",
+    "Top Priorities": ["Education", "Community safety", "Economic growth"],
+    "Pain points": ["Concerns about the quality of local schools", "Rising crime rates", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Irma Wilson",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 22000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Irma is a friendly waitress who enjoys meeting new people and is passionate about animal welfare.",
+    "Top Priorities": ["Minimum wage increase", "Animal rights", "Affordable housing"],
+    "Pain points": ["Struggling to make ends meet", "Lack of affordable housing", "Concerns about animal welfare in her community"]
+  },
+  {
+    "Name": "Ira Hayes",
+    "Age": 52,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 41000,
+    "Marital Status": "Divorced",
+    "Education Level": "Associate's degree",
+    "Occupation": "Nurse",
+    "Description": "Ira is a compassionate nurse who values her independence and is an advocate for mental health awareness.",
+    "Top Priorities": ["Mental health support", "Healthcare reform", "Retirement security"],
+    "Pain points": ["Limited mental health resources in her community", "Concerns about the future of healthcare", "Worries about retirement savings"]
+  },
+  {
+    "Name": "Irving Smith",
+    "Age": 38,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Childcare Worker",
+    "Description": "Irving is a caring childcare worker who is dedicated to providing a nurturing environment for the children in her care.",
+    "Top Priorities": ["Childcare affordability", "Education", "Work-life balance"],
+    "Pain points": ["Struggling to afford quality childcare for her own children", "Concerns about the quality of local schools", "Difficulty balancing work and family life"]
+  }
+]

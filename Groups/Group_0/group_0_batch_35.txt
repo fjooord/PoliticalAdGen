@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Clara Johnson",
+    "Age": 28,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Clara is a young woman living in Montana who works in retail. She enjoys spending time outdoors and is passionate about environmental issues.",
+    "Top Priorities": ["Affordable housing", "Environmental protection", "Job security"],
+    "Pain points": ["Low wages", "Limited job opportunities", "Lack of affordable healthcare"]
+  },
+  {
+    "Name": "Claire Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Claire is a divorced mother of two living in Montana. She works as an administrative assistant and is concerned about the quality of education for her children.",
+    "Top Priorities": ["Education", "Healthcare", "Childcare support"],
+    "Pain points": ["Rising cost of living", "Limited access to quality education", "Lack of affordable childcare"]
+  },
+  {
+    "Name": "Clara Davis",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Clara is a married elementary school teacher living in Montana. She is passionate about her job and wants to see improvements in the education system.",
+    "Top Priorities": ["Education reform", "Teacher pay", "Community development"],
+    "Pain points": ["Low teacher salaries", "Lack of resources for schools", "Limited support for teachers"]
+  },
+  {
+    "Name": "Cleo Brown",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 23000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Cleo is a widowed woman living in Montana who works part-time as a cashier. She is concerned about her financial security and access to healthcare as she ages.",
+    "Top Priorities": ["Social Security", "Medicare", "Affordable housing"],
+    "Pain points": ["Limited income", "Rising healthcare costs", "Lack of affordable housing options"]
+  },
+  {
+    "Name": "Clarissa Miller",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 27000,
+    "Marital Status": "Single",
+    "Education Level": "Associate's degree",
+    "Occupation": "Customer Service Representative",
+    "Description": "Clarissa is a recent college graduate living in Montana who works as a customer service representative. She is interested in pursuing further education and career advancement.",
+    "Top Priorities": ["Higher education", "Job training programs", "Economic growth"],
+    "Pain points": ["Student loan debt", "Limited job opportunities", "Lack of affordable education options"]
+  }
+]

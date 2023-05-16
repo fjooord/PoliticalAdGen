@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Kara Thompson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Sales Associate",
+    "Description": "Kara is a friendly and outgoing retail sales associate who enjoys helping customers find the perfect items. She lives in a small apartment in Montana and spends her free time hiking and exploring the outdoors.",
+    "Top Priorities": {
+      "Affordable Healthcare": "Kara is concerned about the rising costs of healthcare and wants to see more affordable options for her and her family.",
+      "Environmental Protection": "As an outdoor enthusiast, Kara is passionate about protecting the environment and preserving the natural beauty of Montana."
+    },
+    "Pain Points": {
+      "Student Loan Debt": "Kara is still paying off her student loans from college and is struggling to make ends meet.",
+      "Job Security": "With the rise of online shopping, Kara is worried about the future of her job in retail."
+    }
+  },
+  {
+    "Name": "Katherine Adams",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Katherine is a dedicated elementary school teacher who has been teaching in Montana for over 20 years. She is married with two children and enjoys spending time with her family.",
+    "Top Priorities": {
+      "Education Funding": "Katherine wants to see increased funding for public schools to ensure that all children have access to a quality education.",
+      "Gun Control": "As a teacher, Katherine is concerned about school safety and supports stricter gun control measures."
+    },
+    "Pain Points": {
+      "Teacher Salaries": "Katherine feels that teachers are underpaid and undervalued, and she struggles to provide for her family on her current salary.",
+      "Classroom Resources": "Katherine is frustrated with the lack of resources available for her students and often has to purchase supplies out of her own pocket."
+    }
+  },
+  {
+    "Name": "Kathleen Miller",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Kathleen is a hardworking administrative assistant at a local business in Montana. She is recently divorced and enjoys spending her free time volunteering at a local animal shelter.",
+    "Top Priorities": {
+      "Affordable Housing": "Kathleen is looking for affordable housing options as she adjusts to life after her divorce.",
+      "Animal Welfare": "As an animal lover, Kathleen is passionate about improving animal welfare and supporting local shelters."
+    },
+    "Pain Points": {
+      "Financial Stability": "Kathleen is working to regain her financial stability after her divorce and is concerned about the rising cost of living.",
+      "Work-Life Balance": "Kathleen struggles to find a balance between her job and her personal life, often feeling overwhelmed and stressed."
+    }
+  },
+  {
+    "Name": "Kassandra Johnson",
+    "Age": 54,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Part-time Cashier",
+    "Description": "Kassandra is a part-time cashier at a grocery store in Montana. She is a widow and enjoys spending time with her grandchildren and gardening.",
+    "Top Priorities": {
+      "Social Security": "Kassandra is concerned about the future of Social Security and wants to ensure that it remains available for her and her family.",
+      "Healthcare for Seniors": "As she gets older, Kassandra is worried about the rising costs of healthcare and the availability of services for seniors."
+    },
+    "Pain Points": {
+      "Financial Security": "Kassandra struggles to make ends meet on her part-time income and is worried about her financial security as she approaches retirement.",
+      "Loneliness": "Kassandra often feels lonely and isolated since the passing of her husband and is looking for ways to stay connected with her community."
+    }
+  },
+  {
+    "Name": "Katarina Wilson",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 24000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Waitress",
+    "Description": "Katarina is a young waitress working at a local diner in Montana. She is saving up to attend college and dreams of becoming a nurse.",
+    "Top Priorities": {
+      "Affordable Education": "Katarina is focused on finding an affordable college education so she can pursue her dream of becoming a nurse.",
+      "Minimum Wage": "As a waitress, Katarina is concerned about the current minimum wage and hopes to see it increased to better support workers like her."
+    },
+    "Pain Points": {
+      "Student Loan Debt": "Katarina is worried about taking on student loan debt to attend college and is looking for alternative ways to fund her education.",
+      "Job Opportunities": "Katarina is concerned about the limited job opportunities in her small town and is considering relocating to a larger city after college."
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "Flora Johnson",
+    "Age": 32,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Retail Salesperson",
+    "Description": "Flora is a friendly and outgoing woman who enjoys her job at a local retail store. She is active in her community and participates in various social events.",
+    "Top Priorities": {
+      "Employment": "Stable job with opportunities for growth",
+      "Community": "Safe and supportive environment"
+    },
+    "Pain points": {
+      "Financial": "Limited income and difficulty saving for the future",
+      "Work-life balance": "Struggles to find time for personal interests and hobbies"
+    }
+  },
+  {
+    "Name": "Fleur Smith",
+    "Age": 45,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 42000,
+    "Marital Status": "Divorced",
+    "Education Level": "Some college",
+    "Occupation": "Administrative Assistant",
+    "Description": "Fleur is a hardworking and organized individual who takes pride in her work. She is a single mother raising two children and is involved in their school activities.",
+    "Top Priorities": {
+      "Family": "Providing a stable and nurturing environment for her children",
+      "Education": "Continuing education for personal and professional growth"
+    },
+    "Pain points": {
+      "Financial": "Managing expenses and saving for her children's education",
+      "Time management": "Balancing work, family, and personal responsibilities"
+    }
+  },
+  {
+    "Name": "Felicity Brown",
+    "Age": 27,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "Bachelor's degree",
+    "Occupation": "Elementary School Teacher",
+    "Description": "Felicity is a dedicated and compassionate teacher who enjoys working with children. She is married and enjoys spending time with her husband and their dog.",
+    "Top Priorities": {
+      "Career": "Making a positive impact on her students' lives",
+      "Relationship": "Maintaining a strong and loving marriage"
+    },
+    "Pain points": {
+      "Financial": "Student loan debt and saving for a home",
+      "Work stress": "Managing the demands of her job and maintaining a healthy work-life balance"
+    }
+  },
+  {
+    "Name": "Fiona Davis",
+    "Age": 55,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 48000,
+    "Marital Status": "Widowed",
+    "Education Level": "Associate degree",
+    "Occupation": "Registered Nurse",
+    "Description": "Fiona is a caring and experienced nurse who has worked in various healthcare settings. She is widowed and has two adult children who live out of state.",
+    "Top Priorities": {
+      "Health": "Maintaining her physical and mental well-being",
+      "Family": "Staying connected with her children and supporting them from afar"
+    },
+    "Pain points": {
+      "Financial": "Planning for retirement and managing healthcare costs",
+      "Loneliness": "Coping with the loss of her spouse and adjusting to life on her own"
+    }
+  },
+  {
+    "Name": "Flannery Wilson",
+    "Age": 22,
+    "Gender": "Female",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Single",
+    "Education Level": "High school graduate",
+    "Occupation": "Barista",
+    "Description": "Flannery is a creative and energetic young woman who enjoys working at a local coffee shop. She is passionate about art and hopes to pursue a career in the field.",
+    "Top Priorities": {
+      "Career": "Exploring opportunities in the arts and building a portfolio",
+      "Social life": "Making new friends and expanding her network"
+    },
+    "Pain points": {
+      "Financial": "Paying off credit card debt and saving for further education",
+      "Uncertainty": "Navigating the challenges of early adulthood and finding her path"
+    }
+  }
+]
