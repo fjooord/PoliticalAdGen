@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Ethan Johnson",
+        "Age": 72,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Ethan is a retired widower who has lived in Montana his entire life. He is a proud conservative and has always voted Republican. He is concerned about the direction of the country and wants to see a return to traditional values. He is particularly passionate about protecting the Second Amendment and ensuring that the government does not infringe on individual rights.",
+        "Top Priorities": "Ethan's top priorities are protecting the Second Amendment, reducing government spending, and ensuring that traditional values are upheld.",
+        "Pain Points": "Ethan is concerned about the direction of the country and feels that his voice is not being heard. He is frustrated with the political establishment and wants to see real change."
+    },
+    {
+        "Name": "Emily White",
+        "Age": 68,
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Homemaker",
+        "Description": "Emily is a homemaker who has lived in Montana for most of her life. She is a conservative and has always voted Republican. She is concerned about the direction of the country and wants to see a return to traditional values. She is particularly passionate about protecting the sanctity of life and ensuring that the government does not infringe on individual rights.",
+        "Top Priorities": "Emily's top priorities are protecting the sanctity of life, reducing government spending, and ensuring that traditional values are upheld.",
+        "Pain Points": "Emily is concerned about the erosion of traditional values and feels that her voice is not being heard. She is frustrated with the political establishment and wants to see real change."
+    },
+    {
+        "Name": "Evan Anderson",
+        "Age": 70,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 22000,
+        "Marital Status": "Divorced",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Evan is a retired veteran who has lived in Montana for most of his life. He is a conservative and has always voted Republican. He is concerned about the direction of the country and wants to see a return to traditional values. He is particularly passionate about supporting the military and ensuring that veterans receive the care they deserve.",
+        "Top Priorities": "Evan's top priorities are supporting the military, reducing government spending, and ensuring that traditional values are upheld.",
+        "Pain Points": "Evan is concerned about the treatment of veterans and feels that they are not receiving the care they deserve. He is frustrated with the political establishment and wants to see real change."
+    },
+    {
+        "Name": "Evelyn Lee",
+        "Age": 66,
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "Income": 40000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Evelyn is a retired widow who has lived in Montana for most of her life. She is a conservative and has always voted Republican. She is concerned about the direction of the country and wants to see a return to traditional values. She is particularly passionate about protecting the Second Amendment and ensuring that the government does not infringe on individual rights.",
+        "Top Priorities": "Evelyn's top priorities are protecting the Second Amendment, reducing government spending, and ensuring that traditional values are upheld.",
+        "Pain Points": "Evelyn is concerned about the erosion of traditional values and feels that her voice is not being heard. She is frustrated with the political establishment and wants to see real change."
+    },
+    {
+        "Name": "Ethan Davis",
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 30000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Ethan is a retired veteran who has lived in Montana for most of his life. He is a conservative and has always voted Republican. He is concerned about the direction of the country and wants to see a return to traditional values. He is particularly passionate about supporting the military and ensuring that veterans receive the care they deserve.",
+        "Top Priorities": "Ethan's top priorities are supporting the military, reducing government spending, and ensuring that traditional values are upheld.",
+        "Pain Points": "Ethan is concerned about the treatment of veterans and feels that they are not receiving the care they deserve. He is frustrated with the political establishment and wants to see real change."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Gary Johnson",
+        "Age": 73,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Gary is a retired veteran who has lived in Montana his entire life. He is a conservative who believes in small government and individual freedom. He is concerned about the rising national debt and the erosion of personal liberties. He is not a fan of either major political party and tends to vote for third-party candidates.",
+        "Top Priorities": "Gary's top priorities are reducing government spending and protecting individual rights.",
+        "Pain points": "Gary is frustrated with the lack of options in the political system and feels that his voice is not being heard."
+    },
+    {
+        "Name": "Gerald White",
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Gerald is a retired factory worker who has lived in Montana his entire life. He is a conservative who is concerned about the direction of the country. He is worried about the economy and the rising cost of healthcare. He is a strong supporter of the Second Amendment and believes in personal responsibility.",
+        "Top Priorities": "Gerald's top priorities are improving the economy and protecting the Second Amendment.",
+        "Pain points": "Gerald is worried about the rising cost of healthcare and feels that the government is not doing enough to address this issue."
+    },
+    {
+        "Name": "Gregory Taylor",
+        "Age": 72,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 22000,
+        "Marital Status": "Divorced",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Gregory is a retired truck driver who has lived in Montana his entire life. He is a conservative who is concerned about the direction of the country. He is worried about the rising cost of living and the lack of job opportunities. He is a strong supporter of the military and believes in a strong national defense.",
+        "Top Priorities": "Gregory's top priorities are improving the economy and supporting the military.",
+        "Pain points": "Gregory is worried about the rising cost of living and feels that he is not able to make ends meet on his fixed income."
+    },
+    {
+        "Name": "Glen Davis",
+        "Age": 75,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 40000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Glen is a retired rancher who has lived in Montana his entire life. He is a conservative who is concerned about the direction of the country. He is worried about the erosion of personal liberties and the rising national debt. He is a strong supporter of the Second Amendment and believes in personal responsibility.",
+        "Top Priorities": "Glen's top priorities are protecting individual rights and reducing government spending.",
+        "Pain points": "Glen is frustrated with the lack of options in the political system and feels that his voice is not being heard."
+    },
+    {
+        "Name": "George Thompson",
+        "Age": 67,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 30000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "George is a retired teacher who has lived in Montana his entire life. He is a conservative who is concerned about the direction of the country. He is worried about the rising cost of healthcare and the lack of job opportunities. He is a strong supporter of the military and believes in a strong national defense.",
+        "Top Priorities": "George's top priorities are improving healthcare and supporting the military.",
+        "Pain points": "George is worried about the rising cost of healthcare and feels that the government is not doing enough to address this issue."
+    }
+]

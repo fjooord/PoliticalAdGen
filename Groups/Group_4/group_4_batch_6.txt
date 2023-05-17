@@ -1,1 +1,0 @@
-GPT3 error: Rate limit reached for default-gpt-4 in organization org-PIkNRMGpkbHy2SYNys7DmNnu on tokens per min. Limit: 40000 / min. Please try again in 1ms. Contact us through our help center at help.openai.com if you continue to have issues.

@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "David Johnson",
+        "Age": 73,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "David is a retired veteran who served in the Vietnam War. He has lived in Montana for over 30 years and enjoys hunting and fishing. David is a conservative and believes in limited government and individual freedoms. He is concerned about the rising cost of healthcare and wants to see more support for veterans.",
+        "Top Priorities": "David's top priorities are healthcare and support for veterans. He is also concerned about government spending and taxes.",
+        "Pain points": "David is worried about the rising cost of healthcare and the lack of support for veterans. He is also frustrated with the government's spending habits and high taxes."
+    },
+    {
+        "Name": "Devin Martinez",
+        "Age": 66,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 22000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Devin is a retired factory worker who has lived in Montana his entire life. He is a moderate and believes in compromise and working together to solve problems. Devin is concerned about the environment and wants to see more action taken to protect it. He is also worried about the rising cost of healthcare and the lack of affordable housing.",
+        "Top Priorities": "Devin's top priorities are the environment, healthcare, and affordable housing.",
+        "Pain points": "Devin is frustrated with the lack of action on environmental issues and the rising cost of healthcare. He is also concerned about the lack of affordable housing in Montana."
+    },
+    {
+        "Name": "Derek Thompson",
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 45000,
+        "Marital Status": "Divorced",
+        "Education Level": "Some college",
+        "Occupation": "Small business owner",
+        "Description": "Derek is a small business owner who has lived in Montana for over 20 years. He is a conservative and believes in free market principles and limited government. Derek is concerned about the rising cost of healthcare and wants to see more competition in the healthcare industry. He is also worried about the national debt and government spending.",
+        "Top Priorities": "Derek's top priorities are healthcare and government spending. He is also concerned about the national debt and taxes.",
+        "Pain points": "Derek is frustrated with the rising cost of healthcare and the lack of competition in the industry. He is also concerned about the government's spending habits and high taxes."
+    },
+    {
+        "Name": "Dennis Lee",
+        "Age": 71,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Dennis is a retired farmer who has lived in Montana his entire life. He is a moderate and believes in compromise and working together to solve problems. Dennis is concerned about the rising cost of healthcare and wants to see more support for rural communities. He is also worried about the impact of climate change on agriculture.",
+        "Top Priorities": "Dennis's top priorities are healthcare, support for rural communities, and addressing climate change.",
+        "Pain points": "Dennis is frustrated with the rising cost of healthcare and the lack of support for rural communities. He is also concerned about the impact of climate change on agriculture."
+    },
+    {
+        "Name": "Dylan Kim",
+        "Age": 67,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 30000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Dylan is a retired teacher who has lived in Montana for over 40 years. He is a progressive and believes in social justice and equality. Dylan is concerned about the rising cost of healthcare and wants to see a universal healthcare system. He is also worried about the lack of affordable housing and the need for more support for education.",
+        "Top Priorities": "Dylan's top priorities are healthcare, affordable housing, and education.",
+        "Pain points": "Dylan is frustrated with the rising cost of healthcare and the lack of affordable housing. He is also concerned about the lack of support for education in Montana."
+    }
+]

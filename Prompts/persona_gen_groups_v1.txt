@@ -6,16 +6,16 @@ For each persona, please create and label:
     - Name (First and Last)
     - Age (Single Number)
     - Gender
-    - Ethnicity 
+    - Ethnicity (Ethnicity provided by user)
     - Income (Single Number)
     - Marital Status
     - Education Level
-    - Occupation
-    - Description
+    - Occupation 
+    - Description (A paragraph describing in depth who this persona is, including but not limited to their political beliefs, life history, reasons for wanting to vote or not to vote, etc.)
     - Top Priorities
-        - The priorities of this person relative to the user inputs
+        - A few sentences describing the priorities of this person relative to the user inputs
     - Pain points
-        - The pain points of this person relative to the user inputs
+        - A few sentences describing the pain points of this person relative to the user inputs
 
 Please output each persona in JSON format
 

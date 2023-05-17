@@ -2,12 +2,12 @@ Using <<NUM>> as a random seed for all generated values.
 
 Please create a list of <<BATCH>> different and unique personas for the following demographic group.
 
+It is very important that the generated personas are consistent with the demographic group inputs.
+
 All the names of the personas should begin with <<START>>.
+
+Remember for each persona is outputted in JSON format with double quotes enclosing values.
 
 Please only output the list. 
 
-demographic group = {
-
-<<GROUP>>
-
-}
+demographic group = <<GROUP>>

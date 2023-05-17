@@ -1,0 +1,67 @@
+[
+{
+    "Name": "Aaron Smith",
+    "Age": 72,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Aaron is a retired veteran who has lived in Montana his entire life. He is a conservative who values traditional family values and is against any form of government intervention. He is a strong supporter of the Second Amendment and believes in the right to bear arms. He is concerned about the rising crime rates in his community and wants to see more done to protect citizens.",
+    "Top Priorities": "Aaron's top priorities are protecting his community, preserving traditional values, and ensuring that his Second Amendment rights are not infringed upon.",
+    "Pain points": "Aaron is concerned about the rising crime rates in his community and is frustrated with what he sees as a lack of action from local and state officials."
+},
+{
+    "Name": "Abraham Johnson",
+    "Age": 68,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Abraham is a retired farmer who has lived in Montana his entire life. He is a conservative who values hard work and self-sufficiency. He is concerned about the direction of the country and believes that the government is too involved in people's lives. He is a strong supporter of President Trump and believes that he is doing a good job of putting America first.",
+    "Top Priorities": "Abraham's top priorities are protecting his community, preserving traditional values, and ensuring that the government does not interfere with people's lives.",
+    "Pain points": "Abraham is frustrated with what he sees as a lack of respect for hard work and self-sufficiency in the country, and is concerned about the direction the country is headed."
+},
+{
+    "Name": "Aidan Brown",
+    "Age": 66,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 22000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Unemployed",
+    "Description": "Aidan is a divorced father of two who has been struggling to find work in Montana. He is a conservative who believes in personal responsibility and self-sufficiency. He is concerned about the rising cost of healthcare and the lack of job opportunities in his community. He is a strong supporter of President Trump and believes that he is doing a good job of creating jobs and improving the economy.",
+    "Top Priorities": "Aidan's top priorities are finding a job, reducing the cost of healthcare, and improving the economy.",
+    "Pain points": "Aidan is frustrated with the lack of job opportunities in his community and is concerned about the rising cost of healthcare."
+},
+{
+    "Name": "Avery Davis",
+    "Age": 73,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Avery is a retired teacher who has lived in Montana his entire life. He is a conservative who values education and believes in personal responsibility. He is concerned about the rising cost of healthcare and the lack of job opportunities in his community. He is a strong supporter of President Trump and believes that he is doing a good job of improving the economy and creating jobs.",
+    "Top Priorities": "Avery's top priorities are reducing the cost of healthcare, improving education, and creating job opportunities.",
+    "Pain points": "Avery is frustrated with the rising cost of healthcare and is concerned about the lack of job opportunities in his community."
+},
+{
+    "Name": "Adam Wilson",
+    "Age": 67,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Adam is a retired construction worker who has lived in Montana his entire life. He is a conservative who values hard work and self-sufficiency. He is concerned about the rising cost of healthcare and the lack of job opportunities in his community. He is a strong supporter of President Trump and believes that he is doing a good job of improving the economy and creating jobs.",
+    "Top Priorities": "Adam's top priorities are reducing the cost of healthcare, creating job opportunities, and improving the economy.",
+    "Pain points": "Adam is frustrated with the rising cost of healthcare and is concerned about the lack of job opportunities in his community."
+}
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Carl Johnson",
+        "Age": 73,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Carl is a retired veteran who has lived in Montana his entire life. He is a conservative and believes in traditional family values. He is concerned about the direction the country is headed and wants to ensure that his grandchildren have a bright future.",
+        "Top Priorities": "Carl's top priorities are national security, protecting the Second Amendment, and ensuring that Social Security and Medicare are protected.",
+        "Pain Points": "Carl is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Caleb Martinez",
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Caleb is a retired rancher who has lived in Montana his entire life. He is a conservative and believes in limited government. He is concerned about the impact of government regulations on small businesses and wants to see more support for farmers and ranchers.",
+        "Top Priorities": "Caleb's top priorities are protecting the Second Amendment, supporting small businesses, and ensuring that Social Security and Medicare are protected.",
+        "Pain Points": "Caleb is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Cameron Lee",
+        "Age": 72,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 22000,
+        "Marital Status": "Divorced",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Cameron is a retired teacher who has lived in Montana his entire life. He is a liberal and believes in social justice. He is concerned about income inequality and wants to see more support for education and healthcare.",
+        "Top Priorities": "Cameron's top priorities are healthcare reform, protecting Social Security and Medicare, and supporting education.",
+        "Pain Points": "Cameron is concerned about the rising cost of prescription drugs and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Claire Davis",
+        "Age": 67,
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "Income": 40000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Claire is a retired nurse who has lived in Montana her entire life. She is a moderate and believes in compromise. She is concerned about the political polarization in the country and wants to see more cooperation between the parties.",
+        "Top Priorities": "Claire's top priorities are protecting Social Security and Medicare, supporting healthcare reform, and promoting bipartisanship.",
+        "Pain Points": "Claire is concerned about the rising cost of prescription drugs and the impact it will have on her retirement savings."
+    },
+    {
+        "Name": "Connor Brown",
+        "Age": 70,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 30000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Connor is a retired farmer who has lived in Montana his entire life. He is a conservative and believes in individual responsibility. He is concerned about the impact of government regulations on small businesses and wants to see more support for farmers and ranchers.",
+        "Top Priorities": "Connor's top priorities are protecting the Second Amendment, supporting small businesses, and ensuring that Social Security and Medicare are protected.",
+        "Pain Points": "Connor is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    }
+]

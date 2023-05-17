@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "Bob Smith",
+        "Age": 72,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 25000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Bob is a retired veteran who has lived in Montana his entire life. He is a proud conservative and is passionate about protecting the Second Amendment. He is concerned about the direction the country is headed and wants to ensure that his grandchildren have a bright future.",
+        "Top Priorities": "Bob's top priorities are protecting the Second Amendment, reducing government spending, and ensuring that Social Security and Medicare remain solvent.",
+        "Pain points": "Bob is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Bill Johnson",
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 35000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Bill is a retired rancher who has lived in Montana his entire life. He is a proud Republican and is passionate about protecting the environment. He is concerned about the impact of climate change on his ranch and wants to ensure that future generations can enjoy the same way of life that he has.",
+        "Top Priorities": "Bill's top priorities are protecting the environment, reducing government regulations on small businesses, and ensuring that Social Security and Medicare remain solvent.",
+        "Pain points": "Bill is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Beth Anderson",
+        "Age": 73,
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "Income": 22000,
+        "Marital Status": "Widowed",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Beth is a retired teacher who has lived in Montana her entire life. She is a proud Democrat and is passionate about education. She is concerned about the lack of funding for public schools and wants to ensure that every child has access to a quality education.",
+        "Top Priorities": "Beth's top priorities are increasing funding for public schools, protecting Social Security and Medicare, and ensuring that all Americans have access to affordable healthcare.",
+        "Pain points": "Beth is concerned about the rising cost of prescription drugs and the impact it will have on her retirement savings."
+    },
+    {
+        "Name": "Benjamin Lee",
+        "Age": 66,
+        "Gender": "Male",
+        "Ethnicity": "White",
+        "Income": 45000,
+        "Marital Status": "Married",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Benjamin is a retired business owner who has lived in Montana his entire life. He is a proud conservative and is passionate about reducing government regulations on small businesses. He is concerned about the impact of high taxes on small businesses and wants to ensure that they have the resources they need to thrive.",
+        "Top Priorities": "Benjamin's top priorities are reducing government regulations on small businesses, protecting the Second Amendment, and ensuring that Social Security and Medicare remain solvent.",
+        "Pain points": "Benjamin is concerned about the rising cost of healthcare and the impact it will have on his retirement savings."
+    },
+    {
+        "Name": "Brenda Davis",
+        "Age": 70,
+        "Gender": "Female",
+        "Ethnicity": "White",
+        "Income": 30000,
+        "Marital Status": "Divorced",
+        "Education Level": "High school graduate",
+        "Occupation": "Retired",
+        "Description": "Brenda is a retired nurse who has lived in Montana her entire life. She is a proud Democrat and is passionate about healthcare. She is concerned about the rising cost of prescription drugs and wants to ensure that all Americans have access to affordable healthcare.",
+        "Top Priorities": "Brenda's top priorities are protecting Social Security and Medicare, increasing funding for public schools, and ensuring that all Americans have access to affordable healthcare.",
+        "Pain points": "Brenda is concerned about the impact of climate change on her grandchildren's future." 
+    }
+]

@@ -1,0 +1,67 @@
+[
+{
+    "Name": "Henry Johnson",
+    "Age": 72,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 35000,
+    "Marital Status": "Widowed",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Henry is a retired veteran who served in the Vietnam War. He lives in a small town in Montana and spends his days volunteering at the local VFW and spending time with his grandchildren. He is a proud conservative and believes in traditional values and limited government. He is concerned about the direction of the country and wants to see politicians who will prioritize the needs of veterans and seniors.",
+    "Top Priorities": "Henry's top priorities are protecting the rights of veterans and seniors, reducing government spending, and promoting traditional values.",
+    "Pain Points": "Henry is concerned about the rising cost of healthcare and the impact it will have on seniors like himself. He is also worried about the national debt and the long-term economic stability of the country."
+},
+{
+    "Name": "Hank Williams",
+    "Age": 68,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 25000,
+    "Marital Status": "Divorced",
+    "Education Level": "High school graduate",
+    "Occupation": "Unemployed",
+    "Description": "Hank is a lifelong resident of Montana who has fallen on hard times. He lost his job at the local factory and has been struggling to make ends meet. He is frustrated with the political system and feels like politicians don't care about people like him. He is open to new ideas and wants to see politicians who will fight for working-class Americans.",
+    "Top Priorities": "Hank's top priorities are creating jobs, improving access to healthcare, and reducing the influence of big money in politics.",
+    "Pain Points": "Hank is struggling to pay his bills and is worried about losing his home. He is also concerned about the rising cost of healthcare and the impact it will have on his ability to get the care he needs."
+},
+{
+    "Name": "Harold Thompson",
+    "Age": 75,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 30000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Harold is a retired farmer who has lived in Montana his entire life. He is a proud conservative and believes in the importance of hard work and self-reliance. He is concerned about the direction of the country and wants to see politicians who will prioritize the needs of rural Americans. He is also a strong supporter of the Second Amendment and believes in the right to bear arms.",
+    "Top Priorities": "Harold's top priorities are protecting the rights of rural Americans, reducing government spending, and promoting traditional values.",
+    "Pain Points": "Harold is concerned about the rising cost of healthcare and the impact it will have on seniors like himself. He is also worried about the impact of government regulations on small businesses and farmers."
+},
+{
+    "Name": "Heath Martin",
+    "Age": 66,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 40000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Heath is a retired teacher who spent his career working in rural Montana schools. He is a moderate who believes in the importance of compromise and working together to solve problems. He is concerned about the political polarization in the country and wants to see politicians who will put the needs of the country ahead of their own interests. He is also a strong supporter of public education and believes in the importance of investing in our children's future.",
+    "Top Priorities": "Heath's top priorities are promoting bipartisanship, investing in education, and protecting the environment.",
+    "Pain Points": "Heath is concerned about the impact of climate change on Montana's natural resources and the need to find sustainable solutions. He is also worried about the rising cost of healthcare and the impact it will have on seniors like himself."
+},
+{
+    "Name": "Hunter Lee",
+    "Age": 70,
+    "Gender": "Male",
+    "Ethnicity": "White",
+    "Income": 45000,
+    "Marital Status": "Married",
+    "Education Level": "High school graduate",
+    "Occupation": "Retired",
+    "Description": "Hunter is a retired businessman who spent his career running a small manufacturing company in Montana. He is a conservative who believes in the importance of free markets and individual liberty. He is concerned about the impact of government regulations on small businesses and wants to see politicians who will reduce the burden of government on entrepreneurs. He is also a strong supporter of the Second Amendment and believes in the right to bear arms.",
+    "Top Priorities": "Hunter's top priorities are reducing government regulations, promoting economic growth, and protecting individual liberties.",
+    "Pain Points": "Hunter is concerned about the rising cost of healthcare and the impact it will have on seniors like himself. He is also worried about the impact of government regulations on small businesses and the need to create a more business-friendly environment in Montana."
+}
+]
