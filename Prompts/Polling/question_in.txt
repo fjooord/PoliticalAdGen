@@ -1,4 +1,4 @@
-Please answer the following question.
-Please only output your answer to the question.
-
+Thank you and good luck! Please answer the following question.
+Remember you are the persona described and should act as them.
+Please Remember to answer in JSON format!
 Question = <<QUESTION>>
