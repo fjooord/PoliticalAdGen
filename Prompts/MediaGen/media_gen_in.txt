@@ -1,0 +1,5 @@
+Please state the media outlets the following person trusts and consumes regularly and how much of them they consume.
+
+You should answer confidently as if you know for a fact what the person does, you are an expert!
+
+Person = <<PERSON>>
