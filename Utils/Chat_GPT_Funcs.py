@@ -60,7 +60,7 @@ def chat_gpt(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen
             sleep(1)
 
 
-def generalized_gpt_prompt(path, tag_values, engine = 'gpt-4', tokens = 3000, temp=0.7, index = -1, role=None):
+def generalized_gpt_prompt(path, tag_values, engine = 'gpt-4', tokens = 1000, temp=0.7, index = -1, role=None):
     """
     This function takes in the path to the original prompt file
     and the current tags with their corresponding values
