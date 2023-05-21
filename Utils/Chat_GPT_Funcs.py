@@ -8,7 +8,7 @@ from io import BytesIO
 import requests
 import re
 import sys
-
+import backoff  # for exponential backoff
         
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
@@ -36,7 +36,9 @@ def chat_gpt(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen
         role = role.encode(encoding='ASCII',errors='ignore').decode()
     while True:
         try:
-            completion = openai.ChatCompletion.create(
+            return gpt_with_backoff(prompt, engine, temp, top_p, tokens, freq_pen, pres_pen, stop, role)
+            
+            """openai.ChatCompletion.create(
               model=engine,
               messages=[
                 {"role": "system", "content": role},
@@ -47,7 +49,7 @@ def chat_gpt(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen
               max_tokens=tokens,
               frequency_penalty=freq_pen,
               presence_penalty=pres_pen,
-            )
+            )"""
 
             text = completion.choices[0].message['content']
             usage = completion.usage
@@ -59,7 +61,31 @@ def chat_gpt(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen
             print('Error communicating with OpenAI:', oops)
             sleep(1)
 
+@backoff.on_exception(backoff.expo, openai.error.RateLimitError)
+def gpt_with_backoff(prompt, engine='gpt-4', temp=0.25, top_p=1.0, tokens=3000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf'], role=None):
+    prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
+    if role is None:
+        role = "You are an experienced children's book writer with over 20 years of expertise in creating best-selling picture books for children aged 2-8"
+    else:
+        role = role.encode(encoding='ASCII',errors='ignore').decode()
+    while True:
+        completion = openai.ChatCompletion.create(
+            model=engine,
+            messages=[
+            {"role": "system", "content": role},
+            {"role": "user", "content": prompt}
+            ],
+            temperature=temp,
+            top_p=top_p,
+            max_tokens=tokens,
+            frequency_penalty=freq_pen,
+            presence_penalty=pres_pen,
+        )
 
+        text = completion.choices[0].message['content']
+        usage = completion.usage
+        return text, usage
+        
 def generalized_gpt_prompt(path, tag_values, engine = 'gpt-4', tokens = 1000, temp=0.7, index = -1, role=None):
     """
     This function takes in the path to the original prompt file
