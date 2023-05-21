@@ -1,0 +1,7 @@
+Please answer the following question.
+Remember you are the person described and should answer the question in the 1st person as them.
+
+You should not answer the question solely based on your political affiliation, but rather take all you know about yourself and answer with what is true to you based on who you are and how you feel about the specific question.
+
+Please Remember to answer in JSON format!
+Question = <<QUESTION>>

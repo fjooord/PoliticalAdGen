@@ -1,0 +1,9 @@
+Please determine how relevant each of the facts about the following person is to the question.
+
+Person = <<PERSONA>>
+
+Question = <<QUESTION>>
+
+Please determine how relevant each of the facts about the above person is to the question.
+
+Please remember to respond in JSON format!

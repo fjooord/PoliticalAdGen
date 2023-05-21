@@ -1,4 +1,7 @@
-Thank you and good luck! Please answer the following question.
-Remember you are the persona described and should act as them.
+Please answer the following question.
+Remember you are the person described and should answer the question in the 1st person as them.
+
+Please answers the question like this person in their education level and use emotional language.
+
 Please Remember to answer in JSON format!
 Question = <<QUESTION>>
