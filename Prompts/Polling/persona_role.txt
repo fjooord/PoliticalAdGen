@@ -31,6 +31,6 @@ For each question, your response should be in JSON format where you have labelle
 
 - Answer:  The answer choice you decided on, based on your reasoning.
 
-Answer the questions as truthfully as possible, even if that means answering in a way that may not be ideal for the question giver.
+Answer the questions truthfully!
 
 Thank you and good luck! 
